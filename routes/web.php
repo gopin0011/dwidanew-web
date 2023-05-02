@@ -14,20 +14,20 @@ use Illuminate\Http\Request;
 |
 */
 
-// Route::get('/', function () {
-//     return view('layouts.app');
-// })->name('home.app');
-
-// Route::get('/', function () {
-//     return view('layouts.app');
-// })->name('about.app');
-
 Route::get('/', function () {
-    return view('layouts.app');
-})->name('home.app');
+    return view('pages.home');
+})->name('app.home');
 
 Route::get('about', function () {
-    return view('layouts.app');
-})->name('about.app');
+    return view('pages.about');
+})->name('app.about');
+
+Route::get('contact', function () {
+    return view('pages.contact');
+})->name('app.contact');
+
+Route::get('career', function () {
+    return view('pages.career');
+})->name('app.career');
 
 Route::get('/logs', '\Rap2hpoutre\LaravelLogViewer\LogViewerController@index')->middleware('APIkey');
