@@ -1196,9 +1196,9 @@
                                                                      </div>
                                                                   </div>
                                                                   <div class="uabb-info-list-content uabb-info-list-left info-list-content-dynamic0">
-                                                                     <h5 class="uabb-info-list-title">BlueBotics SA</h5 >
+                                                                     <h5 class="uabb-info-list-title">PT Dwida Jaya Tama</h5 >
                                                                      <div class="uabb-info-list-description uabb-text-editor info-list-description-dynamic0">
-                                                                        <p>Jordils 41B, CH-1025<br />St-Sulpice, Switzerland</p>
+                                                                        <p>Jl. Raya Pemuda No.4 <br>Kel. Padurenan Kec. Gn. Sindur <br>Kab. Bogor 16340 Indonesia</p>
                                                                      </div>
                                                                   </div>
                                                                </div>
@@ -1221,7 +1221,7 @@
                                                                   <div class="uabb-info-list-content uabb-info-list-left info-list-content-dynamic1">
                                                                      <h5 class="uabb-info-list-title"></h5 >
                                                                      <div class="uabb-info-list-description uabb-text-editor info-list-description-dynamic1">
-                                                                        <p><a href="tel:+41216940290">+41 21 694 02 90</a></p>
+                                                                        <p><a href="#">(0251) 861 8889</a></p>
                                                                      </div>
                                                                   </div>
                                                                </div>
@@ -1256,7 +1256,7 @@
                                                                   <div class="uabb-info-list-content uabb-info-list-left info-list-content-dynamic0">
                                                                      <h5 class="uabb-info-list-title">Opening hours</h5 >
                                                                      <div class="uabb-info-list-description uabb-text-editor info-list-description-dynamic0">
-                                                                        <p>Monday - Friday<br />08:30 - 17:30</p>
+                                                                        <p>Monday - Friday<br />08:00 - 17:00</p>
                                                                      </div>
                                                                   </div>
                                                                </div>
@@ -1439,8 +1439,8 @@
                                        <div class="fl-module fl-module-html fl-node-5f9199b7b336d" data-node="5f9199b7b336d">
                                           <div class="fl-module-content fl-node-content">
                                              <div class="fl-html">
-                                                <iframe loading="lazy" src="about:blank" width="1300" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2745.7262176969766!2d6.549214251325453!3d46.51352957073053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c30fc930ab725%3A0xcd9e7d10e7f6d1de!2sBlueBotics%20SA!5e0!3m2!1sen!2sus!4v1603377573624!5m2!1sen!2sus"></iframe>
-                                                <noscript><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2745.7262176969766!2d6.549214251325453!3d46.51352957073053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c30fc930ab725%3A0xcd9e7d10e7f6d1de!2sBlueBotics%20SA!5e0!3m2!1sen!2sus!4v1603377573624!5m2!1sen!2sus" width="1300" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></noscript>
+                                                <iframe loading="lazy" src="about:blank" width="1300" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15860.032635901109!2d106.711999!3d-6.392948!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69e60a55555555%3A0x22428ae9359ba897!2sPT.%20Dwida%20Jaya%20Tama!5e0!3m2!1sen!2sus!4v1683260378751!5m2!1sen!2sus"></iframe>
+                                                <noscript><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15860.032635901109!2d106.711999!3d-6.392948!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69e60a55555555%3A0x22428ae9359ba897!2sPT.%20Dwida%20Jaya%20Tama!5e0!3m2!1sen!2sus!4v1683260378751!5m2!1sen!2sus" width="1300" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></noscript>
                                              </div>
                                           </div>
                                        </div>

@@ -22,7 +22,7 @@
                         </div>
                         <div class="fl-col fl-node-616d8bfa30080 fl-col-small" data-node="616d8bfa30080">
                            <div class="fl-col-content fl-node-content">
-                              <div class="fl-module fl-module-icon-group fl-node-616d8bfa30081" data-node="616d8bfa30081">
+                              <div class="fl-module fl-module-icon-group fl-node-616d8bfa30081" data-node="616d8bfa30081" style="display:none;">
                                  <div class="fl-module-content fl-node-content">
                                     <div class="fl-icon-group">
                                        <span class="fl-icon">
@@ -100,7 +100,7 @@
                                        <div class="fl-module fl-module-rich-text fl-node-616d8bfa3008b" data-node="616d8bfa3008b">
                                           <div class="fl-module-content fl-node-content">
                                              <div class="fl-rich-text">
-                                                <p><a href="tel:+41 21 694 02 90">+41 21 694 02 90</a></p>
+                                                <p><a href="#">(0251) 861 8889</a></p>
                                              </div>
                                           </div>
                                        </div>
@@ -124,21 +124,21 @@
                                        <div class="fl-module fl-module-rich-text fl-node-616d8bfa30090" data-node="616d8bfa30090">
                                           <div class="fl-module-content fl-node-content">
                                              <div class="fl-rich-text">
-                                                <p>Jordils 41B,<br />
-                                                   CH-1025 St-Sulpice,<br />
-                                                   Switzerland (<a href="https://www.google.com/maps/place/BlueBotics+SA/@46.5135259,6.5514083,15z/data=!4m5!3m4!1s0x0:0xcd9e7d10e7f6d1de!8m2!3d46.5135259!4d6.5514083" target="_blank" rel="noopener"><span style="text-decoration: underline;">map</span></a>)
+                                                <p>Jl. Raya Pemuda No.4<br>
+                                                   Kel. Padurenan Kec. Gn. Sindur <br>
+                                                   Kab. Bogor 16340 Indonesia (<a href="https://maps.google.com/maps?ll=-6.392948,106.711999&z=15&t=m&hl=en-US&gl=US&mapclient=embed&cid=2468688279983859863" target="_blank" rel="noopener"><span style="text-decoration: underline;">map</span></a>)
                                                 </p>
-                                                <p><em>Regional offices</em><strong><br />
+                                                <!-- <p><em>Regional offices</em><strong><br />
                                                    </strong>Garner, NC, USA (<span style="text-decoration: underline;"><a href="https://goo.gl/maps/yqVpdfnKvcnsQCYw9" target="_blank" rel="noopener">map</a></span>)<br />
                                                    Shanghai, CN (<span style="text-decoration: underline;"><a href="https://goo.gl/maps/xw3RVb9Mmsaoozxy7" target="_blank" rel="noopener">map</a></span>)
-                                                </p>
+                                                </p> -->
                                              </div>
                                           </div>
                                        </div>
                                     </div>
                                  </div>
                               </div>
-                              <div class="fl-col-group fl-node-616d8cf10746e fl-col-group-nested" data-node="616d8cf10746e">
+                              <div class="fl-col-group fl-node-616d8cf10746e fl-col-group-nested" data-node="616d8cf10746e" style="display:none;">
                                  <div class="fl-col fl-node-616d8cf10759f fl-col-small" data-node="616d8cf10759f">
                                     <div class="fl-col-content fl-node-content">
                                        <div class="fl-module fl-module-heading fl-node-616d8bfa30093" data-node="616d8bfa30093">
@@ -201,7 +201,7 @@
                               </div>
                            </div>
                         </div>
-                        <div class="fl-col fl-node-616d8bfa30098 fl-col-small fl-col-has-cols" data-node="616d8bfa30098">
+                        <div class="fl-col fl-node-616d8bfa30098 fl-col-small fl-col-has-cols" data-node="616d8bfa30098" style="display:none;">
                            <div class="fl-col-content fl-node-content">
                               <div class="fl-module fl-module-advanced-separator fl-node-616d8bfa30099" data-node="616d8bfa30099">
                                  <div class="fl-module-content fl-node-content">
@@ -273,7 +273,7 @@
                      <div class="fl-col-group fl-node-5cc76a0630c87 fl-col-group-equal-height fl-col-group-align-center" data-node="5cc76a0630c87">
                         <div class="fl-col fl-node-5f3df7a0c2a0e fl-col-small" data-node="5f3df7a0c2a0e">
                            <div class="fl-col-content fl-node-content">
-                              <div class="fl-module fl-module-photo fl-node-5f7f747a67a9b" data-node="5f7f747a67a9b">
+                              <div class="fl-module fl-module-photo fl-node-5f7f747a67a9b" data-node="5f7f747a67a9b" style="display:none;">
                                  <div class="fl-module-content fl-node-content">
                                     <div class="fl-photo fl-photo-align-left" itemscope itemtype="https://schema.org/ImageObject">
                                        <div class="fl-photo-content fl-photo-img-png">

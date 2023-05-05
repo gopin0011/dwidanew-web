@@ -556,7 +556,7 @@
                                                                /></noscript>
                                                             <span class="wpml-ls-native">EN</span>
                                                          </a>
-                                                         <ul class="wpml-ls-sub-menu">
+                                                         <!-- <ul class="wpml-ls-sub-menu">
                                                             <li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-de">
                                                                <a href="https://bluebotics.com/de/" class="wpml-ls-link">
                                                                   <img width="18" height="12"
@@ -633,7 +633,7 @@
                                                                   <span class="wpml-ls-native" lang="zh-hans">CN</span>
                                                                </a>
                                                             </li>
-                                                         </ul>
+                                                         </ul> -->
                                                       </li>
                                                    </ul>
                                                 </div>
