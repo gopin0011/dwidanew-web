@@ -10,9 +10,9 @@
                                  <div class="fl-module-content fl-node-content">
                                     <div class="fl-photo fl-photo-align-left" itemscope itemtype="https://schema.org/ImageObject">
                                        <div class="fl-photo-content fl-photo-img-svg">
-                                          <a href="https://bluebotics.com/" target="_self" itemprop="url">
-                                             <img decoding="async" class="fl-photo-img wp-image-2785 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="BlueBotics logo white" itemprop="image" height="0" width="0"  data-lazy-src="https://bluebotics.com/wp-content/uploads/2021/01/BlueBotics-Logo-Web-White_BlueBotics-Logo-White-Vecto.svg" />
-                                             <noscript><img decoding="async" class="fl-photo-img wp-image-2785 size-full" src="https://bluebotics.com/wp-content/uploads/2021/01/BlueBotics-Logo-Web-White_BlueBotics-Logo-White-Vecto.svg" alt="BlueBotics logo white" itemprop="image" height="0" width="0"  /></noscript>
+                                          <a href="{{route('app.home')}}" target="_self" itemprop="url">
+                                             <img decoding="async" class="fl-photo-img wp-image-2785 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="BlueBotics logo white" itemprop="image" height="0" width="0"  data-lazy-src="{{asset('images/djt_.png')}}" />
+                                             <noscript><img decoding="async" class="fl-photo-img wp-image-2785 size-full" src="{{asset('images/djt_.png')}}" alt="BlueBotics logo white" itemprop="image" height="0" width="0"  /></noscript>
                                           </a>
                                        </div>
                                     </div>
@@ -74,8 +74,8 @@
                               <div class="fl-module fl-module-rich-text fl-node-616d8bfa30085" data-node="616d8bfa30085">
                                  <div class="fl-module-content fl-node-content">
                                     <div class="fl-rich-text">
-                                       <p>At BlueBotics we help companies meet the challenge of vehicle automation. We provide the navigation technology and expert support they need to bring their AGV, automated forklift or mobile robot successfully to market.</p>
-                                       <p>A ZAPI GROUP COMPANY</p>
+                                       <p>In 2007, PT. DWIDA JAYA TAMA coming as a company specialized in manufacturing education equipment. It started from education equipment for elementary to junior high school. Since then, we are also thriving to the higher level, for senior high school to the university. Starting as an education equipment provider for majors such as math and science also for software which becoming a trend nowadays.</p>
+                                       <!-- <p>A ZAPI GROUP COMPANY</p> -->
                                     </div>
                                  </div>
                               </div>
@@ -298,7 +298,7 @@
                               <div class="fl-module fl-module-rich-text fl-node-5cc76a0630cfe" data-node="5cc76a0630cfe">
                                  <div class="fl-module-content fl-node-content">
                                     <div class="fl-rich-text">
-                                       <p style="text-align: center;">© 2023 BlueBotics. <a href="https://bluebotics.com/privacy-policy/">Privacy Policy</a>. All Rights Reserved.</p>
+                                       <p style="text-align: center;">© 2023 Dwida Jaya Tama. <a href="https://bluebotics.com/privacy-policy/">Privacy Policy</a>. All Rights Reserved.</p>
                                     </div>
                                  </div>
                               </div>

@@ -1131,7 +1131,7 @@
                                         <div class="fl-module fl-module-heading fl-node-5d5ac73f2b13b" data-node="5d5ac73f2b13b">
                                             <div class="fl-module-content fl-node-content">
                                                 <h1 class="fl-heading">
-                                                    <span class="fl-heading-text">Your vehicle navigation partner</span>
+                                                    <span class="fl-heading-text">One Stop Education Solution</span>
                                                 </h1>
                                             </div>
                                         </div>
@@ -1143,7 +1143,7 @@
                                         <div class="fl-module fl-module-heading fl-node-5daf2d4c1bcdd" data-node="5daf2d4c1bcdd">
                                             <div class="fl-module-content fl-node-content">
                                                 <h4 class="fl-heading">
-                                                    <span class="fl-heading-text"><strong>AUTONOMOUS NAVIGATION</strong> FOR AGVs, FORKLIFTS & MOBILE ROBOTS</span>
+                                                    <span class="fl-heading-text"><strong>SPECIALIZING IN</strong><br>LAB & EDDUCATIONAL SUPPLIES</span>
                                                 </h4>
                                             </div>
                                         </div>
@@ -1167,7 +1167,7 @@
                                                     <div class="fl-module-content fl-node-content">
                                                         <div class="fl-button-wrap fl-button-width-full fl-button-center">
                                                             <a href="https://bluebotics.com/ebook/" target="_self" class="fl-button" role="button">
-                                                            <span class="fl-button-text">FREE AUTOMATION GUIDE</span>
+                                                            <span class="fl-button-text">GUIDE NOW</span>
                                                             </a>
                                                         </div>
                                                     </div>
@@ -1299,7 +1299,7 @@
                                         <div class="fl-module fl-module-heading fl-node-5e1e2df5c9342" data-node="5e1e2df5c9342">
                                             <div class="fl-module-content fl-node-content">
                                                 <h3 class="fl-heading">
-                                                    <span class="fl-heading-text">Automating a vehicle is complicated</span>
+                                                    <span class="fl-heading-text">CREATING & MAKING<br>EDUCATION EQUIPMENT</span>
                                                 </h3>
                                             </div>
                                         </div>
@@ -1311,7 +1311,8 @@
                                         <div class="fl-module fl-module-rich-text fl-node-5e1e2ed4ca37d" data-node="5e1e2ed4ca37d">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="fl-rich-text">
-                                                    <p>Developing and deploying automated vehicles is a complex task. But choose the wrong navigation technology and things can become even more challenging.</p>
+                                                    <p>Easy to use and simple to be conducted during learning process
+</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -1334,55 +1335,20 @@
                                                     <div class="fl-module fl-module-heading fl-node-5f3d882ec83cc" data-node="5f3d882ec83cc">
                                                     <div class="fl-module-content fl-node-content">
                                                         <h5 class="fl-heading">
-                                                            <span class="fl-heading-text">Challenging</span>
+                                                            <span class="fl-heading-text">VISION</span>
                                                         </h5>
                                                     </div>
                                                     </div>
                                                     <div class="fl-module fl-module-rich-text fl-node-5f3d8814e0bff" data-node="5f3d8814e0bff">
                                                     <div class="fl-module-content fl-node-content">
                                                         <div class="fl-rich-text">
-                                                            <p>Vehicle installations can be very time consuming and expensive.</p>
+                                                            <p>Become the best Education Equipment Producer in order to help government educating the nation</p>
                                                         </div>
                                                     </div>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="fl-col fl-node-5f89c12c6b542 fl-col-small" data-node="5f89c12c6b542">
-                                                <div class="fl-col-content fl-node-content">
-                                                    <div class="fl-module fl-module-heading fl-node-5f3d8834dfe63" data-node="5f3d8834dfe63">
-                                                    <div class="fl-module-content fl-node-content">
-                                                        <h5 class="fl-heading">
-                                                            <span class="fl-heading-text">Complex</span>
-                                                        </h5>
-                                                    </div>
-                                                    </div>
-                                                    <div class="fl-module fl-module-rich-text fl-node-5f3d881ecbd01" data-node="5f3d881ecbd01">
-                                                    <div class="fl-module-content fl-node-content">
-                                                        <div class="fl-rich-text">
-                                                            <p>The process of integrating autonomous navigation into your vehicle can be a real struggle.</p>
-                                                        </div>
-                                                    </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="fl-col fl-node-5f89c132b14af fl-col-small" data-node="5f89c132b14af">
-                                                <div class="fl-col-content fl-node-content">
-                                                    <div class="fl-module fl-module-heading fl-node-5f3d878160488" data-node="5f3d878160488">
-                                                    <div class="fl-module-content fl-node-content">
-                                                        <h5 class="fl-heading">
-                                                            <span class="fl-heading-text">Time Consuming</span>
-                                                        </h5>
-                                                    </div>
-                                                    </div>
-                                                    <div class="fl-module fl-module-rich-text fl-node-5f3d882dc9800" data-node="5f3d882dc9800">
-                                                    <div class="fl-module-content fl-node-content">
-                                                        <div class="fl-rich-text">
-                                                            <p>You risk wasting many months trying to get your vehicle operational. Plus, if vehicles don’t run reliably, operating costs will increase.</p>
-                                                        </div>
-                                                    </div>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                            
                                         </div>
                                         </div>
                                     </div>
@@ -1400,7 +1366,7 @@
                                         <div class="fl-module fl-module-heading fl-node-5f3d8be4c1cd7 fl-animation fl-fade-up" data-node="5f3d8be4c1cd7" data-animation-delay="0" data-animation-duration="2">
                                             <div class="fl-module-content fl-node-content">
                                                 <h3 class="fl-heading">
-                                                    <span class="fl-heading-text">Meet your autonomous navigation partner</span>
+                                                    <span class="fl-heading-text">MISSION</span>
                                                 </h3>
                                             </div>
                                         </div>
@@ -1412,7 +1378,8 @@
                                         <div class="fl-module fl-module-rich-text fl-node-5f3d8c6b23a7c" data-node="5f3d8c6b23a7c">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="fl-rich-text">
-                                                    <p>With more than two decades of natural feature navigation experience, vehicle automation is a challenge we understand deeply.</p>
+                                                    <p><b>“Give the best services”</b><br>
+                                                    by giving guarantee that the customer will receive our maximum service, for instance in quality product, easiness, along with competitive expense</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -1455,7 +1422,7 @@
                                                             <div class="fl-slide-content-wrap">
                                                                 <div class="fl-slide-content">
                                                                 <div class="fl-slide-text">
-                                                                    <p>Our expert team has helped companies around the world to create automated vehicles.</p>
+                                                                    <p>Focus on education requirement that always developing time by time</p>
                                                                 </div>
                                                                 </div>
                                                             </div>
@@ -1492,7 +1459,8 @@
                                                             <div class="fl-slide-content-wrap">
                                                                 <div class="fl-slide-content">
                                                                 <div class="fl-slide-text">
-                                                                    <p>We helped Esatroll develop several types of AGV, including the fleet shown here at Duka's shower production plant in Italy.</p>
+                                                                    <p>Good quality and reasonable expanse to fulfill its consumer’s satisfaction
+</p>
                                                                 </div>
                                                                 </div>
                                                             </div>
@@ -1529,7 +1497,8 @@
                                                             <div class="fl-slide-content-wrap">
                                                                 <div class="fl-slide-content">
                                                                 <div class="fl-slide-text">
-                                                                    <p>We helped F3-Design's team develop its Nipper pallet truck.</p>
+                                                                    <p>Supported with high quality technologies hoped to be able to complete in all education aspects
+</p>
                                                                 </div>
                                                                 </div>
                                                             </div>
@@ -1549,7 +1518,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="fl-slide fl-slide-3 fl-slide-text-right">
+                                                    <!-- <div class="fl-slide fl-slide-3 fl-slide-text-right">
                                                         <div class="fl-slide-mobile-photo">
                                                             <picture decoding="async" loading="false" class="fl-slide-mobile-photo-img wp-image-2265">
                                                                 <source type="image/webp" data-lazy-srcset="{{asset('images/05_.jpg')}} 1024w, {{asset('images/05_.jpg')}} 300w, {{asset('images/05_.jpg')}} 768w, {{asset('images/05_.jpg')}} 1536w, {{asset('images/05_.jpg')}} 50w, {{asset('images/05_.jpg')}} 100w, {{asset('images/05_.jpg')}} 150w, {{asset('images/05_.jpg')}} 1920w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20682&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
@@ -1585,8 +1554,8 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                    </div>
-                                                    <div class="fl-slide fl-slide-4 fl-slide-text-right">
+                                                    </div> -->
+                                                    <!-- <div class="fl-slide fl-slide-4 fl-slide-text-right">
                                                         <div class="fl-slide-mobile-photo">
                                                             <picture decoding="async" loading="false" class="fl-slide-mobile-photo-img wp-image-2266">
                                                                 <source type="image/webp" data-lazy-srcset="{{asset('images/06_.jpg')}} 1024w, https://bluebotics.com/wp-content/uploads/2020/12/5-BlueBotics_autonomous_navigation_ASTI-Tribot-Schlepper-FTS_02-300x169.jpg.webp 300w, https://bluebotics.com/wp-content/uploads/2020/12/5-BlueBotics_autonomous_navigation_ASTI-Tribot-Schlepper-FTS_02-768x432.jpg.webp 768w, https://bluebotics.com/wp-content/uploads/2020/12/5-BlueBotics_autonomous_navigation_ASTI-Tribot-Schlepper-FTS_02-1536x864.jpg.webp 1536w, https://bluebotics.com/wp-content/uploads/2020/12/5-BlueBotics_autonomous_navigation_ASTI-Tribot-Schlepper-FTS_02-50x28.jpg.webp 50w, https://bluebotics.com/wp-content/uploads/2020/12/5-BlueBotics_autonomous_navigation_ASTI-Tribot-Schlepper-FTS_02-100x56.jpg.webp 100w, https://bluebotics.com/wp-content/uploads/2020/12/5-BlueBotics_autonomous_navigation_ASTI-Tribot-Schlepper-FTS_02-150x84.jpg.webp 150w, {{asset('images/06_.jpg')}} 1920w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20576&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
@@ -1622,7 +1591,7 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                    </div>
+                                                    </div> -->
                                                     </div>
                                                     <div class="fl-clear"></div>
                                                 </div>
@@ -1649,13 +1618,13 @@
                                                         <div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
                                                             <div class="fl-photo-content fl-photo-img-png">
                                                                 <picture decoding="async" class="fl-photo-img wp-image-1782 size-full" itemprop="image" title="20-yrs-of">
-                                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/12/20-yrs-of.png.webp 300w, https://bluebotics.com/wp-content/uploads/2020/12/20-yrs-of-50x19.png.webp 50w, https://bluebotics.com/wp-content/uploads/2020/12/20-yrs-of-100x38.png.webp 100w, https://bluebotics.com/wp-content/uploads/2020/12/20-yrs-of-150x57.png.webp 150w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20113&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20113&#039;%3E%3C/svg%3E" alt="20-yrs-of" itemprop="image" height="113" width="300" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/12/20-yrs-of.png 300w, https://bluebotics.com/wp-content/uploads/2020/12/20-yrs-of-50x19.png 50w, https://bluebotics.com/wp-content/uploads/2020/12/20-yrs-of-100x38.png 100w, https://bluebotics.com/wp-content/uploads/2020/12/20-yrs-of-150x57.png 150w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2020/12/20-yrs-of.png"/>
+                                                                <source type="image/webp" data-lazy-srcset="{{asset('images/15-yrs-of.png')}} 300w, {{asset('images/15-yrs-of.png')}} 50w, {{asset('images/15-yrs-of.png')}} 100w, {{asset('images/15-yrs-of.png')}} 150w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20113&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20113&#039;%3E%3C/svg%3E" alt="20-yrs-of" itemprop="image" height="113" width="300" data-lazy-srcset="{{asset('images/15-yrs-of.png')}} 300w, {{asset('images/15-yrs-of.png')}} 50w, {{asset('images/15-yrs-of.png')}} 100w, {{asset('images/15-yrs-of.png')}} 150w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="{{asset('images/15-yrs-of.png')}}"/>
                                                                 </picture>
                                                                 <noscript>
                                                                 <picture decoding="async" class="fl-photo-img wp-image-1782 size-full" itemprop="image" title="20-yrs-of">
-                                                                    <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2020/12/20-yrs-of.png.webp 300w, https://bluebotics.com/wp-content/uploads/2020/12/20-yrs-of-50x19.png.webp 50w, https://bluebotics.com/wp-content/uploads/2020/12/20-yrs-of-100x38.png.webp 100w, https://bluebotics.com/wp-content/uploads/2020/12/20-yrs-of-150x57.png.webp 150w" sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                    <img decoding="async" src="https://bluebotics.com/wp-content/uploads/2020/12/20-yrs-of.png" alt="20-yrs-of" itemprop="image" height="113" width="300" srcset="https://bluebotics.com/wp-content/uploads/2020/12/20-yrs-of.png 300w, https://bluebotics.com/wp-content/uploads/2020/12/20-yrs-of-50x19.png 50w, https://bluebotics.com/wp-content/uploads/2020/12/20-yrs-of-100x38.png 100w, https://bluebotics.com/wp-content/uploads/2020/12/20-yrs-of-150x57.png 150w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                    <source type="image/webp" srcset="{{asset('images/15-yrs-of.png')}} 300w, {{asset('images/15-yrs-of.png')}} 50w, {{asset('images/15-yrs-of.png')}} 100w, {{asset('images/15-yrs-of.png')}} 150w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                    <img decoding="async" src="{{asset('images/15-yrs-of.png')}}" alt="20-yrs-of" itemprop="image" height="113" width="300" srcset="{{asset('images/15-yrs-of.png')}} 300w, {{asset('images/15-yrs-of.png')}} 50w, {{asset('images/15-yrs-of.png')}} 100w, {{asset('images/15-yrs-of.png')}} 150w" sizes="(max-width: 300px) 100vw, 300px"/>
                                                                 </picture>
                                                                 </noscript>
                                                             </div>
@@ -1673,9 +1642,10 @@
                                         <div class="fl-module fl-module-rich-text fl-node-5f3dbc9d7bf3c obvia" data-node="5f3dbc9d7bf3c">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="fl-rich-text">
-                                                    <h5>Natural<br />
-                                                    Feature<br />
-                                                    Navigation
+                                                    <h5>SPECIALIZING IN <br />
+                                                    MANUFACTURING<br />
+                                                    EDUCATION<br>
+                                                    EQUIPMENT
                                                     </h5>
                                                 </div>
                                             </div>
@@ -1696,8 +1666,8 @@
                                         <div class="fl-module fl-module-rich-text fl-node-5f3db2a1e2955" data-node="5f3db2a1e2955">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="fl-rich-text">
-                                                    <p>During this time we have helped numerous companies to navigate this process, leading to the launch of many automated guided vehicles (AGVs), automated forklifts, autonomous mobile robots (AMRs) and service robots.</p>
-                                                    <p>When you partner with BlueBotics, our team works with you every step of the way to ensure our <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://bluebotics.com/autonomous-navigation-technology/">Autonomous Navigation Technology (ANT)</a></span> is integrated successfully into your vehicle. Whatever it takes, we're by your side until it works.</p>
+                                                    <p>In 2007, PT. DWIDA JAYA TAMA coming as a company <span style="color: #0000ff;">specialized in manufacturing education equipment.</span> It started from education equipment for elementary to junior high school. Since then, we are also thriving to the higher level, for senior high school to the university. Starting as an education equipment provider for majors such as math and science also for software which becoming a trend nowadays.
+</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -1733,7 +1703,7 @@
                                                                 <li class="uabb-info-list-item info-list-item-dynamic0">
                                                                 <div class="uabb-info-list-content-wrapper fl-clearfix uabb-info-list-top">
                                                                     <div class="uabb-info-list-content uabb-info-list-top info-list-content-dynamic0">
-                                                                        <h3 class="uabb-info-list-title">4,000+</h3 >
+                                                                        <h3 class="uabb-info-list-title">1,000+</h3 >
                                                                         <div class="uabb-info-list-description uabb-text-editor info-list-description-dynamic0">
                                                                             <p>
                                                                             <h5 style="text-align: center;">
@@ -1747,7 +1717,7 @@
                                                                                     <img decoding="async" src="https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2.png" alt="" width="101" height="5" srcset="https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2.png 101w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-24x1.png 24w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-50x2.png 50w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-75x4.png 75w" sizes="(max-width: 101px) 100vw, 101px"/>
                                                                                 </picture>
                                                                             </noscript>
-                                                                            ANT driven<br />VEHICLES IN<br />OPERATION
+                                                                            EDUCATION<br />EQUIPMENTS
                                                                             </h5>
                                                                             </p>
                                                                         </div>
@@ -1757,7 +1727,7 @@
                                                                 <li class="uabb-info-list-item info-list-item-dynamic1">
                                                                 <div class="uabb-info-list-content-wrapper fl-clearfix uabb-info-list-top">
                                                                     <div class="uabb-info-list-content uabb-info-list-top info-list-content-dynamic1">
-                                                                        <h3 class="uabb-info-list-title">1,000+</h3 >
+                                                                        <h3 class="uabb-info-list-title">20+</h3 >
                                                                         <div class="uabb-info-list-description uabb-text-editor info-list-description-dynamic1">
                                                                             <p>
                                                                             <h5 style="text-align: center;">
@@ -1771,7 +1741,7 @@
                                                                                     <img decoding="async" src="https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2.png" alt="" width="101" height="5" srcset="https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2.png 101w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-24x1.png 24w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-50x2.png 50w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-75x4.png 75w" sizes="(max-width: 101px) 100vw, 101px"/>
                                                                                 </picture>
                                                                             </noscript>
-                                                                            END-USER INSTALLATIONS
+                                                                            PROVINCE FOR<br>DISTRIBUTION
                                                                             </h5>
                                                                             </p>
                                                                         </div>
@@ -1781,7 +1751,7 @@
                                                                 <li class="uabb-info-list-item info-list-item-dynamic2">
                                                                 <div class="uabb-info-list-content-wrapper fl-clearfix uabb-info-list-top">
                                                                     <div class="uabb-info-list-content uabb-info-list-top info-list-content-dynamic2">
-                                                                        <h3 class="uabb-info-list-title">10+</h3 >
+                                                                        <h3 class="uabb-info-list-title">50+</h3 >
                                                                         <div class="uabb-info-list-description uabb-text-editor info-list-description-dynamic2">
                                                                             <p>
                                                                             <h5 style="text-align: center;">
@@ -1795,7 +1765,7 @@
                                                                                     <img decoding="async" src="https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2.png" alt="" width="101" height="5" srcset="https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2.png 101w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-24x1.png 24w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-50x2.png 50w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-75x4.png 75w" sizes="(max-width: 101px) 100vw, 101px"/>
                                                                                 </picture>
                                                                             </noscript>
-                                                                            MILLION KM<br />DRIVEN BY ANT
+                                                                            END-USER<br />INSTANCE
                                                                             </h5>
                                                                             </p>
                                                                         </div>
@@ -1998,13 +1968,13 @@
                                                     <div class="pp-photo-content">
                                                         <div class="pp-photo-content-inner">
                                                             <picture decoding="async" class="pp-photo-img wp-image-1290 size-medium" itemprop="image" title="Logo-ABB">
-                                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-ABB-300x150.png.webp 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ABB-50x25.png.webp 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ABB-100x50.png.webp 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ABB.png.webp 600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" alt="Logo-ABB" itemprop="image" height="150" width="300" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-ABB-300x150.png 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ABB-24x12.png 24w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ABB-50x25.png 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ABB-100x50.png 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ABB.png 600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2020/11/Logo-ABB-300x150.png"/>
+                                                                <source type="image/webp" data-lazy-srcset="{{asset('images/logo/arcwood_.png')}} 300w, {{asset('images/logo/arcwood_.png')}} 50w, {{asset('images/logo/arcwood_.png')}} 100w, {{asset('images/logo/arcwood_.png')}} 600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" alt="Logo-ABB" itemprop="image" height="150" width="300" data-lazy-srcset="{{asset('images/logo/arcwood_.png')}} 300w, {{asset('images/logo/arcwood_.png')}} 24w, {{asset('images/logo/arcwood_.png')}} 50w, {{asset('images/logo/arcwood_.png')}} 100w, {{asset('images/logo/arcwood_.png')}} 600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="{{asset('images/logo/arcwood_.png')}}"/>
                                                             </picture>
                                                             <noscript>
                                                                 <picture decoding="async" class="pp-photo-img wp-image-1290 size-medium" itemprop="image" title="Logo-ABB">
-                                                                <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-ABB-300x150.png.webp 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ABB-50x25.png.webp 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ABB-100x50.png.webp 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ABB.png.webp 600w" sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                <img decoding="async" src="https://bluebotics.com/wp-content/uploads/2020/11/Logo-ABB-300x150.png" alt="Logo-ABB" itemprop="image" height="150" width="300" srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-ABB-300x150.png 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ABB-24x12.png 24w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ABB-50x25.png 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ABB-100x50.png 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ABB.png 600w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <source type="image/webp" srcset="{{asset('images/logo/arcwood_.png')}} 300w, {{asset('images/logo/arcwood_.png')}} 50w, {{asset('images/logo/arcwood_.png')}} 100w, {{asset('images/logo/arcwood_.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <img decoding="async" src="{{asset('images/logo/arcwood_.png')}}" alt="Logo-ABB" itemprop="image" height="150" width="300" srcset="{{asset('images/logo/arcwood_.png')}} 300w, {{asset('images/logo/arcwood_.png')}} 24w, {{asset('images/logo/arcwood_.png')}} 50w, {{asset('images/logo/arcwood_.png')}} 100w, {{asset('images/logo/arcwood_.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
                                                                 </picture>
                                                             </noscript>
                                                             <div class="pp-overlay-bg"></div>
@@ -2025,13 +1995,13 @@
                                                     <div class="pp-photo-content">
                                                         <div class="pp-photo-content-inner">
                                                             <picture decoding="async" class="pp-photo-img wp-image-1293 size-medium" itemprop="image" title="Logo-ASTI">
-                                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-ASTI-300x150.png.webp 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ASTI-50x25.png.webp 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ASTI-100x50.png.webp 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ASTI.png.webp 600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" alt="Logo-ASTI" itemprop="image" height="150" width="300" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-ASTI-300x150.png 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ASTI-24x12.png 24w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ASTI-50x25.png 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ASTI-100x50.png 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ASTI.png 600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2020/11/Logo-ASTI-300x150.png"/>
+                                                                <source type="image/webp" data-lazy-srcset="{{asset('images/logo/djt_.png')}} 300w, {{asset('images/logo/djt_.png')}} 50w, {{asset('images/logo/djt_.png')}} 100w, {{asset('images/logo/djt_.png')}} 600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" alt="Logo-ASTI" itemprop="image" height="150" width="300" data-lazy-srcset="{{asset('images/logo/djt_.png')}} 300w, {{asset('images/logo/djt_.png')}} 24w, {{asset('images/logo/djt_.png')}} 50w, {{asset('images/logo/djt_.png')}} 100w, {{asset('images/logo/djt_.png')}} 600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="{{asset('images/logo/djt_.png')}}"/>
                                                             </picture>
                                                             <noscript>
                                                                 <picture decoding="async" class="pp-photo-img wp-image-1293 size-medium" itemprop="image" title="Logo-ASTI">
-                                                                <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-ASTI-300x150.png.webp 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ASTI-50x25.png.webp 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ASTI-100x50.png.webp 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ASTI.png.webp 600w" sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                <img decoding="async" src="https://bluebotics.com/wp-content/uploads/2020/11/Logo-ASTI-300x150.png" alt="Logo-ASTI" itemprop="image" height="150" width="300" srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-ASTI-300x150.png 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ASTI-24x12.png 24w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ASTI-50x25.png 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ASTI-100x50.png 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-ASTI.png 600w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <source type="image/webp" srcset="{{asset('images/logo/djt_.png')}} 300w, {{asset('images/logo/djt_.png')}} 50w, {{asset('images/logo/djt_.png')}} 100w, {{asset('images/logo/djt_.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <img decoding="async" src="{{asset('images/logo/djt_.png')}}" alt="Logo-ASTI" itemprop="image" height="150" width="300" srcset="{{asset('images/logo/djt_.png')}} 300w, {{asset('images/logo/djt_.png')}} 24w, {{asset('images/logo/djt_.png')}} 50w, {{asset('images/logo/djt_.png')}} 100w, {{asset('images/logo/djt_.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
                                                                 </picture>
                                                             </noscript>
                                                             <div class="pp-overlay-bg"></div>
@@ -2052,13 +2022,13 @@
                                                     <div class="pp-photo-content">
                                                         <div class="pp-photo-content-inner">
                                                             <picture decoding="async" class="pp-photo-img wp-image-1321 size-medium" itemprop="image">
-                                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Stocklin-300x150.png.webp 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Stocklin-50x25.png.webp 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Stocklin-100x50.png.webp 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Stocklin.png.webp 600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" alt="Stocklin" itemprop="image" height="150" width="300" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Stocklin-300x150.png 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Stocklin-24x12.png 24w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Stocklin-50x25.png 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Stocklin-100x50.png 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Stocklin.png 600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Stocklin-300x150.png"/>
+                                                                <source type="image/webp" data-lazy-srcset="{{asset('images/logo/Hond_.png')}} 300w, {{asset('images/logo/Hond_.png')}} 50w, {{asset('images/logo/Hond_.png')}} 100w, {{asset('images/logo/Hond_.png')}} 600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" alt="Stocklin" itemprop="image" height="150" width="300" data-lazy-srcset="{{asset('images/logo/Hond_.png')}} 300w, {{asset('images/logo/Hond_.png')}} 24w, {{asset('images/logo/Hond_.png')}} 50w, {{asset('images/logo/Hond_.png')}} 100w, {{asset('images/logo/Hond_.png')}} 600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="{{asset('images/logo/Hond_.png')}}"/>
                                                             </picture>
                                                             <noscript>
                                                                 <picture decoding="async" class="pp-photo-img wp-image-1321 size-medium" itemprop="image">
-                                                                <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Stocklin-300x150.png.webp 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Stocklin-50x25.png.webp 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Stocklin-100x50.png.webp 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Stocklin.png.webp 600w" sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                <img decoding="async" src="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Stocklin-300x150.png" alt="Stocklin" itemprop="image" height="150" width="300" srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Stocklin-300x150.png 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Stocklin-24x12.png 24w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Stocklin-50x25.png 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Stocklin-100x50.png 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Stocklin.png 600w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <source type="image/webp" srcset="{{asset('images/logo/Hond_.png')}} 300w, {{asset('images/logo/Hond_.png')}} 50w, {{asset('images/logo/Hond_.png')}} 100w, {{asset('images/logo/Hond_.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <img decoding="async" src="{{asset('images/logo/Hond_.png')}}" alt="Stocklin" itemprop="image" height="150" width="300" srcset="{{asset('images/logo/Hond_.png')}} 300w, {{asset('images/logo/Hond_.png')}} 24w, {{asset('images/logo/Hond_.png')}} 50w, {{asset('images/logo/Hond_.png')}} 100w, {{asset('images/logo/Hond_.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
                                                                 </picture>
                                                             </noscript>
                                                             <div class="pp-overlay-bg"></div>
@@ -2079,13 +2049,13 @@
                                                     <div class="pp-photo-content">
                                                         <div class="pp-photo-content-inner">
                                                             <picture decoding="async" class="pp-photo-img wp-image-1324 size-medium" itemprop="image">
-                                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Toyota-300x150.png.webp 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Toyota-50x25.png.webp 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Toyota-100x50.png.webp 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Toyota.png.webp 600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" alt="Logo Toyota Advanced Logistics" itemprop="image" height="150" width="300" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Toyota-300x150.png 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Toyota-24x12.png 24w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Toyota-50x25.png 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Toyota-100x50.png 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Toyota.png 600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Toyota-300x150.png"/>
+                                                                <source type="image/webp" data-lazy-srcset="{{asset('images/logo/jualankita.png')}} 300w, {{asset('images/logo/jualankita.png')}} 50w, {{asset('images/logo/jualankita.png')}} 100w, {{asset('images/logo/jualankita.png')}} 600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" alt="Logo Toyota Advanced Logistics" itemprop="image" height="150" width="300" data-lazy-srcset="{{asset('images/logo/jualankita.png')}} 300w, {{asset('images/logo/jualankita.png')}} 24w, {{asset('images/logo/jualankita.png')}} 50w, {{asset('images/logo/jualankita.png')}} 100w, {{asset('images/logo/jualankita.png')}} 600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="{{asset('images/logo/jualankita.png')}}"/>
                                                             </picture>
                                                             <noscript>
                                                                 <picture decoding="async" class="pp-photo-img wp-image-1324 size-medium" itemprop="image">
-                                                                <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Toyota-300x150.png.webp 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Toyota-50x25.png.webp 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Toyota-100x50.png.webp 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Toyota.png.webp 600w" sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                <img decoding="async" src="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Toyota-300x150.png" alt="Logo Toyota Advanced Logistics" itemprop="image" height="150" width="300" srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Toyota-300x150.png 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Toyota-24x12.png 24w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Toyota-50x25.png 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Toyota-100x50.png 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Toyota.png 600w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <source type="image/webp" srcset="{{asset('images/logo/jualankita.png')}} 300w, {{asset('images/logo/jualankita.png')}} 50w, {{asset('images/logo/jualankita.png')}} 100w, {{asset('images/logo/jualankita.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <img decoding="async" src="{{asset('images/logo/jualankita.png')}}" alt="Logo Toyota Advanced Logistics" itemprop="image" height="150" width="300" srcset="{{asset('images/logo/jualankita.png')}} 300w, {{asset('images/logo/jualankita.png')}} 24w, {{asset('images/logo/jualankita.png')}} 50w, {{asset('images/logo/jualankita.png')}} 100w, {{asset('images/logo/jualankita.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
                                                                 </picture>
                                                             </noscript>
                                                             <div class="pp-overlay-bg"></div>
@@ -2108,13 +2078,13 @@
                                                     <div class="pp-photo-content">
                                                         <div class="pp-photo-content-inner">
                                                             <picture decoding="async" class="pp-photo-img wp-image-1295 size-medium" itemprop="image">
-                                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cimcorp-300x150.png.webp 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cimcorp-50x25.png.webp 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cimcorp-100x50.png.webp 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cimcorp.png.webp 600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" alt="Logo Cimcorp" itemprop="image" height="150" width="300" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cimcorp-300x150.png 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cimcorp-24x12.png 24w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cimcorp-50x25.png 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cimcorp-100x50.png 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cimcorp.png 600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cimcorp-300x150.png"/>
+                                                                <source type="image/webp" data-lazy-srcset="{{asset('images/logo/legano.png')}} 300w, {{asset('images/logo/legano.png')}} 50w, {{asset('images/logo/legano.png')}} 100w, {{asset('images/logo/legano.png')}} 600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" alt="Logo Cimcorp" itemprop="image" height="150" width="300" data-lazy-srcset="{{asset('images/logo/legano.png')}} 300w, {{asset('images/logo/legano.png')}} 24w, {{asset('images/logo/legano.png')}} 50w, {{asset('images/logo/legano.png')}} 100w, {{asset('images/logo/legano.png')}} 600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="{{asset('images/logo/legano.png')}}"/>
                                                             </picture>
                                                             <noscript>
                                                                 <picture decoding="async" class="pp-photo-img wp-image-1295 size-medium" itemprop="image">
-                                                                <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cimcorp-300x150.png.webp 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cimcorp-50x25.png.webp 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cimcorp-100x50.png.webp 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cimcorp.png.webp 600w" sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                <img decoding="async" src="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cimcorp-300x150.png" alt="Logo Cimcorp" itemprop="image" height="150" width="300" srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cimcorp-300x150.png 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cimcorp-24x12.png 24w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cimcorp-50x25.png 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cimcorp-100x50.png 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cimcorp.png 600w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <source type="image/webp" srcset="{{asset('images/logo/legano.png')}} 300w, {{asset('images/logo/legano.png')}} 50w, {{asset('images/logo/legano.png')}} 100w, {{asset('images/logo/legano.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <img decoding="async" src="{{asset('images/logo/legano.png')}}" alt="Logo Cimcorp" itemprop="image" height="150" width="300" srcset="{{asset('images/logo/legano.png')}} 300w, {{asset('images/logo/legano.png')}} 24w, {{asset('images/logo/legano.png')}} 50w, {{asset('images/logo/legano.png')}} 100w, {{asset('images/logo/legano.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
                                                                 </picture>
                                                             </noscript>
                                                             <div class="pp-overlay-bg"></div>
@@ -2131,13 +2101,13 @@
                                                     <div class="pp-photo-content">
                                                         <div class="pp-photo-content-inner">
                                                             <picture decoding="async" class="pp-photo-img wp-image-1313 size-medium" itemprop="image">
-                                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Oppent-300x150.png.webp 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Oppent-50x25.png.webp 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Oppent-100x50.png.webp 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Oppent.png.webp 600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" alt="Logo-Oppent" itemprop="image" height="150" width="300" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Oppent-300x150.png 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Oppent-24x12.png 24w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Oppent-50x25.png 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Oppent-100x50.png 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Oppent.png 600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Oppent-300x150.png"/>
+                                                                <source type="image/webp" data-lazy-srcset="{{asset('images/logo/talisma.png')}} 300w, {{asset('images/logo/talisma.png')}} 50w, {{asset('images/logo/talisma.png')}} 100w, {{asset('images/logo/talisma.png')}} 600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" alt="Logo-Oppent" itemprop="image" height="150" width="300" data-lazy-srcset="{{asset('images/logo/talisma.png')}} 300w, {{asset('images/logo/talisma.png')}} 24w, {{asset('images/logo/talisma.png')}} 50w, {{asset('images/logo/talisma.png')}} 100w, {{asset('images/logo/talisma.png')}} 600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="{{asset('images/logo/talisma.png')}}"/>
                                                             </picture>
                                                             <noscript>
                                                                 <picture decoding="async" class="pp-photo-img wp-image-1313 size-medium" itemprop="image">
-                                                                <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Oppent-300x150.png.webp 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Oppent-50x25.png.webp 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Oppent-100x50.png.webp 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Oppent.png.webp 600w" sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                <img decoding="async" src="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Oppent-300x150.png" alt="Logo-Oppent" itemprop="image" height="150" width="300" srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Oppent-300x150.png 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Oppent-24x12.png 24w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Oppent-50x25.png 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Oppent-100x50.png 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Oppent.png 600w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <source type="image/webp" srcset="{{asset('images/logo/talisma.png')}} 300w, {{asset('images/logo/talisma.png')}} 50w, {{asset('images/logo/talisma.png')}} 100w, {{asset('images/logo/talisma.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <img decoding="async" src="{{asset('images/logo/talisma.png')}}" alt="Logo-Oppent" itemprop="image" height="150" width="300" srcset="{{asset('images/logo/talisma.png')}} 300w, {{asset('images/logo/talisma.png')}} 24w, {{asset('images/logo/talisma.png')}} 50w, {{asset('images/logo/talisma.png')}} 100w, {{asset('images/logo/talisma.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
                                                                 </picture>
                                                             </noscript>
                                                             <div class="pp-overlay-bg"></div>
@@ -2147,7 +2117,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="fl-module fl-module-pp-image fl-node-5fb57baa76ea4" data-node="5fb57baa76ea4">
+                                        <!-- <div class="fl-module fl-module-pp-image fl-node-5fb57baa76ea4" data-node="5fb57baa76ea4">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="pp-photo-container">
                                                     <div class="pp-photo pp-photo-align-center pp-photo-align-responsive-default" itemscope itemtype="http://schema.org/ImageObject">
@@ -2169,7 +2139,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         </div>
                                     </div>
                                     <div class="fl-col fl-node-5fb57baa76ea2 fl-col-small top_layer" data-node="5fb57baa76ea2">
@@ -2214,13 +2184,13 @@
                                                     <div class="pp-photo-content">
                                                         <div class="pp-photo-content-inner">
                                                             <picture decoding="async" class="pp-photo-img wp-image-1296 size-medium" itemprop="image" title="Logo-Cleanfix">
-                                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cleanfix-300x150.png.webp 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cleanfix-50x25.png.webp 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cleanfix-100x50.png.webp 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cleanfix.png.webp 600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" alt="Logo-Cleanfix" itemprop="image" height="150" width="300" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cleanfix-300x150.png 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cleanfix-24x12.png 24w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cleanfix-50x25.png 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cleanfix-100x50.png 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cleanfix.png 600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cleanfix-300x150.png"/>
+                                                                <source type="image/webp" data-lazy-srcset="{{asset('images/logo/noutek_.png')}} 300w, {{asset('images/logo/noutek_.png')}} 50w, {{asset('images/logo/noutek_.png')}} 100w, {{asset('images/logo/noutek_.png')}} 600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" alt="Logo-Cleanfix" itemprop="image" height="150" width="300" data-lazy-srcset="{{asset('images/logo/noutek_.png')}} 300w, {{asset('images/logo/noutek_.png')}} 24w, {{asset('images/logo/noutek_.png')}} 50w, {{asset('images/logo/noutek_.png')}} 100w, {{asset('images/logo/noutek_.png')}} 600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="{{asset('images/logo/noutek_.png')}}"/>
                                                             </picture>
                                                             <noscript>
                                                                 <picture decoding="async" class="pp-photo-img wp-image-1296 size-medium" itemprop="image" title="Logo-Cleanfix">
-                                                                <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cleanfix-300x150.png.webp 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cleanfix-50x25.png.webp 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cleanfix-100x50.png.webp 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cleanfix.png.webp 600w" sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                <img decoding="async" src="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cleanfix-300x150.png" alt="Logo-Cleanfix" itemprop="image" height="150" width="300" srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cleanfix-300x150.png 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cleanfix-24x12.png 24w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cleanfix-50x25.png 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cleanfix-100x50.png 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Cleanfix.png 600w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <source type="image/webp" srcset="{{asset('images/logo/noutek_.png')}} 300w, {{asset('images/logo/noutek_.png')}} 50w, {{asset('images/logo/noutek_.png')}} 100w, {{asset('images/logo/noutek_.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <img decoding="async" src="{{asset('images/logo/noutek_.png')}}" alt="Logo-Cleanfix" itemprop="image" height="150" width="300" srcset="{{asset('images/logo/noutek_.png')}} 300w, {{asset('images/logo/noutek_.png')}} 24w, {{asset('images/logo/noutek_.png')}} 50w, {{asset('images/logo/noutek_.png')}} 100w, {{asset('images/logo/noutek_.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
                                                                 </picture>
                                                             </noscript>
                                                             <div class="pp-overlay-bg"></div>
@@ -2237,13 +2207,13 @@
                                                     <div class="pp-photo-content">
                                                         <div class="pp-photo-content-inner">
                                                             <picture decoding="async" class="pp-photo-img wp-image-1310 size-medium" itemprop="image" title="Logo-Nespresso">
-                                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Nespresso-300x150.png.webp 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Nespresso-50x25.png.webp 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Nespresso-100x50.png.webp 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Nespresso.png.webp 600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" alt="Logo-Nespresso" itemprop="image" height="150" width="300" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Nespresso-300x150.png 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Nespresso-24x12.png 24w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Nespresso-50x25.png 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Nespresso-100x50.png 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Nespresso.png 600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Nespresso-300x150.png"/>
+                                                                <source type="image/webp" data-lazy-srcset="{{asset('images/logo/Vasiki_.png')}} 300w, {{asset('images/logo/Vasiki_.png')}} 50w, {{asset('images/logo/Vasiki_.png')}} 100w, {{asset('images/logo/Vasiki_.png')}} 600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" alt="Logo-Nespresso" itemprop="image" height="150" width="300" data-lazy-srcset="{{asset('images/logo/Vasiki_.png')}} 300w, {{asset('images/logo/Vasiki_.png')}} 24w, {{asset('images/logo/Vasiki_.png')}} 50w, {{asset('images/logo/Vasiki_.png')}} 100w, {{asset('images/logo/Vasiki_.png')}} 600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="{{asset('images/logo/Vasiki_.png')}}"/>
                                                             </picture>
                                                             <noscript>
                                                                 <picture decoding="async" class="pp-photo-img wp-image-1310 size-medium" itemprop="image" title="Logo-Nespresso">
-                                                                <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Nespresso-300x150.png.webp 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Nespresso-50x25.png.webp 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Nespresso-100x50.png.webp 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Nespresso.png.webp 600w" sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                <img decoding="async" src="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Nespresso-300x150.png" alt="Logo-Nespresso" itemprop="image" height="150" width="300" srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Nespresso-300x150.png 300w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Nespresso-24x12.png 24w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Nespresso-50x25.png 50w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Nespresso-100x50.png 100w, https://bluebotics.com/wp-content/uploads/2020/11/Logo-Nespresso.png 600w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <source type="image/webp" srcset="{{asset('images/logo/Vasiki_.png')}} 300w, {{asset('images/logo/Vasiki_.png')}} 50w, {{asset('images/logo/Vasiki_.png')}} 100w, {{asset('images/logo/Vasiki_.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <img decoding="async" src="{{asset('images/logo/Vasiki_.png')}}" alt="Logo-Nespresso" itemprop="image" height="150" width="300" srcset="{{asset('images/logo/Vasiki_.png')}} 300w, {{asset('images/logo/Vasiki_.png')}} 24w, {{asset('images/logo/Vasiki_.png')}} 50w, {{asset('images/logo/Vasiki_.png')}} 100w, {{asset('images/logo/Vasiki_.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
                                                                 </picture>
                                                             </noscript>
                                                             <div class="pp-overlay-bg"></div>
@@ -2253,7 +2223,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="fl-module fl-module-pp-image fl-node-5fb57baa76ea7" data-node="5fb57baa76ea7">
+                                        <!-- <div class="fl-module fl-module-pp-image fl-node-5fb57baa76ea7" data-node="5fb57baa76ea7">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="pp-photo-container">
                                                     <div class="pp-photo pp-photo-align-center pp-photo-align-responsive-default" itemscope itemtype="http://schema.org/ImageObject">
@@ -2275,11 +2245,11 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         </div>
                                     </div>
                                 </div>
-                                <div class="fl-col-group fl-node-5fb57baa76e97 fl-col-group-equal-height fl-col-group-align-center fl-col-group-custom-width" data-node="5fb57baa76e97">
+                                <!-- <div class="fl-col-group fl-node-5fb57baa76e97 fl-col-group-equal-height fl-col-group-align-center fl-col-group-custom-width" data-node="5fb57baa76e97">
                                     <div class="fl-col fl-node-5fb57baa76ead fl-col-small" data-node="5fb57baa76ead">
                                         <div class="fl-col-content fl-node-content">
                                         <div class="fl-module fl-module-pp-image fl-node-5fb57baa76eb1" data-node="5fb57baa76eb1">
@@ -2388,7 +2358,7 @@
                                         </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                             </div>
                         </div>
@@ -2920,7 +2890,7 @@
                                                 </h3>
                                             </div>
                                         </div>
-                                        <div class="fl-module fl-module-separator fl-node-5f3df0d872481" data-node="5f3df0d872481">
+                                        <!-- <div class="fl-module fl-module-separator fl-node-5f3df0d872481" data-node="5f3df0d872481">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="fl-separator"></div>
                                             </div>
@@ -3020,7 +2990,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         <div class="fl-module fl-module-advanced-icon fl-node-5ffcd248ed7c5 fl-visible-mobile" data-node="5ffcd248ed7c5">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="uabb-module-content adv-icon-wrap adv-icon-horizontal adv-icon-right">
@@ -3067,7 +3037,7 @@
                                                 </h3>
                                             </div>
                                         </div>
-                                        <div class="fl-module fl-module-separator fl-node-5f7f6c4b7f467" data-node="5f7f6c4b7f467">
+                                        <!-- <div class="fl-module fl-module-separator fl-node-5f7f6c4b7f467" data-node="5f7f6c4b7f467">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="fl-separator"></div>
                                             </div>
@@ -3145,7 +3115,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         <div class="fl-module fl-module-advanced-icon fl-node-5f8a0ae969271 fl-visible-mobile" data-node="5f8a0ae969271">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="uabb-module-content adv-icon-wrap adv-icon-horizontal adv-icon-right">
@@ -3192,7 +3162,7 @@
                                                 </h3>
                                             </div>
                                         </div>
-                                        <div class="fl-module fl-module-separator fl-node-5f7f6c4983d84" data-node="5f7f6c4983d84">
+                                        <!-- <div class="fl-module fl-module-separator fl-node-5f7f6c4983d84" data-node="5f7f6c4983d84">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="fl-separator"></div>
                                             </div>
@@ -3270,7 +3240,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         <div class="fl-module fl-module-advanced-icon fl-node-5f8a0de0d691b fl-visible-mobile" data-node="5f8a0de0d691b">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="uabb-module-content adv-icon-wrap adv-icon-horizontal adv-icon-right">

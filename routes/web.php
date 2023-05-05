@@ -22,6 +22,14 @@ Route::get('about', function () {
     return view('pages.about');
 })->name('app.about');
 
+Route::get('visi', function () {
+    return view('pages.visi');
+})->name('app.visi');
+
+Route::get('misi', function () {
+    return view('pages.misi');
+})->name('app.misi');
+
 Route::get('contact', function () {
     return view('pages.contact');
 })->name('app.contact');

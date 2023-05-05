@@ -10,7 +10,7 @@
                                  <div class="fl-module-content fl-node-content">
                                     <div class="fl-photo fl-photo-align-left" itemscope itemtype="https://schema.org/ImageObject">
                                        <div class="fl-photo-content fl-photo-img-svg">
-                                          <a href="https://bluebotics.com" target="_self" itemprop="url">
+                                          <a href="{{route('app.home')}}" target="_self" itemprop="url">
                                           <img decoding="async" class="fl-photo-img wp-image-10103 size-full" src="{{asset('images/djt_.png')}}" alt="BlueBotics logo." itemprop="image" height="0" width="0"  data-no-lazy="1" />
                                           </a>
                                        </div>
@@ -259,7 +259,7 @@
                                  <div class="fl-module-content fl-node-content">
                                     <div class="fl-photo fl-photo-align-left" itemscope itemtype="https://schema.org/ImageObject">
                                        <div class="fl-photo-content fl-photo-img-svg">
-                                          <a href="https://bluebotics.com" target="_self" itemprop="url">
+                                          <a href="{{route('app.home')}}" target="_self" itemprop="url">
                                           <img decoding="async" class="fl-photo-img wp-image-10103 size-full" src="{{asset('images/djt_.png')}}" alt="BlueBotics logo." itemprop="image" height="0" width="0"  data-no-lazy="1" />
                                           </a>
                                        </div>
@@ -327,7 +327,7 @@
                                                                            <div class="fl-module-content fl-node-content">
                                                                               <div class="uabb-module-content uabb-infobox infobox-center infobox-has-photo infobox-photo-above-title ">
                                                                                  <div class="uabb-infobox-left-right-wrap">
-                                                                                    <a href="/engineering-services/mini-lite/" target="_self"  class="uabb-infobox-module-link" aria-label="Go to /engineering-services/mini-lite/"></a>
+                                                                                    <a href="{{route('app.visi')}}" target="_self"  class="uabb-infobox-module-link" aria-label="Go to /engineering-services/mini-lite/"></a>
                                                                                     <div class="uabb-infobox-content">
                                                                                        <div class="uabb-module-content uabb-imgicon-wrap">
                                                                                           <div class="uabb-image
@@ -352,7 +352,7 @@
                                                                            <div class="fl-module-content fl-node-content">
                                                                               <div class="uabb-module-content uabb-infobox infobox-center infobox-has-photo infobox-photo-above-title ">
                                                                                  <div class="uabb-infobox-left-right-wrap">
-                                                                                    <a href="/engineering-services/mini/" target="_self"  class="uabb-infobox-module-link" aria-label="Go to /engineering-services/mini/"></a>
+                                                                                    <a href="{{route('app.misi')}}" target="_self"  class="uabb-infobox-module-link" aria-label="Go to /engineering-services/mini/"></a>
                                                                                     <div class="uabb-infobox-content">
                                                                                        <div class="uabb-module-content uabb-imgicon-wrap">
                                                                                           <div class="uabb-image
