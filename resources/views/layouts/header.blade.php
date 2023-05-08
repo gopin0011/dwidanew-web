@@ -173,7 +173,7 @@
                                                          <li id="menu-item-4329" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/mini-uvc-disinfection-robot/"><span class="menu-item-text">mini<span class="trademark">TM</span> UVC</span></a></li>
                                                       </ul>
                                                    </li>
-                                                   <li id="menu-item-872" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/references/"><span class="menu-item-text">REFERENCES</span></a></li>
+                                                   <li id="menu-item-872" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="{{route('app.factory')}}"><span class="menu-item-text">REFERENCES</span></a></li>
                                                    <li id="menu-item-1184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style">
                                                       <div class="uabb-has-submenu-container"><a href="https://bluebotics.com/about/"><span class="menu-item-text">COMPANY<span class="uabb-menu-toggle"></span></span></a></div>
                                                       <ul class="sub-menu">
@@ -223,7 +223,7 @@
                                                             <li id="menu-item-4329" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/mini-uvc-disinfection-robot/"><span class="menu-item-text">mini<span class="trademark">TM</span> UVC</span></a></li>
                                                          </ul>
                                                       </li>
-                                                      <li id="menu-item-872" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/references/"><span class="menu-item-text">REFERENCES</span></a></li>
+                                                      <li id="menu-item-872" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="{{route('app.factory')}}"><span class="menu-item-text">REFERENCES</span></a></li>
                                                       <li id="menu-item-1184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style">
                                                          <div class="uabb-has-submenu-container"><a href="https://bluebotics.com/about/"><span class="menu-item-text">COMPANY<span class="uabb-menu-toggle"></span></span></a></div>
                                                          <ul class="sub-menu">
@@ -277,16 +277,16 @@
                                           <ul class="brex-mega-menu">
                                              <li class="mega-menu-saved-row">
                                                 <a  target="_self" class="mega-menu-saved-row-a" href="{{ route('app.home') }}">HOME <i class=""></i></a>
-                                                <div class="mega-menu-saved-row-container" >
+                                                <!-- <div class="mega-menu-saved-row-container" >
                                                    
                                                    <div class="fl-builder-content fl-builder-content-18037 fl-builder-template fl-builder-row-template fl-builder-global-templates-locked" data-post-id="18037">
                                                    </div>
                                                    <div class="uabb-js-breakpoint" style="display: none;"></div>
-                                                </div>
+                                                </div> -->
                                              </li>
                                              <li class="mega-menu-saved-row">
                                                 <a  target="_self" class="mega-menu-saved-row-a" href="{{route('app.about')}}">ABOUT <i class=""></i></a>
-                                                <div class="mega-menu-saved-row-container" >
+                                                <!-- <div class="mega-menu-saved-row-container" >
                                                    <link data-minify="1" rel='stylesheet' id='fl-builder-layout-18054-css' href='https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/bb-plugin/cache/18054-layout-partial.css?ver=1681229321' media='all' />
                                                    <div class="fl-builder-content fl-builder-content-18054 fl-builder-template fl-builder-row-template fl-builder-global-templates-locked" data-post-id="18054">
                                                       <div class="fl-row fl-row-fixed-width fl-row-bg-color fl-node-bory61ndju5t" data-node="bory61ndju5t">
@@ -402,11 +402,11 @@
                                                       </div>
                                                    </div>
                                                    <div class="uabb-js-breakpoint" style="display: none;"></div>
-                                                </div>
+                                                </div> -->
                                              </li>
                                              <li class="mega-menu-saved-row">
                                                 <a  target="_self" class="mega-menu-saved-row-a" href="/about/">PRODUCT <i class=""></i></a>
-                                                <div class="mega-menu-saved-row-container" >
+                                                <!-- <div class="mega-menu-saved-row-container" >
                                                    <link data-minify="1" rel='stylesheet' id='fl-builder-layout-18057-css' href='https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/bb-plugin/cache/18057-layout-partial.css?ver=1681229321' media='all' />
                                                    <div class="fl-builder-content fl-builder-content-18057 fl-builder-template fl-builder-row-template fl-builder-global-templates-locked" data-post-id="18057">
                                                       <div class="fl-row fl-row-fixed-width fl-row-bg-color fl-node-esivfkr274tu" data-node="esivfkr274tu">
@@ -495,10 +495,10 @@
                                                       </div>
                                                    </div>
                                                    <div class="uabb-js-breakpoint" style="display: none;"></div>
-                                                </div>
+                                                </div> -->
                                              </li>
                                              <li class="">
-                                                <a  class="" target="_self" href="/references/">Factory</a>
+                                                <a  class="" target="_self" href="{{route('app.factory')}}">Factory</a>
                                              </li>
                                              <li class="">
                                                 <a  class="" target="_self" href="{{route('app.career')}}">Career</a>

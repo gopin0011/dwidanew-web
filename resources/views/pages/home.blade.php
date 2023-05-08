@@ -1140,13 +1140,13 @@
                                                 <div class="fl-separator"></div>
                                             </div>
                                         </div>
-                                        <div class="fl-module fl-module-heading fl-node-5daf2d4c1bcdd" data-node="5daf2d4c1bcdd">
+                                        <!-- <div class="fl-module fl-module-heading fl-node-5daf2d4c1bcdd" data-node="5daf2d4c1bcdd">
                                             <div class="fl-module-content fl-node-content">
                                                 <h4 class="fl-heading">
                                                     <span class="fl-heading-text"><strong>SPECIALIZING IN IMPROVEMENT</strong></span>
                                                 </h4>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         <div class="fl-col-group fl-node-5e1e2b123c1d5 fl-col-group-nested" data-node="5e1e2b123c1d5">
                                             <div class="fl-col fl-node-5e1e2b123c36f fl-col-small" data-node="5e1e2b123c36f">
                                                 <div class="fl-col-content fl-node-content">
@@ -1166,9 +1166,9 @@
                                                     <div class="fl-module fl-module-button fl-node-5e1e2ef944080 fl-animation fl-fade-in obvia" data-node="5e1e2ef944080" data-animation-delay="0" data-animation-duration="2">
                                                     <div class="fl-module-content fl-node-content">
                                                         <div class="fl-button-wrap fl-button-width-full fl-button-center">
-                                                            <a href="https://bluebotics.com/ebook/" target="_self" class="fl-button" role="button">
+                                                            <!-- <a href="https://bluebotics.com/ebook/" target="_self" class="fl-button" role="button">
                                                             <span class="fl-button-text">GUIDE NOW</span>
-                                                            </a>
+                                                            </a> -->
                                                         </div>
                                                     </div>
                                                     </div>
@@ -1200,19 +1200,19 @@
                                                                     <div class="uabb-image
                                                                         uabb-image-crop-simple		" itemscope itemtype="https://schema.org/ImageObject">
                                                                         <div class="uabb-image-content">
-                                                                            <img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10534 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" alt="Develop your ANT driven vehicle." title="" itemprop="image" data-lazy-src="https://bluebotics.com/wp-content/uploads/2021/02/Stack-Develop-Your-Vehicle.svg"/>
-                                                                            <noscript><img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10534 size-thumbnail" src="https://bluebotics.com/wp-content/uploads/2021/02/Stack-Develop-Your-Vehicle.svg" alt="Develop your ANT driven vehicle." title="" itemprop="image"/></noscript>
+                                                                            <img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10534 size-thumbnail" src="{{asset('images/equipment_blue.png')}}" alt="Develop your ANT driven vehicle." title="" itemprop="image" data-lazy-src="{{asset('images/equipment_blue.png')}}"/>
+                                                                            <noscript><img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10534 size-thumbnail" src="{{asset('images/equipment_blue.png')}}" alt="Develop your ANT driven vehicle." title="" itemprop="image"/></noscript>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class='uabb-infobox-title-wrap'>
-                                                                    <h3 class="uabb-infobox-title">Develop</h3>
+                                                                    <h3 class="uabb-infobox-title">Equipment</h3>
                                                                 </div>
-                                                                <div class="uabb-infobox-text-wrap">
+                                                                <!-- <div class="uabb-infobox-text-wrap">
                                                                     <div class="uabb-infobox-text uabb-text-editor">
                                                                         <p>Your<br />Vehicle</p>
                                                                     </div>
-                                                                </div>
+                                                                </div> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1231,19 +1231,19 @@
                                                                     <div class="uabb-image
                                                                         uabb-image-crop-simple		" itemscope itemtype="https://schema.org/ImageObject">
                                                                         <div class="uabb-image-content">
-                                                                            <img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10539 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" alt="Reduce installation time and cost with autonomous navigation." title="" itemprop="image" data-lazy-src="https://bluebotics.com/wp-content/uploads/2021/02/Stack-Reduce-Installation-Time-and-Cost.svg"/>
-                                                                            <noscript><img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10539 size-thumbnail" src="https://bluebotics.com/wp-content/uploads/2021/02/Stack-Reduce-Installation-Time-and-Cost.svg" alt="Reduce installation time and cost with autonomous navigation." title="" itemprop="image"/></noscript>
+                                                                            <img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10539 size-thumbnail" src="{{asset('images/app_blue.png')}}" alt="Reduce installation time and cost with autonomous navigation." title="" itemprop="image" data-lazy-src="{{asset('images/app_blue.png')}}"/>
+                                                                            <noscript><img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10539 size-thumbnail" src="{{asset('images/app_blue.png')}}" alt="Reduce installation time and cost with autonomous navigation." title="" itemprop="image"/></noscript>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class='uabb-infobox-title-wrap'>
-                                                                    <h3 class="uabb-infobox-title">Reduce</h3>
+                                                                    <h3 class="uabb-infobox-title">Apps</h3>
                                                                 </div>
-                                                                <div class="uabb-infobox-text-wrap">
+                                                                <!-- <div class="uabb-infobox-text-wrap">
                                                                     <div class="uabb-infobox-text uabb-text-editor">
                                                                         <p>Installation <br />time &amp; cost</p>
                                                                     </div>
-                                                                </div>
+                                                                </div> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1262,19 +1262,19 @@
                                                                     <div class="uabb-image
                                                                         uabb-image-crop-simple		" itemscope itemtype="https://schema.org/ImageObject">
                                                                         <div class="uabb-image-content">
-                                                                            <img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10544 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" alt="Grow your business with autonomous navigation." title="" itemprop="image" data-lazy-src="https://bluebotics.com/wp-content/uploads/2021/02/Stack-Grow-Your-Business.svg"/>
-                                                                            <noscript><img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10544 size-thumbnail" src="https://bluebotics.com/wp-content/uploads/2021/02/Stack-Grow-Your-Business.svg" alt="Grow your business with autonomous navigation." title="" itemprop="image"/></noscript>
+                                                                            <img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10544 size-thumbnail" src="{{asset('images/furniture_blue.png')}}" alt="Grow your business with autonomous navigation." title="" itemprop="image" data-lazy-src="{{asset('images/furniture_blue.png')}}"/>
+                                                                            <noscript><img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10544 size-thumbnail" src="{{asset('images/furniture_blue.png')}}" alt="Grow your business with autonomous navigation." title="" itemprop="image"/></noscript>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class='uabb-infobox-title-wrap'>
-                                                                    <h3 class="uabb-infobox-title">Grow</h3>
+                                                                    <h3 class="uabb-infobox-title">Furniture & Interior</h3>
                                                                 </div>
-                                                                <div class="uabb-infobox-text-wrap">
+                                                                <!-- <div class="uabb-infobox-text-wrap">
                                                                     <div class="uabb-infobox-text uabb-text-editor">
                                                                         <p>Your<br />Business</p>
                                                                     </div>
-                                                                </div>
+                                                                </div> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1299,7 +1299,7 @@
                                         <div class="fl-module fl-module-heading fl-node-5e1e2df5c9342" data-node="5e1e2df5c9342">
                                             <div class="fl-module-content fl-node-content">
                                                 <h3 class="fl-heading">
-                                                    <span class="fl-heading-text">CREATING & MAKING<br>EDUCATION EQUIPMENT</span>
+                                                    <span class="fl-heading-text">CREATING & MAKING<br>BEST QUALITY OF PRODUCTS</span>
                                                 </h3>
                                             </div>
                                         </div>
@@ -1421,9 +1421,9 @@
                                                         <div class="fl-slide-foreground clearfix">
                                                             <div class="fl-slide-content-wrap">
                                                                 <div class="fl-slide-content">
-                                                                <div class="fl-slide-text">
+                                                                <!-- <div class="fl-slide-text">
                                                                     <p>Focus on education requirement that always developing time by time</p>
-                                                                </div>
+                                                                </div> -->
                                                                 </div>
                                                             </div>
                                                             <div class="fl-slide-photo-wrap">
@@ -1458,10 +1458,10 @@
                                                         <div class="fl-slide-foreground clearfix">
                                                             <div class="fl-slide-content-wrap">
                                                                 <div class="fl-slide-content">
-                                                                <div class="fl-slide-text">
+                                                                <!-- <div class="fl-slide-text">
                                                                     <p>Good quality and reasonable expanse to fulfill its consumer’s satisfaction
 </p>
-                                                                </div>
+                                                                </div> -->
                                                                 </div>
                                                             </div>
                                                             <div class="fl-slide-photo-wrap">
@@ -1496,10 +1496,10 @@
                                                         <div class="fl-slide-foreground clearfix">
                                                             <div class="fl-slide-content-wrap">
                                                                 <div class="fl-slide-content">
-                                                                <div class="fl-slide-text">
+                                                                <!-- <div class="fl-slide-text">
                                                                     <p>Supported with high quality technologies hoped to be able to complete in all education aspects
 </p>
-                                                                </div>
+                                                                </div> -->
                                                                 </div>
                                                             </div>
                                                             <div class="fl-slide-photo-wrap">
@@ -1717,7 +1717,7 @@
                                                                                     <img decoding="async" src="https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2.png" alt="" width="101" height="5" srcset="https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2.png 101w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-24x1.png 24w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-50x2.png 50w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-75x4.png 75w" sizes="(max-width: 101px) 100vw, 101px"/>
                                                                                 </picture>
                                                                             </noscript>
-                                                                            EDUCATION<br />EQUIPMENTS
+                                                                            EQUIPMENTS
                                                                             </h5>
                                                                             </p>
                                                                         </div>
@@ -1787,12 +1787,12 @@
                                         <div class="fl-col-content fl-node-content">
                                         <div class="fl-module fl-module-button fl-node-5f7de8770b535 fl-animation fl-fade-in obvia" data-node="5f7de8770b535" data-animation-delay="0" data-animation-duration="1">
                                             <div class="fl-module-content fl-node-content">
-                                                <div class="fl-button-wrap fl-button-width-auto fl-button-center fl-button-has-icon">
+                                                <!-- <div class="fl-button-wrap fl-button-width-auto fl-button-center fl-button-has-icon">
                                                     <a href="https://bluebotics.com/about/" target="_self" class="fl-button" role="button">
                                                     <i class="fl-button-icon fl-button-icon-before ua-icon ua-icon-minus2" aria-hidden="true"></i>
                                                     <span class="fl-button-text">LEARN MORE</span>
                                                     </a>
-                                                </div>
+                                                </div> -->
                                             </div>
                                         </div>
                                         </div>
@@ -1811,15 +1811,14 @@
                                         <div class="fl-module fl-module-rich-text fl-node-5f3dca8437152 obvia" data-node="5f3dca8437152">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="fl-rich-text">
-                                                    <h5>Autonomous navigation<br />
-                                                    technology (ANT)
+                                                    <h5 style="margin-left: -100px;">Multimedia Microscope
                                                     </h5>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="fl-module fl-module-separator fl-node-5f3dce3f1c84b" data-node="5f3dce3f1c84b">
                                             <div class="fl-module-content fl-node-content">
-                                                <div class="fl-separator"></div>
+                                                <div class="fl-separator" style="margin-left: -100px;"></div>
                                             </div>
                                         </div>
                                         </div>
@@ -1847,10 +1846,35 @@
                                                             </span>
                                                         </div>
                                                     </div>
-                                                    <!-- Inline Block Space Fix
-                                                        -->
+                                                    
                                                     <div class="uabb-list-icon-text">
-                                                        <p class="uabb-list-icon-text-heading">Natural feature navigation</p>
+                                                        <p class="uabb-list-icon-text-heading">Consists of camera in ocular tube</p>
+                                                    </div>
+                                                    </div>
+                                                    <div class="uabb-list-icon-wrap">
+                                                    <div class="uabb-callout-outter">
+                                                        <div class="uabb-module-content uabb-imgicon-wrap">				<span class="uabb-icon-wrap">
+                                                            <span class="uabb-icon">
+                                                            <i class="ua-icon ua-icon-checkmark-circle"></i>
+                                                            </span>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="uabb-list-icon-text">
+                                                        <p class="uabb-list-icon-text-heading">Connected with computer (Completed by specific software, able to capture picture and video)</p>
+                                                    </div>
+                                                    </div>
+                                                    <div class="uabb-list-icon-wrap">
+                                                    <div class="uabb-callout-outter">
+                                                        <div class="uabb-module-content uabb-imgicon-wrap">				<span class="uabb-icon-wrap">
+                                                            <span class="uabb-icon">
+                                                            <i class="ua-icon ua-icon-checkmark-circle"></i>
+                                                            </span>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="uabb-list-icon-text">
+                                                        <p class="uabb-list-icon-text-heading">Light source from halogen lamp/led with intensity well regulated</p>
                                                     </div>
                                                     </div>
                                                     <div class="uabb-list-icon-wrap">
@@ -1865,7 +1889,7 @@
                                                     <!-- Inline Block Space Fix
                                                         -->
                                                     <div class="uabb-list-icon-text">
-                                                        <p class="uabb-list-icon-text-heading">Accurate to ±1 cm / ±1°</p>
+                                                        <p class="uabb-list-icon-text-heading">Objectives present 4x, 10x, 40x, 60x magnification</p>
                                                     </div>
                                                     </div>
                                                     <div class="uabb-list-icon-wrap">
@@ -1877,10 +1901,8 @@
                                                             </span>
                                                         </div>
                                                     </div>
-                                                    <!-- Inline Block Space Fix
-                                                        -->
                                                     <div class="uabb-list-icon-text">
-                                                        <p class="uabb-list-icon-text-heading">Minimal infrastructure changes</p>
+                                                        <p class="uabb-list-icon-text-heading">Stage with stage clip</p>
                                                     </div>
                                                     </div>
                                                     <div class="uabb-list-icon-wrap">
@@ -1892,10 +1914,8 @@
                                                             </span>
                                                         </div>
                                                     </div>
-                                                    <!-- Inline Block Space Fix
-                                                        -->
                                                     <div class="uabb-list-icon-text">
-                                                        <p class="uabb-list-icon-text-heading">Vehicles commissioned in days, not weeks</p>
+                                                        <p class="uabb-list-icon-text-heading">Its base made of metalic</p>
                                                     </div>
                                                     </div>
                                                     <div class="uabb-list-icon-wrap">
@@ -1907,10 +1927,8 @@
                                                             </span>
                                                         </div>
                                                     </div>
-                                                    <!-- Inline Block Space Fix
-                                                        -->
                                                     <div class="uabb-list-icon-text">
-                                                        <p class="uabb-list-icon-text-heading">ANT lab & ANT server software</p>
+                                                        <p class="uabb-list-icon-text-heading">Completed by coarse focus and fine focus</p>
                                                     </div>
                                                     </div>
                                                 </div>
@@ -1918,12 +1936,12 @@
                                         </div>
                                         <div class="fl-module fl-module-button fl-node-5f7def2424ab5 fl-animation fl-fade-in obvia" data-node="5f7def2424ab5" data-animation-delay="0" data-animation-duration="1">
                                             <div class="fl-module-content fl-node-content">
-                                                <div class="fl-button-wrap fl-button-width-auto fl-button-center fl-button-has-icon">
+                                                <!-- <div class="fl-button-wrap fl-button-width-auto fl-button-center fl-button-has-icon">
                                                     <a href="https://bluebotics.com/autonomous-navigation-technology/" target="_self" class="fl-button" role="button">
                                                     <i class="fl-button-icon fl-button-icon-before ua-icon ua-icon-minus2" aria-hidden="true"></i>
                                                     <span class="fl-button-text">Explore ANT</span>
                                                     </a>
-                                                </div>
+                                                </div> -->
                                             </div>
                                         </div>
                                         </div>
@@ -1938,7 +1956,7 @@
                             <div class="fl-row-content fl-row-full-width fl-node-content">
                                 <div class="fl-col-group fl-node-5f3dca951e489 fl-col-group-equal-height fl-col-group-align-bottom" data-node="5f3dca951e489">
                                     <div class="fl-col fl-node-5f3dca951e629 fl-col-small fl-visible-desktop-medium" data-node="5f3dca951e629">
-                                        <div class="fl-col-content fl-node-content"></div>
+                                        <div class="fl-col-content fl-node-content" style="margin-top: -210px;"></div>
                                     </div>
                                     <div class="fl-col fl-node-5f7deb72d9ecb fl-col-small fl-col-bg-overlay" data-node="5f7deb72d9ecb">
                                         <div class="fl-col-content fl-node-content">
@@ -1959,33 +1977,6 @@
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
                                 <div class="fl-col-group fl-node-5fb57baa76e91 fl-col-group-equal-height fl-col-group-align-center fl-col-group-custom-width" data-node="5fb57baa76e91">
-                                    <div class="fl-col fl-node-5fb57baa76e98 fl-col-small" data-node="5fb57baa76e98">
-                                        <div class="fl-col-content fl-node-content">
-                                        <div class="fl-module fl-module-pp-image fl-node-5fb57baa76e9c" data-node="5fb57baa76e9c">
-                                            <div class="fl-module-content fl-node-content">
-                                                <div class="pp-photo-container">
-                                                    <div class="pp-photo pp-photo-align-center pp-photo-align-responsive-default" itemscope itemtype="http://schema.org/ImageObject">
-                                                    <div class="pp-photo-content">
-                                                        <div class="pp-photo-content-inner">
-                                                            <picture decoding="async" class="pp-photo-img wp-image-1290 size-medium" itemprop="image" title="Logo-ABB">
-                                                                <source type="image/webp" data-lazy-srcset="{{asset('images/logo/arcwood_.png')}} 300w, {{asset('images/logo/arcwood_.png')}} 50w, {{asset('images/logo/arcwood_.png')}} 100w, {{asset('images/logo/arcwood_.png')}} 600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" alt="Logo-ABB" itemprop="image" height="150" width="300" data-lazy-srcset="{{asset('images/logo/arcwood_.png')}} 300w, {{asset('images/logo/arcwood_.png')}} 24w, {{asset('images/logo/arcwood_.png')}} 50w, {{asset('images/logo/arcwood_.png')}} 100w, {{asset('images/logo/arcwood_.png')}} 600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="{{asset('images/logo/arcwood_.png')}}"/>
-                                                            </picture>
-                                                            <noscript>
-                                                                <picture decoding="async" class="pp-photo-img wp-image-1290 size-medium" itemprop="image" title="Logo-ABB">
-                                                                <source type="image/webp" srcset="{{asset('images/logo/arcwood_.png')}} 300w, {{asset('images/logo/arcwood_.png')}} 50w, {{asset('images/logo/arcwood_.png')}} 100w, {{asset('images/logo/arcwood_.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                <img decoding="async" src="{{asset('images/logo/arcwood_.png')}}" alt="Logo-ABB" itemprop="image" height="150" width="300" srcset="{{asset('images/logo/arcwood_.png')}} 300w, {{asset('images/logo/arcwood_.png')}} 24w, {{asset('images/logo/arcwood_.png')}} 50w, {{asset('images/logo/arcwood_.png')}} 100w, {{asset('images/logo/arcwood_.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                </picture>
-                                                            </noscript>
-                                                            <div class="pp-overlay-bg"></div>
-                                                        </div>
-                                                    </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        </div>
-                                    </div>
                                     <div class="fl-col fl-node-5fb57baa76e99 fl-col-small" data-node="5fb57baa76e99">
                                         <div class="fl-col-content fl-node-content">
                                         <div class="fl-module fl-module-pp-image fl-node-5fb57baa76e9d" data-node="5fb57baa76e9d">
@@ -2013,6 +2004,34 @@
                                         </div>
                                         </div>
                                     </div>
+                                    <div class="fl-col fl-node-5fb57baa76e98 fl-col-small" data-node="5fb57baa76e98">
+                                        <div class="fl-col-content fl-node-content">
+                                        <div class="fl-module fl-module-pp-image fl-node-5fb57baa76e9c" data-node="5fb57baa76e9c">
+                                            <div class="fl-module-content fl-node-content">
+                                                <div class="pp-photo-container">
+                                                    <div class="pp-photo pp-photo-align-center pp-photo-align-responsive-default" itemscope itemtype="http://schema.org/ImageObject">
+                                                    <div class="pp-photo-content">
+                                                        <div class="pp-photo-content-inner">
+                                                            <picture decoding="async" class="pp-photo-img wp-image-1290 size-medium" itemprop="image" title="Logo-ABB">
+                                                                <source type="image/webp" data-lazy-srcset="{{asset('images/logo/arcwood_.png')}} 300w, {{asset('images/logo/arcwood_.png')}} 50w, {{asset('images/logo/arcwood_.png')}} 100w, {{asset('images/logo/arcwood_.png')}} 600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" alt="Logo-ABB" itemprop="image" height="150" width="300" data-lazy-srcset="{{asset('images/logo/arcwood_.png')}} 300w, {{asset('images/logo/arcwood_.png')}} 24w, {{asset('images/logo/arcwood_.png')}} 50w, {{asset('images/logo/arcwood_.png')}} 100w, {{asset('images/logo/arcwood_.png')}} 600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="{{asset('images/logo/arcwood_.png')}}"/>
+                                                            </picture>
+                                                            <noscript>
+                                                                <picture decoding="async" class="pp-photo-img wp-image-1290 size-medium" itemprop="image" title="Logo-ABB">
+                                                                <source type="image/webp" srcset="{{asset('images/logo/arcwood_.png')}} 300w, {{asset('images/logo/arcwood_.png')}} 50w, {{asset('images/logo/arcwood_.png')}} 100w, {{asset('images/logo/arcwood_.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <img decoding="async" src="{{asset('images/logo/arcwood_.png')}}" alt="Logo-ABB" itemprop="image" height="150" width="300" srcset="{{asset('images/logo/arcwood_.png')}} 300w, {{asset('images/logo/arcwood_.png')}} 24w, {{asset('images/logo/arcwood_.png')}} 50w, {{asset('images/logo/arcwood_.png')}} 100w, {{asset('images/logo/arcwood_.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                </picture>
+                                                            </noscript>
+                                                            <div class="pp-overlay-bg"></div>
+                                                        </div>
+                                                    </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        </div>
+                                    </div>
+                                    
                                     <div class="fl-col fl-node-5fb57baa76e9a fl-col-small" data-node="5fb57baa76e9a">
                                         <div class="fl-col-content fl-node-content">
                                         <div class="fl-module fl-module-pp-image fl-node-5fb57baa76e9e" data-node="5fb57baa76e9e">
@@ -2147,7 +2166,7 @@
                                         <div class="fl-module fl-module-rich-text fl-node-5fb57baa76ea9 obvia" data-node="5fb57baa76ea9">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="fl-rich-text">
-                                                    <h3>Trusted by companies around the world</h3>
+                                                    <h3>Our Brands</h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -2159,18 +2178,18 @@
                                         <div class="fl-module fl-module-rich-text fl-node-5fb57baa76eaa" data-node="5fb57baa76eaa">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="fl-rich-text">
-                                                    <p>Just a few of the organizations we have helped.</p>
+                                                    <!-- <p>Just a few of the organizations we have helped.</p> -->
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="fl-module fl-module-button fl-node-5ffccde1d4cc4 fl-animation fl-fade-in obvia" data-node="5ffccde1d4cc4" data-animation-delay="0" data-animation-duration="1">
                                             <div class="fl-module-content fl-node-content">
-                                                <div class="fl-button-wrap fl-button-width-auto fl-button-center fl-button-has-icon">
-                                                    <a href="https://bluebotics.com/references/" target="_self" class="fl-button" role="button">
+                                                <!-- <div class="fl-button-wrap fl-button-width-auto fl-button-center fl-button-has-icon">
+                                                    <a href="{{route('app.factory')}}" target="_self" class="fl-button" role="button">
                                                     <i class="fl-button-icon fl-button-icon-before ua-icon ua-icon-minus2" aria-hidden="true"></i>
                                                     <span class="fl-button-text">See More</span>
                                                     </a>
-                                                </div>
+                                                </div> -->
                                             </div>
                                         </div>
                                         </div>
@@ -2369,7 +2388,7 @@
                             </div>
                             </div>
                         </div>
-                        <div class="fl-row fl-row-full-width fl-row-bg-photo fl-node-5fee41413293e fl-row-bg-overlay" data-node="5fee41413293e">
+                        <!-- <div class="fl-row fl-row-full-width fl-row-bg-photo fl-node-5fee41413293e fl-row-bg-overlay" data-node="5fee41413293e">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
@@ -2401,10 +2420,8 @@
                                                                     Managing Director at Esatroll</p>
                                                                 </div>
                                                                 <p>
-                                                                    <!--more-->
                                                                 </p>
                                                                 <p>
-                                                                    <!--more-->
                                                                 </p>
                                                                 </div>
                                                             </div>
@@ -2478,7 +2495,6 @@
                                                         </div>
                                                     </div>
                                                     </div>
-                                                    <!-- /.pp-testimonials -->
                                                 </div>
                                             </div>
                                         </div>
@@ -2487,8 +2503,8 @@
                                 </div>
                             </div>
                             </div>
-                        </div>
-                        <div class="fl-row fl-row-full-width fl-row-bg-photo fl-node-5f3ddb38164a9 fl-row-custom-height fl-row-align-center" data-node="5f3ddb38164a9">
+                        </div> -->
+                        <div class="fl-row fl-row-full-width fl-row-bg-photo fl-node-5f3ddb38164a9 fl-row-custom-height fl-row-align-center" data-node="5f3ddb38164a9" style="margin-top: 50px;">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
@@ -2709,8 +2725,8 @@
                                                                     <div class="uabb-image
                                                                         uabb-image-crop-custom		" itemscope itemtype="https://schema.org/ImageObject">
                                                                         <div class="uabb-image-content">
-                                                                            <img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10549 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" alt="BlueBotics ANT navigation technology brings value to your vehicle." title="" itemprop="image" data-lazy-src="https://bluebotics.com/wp-content/uploads/2021/02/Steps-Discovery.svg"/>
-                                                                            <noscript><img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10549 size-thumbnail" src="https://bluebotics.com/wp-content/uploads/2021/02/Steps-Discovery.svg" alt="BlueBotics ANT navigation technology brings value to your vehicle." title="" itemprop="image"/></noscript>
+                                                                            <img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10549 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" alt="BlueBotics ANT navigation technology brings value to your vehicle." title="" itemprop="image" data-lazy-src="{{asset('images/discovery.png')}}"/>
+                                                                            <noscript><img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10549 size-thumbnail" src="{{asset('images/discovery.png')}}" alt="BlueBotics ANT navigation technology brings value to your vehicle." title="" itemprop="image"/></noscript>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2727,11 +2743,11 @@
                                                     </div>
                                                     <div class="fl-module fl-module-button fl-node-5f7f6198c2118 obvia" data-node="5f7f6198c2118">
                                                     <div class="fl-module-content fl-node-content">
-                                                        <div class="fl-button-wrap fl-button-width-auto fl-button-center">
+                                                        <!-- <div class="fl-button-wrap fl-button-width-auto fl-button-center">
                                                             <a href="/contact" target="_self" class="fl-button" role="button">
                                                             <span class="fl-button-text">Get in Touch</span>
                                                             </a>
-                                                        </div>
+                                                        </div> -->
                                                     </div>
                                                     </div>
                                                 </div>
@@ -2754,8 +2770,8 @@
                                                                     <div class="uabb-image
                                                                         uabb-image-crop-custom		" itemscope itemtype="https://schema.org/ImageObject">
                                                                         <div class="uabb-image-content">
-                                                                            <img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10554 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" alt="ANT driven vehicles include on-site support." title="" itemprop="image" data-lazy-src="https://bluebotics.com/wp-content/uploads/2021/02/Steps-Integration.svg"/>
-                                                                            <noscript><img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10554 size-thumbnail" src="https://bluebotics.com/wp-content/uploads/2021/02/Steps-Integration.svg" alt="ANT driven vehicles include on-site support." title="" itemprop="image"/></noscript>
+                                                                            <img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10554 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" alt="ANT driven vehicles include on-site support." title="" itemprop="image" data-lazy-src="{{asset('images/integration.png')}}"/>
+                                                                            <noscript><img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10554 size-thumbnail" src="{{asset('images/integration.png')}}" alt="ANT driven vehicles include on-site support." title="" itemprop="image"/></noscript>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2772,11 +2788,11 @@
                                                     </div>
                                                     <div class="fl-module fl-module-pp-file-download fl-node-5fa1796be44ac obvia" data-node="5fa1796be44ac">
                                                     <div class="fl-module-content fl-node-content">
-                                                        <div class="pp-button-wrap pp-button-width-auto">
+                                                        <!-- <div class="pp-button-wrap pp-button-width-auto">
                                                             <a href="https://bluebotics.com/wp-content/uploads/2021/01/BlueBotics_Project_Phases.pdf" target="_self" class="pp-button" role="button" download="BlueBotics_Project_Phases.pdf" aria-label="detailed guide">
                                                             <span class="pp-button-text">detailed guide</span>
                                                             </a>
-                                                        </div>
+                                                        </div> -->
                                                     </div>
                                                     </div>
                                                 </div>
@@ -2799,8 +2815,8 @@
                                                                     <div class="uabb-image
                                                                         uabb-image-crop-custom		" itemscope itemtype="https://schema.org/ImageObject">
                                                                         <div class="uabb-image-content">
-                                                                            <img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10559 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" alt="BlueBotics ANT offers on-site support." title="" itemprop="image" data-lazy-src="https://bluebotics.com/wp-content/uploads/2021/02/Steps-Launch.svg"/>
-                                                                            <noscript><img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10559 size-thumbnail" src="https://bluebotics.com/wp-content/uploads/2021/02/Steps-Launch.svg" alt="BlueBotics ANT offers on-site support." title="" itemprop="image"/></noscript>
+                                                                            <img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10559 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" alt="BlueBotics ANT offers on-site support." title="" itemprop="image" data-lazy-src="{{asset('images/launch.png')}}"/>
+                                                                            <noscript><img width="500" height="500" decoding="async"  class="uabb-photo-img wp-image-10559 size-thumbnail" src="{{asset('images/launch.png')}}" alt="BlueBotics ANT offers on-site support." title="" itemprop="image"/></noscript>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2817,11 +2833,11 @@
                                                     </div>
                                                     <div class="fl-module fl-module-button fl-node-5f7f619f22b00 obvia" data-node="5f7f619f22b00">
                                                     <div class="fl-module-content fl-node-content">
-                                                        <div class="fl-button-wrap fl-button-width-auto fl-button-center">
+                                                        <!-- <div class="fl-button-wrap fl-button-width-auto fl-button-center">
                                                             <a href="/#example-products" target="_self" class="fl-button" role="button">
                                                             <span class="fl-button-text">View example projects</span>
                                                             </a>
-                                                        </div>
+                                                        </div> -->
                                                     </div>
                                                     </div>
                                                 </div>
@@ -2843,7 +2859,7 @@
                                         <div class="fl-module fl-module-heading fl-node-5f3ddb38165ce" data-node="5f3ddb38165ce">
                                             <div class="fl-module-content fl-node-content">
                                                 <h3 class="fl-heading">
-                                                    <span class="fl-heading-text">Example Projects</span>
+                                                    <span class="fl-heading-text">Factory & Warehouse</span>
                                                 </h3>
                                             </div>
                                         </div>
@@ -2886,7 +2902,7 @@
                                         <div class="fl-module fl-module-heading fl-node-5f3df04c63dea" data-node="5f3df04c63dea">
                                             <div class="fl-module-content fl-node-content">
                                                 <h3 class="fl-heading">
-                                                    <span class="fl-heading-text">Automation of a high lift truck</span>
+                                                    <span class="fl-heading-text">Finished Goods Warehouse</span>
                                                 </h3>
                                             </div>
                                         </div>
@@ -3033,7 +3049,7 @@
                                         <div class="fl-module fl-module-heading fl-node-5f7f6c4b7f466" data-node="5f7f6c4b7f466">
                                             <div class="fl-module-content fl-node-content">
                                                 <h3 class="fl-heading">
-                                                    <span class="fl-heading-text">Automation of a manual tow tractor truck</span>
+                                                    <span class="fl-heading-text">Distribution Warehouse</span>
                                                 </h3>
                                             </div>
                                         </div>
@@ -3158,7 +3174,7 @@
                                         <div class="fl-module fl-module-heading fl-node-5f7f6c4983d83" data-node="5f7f6c4983d83">
                                             <div class="fl-module-content fl-node-content">
                                                 <h3 class="fl-heading">
-                                                    <span class="fl-heading-text">Automation of a logistics mouse AGV (AGC)</span>
+                                                    <span class="fl-heading-text">Raw Material Warehouse</span>
                                                 </h3>
                                             </div>
                                         </div>
@@ -3396,7 +3412,7 @@
                                         <div class="fl-module fl-module-button fl-node-5f3df4beb9560 obvia" data-node="5f3df4beb9560">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="fl-button-wrap fl-button-width-auto fl-button-left">
-                                                    <a href="/contact" target="_self" class="fl-button" role="button">
+                                                    <a href="{{route('app.contact')}}" target="_self" class="fl-button" role="button">
                                                     <span class="fl-button-text">Get in Touch</span>
                                                     </a>
                                                 </div>

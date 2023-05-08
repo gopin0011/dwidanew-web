@@ -4703,7 +4703,7 @@
                                         <div class="fl-module fl-module-button fl-node-5ffccde1d4cc4 fl-animation fl-fade-in obvia" data-node="5ffccde1d4cc4" data-animation-delay="0" data-animation-duration="1">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="fl-button-wrap fl-button-width-auto fl-button-center fl-button-has-icon">
-                                                    <a href="https://bluebotics.com/references/" target="_self" class="fl-button" role="button">
+                                                    <a href="{{route('app.factory')}}" target="_self" class="fl-button" role="button">
                                                     <i class="fl-button-icon fl-button-icon-before ua-icon ua-icon-minus2" aria-hidden="true"></i>
                                                     <span class="fl-button-text">See More</span>
                                                     </a>

@@ -11,7 +11,7 @@
                                     <div class="fl-photo fl-photo-align-left" itemscope itemtype="https://schema.org/ImageObject">
                                        <div class="fl-photo-content fl-photo-img-svg">
                                           <a href="{{route('app.home')}}" target="_self" itemprop="url">
-                                             <img decoding="async" class="fl-photo-img wp-image-2785 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="BlueBotics logo white" itemprop="image" height="0" width="0"  data-lazy-src="{{asset('images/djt_.png')}}" />
+                                             <img decoding="async" class="fl-photo-img wp-image-2785 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="BlueBotics logo white" itemprop="image" height="0" width="0"  data-lazy-src="{{asset('images/logo/djt_pt_putih.png')}}" />
                                              <noscript><img decoding="async" class="fl-photo-img wp-image-2785 size-full" src="{{asset('images/djt_.png')}}" alt="BlueBotics logo white" itemprop="image" height="0" width="0"  /></noscript>
                                           </a>
                                        </div>
@@ -75,7 +75,6 @@
                                  <div class="fl-module-content fl-node-content">
                                     <div class="fl-rich-text">
                                        <p>In 2007, PT. DWIDA JAYA TAMA coming as a company specialized in manufacturing education equipment. It started from education equipment for elementary to junior high school. Since then, we are also thriving to the higher level, for senior high school to the university. Starting as an education equipment provider for majors such as math and science also for software which becoming a trend nowadays.</p>
-                                       <!-- <p>A ZAPI GROUP COMPANY</p> -->
                                     </div>
                                  </div>
                               </div>
@@ -101,6 +100,30 @@
                                           <div class="fl-module-content fl-node-content">
                                              <div class="fl-rich-text">
                                                 <p><a href="#">(0251) 861 8889</a></p>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="fl-col-group fl-node-616d8bfa30087 fl-col-group-nested fl-col-group-custom-width" data-node="616d8bfa30087" style="margin-top: -20px;">
+                                 <div class="fl-col fl-node-616d8bfa30088 fl-col-small" data-node="616d8bfa30088">
+                                    <div class="fl-col-content fl-node-content">
+                                       <div class="fl-module fl-module-heading fl-node-616d8bfa30089" data-node="616d8bfa30089">
+                                          <div class="fl-module-content fl-node-content">
+                                             <h3 class="fl-heading">
+                                                <span class="fl-heading-text">Email</span>
+                                             </h3>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div class="fl-col fl-node-616d8bfa3008a fl-col-small" data-node="616d8bfa3008a">
+                                    <div class="fl-col-content fl-node-content">
+                                       <div class="fl-module fl-module-rich-text fl-node-616d8bfa3008b" data-node="616d8bfa3008b">
+                                          <div class="fl-module-content fl-node-content">
+                                             <div class="fl-rich-text">
+                                                <p><a href="#">info@dwidajayatama.com</a></p>
                                              </div>
                                           </div>
                                        </div>
@@ -201,9 +224,9 @@
                               </div>
                            </div>
                         </div>
-                        <div class="fl-col fl-node-616d8bfa30098 fl-col-small fl-col-has-cols" data-node="616d8bfa30098" style="display:none;">
+                        <div class="fl-col fl-node-616d8bfa30098 fl-col-small fl-col-has-cols" data-node="616d8bfa30098">
                            <div class="fl-col-content fl-node-content">
-                              <div class="fl-module fl-module-advanced-separator fl-node-616d8bfa30099" data-node="616d8bfa30099">
+                              <!-- <div class="fl-module fl-module-advanced-separator fl-node-616d8bfa30099" data-node="616d8bfa30099">
                                  <div class="fl-module-content fl-node-content">
                                     <div class="uabb-module-content uabb-separator-parent">
                                        <div class="uabb-separator-wrap uabb-separator-center ">
@@ -219,10 +242,14 @@
                                        </div>
                                     </div>
                                  </div>
-                              </div>
+                              </div> -->
+
+
                               <div class="fl-col-group fl-node-616d8bfa3009a fl-col-group-nested fl-col-group-custom-width" data-node="616d8bfa3009a">
-                                 <div class="fl-col fl-node-616d8bfa3009b" data-node="616d8bfa3009b">
+                                 <!-- <div class="fl-col fl-node-616d8bfa3009b" data-node="616d8bfa3009b">
                                     <div class="fl-col-content fl-node-content">
+                                    <img src="{{asset('images/logo/djt_group.png')}}" style="margin-top:20px; margin-left: 100px;" width="100%">
+
                                        <div class="fl-module fl-module-menu fl-node-616d8bfa3009c" data-node="616d8bfa3009c">
                                           <div class="fl-module-content fl-node-content">
                                              <div class="fl-menu">
@@ -231,7 +258,7 @@
                                                    <ul id="menu-footer-menu" class="menu fl-menu-vertical fl-toggle-none">
                                                       <li id="menu-item-820" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://bluebotics.com/autonomous-navigation-technology/">Navigation</a></li>
                                                       <li id="menu-item-197" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://bluebotics.com/engineering-services/">Engineering</a></li>
-                                                      <li id="menu-item-821" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://bluebotics.com/references/">References</a></li>
+                                                      <li id="menu-item-821" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{route('app.factory')}}">References</a></li>
                                                       <li id="menu-item-9251" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-24 current_page_item"><a href="https://bluebotics.com/about/">Company</a></li>
                                                    </ul>
                                                 </nav>
@@ -239,26 +266,35 @@
                                           </div>
                                        </div>
                                     </div>
-                                 </div>
-                                 <div class="fl-col fl-node-616d8bfa3009d fl-col-small" data-node="616d8bfa3009d">
+                                 </div> -->
+                                 <!-- <div class="fl-col fl-node-616d8bfa30083 fl-col-small" data-node="616d8bfa30083"> -->
                                     <div class="fl-col-content fl-node-content">
-                                       <div class="fl-module fl-module-menu fl-node-616d8bfa3009e" data-node="616d8bfa3009e">
+                                       <div class="fl-module fl-module-advanced-separator fl-node-616d8bfa30084" data-node="616d8bfa30084">
                                           <div class="fl-module-content fl-node-content">
-                                             <div class="fl-menu">
-                                                <div class="fl-clear"></div>
-                                                <nav aria-label="Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
-                                                   <ul id="menu-footer-menu-2" class="menu fl-menu-vertical fl-toggle-none">
-                                                      <li id="menu-item-2910" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://support.bluebotics.com">Support</a></li>
-                                                      <li id="menu-item-10368" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://bluebotics.com/category/news/">News</a></li>
-                                                      <li id="menu-item-819" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://bluebotics.com/blog/">Blog</a></li>
-                                                      <li id="menu-item-2911" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://bluebotics.com/webinar-navigation-technologies/">Webinar</a></li>
-                                                   </ul>
-                                                </nav>
+                                             <div class="uabb-module-content uabb-separator-parent">
+                                                <div class="uabb-separator-wrap uabb-separator-center ">
+                                                   <div class="uabb-separator-line uabb-side-left">
+                                                      <span></span>
+                                                   </div>
+                                                   <div class="uabb-divider-content uabbi-divider">
+                                                      <h3 class="uabb-divider-text">Part Of</h3>
+                                                   </div>
+                                                   <div class="uabb-separator-line uabb-side-right">
+                                                      <span></span>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div class="fl-module fl-module-rich-text fl-node-616d8bfa30085" data-node="616d8bfa30085">
+                                          <div class="fl-module-content fl-node-content">
+                                             <div class="fl-rich-text">
+                                                <img src="{{asset('images/logo/djt_group.png')}}" width="100%">
                                              </div>
                                           </div>
                                        </div>
                                     </div>
-                                 </div>
+                                 <!-- </div> -->
                               </div>
                            </div>
                         </div>
