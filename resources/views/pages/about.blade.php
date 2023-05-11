@@ -883,7 +883,7 @@
          z-index: 9;
          background: #ffffff;
          width: 100%;
-         box-shadow: 3px 5px 15px 2px rgba(0,97,172,0.2);
+         /* box-shadow: 3px 5px 15px 2px rgba(0,97,172,0.2); */
          }
          .team-slide-box .uabb-slide-face-text-title {
          bottom: 110px;
@@ -1124,7 +1124,7 @@
                                         <div class="fl-module fl-module-heading fl-node-5f90a012491cd fl-animation fl-fade-left" data-node="5f90a012491cd" data-animation-delay="0" data-animation-duration="1">
                                             <div class="fl-module-content fl-node-content">
                                                 <h1 class="fl-heading">
-                                                    <span class="fl-heading-text">MEET BLUEBOTICS</span>
+                                                    <span class="fl-heading-text">MISSION STATEMENT</span>
                                                 </h1>
                                             </div>
                                         </div>
@@ -1136,7 +1136,7 @@
                                         <div class="fl-module fl-module-heading fl-node-5f90a012491ce fl-animation fl-fade-left" data-node="5f90a012491ce" data-animation-delay="0.25" data-animation-duration="2">
                                             <div class="fl-module-content fl-node-content">
                                                 <h4 class="fl-heading">
-                                                    <span class="fl-heading-text">At BlueBotics we help companies meet the challenge of vehicle automation. We provide the navigation technology and expert support they need to bring their AGV, automated forklift or mobile robot successfully to market.</span>
+                                                    <span class="fl-heading-text">We are committed to our customers success by providing high quality, value-added products, services and solutions and with integrity.</span>
                                                 </h4>
                                             </div>
                                         </div>
@@ -1159,7 +1159,7 @@
                                                     <div class="fl-module fl-module-heading fl-node-5f90a02030ffa" data-node="5f90a02030ffa">
                                                     <div class="fl-module-content fl-node-content">
                                                         <h3 class="fl-heading">
-                                                            <span class="fl-heading-text">The reference in autonomous navigation</span>
+                                                            <span class="fl-heading-text">About Us</span>
                                                         </h3>
                                                     </div>
                                                     </div>
@@ -1176,7 +1176,7 @@
                                                     <div class="fl-module fl-module-rich-text fl-node-5f90a02030ffd" data-node="5f90a02030ffd">
                                                     <div class="fl-module-content fl-node-content">
                                                         <div class="fl-rich-text">
-                                                            <p>Established in Switzerland in 2001, we have spent twenty years refining our <a href="https://bluebotics.com/autonomous-navigation-technology/">natural feature navigation technology</a> (ANT) in order to make AGVs easier to install and operate. Over this period, we have helped companies to develop dozens of ANT driven AGVs, automated forklifts and mobile robots.</p>
+                                                            <p>PT Dwida Jaya Tama is a private company founded in 2006. Initially, our business was more focused on distributing educational aids. After seeing the market growth in Indonesia, we decided to expand our business by creating our own educational aids. Over time, we have been successful in producing aids for primary and secondary education, and now we are able to produce equipment for all levels of education.</p>
                                                         </div>
                                                     </div>
                                                     </div>
@@ -1189,24 +1189,24 @@
                             </div>
                             </div>
                         </div>
-                        <div class="fl-row fl-row-fixed-width fl-row-bg-photo fl-node-5f90a0b225f10 top-layer" data-node="5f90a0b225f10">
+                        <!-- <div class="fl-row fl-row-fixed-width fl-row-bg-photo fl-node-5f90a0b225f10 top-layer" data-node="5f90a0b225f10">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
-                            <div class="fl-row-content fl-row-full-width fl-node-content">
-                                <div class="fl-col-group fl-node-5f90a0b225f07" data-node="5f90a0b225f07">
-                                    <div class="fl-col fl-node-5f90a0b225f0a fl-col-has-cols" data-node="5f90a0b225f0a">
+                            <div class="fl-row-content fl-row-fixed-width fl-node-content">
+                                <div class="fl-col-group fl-node-5f7de8770b52d" data-node="5f7de8770b52d">
+                                    <div class="fl-col fl-node-5f7de8770b52f fl-col-has-cols" data-node="5f7de8770b52f">
                                         <div class="fl-col-content fl-node-content">
-                                        <div class="fl-col-group fl-node-5f90a0b225f0b fl-col-group-nested" data-node="5f90a0b225f0b">
-                                            <div class="fl-col fl-node-5f90a0b225f0c" data-node="5f90a0b225f0c">
+                                        <div class="fl-col-group fl-node-5f7de8770b530 fl-col-group-nested" data-node="5f7de8770b530">
+                                            <div class="fl-col fl-node-5f7de8770b531" data-node="5f7de8770b531">
                                                 <div class="fl-col-content fl-node-content">
-                                                    <div class="fl-module fl-module-info-list fl-node-5f90a0b225f0d border-box obvia" data-node="5f90a0b225f0d">
+                                                    <div class="fl-module fl-module-info-list fl-node-5f7de8770b532 border-box obvia" data-node="5f7de8770b532">
                                                     <div class="fl-module-content fl-node-content">
                                                         <div class="uabb-module-content uabb-info-list">
                                                             <ul class="uabb-info-list-wrapper uabb-info-list-top">
                                                                 <li class="uabb-info-list-item info-list-item-dynamic0">
                                                                 <div class="uabb-info-list-content-wrapper fl-clearfix uabb-info-list-top">
                                                                     <div class="uabb-info-list-content uabb-info-list-top info-list-content-dynamic0">
-                                                                        <h3 class="uabb-info-list-title">20 YRS</h3 >
+                                                                        <h3 class="uabb-info-list-title">1,000+</h3 >
                                                                         <div class="uabb-info-list-description uabb-text-editor info-list-description-dynamic0">
                                                                             <p>
                                                                             <h5 style="text-align: center;">
@@ -1220,7 +1220,7 @@
                                                                                     <img decoding="async" src="https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2.png" alt="" width="101" height="5" srcset="https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2.png 101w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-24x1.png 24w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-50x2.png 50w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-75x4.png 75w" sizes="(max-width: 101px) 100vw, 101px"/>
                                                                                 </picture>
                                                                             </noscript>
-                                                                            Of Natural<br />Feature<br />Navigation
+                                                                            EQUIPMENTS
                                                                             </h5>
                                                                             </p>
                                                                         </div>
@@ -1230,7 +1230,7 @@
                                                                 <li class="uabb-info-list-item info-list-item-dynamic1">
                                                                 <div class="uabb-info-list-content-wrapper fl-clearfix uabb-info-list-top">
                                                                     <div class="uabb-info-list-content uabb-info-list-top info-list-content-dynamic1">
-                                                                        <h3 class="uabb-info-list-title">4,000+</h3 >
+                                                                        <h3 class="uabb-info-list-title">20+</h3 >
                                                                         <div class="uabb-info-list-description uabb-text-editor info-list-description-dynamic1">
                                                                             <p>
                                                                             <h5 style="text-align: center;">
@@ -1244,7 +1244,7 @@
                                                                                     <img decoding="async" src="https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2.png" alt="" width="101" height="5" srcset="https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2.png 101w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-24x1.png 24w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-50x2.png 50w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-75x4.png 75w" sizes="(max-width: 101px) 100vw, 101px"/>
                                                                                 </picture>
                                                                             </noscript>
-                                                                            ANT driven<br />VEHICLES IN<br />OPERATION
+                                                                            PROVINCE FOR<br>DISTRIBUTION
                                                                             </h5>
                                                                             </p>
                                                                         </div>
@@ -1254,7 +1254,7 @@
                                                                 <li class="uabb-info-list-item info-list-item-dynamic2">
                                                                 <div class="uabb-info-list-content-wrapper fl-clearfix uabb-info-list-top">
                                                                     <div class="uabb-info-list-content uabb-info-list-top info-list-content-dynamic2">
-                                                                        <h3 class="uabb-info-list-title">1,000+</h3 >
+                                                                        <h3 class="uabb-info-list-title">50+</h3 >
                                                                         <div class="uabb-info-list-description uabb-text-editor info-list-description-dynamic2">
                                                                             <p>
                                                                             <h5 style="text-align: center;">
@@ -1268,31 +1268,7 @@
                                                                                     <img decoding="async" src="https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2.png" alt="" width="101" height="5" srcset="https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2.png 101w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-24x1.png 24w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-50x2.png 50w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-75x4.png 75w" sizes="(max-width: 101px) 100vw, 101px"/>
                                                                                 </picture>
                                                                             </noscript>
-                                                                            END-USER <br />INSTALLATIONS
-                                                                            </h5>
-                                                                            </p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                </li>
-                                                                <li class="uabb-info-list-item info-list-item-dynamic3">
-                                                                <div class="uabb-info-list-content-wrapper fl-clearfix uabb-info-list-top">
-                                                                    <div class="uabb-info-list-content uabb-info-list-top info-list-content-dynamic3">
-                                                                        <h3 class="uabb-info-list-title">10+</h3 >
-                                                                        <div class="uabb-info-list-description uabb-text-editor info-list-description-dynamic3">
-                                                                            <p>
-                                                                            <h5 style="text-align: center;">
-                                                                            <picture decoding="async" class="size-full wp-image-639 aligncenter" style="margin-top: 10px; margin-bottom: 20px;">
-                                                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2.png.webp 101w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-50x2.png.webp 50w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20101%205&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 101px) 100vw, 101px"/>
-                                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20101%205&#039;%3E%3C/svg%3E" alt="" width="101" height="5" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2.png 101w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-24x1.png 24w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-50x2.png 50w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-75x4.png 75w" data-lazy-sizes="(max-width: 101px) 100vw, 101px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2.png"/>
-                                                                            </picture>
-                                                                            <noscript>
-                                                                                <picture decoding="async" class="size-full wp-image-639 aligncenter" style="margin-top: 10px; margin-bottom: 20px;">
-                                                                                    <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2.png.webp 101w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-50x2.png.webp 50w" sizes="(max-width: 101px) 100vw, 101px"/>
-                                                                                    <img decoding="async" src="https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2.png" alt="" width="101" height="5" srcset="https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2.png 101w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-24x1.png 24w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-50x2.png 50w, https://bluebotics.com/wp-content/uploads/2020/08/Yellow-Line2-75x4.png 75w" sizes="(max-width: 101px) 100vw, 101px"/>
-                                                                                </picture>
-                                                                            </noscript>
-                                                                            MILLION KM<br />DRIVEN BY ANT
+                                                                            END-USER<br />INSTANCE
                                                                             </h5>
                                                                             </p>
                                                                         </div>
@@ -1309,9 +1285,25 @@
                                         </div>
                                     </div>
                                 </div>
+                                <div class="fl-col-group fl-node-5f7de8770b533" data-node="5f7de8770b533">
+                                    <div class="fl-col fl-node-5f7de8770b534" data-node="5f7de8770b534">
+                                        <div class="fl-col-content fl-node-content">
+                                        <div class="fl-module fl-module-button fl-node-5f7de8770b535 fl-animation fl-fade-in obvia" data-node="5f7de8770b535" data-animation-delay="0" data-animation-duration="1">
+                                            <div class="fl-module-content fl-node-content">
+                                                <div class="fl-button-wrap fl-button-width-auto fl-button-center fl-button-has-icon">
+                                                    <a href="https://bluebotics.com/about/" target="_self" class="fl-button" role="button">
+                                                    <i class="fl-button-icon fl-button-icon-before ua-icon ua-icon-minus2" aria-hidden="true"></i>
+                                                    <span class="fl-button-text">LEARN MORE</span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
-                            </div>
-                        </div>
+                            </div>                            
+                        </div> -->
                         <div class="fl-row fl-row-full-width fl-row-bg-photo fl-node-5f909fa8899d2 fl-row-bg-overlay" data-node="5f909fa8899d2">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
@@ -1334,7 +1326,7 @@
                                         <div class="fl-module fl-module-rich-text fl-node-5f909fa8899d7" data-node="5f909fa8899d7">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="fl-rich-text">
-                                                    <p>At BlueBotics everything we do is driven by our three core values.</p>
+                                                    <p>At Dwida Jaya Tama everything we do is driven by our three core.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -1442,7 +1434,7 @@
                                         <div class="fl-module fl-module-rich-text fl-node-5f90a4220124b" data-node="5f90a4220124b">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="fl-rich-text">
-                                                    <p>Our products are not only engineered in Switzerland, they are also produced here. Together with our network of suppliers, we deliver precise Swiss Made solutions, which guarantee your vehicles perform perfectly, both now and in the future.</p>
+                                                    <p>Our products engineered and produced in Jakarta, together with our network of suppliers, we deliver precise Indonesia Made Solutions, which guarantee your vehicles perform perfectly, both now and in the future.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -1465,7 +1457,7 @@
                                                     <div class="fl-module fl-module-heading fl-node-5fcdad1921d28" data-node="5fcdad1921d28">
                                                     <div class="fl-module-content fl-node-content">
                                                         <h3 class="fl-heading">
-                                                            <span class="fl-heading-text">Swiss Made</span>
+                                                            <span class="fl-heading-text">Made In <br>Indonesia</span>
                                                         </h3>
                                                     </div>
                                                     </div>
@@ -1481,7 +1473,239 @@
                             </div>
                             </div>
                         </div>
-                        <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5f90a73915c94" data-node="5f90a73915c94">
+                        <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5fee035751275 top-layer" data-node="5fee035751275">
+                            <div class="fl-row-content-wrap">
+                            <div class="uabb-row-separator uabb-top-row-separator" ></div>
+                            <div class="fl-row-content fl-row-fixed-width fl-node-content">
+                                <div class="fl-col-group fl-node-5fee0357517ae fl-col-group-custom-width" data-node="5fee0357517ae">
+                                    <div class="fl-col fl-node-5fee0357517b2 fl-col-small fl-col-has-cols top_layer set-width" data-node="5fee0357517b2">
+                                        <div class="fl-col-content fl-node-content">
+                                        <div class="fl-col-group fl-node-5fee0357517b3 fl-col-group-nested" data-node="5fee0357517b3">
+                                            <div class="fl-col fl-node-5fee0357517b4" data-node="5fee0357517b4">
+                                                <div class="fl-col-content fl-node-content">
+                                                    <div class="fl-module fl-module-heading fl-node-5fee0357517b5" data-node="5fee0357517b5">
+                                                    <div class="fl-module-content fl-node-content">
+                                                        <h3 class="fl-heading">
+                                                            <span class="fl-heading-text">ISO</span>
+                                                        </h3>
+                                                    </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        </div>
+                                    </div>
+                                    <div class="fl-col fl-node-5fee0357517b1 fl-col-small fl-visible-desktop-medium" data-node="5fee0357517b1">
+                                        <div class="fl-col-content fl-node-content"></div>
+                                    </div>
+                                </div>
+                                <div class="fl-col-group fl-node-5fee0357517b6 fl-col-group-custom-width" data-node="5fee0357517b6">
+                                    <div class="fl-col fl-node-5fee0357517b7 fl-col-small" data-node="5fee0357517b7">
+                                        <div class="fl-col-content fl-node-content">
+                                        <div class="fl-module fl-module-slide-box fl-node-5fee0357517bc team-slide-box" data-node="5fee0357517bc">
+                                            <div class="fl-module-content fl-node-content">
+                                                <div class="uabb-module-content uabb-slide-box-wrap">
+                                                    <div class="uabb-slide-type uabb-style2" data-style="style2">
+                                                    <div id="uabb-slide-box-wrap-5fee0357517bc" class="uabb-slide-box">
+                                                        <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
+                                                            <div class="uabb-slide-box-section ">
+                                                                
+                                                                <div class="uabb-slide-front-above-img">
+                                                                <div class="uabb-module-content uabb-imgicon-wrap">
+                                                                    <div class="uabb-image
+                                                                        uabb-image-crop-simple		" itemscope itemtype="https://schema.org/ImageObject">
+                                                                        <div class="uabb-image-content">
+                                                                            <picture decoding="async" class="uabb-photo-img wp-image-11316 size-large" title="" itemprop="image">
+                                                                            <source type="image/webp" data-lazy-srcset="{{asset('images/iso1.jpeg')}} 1024w, {{asset('images/iso1.jpeg')}} 300w, {{asset('images/iso1.jpeg')}} 150w, {{asset('images/iso1.jpeg')}} 768w, {{asset('images/iso1.jpeg')}} 50w, {{asset('images/iso1.jpeg')}} 100w, {{asset('images/iso1.jpeg')}} 1200w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%201024&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
+                                                                            <img decoding="async" width="1024" height="1024" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%201024&#039;%3E%3C/svg%3E" alt="BlueBotics Project Manager Samuel Chevalley." itemprop="image" data-lazy-srcset="{{asset('images/iso1.jpeg')}} 1024w, {{asset('images/iso1.jpeg')}} 300w, {{asset('images/iso1.jpeg')}} 150w, {{asset('images/iso1.jpeg')}} 768w, {{asset('images/iso1.jpeg')}} 50w, {{asset('images/iso1.jpeg')}} 100w, {{asset('images/iso1.jpeg')}} 1200w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="{{asset('images/iso1.jpeg')}}"/>
+                                                                            </picture>
+                                                                            <noscript>
+                                                                            <picture decoding="async" class="uabb-photo-img wp-image-11316 size-large" title="" itemprop="image">
+                                                                                <source type="image/webp" srcset="{{asset('images/iso1.jpeg')}} 1024w, {{asset('images/iso1.jpeg')}} 300w, {{asset('images/iso1.jpeg')}} 150w, {{asset('images/iso1.jpeg')}} 768w, {{asset('images/iso1.jpeg')}} 50w, {{asset('images/iso1.jpeg')}} 100w, {{asset('images/iso1.jpeg')}} 1200w" sizes="(max-width: 1024px) 100vw, 1024px"/>
+                                                                                <img decoding="async" width="1024" height="1024" src="{{asset('images/iso1.jpeg')}}" alt="BlueBotics Project Manager Samuel Chevalley." itemprop="image" srcset="{{asset('images/iso1.jpeg')}} 1024w, {{asset('images/iso1.jpeg')}} 300w, {{asset('images/iso1.jpeg')}} 150w, {{asset('images/iso1.jpeg')}} 768w, {{asset('images/iso1.jpeg')}} 50w, {{asset('images/iso1.jpeg')}} 100w, {{asset('images/iso1.jpeg')}} 1200w" sizes="(max-width: 1024px) 100vw, 1024px"/>
+                                                                            </picture>
+                                                                            </noscript>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                </div>
+                                                                
+                                                                <div class="uabb-slide-front-right-text">
+                                                                
+                                                                <!-- <h3 class="uabb-slide-face-text-title">Samuel CHEVALLEY</h3> -->
+                                                                
+                                                                <!-- <div class="uabb-slide-box-section-content uabb-text-editor">
+                                                                    <h4>Project Manager</h4>
+                                                                    <p>Languages:<br />EN, FR</p>
+                                                                </div> -->
+                                                                
+                                                                </div>
+                                                                
+                                                                <!-- <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
+                                                                <span class="uabb-icon">
+                                                                <i class="fas fa-angle-down"></i>
+                                                                </span>
+                                                                </span>
+                                                                </div> -->
+                                                                
+                                                            </div>
+                                                            
+                                                        </div>
+                                                        
+                                                        <!-- <div class="uabb-slide-face uabb-slide-down">
+                                                            <div class="uabb-slide-box-section- ">
+                                                                <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
+                                                                <div class="uabb-slide-down-box-section-content uabb-text-editor">
+                                                                <p>Samuel studied Microtechnics Engineering at the HEIG in Vaud, Switzerland and worked in mechanical designing and engineering before joining BlueBotics as a Project Manager. When not at work, Samuel plays drums in two bands and designs and 3D prints bespoke creations.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div> -->
+                                                    </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        </div>
+                                    </div>
+                                    <div class="fl-col fl-node-5fee0357517b9 fl-col-small" data-node="5fee0357517b9">
+                                        <div class="fl-col-content fl-node-content">
+                                        <div class="fl-module fl-module-slide-box fl-node-yr1f3cguwaxi team-slide-box" data-node="yr1f3cguwaxi">
+                                            <div class="fl-module-content fl-node-content">
+                                                <div class="uabb-module-content uabb-slide-box-wrap">
+                                                    <div class="uabb-slide-type uabb-style2" data-style="style2">
+                                                    <div id="uabb-slide-box-wrap-yr1f3cguwaxi" class="uabb-slide-box">
+                                                        <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
+                                                            <div class="uabb-slide-box-section ">
+                                                                
+                                                                <div class="uabb-slide-front-above-img">
+                                                                <div class="uabb-module-content uabb-imgicon-wrap">
+                                                                    <div class="uabb-image
+                                                                        uabb-image-crop-simple		" itemscope itemtype="https://schema.org/ImageObject">
+                                                                        <div class="uabb-image-content">
+                                                                            <picture decoding="async" class="uabb-photo-img wp-image-20178 size-large" title="" itemprop="image">
+                                                                            <source type="image/webp" data-lazy-srcset="{{asset('images/iso2.jpeg')}} 1024w, {{asset('images/iso2.jpeg')}} 300w, {{asset('images/iso2.jpeg')}} 150w, {{asset('images/iso2.jpeg')}} 768w, {{asset('images/iso2.jpeg')}} 1200w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%201024&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
+                                                                            <img decoding="async" width="1024" height="1024" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%201024&#039;%3E%3C/svg%3E" alt="Richard Revangue Project Manager BlueBotics" itemprop="image" data-lazy-srcset="{{asset('images/iso2.jpeg')}} 1024w, {{asset('images/iso2.jpeg')}} 300w, {{asset('images/iso2.jpeg')}} 150w, {{asset('images/iso2.jpeg')}} 768w, {{asset('images/iso2.jpeg')}} 1200w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="{{asset('images/iso2.jpeg')}}"/>
+                                                                            </picture>
+                                                                            <noscript>
+                                                                            <picture decoding="async" class="uabb-photo-img wp-image-20178 size-large" title="" itemprop="image">
+                                                                                <source type="image/webp" srcset="{{asset('images/iso2.jpeg')}} 1024w, {{asset('images/iso2.jpeg')}} 300w, {{asset('images/iso2.jpeg')}} 150w, {{asset('images/iso2.jpeg')}} 768w, {{asset('images/iso2.jpeg')}} 1200w" sizes="(max-width: 1024px) 100vw, 1024px"/>
+                                                                                <img decoding="async" width="1024" height="1024" src="{{asset('images/iso2.jpeg')}}" alt="Richard Revangue Project Manager BlueBotics" itemprop="image" srcset="{{asset('images/iso2.jpeg')}} 1024w, {{asset('images/iso2.jpeg')}} 300w, {{asset('images/iso2.jpeg')}} 150w, {{asset('images/iso2.jpeg')}} 768w, {{asset('images/iso2.jpeg')}} 1200w" sizes="(max-width: 1024px) 100vw, 1024px"/>
+                                                                            </picture>
+                                                                            </noscript>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                </div>
+                                                                
+                                                                <div class="uabb-slide-front-right-text">
+                                                                
+                                                                <!-- <h3 class="uabb-slide-face-text-title">Richard REVANGUE</h3> -->
+                                                                
+                                                                <!-- <div class="uabb-slide-box-section-content uabb-text-editor">
+                                                                    <h4>Project Manager</h4>
+                                                                    <p>Languages:<br />EN, FR</p>
+                                                                </div> -->
+                                                                
+                                                                </div>
+                                                                
+                                                                <!-- <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
+                                                                <span class="uabb-icon">
+                                                                <i class="fas fa-angle-down"></i>
+                                                                </span>
+                                                                </span>
+                                                                </div> -->
+                                                                
+                                                            </div>
+                                                            
+                                                        </div>
+                                                        
+                                                        <!-- <div class="uabb-slide-face uabb-slide-down">
+                                                            <div class="uabb-slide-box-section- ">
+                                                                <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
+                                                                <div class="uabb-slide-down-box-section-content uabb-text-editor">
+                                                                <p>Richard was born and raised in Paris before moving to Switzerland to work with BlueBotics. Before joining the team, he studied aeronautical engineering at IPSA in Paris, and worked as a Services Sales Expert at Dassault Systems. Outside of work, Richard enjoys travelling, music and playing football.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div> -->
+                                                    </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        </div>
+                                    </div>
+                                    <div class="fl-col fl-node-5fee0357517bb fl-col-small" data-node="5fee0357517bb">
+                                        <div class="fl-col-content fl-node-content">
+                                        <div class="fl-module fl-module-slide-box fl-node-6046534544976 team-slide-box" data-node="6046534544976">
+                                            <div class="fl-module-content fl-node-content">
+                                                <div class="uabb-module-content uabb-slide-box-wrap">
+                                                    <div class="uabb-slide-type uabb-style2" data-style="style2">
+                                                    <div id="uabb-slide-box-wrap-6046534544976" class="uabb-slide-box">
+                                                        <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
+                                                            <div class="uabb-slide-box-section ">
+                                                                
+                                                                <div class="uabb-slide-front-above-img">
+                                                                <div class="uabb-module-content uabb-imgicon-wrap">
+                                                                    <div class="uabb-image
+                                                                        uabb-image-crop-simple		" itemscope itemtype="https://schema.org/ImageObject">
+                                                                        <div class="uabb-image-content">
+                                                                            <picture decoding="async" class="uabb-photo-img wp-image-20184 size-large" title="" itemprop="image">
+                                                                            <source type="image/webp" data-lazy-srcset="{{asset('images/iso3.jpeg')}} 1024w, {{asset('images/iso3.jpeg')}} 300w, {{asset('images/iso3.jpeg')}} 150w, {{asset('images/iso3.jpeg')}} 768w, {{asset('images/iso3.jpeg')}} 1200w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%201024&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
+                                                                            <img decoding="async" width="1024" height="1024" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%201024&#039;%3E%3C/svg%3E" alt="Alexandra Zehr - Project Manager - BlueBotics" itemprop="image" data-lazy-srcset="{{asset('images/iso3.jpeg')}} 1024w, {{asset('images/iso3.jpeg')}} 300w, {{asset('images/iso3.jpeg')}} 150w, {{asset('images/iso3.jpeg')}} 768w, {{asset('images/iso3.jpeg')}} 1200w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="{{asset('images/iso3.jpeg')}}"/>
+                                                                            </picture>
+                                                                            <noscript>
+                                                                            <picture decoding="async" class="uabb-photo-img wp-image-20184 size-large" title="" itemprop="image">
+                                                                                <source type="image/webp" srcset="{{asset('images/iso3.jpeg')}} 1024w, {{asset('images/iso3.jpeg')}} 300w, {{asset('images/iso3.jpeg')}} 150w, {{asset('images/iso3.jpeg')}} 768w, {{asset('images/iso3.jpeg')}} 1200w" sizes="(max-width: 1024px) 100vw, 1024px"/>
+                                                                                <img decoding="async" width="1024" height="1024" src="{{asset('images/iso3.jpeg')}}" alt="Alexandra Zehr - Project Manager - BlueBotics" itemprop="image" srcset="{{asset('images/iso3.jpeg')}} 1024w, {{asset('images/iso3.jpeg')}} 300w, {{asset('images/iso3.jpeg')}} 150w, {{asset('images/iso3.jpeg')}} 768w, {{asset('images/iso3.jpeg')}} 1200w" sizes="(max-width: 1024px) 100vw, 1024px"/>
+                                                                            </picture>
+                                                                            </noscript>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                </div>
+                                                                
+                                                                <div class="uabb-slide-front-right-text">
+                                                                
+                                                                <!-- <h3 class="uabb-slide-face-text-title">Alexandra ZEHR</h3> -->
+                                                                
+                                                                <!-- <div class="uabb-slide-box-section-content uabb-text-editor">
+                                                                    <h4>Project Manager</h4>
+                                                                    <p>Languages:<br />EN, FR, ES</p>
+                                                                </div> -->
+                                                                
+                                                                </div>
+                                                                
+                                                                <!-- <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
+                                                                <span class="uabb-icon">
+                                                                <i class="fas fa-angle-down"></i>
+                                                                </span>
+                                                                </span>
+                                                                </div> -->
+                                                                
+                                                            </div>
+                                                            
+                                                        </div>
+                                                        
+                                                        <!-- <div class="uabb-slide-face uabb-slide-down">
+                                                            <div class="uabb-slide-box-section- ">
+                                                                <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
+                                                                <div class="uabb-slide-down-box-section-content uabb-text-editor">
+                                                                <p><span class="ui-provider yi b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak" dir="ltr">Alexandra has a wealth of experience, having worked within sectors ranging from ecommerce to the Swiss watch industry, with roles including customer experience, product and project management. Alexandra grew up in Spain, gained her MA in the USA, and has since returned to her mother country, Switzerland. A self-described epicurean, Alexandra enjoys food and wine, as well as travelling.</span></p>
+                                                                </div>
+                                                            </div>
+                                                        </div> -->
+                                                    </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </div>
+                        </div>
+                        <!-- <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5f90a73915c94" data-node="5f90a73915c94">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-full-width fl-node-content">
@@ -1517,8 +1741,8 @@
                                 </div>
                             </div>
                             </div>
-                        </div>
-                        <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5fcd9dc44a8ff" data-node="5fcd9dc44a8ff">
+                        </div> -->
+                        <!-- <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5fcd9dc44a8ff" data-node="5fcd9dc44a8ff">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-full-width fl-node-content">
@@ -1545,7 +1769,6 @@
                                                         <p><span style="color: #0061ac; font-size: 20px; font-family: 'obvia', san-serif; font-weight: 500;">2001<br /></span>BlueBotics is founded as a spin-off of EPFL, the Swiss Federal Institute of Technology in Lausanne.</p>
                                                     </div>
                                                     </div>
-                                                    <!-- .labb-carousel-item -->
                                                     <div class="labb-carousel-item">
                                                     <div class="caro-img">
                                                         <picture decoding="async" class="alignnone size-medium wp-image-2015">
@@ -1564,7 +1787,6 @@
                                                         <p>BlueBotics participates in the Swiss National Exhibition, installing 11 RoboX robot guides that run for six months.</p>
                                                     </div>
                                                     </div>
-                                                    <!-- .labb-carousel-item -->
                                                     <div class="labb-carousel-item">
                                                     <div class="caro-img">
                                                         <picture decoding="async" class="alignnone size-medium wp-image-2016">
@@ -1583,7 +1805,6 @@
                                                         <p>First AGV pilot project signed with Esatroll.</p>
                                                     </div>
                                                     </div>
-                                                    <!-- .labb-carousel-item -->
                                                     <div class="labb-carousel-item">
                                                     <div class="caro-img">
                                                         <picture decoding="async" class="alignnone size-medium wp-image-2017">
@@ -1602,7 +1823,6 @@
                                                         <p>BlueBotics designs &amp; manufactures a robotic mobile coffee machine for Nespresso.</p>
                                                     </div>
                                                     </div>
-                                                    <!-- .labb-carousel-item -->
                                                     <div class="labb-carousel-item">
                                                     <div class="caro-img">
                                                         <picture decoding="async" class="alignnone size-medium wp-image-948">
@@ -1621,7 +1841,6 @@
                                                         <p>First ANT driven AGV (Esatroll Paquito) goes into operation 24/7 in the food production industry.</p>
                                                     </div>
                                                     </div>
-                                                    <!-- .labb-carousel-item -->
                                                     <div class="labb-carousel-item">
                                                     <div class="caro-img">
                                                         <picture decoding="async" class="alignnone size-medium wp-image-948">
@@ -1640,7 +1859,6 @@
                                                         <p>ANT localization launched for AGV suppliers who use their own vehicle control system.</p>
                                                     </div>
                                                     </div>
-                                                    <!-- .labb-carousel-item -->
                                                     <div class="labb-carousel-item">
                                                     <div class="caro-img">
                                                         <picture decoding="async" class="alignnone size-medium wp-image-948">
@@ -1659,7 +1877,6 @@
                                                         <p>ANT lite is launched as a compact and simple navigation solution for service robotics.</p>
                                                     </div>
                                                     </div>
-                                                    <!-- .labb-carousel-item -->
                                                     <div class="labb-carousel-item">
                                                     <div class="caro-img">
                                                         <picture decoding="async" class="alignnone size-medium wp-image-948">
@@ -1685,7 +1902,6 @@
                                                         </ul>
                                                     </div>
                                                     </div>
-                                                    <!-- .labb-carousel-item -->
                                                     <div class="labb-carousel-item">
                                                     <div class="caro-img">
                                                         <picture decoding="async" class="alignnone size-medium wp-image-948">
@@ -1704,7 +1920,6 @@
                                                         <p>ANT localization<sup>+</sup> launched, enabling customers to upgrade line-following AGVs to ANT.</p>
                                                     </div>
                                                     </div>
-                                                    <!-- .labb-carousel-item -->
                                                     <div class="labb-carousel-item">
                                                     <div class="caro-img">
                                                         <picture decoding="async" class="alignnone size-medium wp-image-948">
@@ -1723,7 +1938,6 @@
                                                         <p>500th ANT system delivered.</p>
                                                     </div>
                                                     </div>
-                                                    <!-- .labb-carousel-item -->
                                                     <div class="labb-carousel-item">
                                                     <div class="caro-img">
                                                         <picture decoding="async" class="alignnone size-medium wp-image-948">
@@ -1745,7 +1959,6 @@
                                                         </ul>
                                                     </div>
                                                     </div>
-                                                    <!-- .labb-carousel-item -->
                                                     <div class="labb-carousel-item">
                                                     <div class="caro-img">
                                                         <picture decoding="async" class="alignnone size-medium wp-image-948">
@@ -1764,7 +1977,6 @@
                                                         <p>BlueBotics signs distribution deals with ALTECH Co. Ltd. in Japan and Alumotion Srl in Italy.</p>
                                                     </div>
                                                     </div>
-                                                    <!-- .labb-carousel-item -->
                                                     <div class="labb-carousel-item">
                                                     <div class="caro-img">
                                                         <picture decoding="async" class="alignnone size-medium wp-image-948">
@@ -1786,7 +1998,6 @@
                                                         </ul>
                                                     </div>
                                                     </div>
-                                                    <!-- .labb-carousel-item -->
                                                     <div class="labb-carousel-item">
                                                     <div class="caro-img">
                                                         <picture decoding="async" class="alignnone size-medium wp-image-948">
@@ -1810,7 +2021,6 @@
                                                         </ul>
                                                     </div>
                                                     </div>
-                                                    <!-- .labb-carousel-item -->
                                                     <div class="labb-carousel-item">
                                                     <div class="caro-img">
                                                         <picture decoding="async" class="alignnone size-medium wp-image-16446">
@@ -1834,9 +2044,7 @@
                                                         </ul>
                                                     </div>
                                                     </div>
-                                                    <!-- .labb-carousel-item -->
                                                 </div>
-                                                <!-- .labb-carousel -->	
                                             </div>
                                         </div>
                                         </div>
@@ -1844,8 +2052,8 @@
                                 </div>
                             </div>
                             </div>
-                        </div>
-                        <div id="meet-our-experts" class="fl-row fl-row-full-width fl-row-bg-color fl-node-5f90a7c87f86e" data-node="5f90a7c87f86e">
+                        </div> -->
+                        <!-- <div id="meet-our-experts" class="fl-row fl-row-full-width fl-row-bg-color fl-node-5f90a7c87f86e" data-node="5f90a7c87f86e">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
@@ -1869,8 +2077,8 @@
                                 </div>
                             </div>
                             </div>
-                        </div>
-                        <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5fedfe53384ad" data-node="5fedfe53384ad">
+                        </div> -->
+                        <!-- <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5fedfe53384ad" data-node="5fedfe53384ad">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-full-width fl-node-content">
@@ -1898,8 +2106,8 @@
                                 </div>
                             </div>
                             </div>
-                        </div>
-                        <div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5fedfac69145d" data-node="5fedfac69145d">
+                        </div> -->
+                        <!-- <div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5fedfac69145d" data-node="5fedfac69145d">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
@@ -1913,8 +2121,7 @@
                                                     <div id="uabb-slide-box-wrap-5fcd97945e56c" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -1934,35 +2141,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">Dr. Nicola TOMATIS</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                               
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>CEO</h4>
                                                                     <p>Languages:<br />EN, FR, IT, DE</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -1993,8 +2192,7 @@
                                                     <div id="uabb-slide-box-wrap-5fee0900aa06a" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -2014,35 +2212,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">Patrick BALMER</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>VP Operations</h4>
                                                                     <p>Languages:<br />EN, FR, DE</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -2073,8 +2263,7 @@
                                                     <div id="uabb-slide-box-wrap-5fcd8f3a18d22" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -2094,35 +2283,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                               
                                                                 <h3 class="uabb-slide-face-text-title">Jacques FLAMANT</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                               
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>VP Sales</h4>
                                                                     <p>Languages:<br />EN, FR, ES</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                              
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -2147,8 +2328,8 @@
                                 </div>
                             </div>
                             </div>
-                        </div>
-                        <div class="fl-row fl-row-full-width fl-row-bg-none fl-node-u21ktpc507w8" data-node="u21ktpc507w8">
+                        </div> -->
+                        <!-- <div class="fl-row fl-row-full-width fl-row-bg-none fl-node-u21ktpc507w8" data-node="u21ktpc507w8">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
@@ -2162,8 +2343,7 @@
                                                     <div id="uabb-slide-box-wrap-ak1us5g2yr70" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -2183,35 +2363,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                               
                                                                 <h3 class="uabb-slide-face-text-title">Dr. Pierre LAMON</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>VP Research</h4>
                                                                     <p>Languages:<br />EN, FR, DE, IT</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                               
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                             
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                            
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -2242,8 +2414,7 @@
                                                     <div id="uabb-slide-box-wrap-5fedff1222966" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -2263,35 +2434,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                              
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">Grégoire TERRIEN</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                            
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>VP Development</h4>
                                                                     <p>Languages:<br />EN, FR, DE, IT</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                            
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -2322,8 +2485,7 @@
                                                     <div id="uabb-slide-box-wrap-5fee089ce31d0" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -2343,35 +2505,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                             
                                                                 <h3 class="uabb-slide-face-text-title">Matt WADE</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>VP Marketing</h4>
                                                                     <p>Languages:<br />EN, FR</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -2396,8 +2550,8 @@
                                 </div>
                             </div>
                             </div>
-                        </div>
-                        <div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5fee08f9a6597" data-node="5fee08f9a6597">
+                        </div> -->
+                        <!-- <div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5fee08f9a6597" data-node="5fee08f9a6597">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
@@ -2417,8 +2571,8 @@
                                 </div>
                             </div>
                             </div>
-                        </div>
-                        <div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5fedfe389f09e" data-node="5fedfe389f09e">
+                        </div> -->
+                        <!-- <div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5fedfe389f09e" data-node="5fedfe389f09e">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
@@ -2439,8 +2593,8 @@
                                 </div>
                             </div>
                             </div>
-                        </div>
-                        <div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5fee07bfdce81" data-node="5fee07bfdce81">
+                        </div> -->
+                        <!-- <div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5fee07bfdce81" data-node="5fee07bfdce81">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
@@ -2468,8 +2622,8 @@
                                 </div>
                             </div>
                             </div>
-                        </div>
-                        <div class="fl-row fl-row-full-width fl-row-bg-gradient fl-node-5f90a826851bd top-layer" data-node="5f90a826851bd">
+                        </div> -->
+                        <!-- <div class="fl-row fl-row-full-width fl-row-bg-gradient fl-node-5f90a826851bd top-layer" data-node="5f90a826851bd">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
@@ -2483,8 +2637,7 @@
                                                     <div id="uabb-slide-box-wrap-5fcd97945e566" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -2504,35 +2657,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">Dr. Mathias PERROLLAZ</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Head of Systems</h4>
                                                                     <p>Languages:<br />EN, FR, IT</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -2557,8 +2702,7 @@
                                                     <div id="uabb-slide-box-wrap-qsrj2fvbazmg" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -2578,35 +2722,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">Amjad AL AUFI</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Systems Engineer</h4>
                                                                     <p>Languages:<br />EN, AR</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -2631,8 +2767,7 @@
                                                     <div id="uabb-slide-box-wrap-5fcd90e2bb9ea" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -2652,35 +2787,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">Antoine AUPEE</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Lead Systems Engineer</h4>
                                                                     <p>Languages:<br />EN, FR</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                               
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -2705,8 +2832,7 @@
                                                     <div id="uabb-slide-box-wrap-60464b393ffe7" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -2726,35 +2852,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">Jean Francois BURNIER</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                               
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Systems Engineer</h4>
                                                                     <p>Languages:<br />EN, FR, DE, ES</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -2773,8 +2891,8 @@
                                 </div>
                             </div>
                             </div>
-                        </div>
-                        <div class="fl-row fl-row-full-width fl-row-bg-gradient fl-node-5fcd97945dfe0 top_layer" data-node="5fcd97945dfe0">
+                        </div> -->
+                        <!-- <div class="fl-row fl-row-full-width fl-row-bg-gradient fl-node-5fcd97945dfe0 top_layer" data-node="5fcd97945dfe0">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
@@ -2788,8 +2906,7 @@
                                                     <div id="uabb-slide-box-wrap-48bsjrktv729" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -2809,35 +2926,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">Iven DONG</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                               
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Systems Engineer</h4>
                                                                     <p>Languages:<br />EN, CN</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -2862,8 +2971,7 @@
                                                     <div id="uabb-slide-box-wrap-5fee05e8e35f9" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -2883,35 +2991,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">Guillaume DUPRÉ LA TOUR</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Systems Engineer</h4>
                                                                     <p>Languages:<br />EN, FR</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -2936,8 +3036,7 @@
                                                     <div id="uabb-slide-box-wrap-5fee069049fb6" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -2957,35 +3056,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">Armand LAMOUILLE</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Senior Systems Engineer</h4>
                                                                     <p>Languages:<br />EN, FR, ES</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -3010,8 +3101,7 @@
                                                     <div id="uabb-slide-box-wrap-60538ae3b6cae" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -3031,35 +3121,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">Baptiste MOTTET</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Systems Engineer</h4>
                                                                     <p>Languages:<br />EN, FR, DE</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                               
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -3078,8 +3160,8 @@
                                 </div>
                             </div>
                             </div>
-                        </div>
-                        <div class="fl-row fl-row-full-width fl-row-bg-gradient fl-node-605387c465e9a top_layer" data-node="605387c465e9a">
+                        </div> -->
+                        <!-- <div class="fl-row fl-row-full-width fl-row-bg-gradient fl-node-605387c465e9a top_layer" data-node="605387c465e9a">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
@@ -3093,8 +3175,7 @@
                                                     <div id="uabb-slide-box-wrap-611fb5903c9dc" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -3114,35 +3195,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">Benoît PASQUIER</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Systems Engineer</h4>
                                                                     <p>Languages:<br />EN, FR</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                               
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -3167,8 +3240,7 @@
                                                     <div id="uabb-slide-box-wrap-5fcd97945e568" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -3188,35 +3260,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">Yannick POFFET</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                               
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Expert Systems Engineer</h4>
                                                                     <p>Languages:<br />EN, FR</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                               
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -3241,8 +3305,7 @@
                                                     <div id="uabb-slide-box-wrap-5fcd97945e56a" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -3262,35 +3325,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                               
                                                                 <h3 class="uabb-slide-face-text-title">Guillaume ROSA-SERRANO</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                              
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Senior Systems Engineer</h4>
                                                                     <p>Languages:<br />EN, FR, ES</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                              
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                              
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                              
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -3315,8 +3370,7 @@
                                                     <div id="uabb-slide-box-wrap-5fee0751bdb8a" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                              
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -3336,35 +3390,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                               
                                                                 <h3 class="uabb-slide-face-text-title">Adrien SALGADO</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                               
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Senior Systems Engineer</h4>
                                                                     <p>Languages:<br />EN, FR</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                            
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                              
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -3383,8 +3429,8 @@
                                 </div>
                             </div>
                             </div>
-                        </div>
-                        <div class="fl-row fl-row-full-width fl-row-bg-gradient fl-node-6053889d5c03a top_layer" data-node="6053889d5c03a">
+                        </div> -->
+                        <!-- <div class="fl-row fl-row-full-width fl-row-bg-gradient fl-node-6053889d5c03a top_layer" data-node="6053889d5c03a">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
@@ -3398,8 +3444,7 @@
                                                     <div id="uabb-slide-box-wrap-5fee05e8e35f5" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -3419,35 +3464,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                              
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                              
                                                                 <h3 class="uabb-slide-face-text-title">Victor TWARDOWSKI</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                              
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Systems Engineer</h4>
                                                                     <p>Languages:<br />EN, FR, IT</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                              
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                             
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -3473,8 +3510,7 @@
                                                     <div id="uabb-slide-box-wrap-5fee069049fb2" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -3494,35 +3530,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                               
                                                                 <h3 class="uabb-slide-face-text-title">Hugo VIARD</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Systems Engineer</h4>
                                                                     <p>Languages:<br />EN, FR</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -3547,8 +3575,7 @@
                                                     <div id="uabb-slide-box-wrap-5fee05e8e35f7" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                              
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -3568,35 +3595,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                               
                                                                 <h3 class="uabb-slide-face-text-title">Tao WU</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                               
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Systems Engineer</h4>
                                                                     <p>Languages:<br />EN, FR, CN</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                              
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                             
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -3621,8 +3640,7 @@
                                                     <div id="uabb-slide-box-wrap-p2539dtk1bgf" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                             
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -3642,35 +3660,27 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                               
                                                                 <h3 class="uabb-slide-face-text-title">Thomas WURTZ</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                              
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Systems Engineer</h4>
                                                                     <p>Languages:<br />EN, FR, DE</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                               
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                              
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                               
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
                                                         </div>
-                                                        <!-- END .front -->
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -3689,8 +3699,8 @@
                                 </div>
                             </div>
                             </div>
-                        </div>
-                        <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5fee035751275 top-layer" data-node="5fee035751275">
+                        </div> -->
+                        <!-- <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5fee035751275 top-layer" data-node="5fee035751275">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
@@ -3726,56 +3736,49 @@
                                                     <div id="uabb-slide-box-wrap-5fee0357517bc" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
                                                                         uabb-image-crop-simple		" itemscope itemtype="https://schema.org/ImageObject">
                                                                         <div class="uabb-image-content">
                                                                             <picture decoding="async" class="uabb-photo-img wp-image-11316 size-large" title="" itemprop="image">
-                                                                            <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-1024x1024.jpg.webp 1024w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-300x300.jpg.webp 300w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-150x150.jpg.webp 150w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-768x768.jpg.webp 768w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-50x50.jpg.webp 50w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-100x100.jpg.webp 100w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley.jpg.webp 1200w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%201024&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                                            <img decoding="async" width="1024" height="1024" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%201024&#039;%3E%3C/svg%3E" alt="BlueBotics Project Manager Samuel Chevalley." itemprop="image" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-1024x1024.jpg 1024w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-300x300.jpg 300w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-150x150.jpg 150w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-768x768.jpg 768w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-50x50.jpg 50w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-100x100.jpg 100w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley.jpg 1200w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-1024x1024.jpg"/>
+                                                                            <source type="image/webp" data-lazy-srcset="{{asset('images/iso1.jpeg')}} 1024w, {{asset('images/iso1.jpeg')}} 300w, {{asset('images/iso1.jpeg')}} 150w, {{asset('images/iso1.jpeg')}} 768w, {{asset('images/iso1.jpeg')}} 50w, {{asset('images/iso1.jpeg')}} 100w, {{asset('images/iso1.jpeg')}} 1200w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%201024&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
+                                                                            <img decoding="async" width="1024" height="1024" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%201024&#039;%3E%3C/svg%3E" alt="BlueBotics Project Manager Samuel Chevalley." itemprop="image" data-lazy-srcset="{{asset('images/iso1.jpeg')}} 1024w, {{asset('images/iso1.jpeg')}} 300w, {{asset('images/iso1.jpeg')}} 150w, {{asset('images/iso1.jpeg')}} 768w, {{asset('images/iso1.jpeg')}} 50w, {{asset('images/iso1.jpeg')}} 100w, {{asset('images/iso1.jpeg')}} 1200w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="{{asset('images/iso1.jpeg')}}"/>
                                                                             </picture>
                                                                             <noscript>
                                                                             <picture decoding="async" class="uabb-photo-img wp-image-11316 size-large" title="" itemprop="image">
-                                                                                <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-1024x1024.jpg.webp 1024w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-300x300.jpg.webp 300w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-150x150.jpg.webp 150w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-768x768.jpg.webp 768w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-50x50.jpg.webp 50w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-100x100.jpg.webp 100w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley.jpg.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                                                <img decoding="async" width="1024" height="1024" src="https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-1024x1024.jpg" alt="BlueBotics Project Manager Samuel Chevalley." itemprop="image" srcset="https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-1024x1024.jpg 1024w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-300x300.jpg 300w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-150x150.jpg 150w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-768x768.jpg 768w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-50x50.jpg 50w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley-100x100.jpg 100w, https://bluebotics.com/wp-content/uploads/2021/03/BlueBotics-Project-Manager-Samuel-Chevalley.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px"/>
+                                                                                <source type="image/webp" srcset="{{asset('images/iso1.jpeg')}} 1024w, {{asset('images/iso1.jpeg')}} 300w, {{asset('images/iso1.jpeg')}} 150w, {{asset('images/iso1.jpeg')}} 768w, {{asset('images/iso1.jpeg')}} 50w, {{asset('images/iso1.jpeg')}} 100w, {{asset('images/iso1.jpeg')}} 1200w" sizes="(max-width: 1024px) 100vw, 1024px"/>
+                                                                                <img decoding="async" width="1024" height="1024" src="{{asset('images/iso1.jpeg')}}" alt="BlueBotics Project Manager Samuel Chevalley." itemprop="image" srcset="{{asset('images/iso1.jpeg')}} 1024w, {{asset('images/iso1.jpeg')}} 300w, {{asset('images/iso1.jpeg')}} 150w, {{asset('images/iso1.jpeg')}} 768w, {{asset('images/iso1.jpeg')}} 50w, {{asset('images/iso1.jpeg')}} 100w, {{asset('images/iso1.jpeg')}} 1200w" sizes="(max-width: 1024px) 100vw, 1024px"/>
                                                                             </picture>
                                                                             </noscript>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">Samuel CHEVALLEY</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Project Manager</h4>
                                                                     <p>Languages:<br />EN, FR</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
+                                                            
                                                         </div>
-                                                        <!-- END .front -->
+                                                        
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -3800,56 +3803,49 @@
                                                     <div id="uabb-slide-box-wrap-yr1f3cguwaxi" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
                                                                         uabb-image-crop-simple		" itemscope itemtype="https://schema.org/ImageObject">
                                                                         <div class="uabb-image-content">
                                                                             <picture decoding="async" class="uabb-photo-img wp-image-20178 size-large" title="" itemprop="image">
-                                                                            <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px-1024x1024.jpg.webp 1024w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px-300x300.jpg.webp 300w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px-150x150.jpg.webp 150w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px-768x768.jpg.webp 768w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px.jpg.webp 1200w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%201024&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                                            <img decoding="async" width="1024" height="1024" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%201024&#039;%3E%3C/svg%3E" alt="Richard Revangue Project Manager BlueBotics" itemprop="image" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px-1024x1024.jpg 1024w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px-300x300.jpg 300w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px-150x150.jpg 150w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px-768x768.jpg 768w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px.jpg 1200w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px-1024x1024.jpg"/>
+                                                                            <source type="image/webp" data-lazy-srcset="{{asset('images/iso2.jpeg')}} 1024w, {{asset('images/iso2.jpeg')}} 300w, {{asset('images/iso2.jpeg')}} 150w, {{asset('images/iso2.jpeg')}} 768w, {{asset('images/iso2.jpeg')}} 1200w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%201024&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
+                                                                            <img decoding="async" width="1024" height="1024" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%201024&#039;%3E%3C/svg%3E" alt="Richard Revangue Project Manager BlueBotics" itemprop="image" data-lazy-srcset="{{asset('images/iso2.jpeg')}} 1024w, {{asset('images/iso2.jpeg')}} 300w, {{asset('images/iso2.jpeg')}} 150w, {{asset('images/iso2.jpeg')}} 768w, {{asset('images/iso2.jpeg')}} 1200w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="{{asset('images/iso2.jpeg')}}"/>
                                                                             </picture>
                                                                             <noscript>
                                                                             <picture decoding="async" class="uabb-photo-img wp-image-20178 size-large" title="" itemprop="image">
-                                                                                <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px-1024x1024.jpg.webp 1024w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px-300x300.jpg.webp 300w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px-150x150.jpg.webp 150w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px-768x768.jpg.webp 768w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px.jpg.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                                                <img decoding="async" width="1024" height="1024" src="https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px-1024x1024.jpg" alt="Richard Revangue Project Manager BlueBotics" itemprop="image" srcset="https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px-1024x1024.jpg 1024w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px-300x300.jpg 300w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px-150x150.jpg 150w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px-768x768.jpg 768w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_RichardRevangue_1200x1200px.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px"/>
+                                                                                <source type="image/webp" srcset="{{asset('images/iso2.jpeg')}} 1024w, {{asset('images/iso2.jpeg')}} 300w, {{asset('images/iso2.jpeg')}} 150w, {{asset('images/iso2.jpeg')}} 768w, {{asset('images/iso2.jpeg')}} 1200w" sizes="(max-width: 1024px) 100vw, 1024px"/>
+                                                                                <img decoding="async" width="1024" height="1024" src="{{asset('images/iso2.jpeg')}}" alt="Richard Revangue Project Manager BlueBotics" itemprop="image" srcset="{{asset('images/iso2.jpeg')}} 1024w, {{asset('images/iso2.jpeg')}} 300w, {{asset('images/iso2.jpeg')}} 150w, {{asset('images/iso2.jpeg')}} 768w, {{asset('images/iso2.jpeg')}} 1200w" sizes="(max-width: 1024px) 100vw, 1024px"/>
                                                                             </picture>
                                                                             </noscript>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">Richard REVANGUE</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Project Manager</h4>
                                                                     <p>Languages:<br />EN, FR</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
+                                                            
                                                         </div>
-                                                        <!-- END .front -->
+                                                        
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -3874,56 +3870,49 @@
                                                     <div id="uabb-slide-box-wrap-6046534544976" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
                                                                         uabb-image-crop-simple		" itemscope itemtype="https://schema.org/ImageObject">
                                                                         <div class="uabb-image-content">
                                                                             <picture decoding="async" class="uabb-photo-img wp-image-20184 size-large" title="" itemprop="image">
-                                                                            <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px-1024x1024.jpg.webp 1024w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px-300x300.jpg.webp 300w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px-150x150.jpg.webp 150w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px-768x768.jpg.webp 768w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px.jpg.webp 1200w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%201024&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                                            <img decoding="async" width="1024" height="1024" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%201024&#039;%3E%3C/svg%3E" alt="Alexandra Zehr - Project Manager - BlueBotics" itemprop="image" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px-1024x1024.jpg 1024w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px-300x300.jpg 300w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px-150x150.jpg 150w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px-768x768.jpg 768w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px.jpg 1200w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px-1024x1024.jpg"/>
+                                                                            <source type="image/webp" data-lazy-srcset="{{asset('images/iso3.jpeg')}} 1024w, {{asset('images/iso3.jpeg')}} 300w, {{asset('images/iso3.jpeg')}} 150w, {{asset('images/iso3.jpeg')}} 768w, {{asset('images/iso3.jpeg')}} 1200w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%201024&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
+                                                                            <img decoding="async" width="1024" height="1024" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%201024&#039;%3E%3C/svg%3E" alt="Alexandra Zehr - Project Manager - BlueBotics" itemprop="image" data-lazy-srcset="{{asset('images/iso3.jpeg')}} 1024w, {{asset('images/iso3.jpeg')}} 300w, {{asset('images/iso3.jpeg')}} 150w, {{asset('images/iso3.jpeg')}} 768w, {{asset('images/iso3.jpeg')}} 1200w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="{{asset('images/iso3.jpeg')}}"/>
                                                                             </picture>
                                                                             <noscript>
                                                                             <picture decoding="async" class="uabb-photo-img wp-image-20184 size-large" title="" itemprop="image">
-                                                                                <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px-1024x1024.jpg.webp 1024w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px-300x300.jpg.webp 300w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px-150x150.jpg.webp 150w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px-768x768.jpg.webp 768w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px.jpg.webp 1200w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                                                <img decoding="async" width="1024" height="1024" src="https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px-1024x1024.jpg" alt="Alexandra Zehr - Project Manager - BlueBotics" itemprop="image" srcset="https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px-1024x1024.jpg 1024w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px-300x300.jpg 300w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px-150x150.jpg 150w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px-768x768.jpg 768w, https://bluebotics.com/wp-content/uploads/2023/03/Operation_AlexandraZehr_1200x1200px.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px"/>
+                                                                                <source type="image/webp" srcset="{{asset('images/iso3.jpeg')}} 1024w, {{asset('images/iso3.jpeg')}} 300w, {{asset('images/iso3.jpeg')}} 150w, {{asset('images/iso3.jpeg')}} 768w, {{asset('images/iso3.jpeg')}} 1200w" sizes="(max-width: 1024px) 100vw, 1024px"/>
+                                                                                <img decoding="async" width="1024" height="1024" src="{{asset('images/iso3.jpeg')}}" alt="Alexandra Zehr - Project Manager - BlueBotics" itemprop="image" srcset="{{asset('images/iso3.jpeg')}} 1024w, {{asset('images/iso3.jpeg')}} 300w, {{asset('images/iso3.jpeg')}} 150w, {{asset('images/iso3.jpeg')}} 768w, {{asset('images/iso3.jpeg')}} 1200w" sizes="(max-width: 1024px) 100vw, 1024px"/>
                                                                             </picture>
                                                                             </noscript>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">Alexandra ZEHR</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Project Manager</h4>
                                                                     <p>Languages:<br />EN, FR, ES</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
+                                                            
                                                         </div>
-                                                        <!-- END .front -->
+                                                        
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -3942,8 +3931,8 @@
                                 </div>
                             </div>
                             </div>
-                        </div>
-                        <div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5fee0866c42a8" data-node="5fee0866c42a8">
+                        </div> -->
+                        <!-- <div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5fee0866c42a8" data-node="5fee0866c42a8">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
@@ -3971,8 +3960,8 @@
                                 </div>
                             </div>
                             </div>
-                        </div>
-                        <div class="fl-row fl-row-full-width fl-row-bg-gradient fl-node-60464aa75d8e7 top-layer" data-node="60464aa75d8e7">
+                        </div> -->
+                        <!-- <div class="fl-row fl-row-full-width fl-row-bg-gradient fl-node-60464aa75d8e7 top-layer" data-node="60464aa75d8e7">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
@@ -3986,8 +3975,7 @@
                                                     <div id="uabb-slide-box-wrap-60464aa770e8a" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -4007,35 +3995,29 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">David BEGUIN</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Senior Sales Manager, N. Am</h4>
                                                                     <p>Languages:<br />EN, FR</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
+                                                            
                                                         </div>
-                                                        <!-- END .front -->
+                                                        
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -4066,8 +4048,7 @@
                                                     <div id="uabb-slide-box-wrap-wtznuia97bom" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -4087,35 +4068,29 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">Kap CHOI</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Sales Manager USA</h4>
                                                                     <p>Languages:<br />EN</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
+                                                            
                                                         </div>
-                                                        <!-- END .front -->
+                                                        
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -4146,8 +4121,7 @@
                                                     <div id="uabb-slide-box-wrap-60464aa770e8c" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -4167,35 +4141,29 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">Sander BURGHARDT</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Sales Manager, Europe</h4>
                                                                     <p>Languages:<br />EN, FR, DE, IT, TR</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
+                                                            
                                                         </div>
-                                                        <!-- END .front -->
+                                                        
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -4220,8 +4188,8 @@
                                 </div>
                             </div>
                             </div>
-                        </div>
-                        <div class="fl-row fl-row-full-width fl-row-bg-gradient fl-node-60e42bd0b9257 top-layer" data-node="60e42bd0b9257">
+                        </div> -->
+                        <!-- <div class="fl-row fl-row-full-width fl-row-bg-gradient fl-node-60e42bd0b9257 top-layer" data-node="60e42bd0b9257">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
@@ -4235,8 +4203,7 @@
                                                     <div id="uabb-slide-box-wrap-60e42bd0b947c" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -4256,35 +4223,29 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">Fanny DORTA</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Sales Manager, APAC</h4>
                                                                     <p>Languages:<br />EN, FR</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
+                                                            
                                                         </div>
-                                                        <!-- END .front -->
+                                                        
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -4315,8 +4276,7 @@
                                                     <div id="uabb-slide-box-wrap-0jpo34ltkv2n" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -4336,35 +4296,29 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">Martin HU</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Sales Manager, China</h4>
                                                                     <p>Languages:<br />EN, CN</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
+                                                            
                                                         </div>
-                                                        <!-- END .front -->
+                                                        
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -4395,8 +4349,7 @@
                                                     <div id="uabb-slide-box-wrap-5fee08565780d" class="uabb-slide-box">
                                                         <div class="uabb-slide-face uabb-slide-front uabb-slide-photo-above-title">
                                                             <div class="uabb-slide-box-section ">
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-above-img">
                                                                 <div class="uabb-module-content uabb-imgicon-wrap">
                                                                     <div class="uabb-image
@@ -4416,35 +4369,29 @@
                                                                     </div>
                                                                 </div>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-front-right-text">
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <h3 class="uabb-slide-face-text-title">Jinglei ZHU</h3>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 <div class="uabb-slide-box-section-content uabb-text-editor">
                                                                     <h4>Sales manager, China</h4>
                                                                     <p>Languages:<br />EN, CN, DE</p>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                    -->
+                                                                
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                                 <div class="uabb-slide-dropdown"><span class="uabb-icon-wrap">
                                                                 <span class="uabb-icon">
                                                                 <i class="fas fa-angle-down"></i>
                                                                 </span>
                                                                 </span>
                                                                 </div>
-                                                                <!-- Inline Block Space Fix
-                                                                -->
+                                                                
                                                             </div>
-                                                            <!-- Overlay for Style 1 -->
+                                                            
                                                         </div>
-                                                        <!-- END .front -->
+                                                        
                                                         <div class="uabb-slide-face uabb-slide-down">
                                                             <div class="uabb-slide-box-section- ">
                                                                 <h3 class="uabb-slide-back-text-title">Slide Box Back</h3>
@@ -4469,8 +4416,8 @@
                                 </div>
                             </div>
                             </div>
-                        </div>
-                        <div class="fl-row fl-row-full-width fl-row-bg-gradient fl-node-60538ed0db549 top_layer" data-node="60538ed0db549">
+                        </div> -->
+                        <!-- <div class="fl-row fl-row-full-width fl-row-bg-gradient fl-node-60538ed0db549 top_layer" data-node="60538ed0db549">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
@@ -4490,39 +4437,14 @@
                                 </div>
                             </div>
                             </div>
-                        </div>
-                        <div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5fc9451662c12" data-node="5fc9451662c12">
+                        </div> -->
+                        
+
+                        <div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5fb57baab5545" data-node="5fb57baab5545">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
                                 <div class="fl-col-group fl-node-5fb57baa76e91 fl-col-group-equal-height fl-col-group-align-center fl-col-group-custom-width" data-node="5fb57baa76e91">
-                                    <div class="fl-col fl-node-5fb57baa76e98 fl-col-small" data-node="5fb57baa76e98">
-                                        <div class="fl-col-content fl-node-content">
-                                        <div class="fl-module fl-module-pp-image fl-node-5fb57baa76e9c" data-node="5fb57baa76e9c">
-                                            <div class="fl-module-content fl-node-content">
-                                                <div class="pp-photo-container">
-                                                    <div class="pp-photo pp-photo-align-center pp-photo-align-responsive-default" itemscope itemtype="http://schema.org/ImageObject">
-                                                    <div class="pp-photo-content">
-                                                        <div class="pp-photo-content-inner">
-                                                            <picture decoding="async" class="pp-photo-img wp-image-1290 size-medium" itemprop="image" title="Logo-ABB">
-                                                                <source type="image/webp" data-lazy-srcset="{{asset('images/logo/arcwood_.png')}} 300w, {{asset('images/logo/arcwood_.png')}} 50w, {{asset('images/logo/arcwood_.png')}} 100w, {{asset('images/logo/arcwood_.png')}} 600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" alt="Logo-ABB" itemprop="image" height="150" width="300" data-lazy-srcset="{{asset('images/logo/arcwood_.png')}} 300w, {{asset('images/logo/arcwood_.png')}} 24w, {{asset('images/logo/arcwood_.png')}} 50w, {{asset('images/logo/arcwood_.png')}} 100w, {{asset('images/logo/arcwood_.png')}} 600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="{{asset('images/logo/arcwood_.png')}}"/>
-                                                            </picture>
-                                                            <noscript>
-                                                                <picture decoding="async" class="pp-photo-img wp-image-1290 size-medium" itemprop="image" title="Logo-ABB">
-                                                                <source type="image/webp" srcset="{{asset('images/logo/arcwood_.png')}} 300w, {{asset('images/logo/arcwood_.png')}} 50w, {{asset('images/logo/arcwood_.png')}} 100w, {{asset('images/logo/arcwood_.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                <img decoding="async" src="{{asset('images/logo/arcwood_.png')}}" alt="Logo-ABB" itemprop="image" height="150" width="300" srcset="{{asset('images/logo/arcwood_.png')}} 300w, {{asset('images/logo/arcwood_.png')}} 24w, {{asset('images/logo/arcwood_.png')}} 50w, {{asset('images/logo/arcwood_.png')}} 100w, {{asset('images/logo/arcwood_.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                </picture>
-                                                            </noscript>
-                                                            <div class="pp-overlay-bg"></div>
-                                                        </div>
-                                                    </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        </div>
-                                    </div>
                                     <div class="fl-col fl-node-5fb57baa76e99 fl-col-small" data-node="5fb57baa76e99">
                                         <div class="fl-col-content fl-node-content">
                                         <div class="fl-module fl-module-pp-image fl-node-5fb57baa76e9d" data-node="5fb57baa76e9d">
@@ -4550,6 +4472,34 @@
                                         </div>
                                         </div>
                                     </div>
+                                    <div class="fl-col fl-node-5fb57baa76e98 fl-col-small" data-node="5fb57baa76e98">
+                                        <div class="fl-col-content fl-node-content">
+                                        <div class="fl-module fl-module-pp-image fl-node-5fb57baa76e9c" data-node="5fb57baa76e9c">
+                                            <div class="fl-module-content fl-node-content">
+                                                <div class="pp-photo-container">
+                                                    <div class="pp-photo pp-photo-align-center pp-photo-align-responsive-default" itemscope itemtype="http://schema.org/ImageObject">
+                                                    <div class="pp-photo-content">
+                                                        <div class="pp-photo-content-inner">
+                                                            <picture decoding="async" class="pp-photo-img wp-image-1290 size-medium" itemprop="image" title="Logo-ABB">
+                                                                <source type="image/webp" data-lazy-srcset="{{asset('images/logo/arcwood_.png')}} 300w, {{asset('images/logo/arcwood_.png')}} 50w, {{asset('images/logo/arcwood_.png')}} 100w, {{asset('images/logo/arcwood_.png')}} 600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20150&#039;%3E%3C/svg%3E" alt="Logo-ABB" itemprop="image" height="150" width="300" data-lazy-srcset="{{asset('images/logo/arcwood_.png')}} 300w, {{asset('images/logo/arcwood_.png')}} 24w, {{asset('images/logo/arcwood_.png')}} 50w, {{asset('images/logo/arcwood_.png')}} 100w, {{asset('images/logo/arcwood_.png')}} 600w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="{{asset('images/logo/arcwood_.png')}}"/>
+                                                            </picture>
+                                                            <noscript>
+                                                                <picture decoding="async" class="pp-photo-img wp-image-1290 size-medium" itemprop="image" title="Logo-ABB">
+                                                                <source type="image/webp" srcset="{{asset('images/logo/arcwood_.png')}} 300w, {{asset('images/logo/arcwood_.png')}} 50w, {{asset('images/logo/arcwood_.png')}} 100w, {{asset('images/logo/arcwood_.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                <img decoding="async" src="{{asset('images/logo/arcwood_.png')}}" alt="Logo-ABB" itemprop="image" height="150" width="300" srcset="{{asset('images/logo/arcwood_.png')}} 300w, {{asset('images/logo/arcwood_.png')}} 24w, {{asset('images/logo/arcwood_.png')}} 50w, {{asset('images/logo/arcwood_.png')}} 100w, {{asset('images/logo/arcwood_.png')}} 600w" sizes="(max-width: 300px) 100vw, 300px"/>
+                                                                </picture>
+                                                            </noscript>
+                                                            <div class="pp-overlay-bg"></div>
+                                                        </div>
+                                                    </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        </div>
+                                    </div>
+                                    
                                     <div class="fl-col fl-node-5fb57baa76e9a fl-col-small" data-node="5fb57baa76e9a">
                                         <div class="fl-col-content fl-node-content">
                                         <div class="fl-module fl-module-pp-image fl-node-5fb57baa76e9e" data-node="5fb57baa76e9e">
@@ -4654,7 +4604,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="fl-module fl-module-pp-image fl-node-5fb57baa76ea4" data-node="5fb57baa76ea4">
+                                        <!-- <div class="fl-module fl-module-pp-image fl-node-5fb57baa76ea4" data-node="5fb57baa76ea4">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="pp-photo-container">
                                                     <div class="pp-photo pp-photo-align-center pp-photo-align-responsive-default" itemscope itemtype="http://schema.org/ImageObject">
@@ -4676,7 +4626,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         </div>
                                     </div>
                                     <div class="fl-col fl-node-5fb57baa76ea2 fl-col-small top_layer" data-node="5fb57baa76ea2">
@@ -4684,7 +4634,7 @@
                                         <div class="fl-module fl-module-rich-text fl-node-5fb57baa76ea9 obvia" data-node="5fb57baa76ea9">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="fl-rich-text">
-                                                    <h3>Trusted by companies around the world</h3>
+                                                    <h3>Our Brands</h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -4696,18 +4646,18 @@
                                         <div class="fl-module fl-module-rich-text fl-node-5fb57baa76eaa" data-node="5fb57baa76eaa">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="fl-rich-text">
-                                                    <p>Just a few of the organizations we have helped.</p>
+                                                    <!-- <p>Just a few of the organizations we have helped.</p> -->
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="fl-module fl-module-button fl-node-5ffccde1d4cc4 fl-animation fl-fade-in obvia" data-node="5ffccde1d4cc4" data-animation-delay="0" data-animation-duration="1">
                                             <div class="fl-module-content fl-node-content">
-                                                <div class="fl-button-wrap fl-button-width-auto fl-button-center fl-button-has-icon">
+                                                <!-- <div class="fl-button-wrap fl-button-width-auto fl-button-center fl-button-has-icon">
                                                     <a href="{{route('app.factory')}}" target="_self" class="fl-button" role="button">
                                                     <i class="fl-button-icon fl-button-icon-before ua-icon ua-icon-minus2" aria-hidden="true"></i>
                                                     <span class="fl-button-text">See More</span>
                                                     </a>
-                                                </div>
+                                                </div> -->
                                             </div>
                                         </div>
                                         </div>
@@ -4760,7 +4710,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="fl-module fl-module-pp-image fl-node-5fb57baa76ea7" data-node="5fb57baa76ea7">
+                                        <!-- <div class="fl-module fl-module-pp-image fl-node-5fb57baa76ea7" data-node="5fb57baa76ea7">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="pp-photo-container">
                                                     <div class="pp-photo pp-photo-align-center pp-photo-align-responsive-default" itemscope itemtype="http://schema.org/ImageObject">
@@ -4782,11 +4732,11 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         </div>
                                     </div>
                                 </div>
-                                <div class="fl-col-group fl-node-5fb57baa76e97 fl-col-group-equal-height fl-col-group-align-center fl-col-group-custom-width" data-node="5fb57baa76e97">
+                                <!-- <div class="fl-col-group fl-node-5fb57baa76e97 fl-col-group-equal-height fl-col-group-align-center fl-col-group-custom-width" data-node="5fb57baa76e97">
                                     <div class="fl-col fl-node-5fb57baa76ead fl-col-small" data-node="5fb57baa76ead">
                                         <div class="fl-col-content fl-node-content">
                                         <div class="fl-module fl-module-pp-image fl-node-5fb57baa76eb1" data-node="5fb57baa76eb1">
@@ -4895,11 +4845,12 @@
                                         </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                             </div>
                         </div>
-                        <div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5f909fa889a4c" data-node="5f909fa889a4c">
+
+                        <!-- <div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5f909fa889a4c" data-node="5f909fa889a4c">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
@@ -4930,7 +4881,7 @@
                                 </div>
                             </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5f909fa889a01" data-node="5f909fa889a01">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
@@ -4938,83 +4889,24 @@
                                 <div class="fl-col-group fl-node-5f909fa889a03 fl-col-group-equal-height fl-col-group-align-bottom" data-node="5f909fa889a03">
                                     <div class="fl-col fl-node-5f909fa889a96 fl-col-bg-overlay" data-node="5f909fa889a96">
                                         <div class="fl-col-content fl-node-content">
-                                        <div class="fl-module fl-module-labb-carousel fl-node-6026b1f999b7c partners-caro" data-node="6026b1f999b7c">
+                                        <div class="fl-module fl-module-heading fl-node-5e1e2df5c9342" data-node="5e1e2df5c9342">
                                             <div class="fl-module-content fl-node-content">
-                                                <div id="labb-carousel-6026b1f999b7c" class="labb-carousel labb-container" data-settings='{"arrows":false,"dots":true,"autoplay":true,"autoplay_speed":6000,"animation_speed":600,"pause_on_hover":true,"display_columns":"3","scroll_columns":"1","gutter":"10","tablet_width":"800","tablet_display_columns":"2","tablet_scroll_columns":"2","tablet_gutter":"10","mobile_width":"480","mobile_display_columns":"1","mobile_scroll_columns":"1","mobile_gutter":"10"}'>
-                                                    <div class="labb-carousel-item">
-                                                    <h3 style="text-align: center;">China</h3>
-                                                    <p>
-                                                        <a href="https://www.shtongpu.com/" target="_blank" rel="noopener">
-                                                            <picture decoding="async" class="size-medium wp-image-1027 aligncenter">
-                                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/12/Tongpu-logo-black.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20180&#039;%3E%3C/svg%3E"/>
-                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20180&#039;%3E%3C/svg%3E" alt="" width="300" height="180" data-lazy-src="https://bluebotics.com/wp-content/uploads/2020/12/Tongpu-logo-black.png"/>
-                                                            </picture>
-                                                    <noscript><picture decoding="async" class="size-medium wp-image-1027 aligncenter">
-                                                    <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2020/12/Tongpu-logo-black.png.webp"/>
-                                                    <img decoding="async" src="https://bluebotics.com/wp-content/uploads/2020/12/Tongpu-logo-black.png" alt="" width="300" height="180"/>
-                                                    </picture>
-                                                    </noscript></a></p>
-                                                    <p><a href="http://www.shtongpu.com/" target="_blank" rel="noopener">shtongpu.com</a></p>
-                                                    <p>+86 021 55095871<br />University Science Park, Shanghai<br />Yiwu City, Zhejiang</p>
-                                                    </div>
-                                                    <!-- .labb-carousel-item -->
-                                                    <div class="labb-carousel-item">
-                                                    <h3 style="text-align: center;">Japan</h3>
-                                                    <p>
-                                                        <a href="https://altech.co.jp/eng" target="_blank" rel="noopener">
-                                                            <picture decoding="async" class="aligncenter wp-image-1060">
-                                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/12/Altech-logo.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20150%2090&#039;%3E%3C/svg%3E"/>
-                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20150%2090&#039;%3E%3C/svg%3E" alt="" width="150" height="90" data-lazy-src="https://bluebotics.com/wp-content/uploads/2020/12/Altech-logo.png"/>
-                                                            </picture>
-                                                    <noscript><picture decoding="async" class="aligncenter wp-image-1060">
-                                                    <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2020/12/Altech-logo.png.webp"/>
-                                                    <img decoding="async" src="https://bluebotics.com/wp-content/uploads/2020/12/Altech-logo.png" alt="" width="150" height="90"/>
-                                                    </picture>
-                                                    </noscript></a></p>
-                                                    <p><a href="https://smart-logistics.altech.jp/amr-dev/" target="_blank" rel="noopener">https://smart-logistics.altech.jp/amr-dev/</a></p>
-                                                    <p>+81 03 5542 6760<br />Sumitomo Irifune Bldg. 2F, 1-1<br />Irifune 2 Chome,<br />Chuo-Ku, Tokyo 104-0042</p>
-                                                    </div>
-                                                    <!-- .labb-carousel-item -->
-                                                    <div class="labb-carousel-item">
-                                                    <h3 style="text-align: center;">Korea</h3>
-                                                    <p>
-                                                        <a href="http://macpion.co.kr" target="_blank" rel="noopener">
-                                                            <picture decoding="async" class="size-medium wp-image-1026 aligncenter">
-                                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/12/MacPion-logo.jpg.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20300&#039;%3E%3C/svg%3E"/>
-                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20300&#039;%3E%3C/svg%3E" alt="" width="300" height="300" data-lazy-src="https://bluebotics.com/wp-content/uploads/2020/12/MacPion-logo.jpg"/>
-                                                            </picture>
-                                                    <noscript><picture decoding="async" class="size-medium wp-image-1026 aligncenter">
-                                                    <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2020/12/MacPion-logo.jpg.webp"/>
-                                                    <img decoding="async" src="https://bluebotics.com/wp-content/uploads/2020/12/MacPion-logo.jpg" alt="" width="300" height="300"/>
-                                                    </picture>
-                                                    </noscript></a></p>
-                                                    <p><a href="https://macpion.co.kr/" target="_blank" rel="noopener">macpion.co.kr</a></p>
-                                                    <p>+82 032 623 78303<br />Rm A-302A Bupyeong-daero,<br />Bupyeong-gu,<br />Incheon 21315</p>
-                                                    </div>
-                                                    <!-- .labb-carousel-item -->
-                                                    <div class="labb-carousel-item">
-                                                    <h3 style="text-align: center;">Thailand</h3>
-                                                    <p>
-                                                        <a href="https://www.planet.co.th/th/home/" target="_blank" rel="noopener">
-                                                            <picture decoding="async" class="aligncenter wp-image-1026 size-medium">
-                                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Planet.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20300&#039;%3E%3C/svg%3E"/>
-                                                                <img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20300&#039;%3E%3C/svg%3E" alt="" width="300" height="300" data-lazy-src="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Planet.png"/>
-                                                            </picture>
-                                                    <noscript><picture decoding="async" class="aligncenter wp-image-1026 size-medium">
-                                                    <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Planet.png.webp"/>
-                                                    <img decoding="async" src="https://bluebotics.com/wp-content/uploads/2020/11/Logo-Planet.png" alt="" width="300" height="300"/>
-                                                    </picture>
-                                                    </noscript></a></p>
-                                                    <p><a href="https://www.planet.co.th/th/home/" target="_blank" rel="noopener">planet.co.th</a></p>
-                                                    <p>+66(2) 300 5323 4<br />
-                                                        Planet T&amp;S Co., Ltd.<br />
-                                                        42/1 Rama 9 Soi 43, Seree 4 Road,<br />
-                                                        Suanluang, Bangkok, 10250
-                                                    </p>
-                                                    </div>
-                                                    <!-- .labb-carousel-item -->
+                                                <h3 class="fl-heading">
+                                                    <span class="fl-heading-text">CREATING & MAKING<br>BEST QUALITY OF PRODUCTS</span>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                        <div class="fl-module fl-module-separator fl-node-5f3d8c3e62b9f" data-node="5f3d8c3e62b9f">
+                                            <div class="fl-module-content fl-node-content">
+                                                <div class="fl-separator"></div>
+                                            </div>
+                                        </div>
+                                        <div class="fl-module fl-module-rich-text fl-node-5e1e2ed4ca37d" data-node="5e1e2ed4ca37d">
+                                            <div class="fl-module-content fl-node-content">
+                                                <div class="fl-rich-text">
+                                                    <p>Easy to use and simple to be conducted during learning process
+</p>
                                                 </div>
-                                                <!-- .labb-carousel -->	
                                             </div>
                                         </div>
                                         </div>
@@ -5035,26 +4927,23 @@
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
                                 <div class="fl-col-group fl-node-5f90adf410c6b fl-col-group-custom-width" data-node="5f90adf410c6b">
-                                    <div class="fl-col fl-node-5fa44923a2fe1" data-node="5fa44923a2fe1">
+                                    <!-- <div class="fl-col fl-node-5fa44923a2fe1" data-node="5fa44923a2fe1">
                                         <div class="fl-col-content fl-node-content">
                                         <div class="fl-module fl-module-rich-text fl-node-5fa44923a31a2" data-node="5fa44923a31a2">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="fl-rich-text">
-                                                    <p>For all other countries, contact us direct.</p>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="fl-module fl-module-button fl-node-5fa44923a31a5 obvia" data-node="5fa44923a31a5">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="fl-button-wrap fl-button-width-auto fl-button-center">
-                                                    <a href="/contact" target="_self" class="fl-button" role="button">
-                                                    <span class="fl-button-text">Get in Touch</span>
-                                                    </a>
+                                                   
                                                 </div>
                                             </div>
                                         </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                             </div>

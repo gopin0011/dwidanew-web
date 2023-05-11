@@ -113,6 +113,18 @@
       <link rel='shortlink' href='https://bluebotics.com/' />
       
       @yield('css')
+      <style>
+         .djt-group-footer {
+               margin-top: 50px;
+               width: 60%;
+         }
+         @media only screen and (max-width: 768px) {
+            .djt-group-footer {
+               margin-top: 0px;
+               width: 25%;
+            }
+         }
+         </style>
       
       <meta name="google-site-verification" content="r9X5Ibonx4yAmjtW_se3fFmkubCREcA7sVpkJPDSPxo" />
    </head>

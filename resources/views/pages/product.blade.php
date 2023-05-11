@@ -1145,6 +1145,7 @@
 <link data-minify="1" rel="stylesheet" href="https://bluebotics.com/wp-content/cache/min/1/jem7gzh.css?ver=1682258218">
 <link data-minify="1" href="https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/omgf/omgf-stylesheet-75/omgf-stylesheet-75.css?ver=1682258218" rel="stylesheet">
 <link rel="stylesheet" href="{{asset('assets/css/magnific-popup.min.css')}}" type="text/css">
+<link rel="stylesheet" href="{{asset('assets/css/product-style.css')}}" type="text/css">
 @endsection
 
 
@@ -1159,7 +1160,7 @@
                 <div class="fl-module fl-module-heading fl-node-602ef686c49f3 fl-animation fl-fade-up" data-node="602ef686c49f3" data-animation-delay="0" data-animation-duration="2">
                     <div class="fl-module-content fl-node-content">
                         <h1 class="fl-heading">
-                            <span class="fl-heading-text">Factory</span>
+                            <span class="fl-heading-text">Product</span>
                         </h1>
                     </div>
                 </div>
@@ -1182,43 +1183,88 @@
     </div>
 </div>
 <div class="uabb-js-breakpoint" style="display: none;"></div>
-<div class="container">
-    <div class="row">
-        <div class="col-lg-12">
-            <div class="gallery-carousel popup-gallery">
-                <div class="row">
-                    <div class="col-lg-6 col-md-6 col-sm-6">
-                        <div class="gallery-item mb-5 mt-5">
-                            <a href="https://leganofurniture.com/assets/img/project/fc4.jpg" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
-                                <img src="https://leganofurniture.com/assets/img/project/fc4.jpg" alt="">
-                            </a>
-                        </div>
-                        <div class="gallery-item mb-5">
-                            <a href="https://leganofurniture.com/assets/img/project/fc3.jpg" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
-                                <img src="https://leganofurniture.com/assets/img/project/fc3.jpg" alt="">
-                            </a>
-                        </div>
-                        <div class="gallery-item mb-5">
-                            <a href="https://leganofurniture.com/assets/img/project/fc1.jpg" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
-                                <img src="https://leganofurniture.com/assets/img/project/fc1.jpg" alt="">
-                            </a>
+<div class="portfolio mt-5">
+    <div class="container-fluid2">
+        <div class="row">
+            <div class="col-12">
+                <ul id="portfolio-flters">
+                    <li data-filter="*" class="filter-active">All</li>
+                    <li data-filter=".first">Lorem ipsum</li>
+                    <li data-filter=".second">Lorem ipsum</li>
+                    <li data-filter=".third">Lorem ipsum</li>
+                </ul>
+            </div>
+        </div>
+        <div class="row portfolio-container">
+            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                <div class="portfolio-warp">
+                    <div class="portfolio-img">
+                        <img src="https://leganofurniture.com/assets/img/project/fc4.jpg" alt="Image">
+                        <div class="portfolio-overlay">
+                            <p>
+                                Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                            </p>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-sm-6">
-                        <div class="gallery-item mb-5 mt-5">
-                            <a href="https://leganofurniture.com/assets/img/project/fc2.jpg" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
-                                <img src="https://leganofurniture.com/assets/img/project/fc2.jpg" alt="">
-                            </a>
+                    
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item second wow fadeInUp" data-wow-delay="0.2s">
+                <div class="portfolio-warp">
+                    <div class="portfolio-img">
+                        <img src="https://leganofurniture.com/assets/img/project/fc4.jpg" alt="Image">
+                        <div class="portfolio-overlay">
+                            <p>
+                                Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                            </p>
                         </div>
-                        <div class="gallery-item mb-5">
-                            <a href="https://leganofurniture.com/assets/img/project/fc5.jpg" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
-                                <img src="https://leganofurniture.com/assets/img/project/fc5.jpg" alt="">
-                            </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item third wow fadeInUp" data-wow-delay="0.3s">
+                <div class="portfolio-warp">
+                    <div class="portfolio-img">
+                        <img src="https://leganofurniture.com/assets/img/project/fc4.jpg" alt="Image">
+                        <div class="portfolio-overlay">
+                            <p>
+                                Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                            </p>
                         </div>
-                        <div class="gallery-item mb-5">
-                            <a href="https://leganofurniture.com/assets/img/project/fc6.jpg" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
-                                <img src="https://leganofurniture.com/assets/img/project/fc6.jpg" alt="">
-                            </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.4s">
+                <div class="portfolio-warp">
+                    <div class="portfolio-img">
+                        <img src="https://leganofurniture.com/assets/img/project/fc4.jpg" alt="Image">
+                        <div class="portfolio-overlay">
+                            <p>
+                                Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item second wow fadeInUp" data-wow-delay="0.5s">
+                <div class="portfolio-warp">
+                    <div class="portfolio-img">
+                        <img src="https://leganofurniture.com/assets/img/project/fc4.jpg" alt="Image">
+                        <div class="portfolio-overlay">
+                            <p>
+                                Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item third wow fadeInUp" data-wow-delay="0.6s">
+                <div class="portfolio-warp">
+                    <div class="portfolio-img">
+                        <img src="https://leganofurniture.com/assets/img/project/fc4.jpg" alt="Image">
+                        <div class="portfolio-overlay">
+                            <p>
+                                Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -1271,6 +1317,7 @@
       <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=8d27ab6b5f180424b8c35a8bd6cf265b' id='gform_gravityforms_theme_vendors-js'></script>
       <script src="{{asset('assets/js/jquery.min.js')}}"></script>
       <script src="{{asset('assets/js/jquery.magnific-popup.min.js')}}"></script>
+      <script src="{{asset('assets/js/isotope.pkgd.min.js')}}"></script>
       <script id='gform_gravityforms_theme-js-extra'>
          var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"669a140de0ea8af6b0e28af143bedc1d"}}},"hmr_dev":"","public_path":"https:\/\/bluebotics.com\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/"};
       </script>
@@ -1376,6 +1423,19 @@
              gallery:{enabled:true}
              // other options
           });
+
+          // Portfolio isotope and filter
+            var portfolioIsotope = $('.portfolio-container').isotope({
+                itemSelector: '.portfolio-item',
+                layoutMode: 'fitRows'
+            });
+
+            $('#portfolio-flters li').on('click', function () {
+                $("#portfolio-flters li").removeClass('filter-active');
+                $(this).addClass('filter-active');
+
+                portfolioIsotope.isotope({filter: $(this).data('filter')});
+            });
        });
     </script>
 @endsection

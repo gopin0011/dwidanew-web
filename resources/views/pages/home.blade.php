@@ -1153,7 +1153,7 @@
                                                     <div class="fl-module fl-module-button fl-node-5f3de20530558 fl-animation fl-fade-in obvia" data-node="5f3de20530558" data-animation-delay="0" data-animation-duration="2">
                                                     <div class="fl-module-content fl-node-content">
                                                         <div class="fl-button-wrap fl-button-width-full fl-button-center">
-                                                            <a href="/contact" target="_self" class="fl-button" role="button">
+                                                            <a href="{{route('app.contact')}}" target="_self" class="fl-button" role="button">
                                                             <span class="fl-button-text">Get in Touch</span>
                                                             </a>
                                                         </div>

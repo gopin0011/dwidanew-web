@@ -289,7 +289,7 @@
                                        <div class="fl-module fl-module-rich-text fl-node-616d8bfa30085" data-node="616d8bfa30085">
                                           <div class="fl-module-content fl-node-content">
                                              <div class="fl-rich-text">
-                                                <img src="{{asset('images/logo/djt_group.png')}}" width="100%">
+                                                <img src="{{asset('images/logo/djt_group.png')}}" class="djt-group-footer">
                                              </div>
                                           </div>
                                        </div>

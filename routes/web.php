@@ -30,6 +30,10 @@ Route::get('misi', function () {
     return view('pages.misi');
 })->name('app.misi');
 
+Route::get('product', function () {
+    return view('pages.product');
+})->name('app.product');
+
 Route::get('factory', function () {
     return view('pages.factory');
 })->name('app.factory');

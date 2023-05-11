@@ -405,7 +405,7 @@
                                                 </div> -->
                                              </li>
                                              <li class="mega-menu-saved-row">
-                                                <a  target="_self" class="mega-menu-saved-row-a" href="/about/">PRODUCT <i class=""></i></a>
+                                                <a  target="_self" class="mega-menu-saved-row-a" href="{{route('app.product')}}">PRODUCT <i class=""></i></a>
                                                 <!-- <div class="mega-menu-saved-row-container" >
                                                    <link data-minify="1" rel='stylesheet' id='fl-builder-layout-18057-css' href='https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/bb-plugin/cache/18057-layout-partial.css?ver=1681229321' media='all' />
                                                    <div class="fl-builder-content fl-builder-content-18057 fl-builder-template fl-builder-row-template fl-builder-global-templates-locked" data-post-id="18057">
