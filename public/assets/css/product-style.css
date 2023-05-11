@@ -2,10 +2,10 @@
 /********* General CSS *********/
 /*******************************/
 body {
-    color: #666666;
-    background: #dddddd;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 400;
+    /* color: #666666; */
+    /* background: #dddddd; */
+    /* font-family: 'Poppins', sans-serif; */
+    /* font-weight: 400; */
 }
 
 h1,
@@ -18,14 +18,14 @@ h6 {
 }
 
 a {
-    color: #666666;
+    /* color: #666666; */
     transition: .3s;
 }
 
 a:hover,
 a:active,
 a:focus {
-    color: #88BF56;
+    /* color: #88BF56; */
     outline: none;
     text-decoration: none;
 }
@@ -67,7 +67,7 @@ a:focus {
 }
 
 .back-to-top:hover {
-    color: #88BF56;
+    /* color: #88BF56; */
     background: #121518;
 }
 
@@ -343,7 +343,7 @@ a:focus {
 .carousel .carousel-caption .btn:hover {
     color: #1b2d21;
     background: #88BF56;
-    border-color: #88BF56;
+    border-/* color: #88BF56; */
 }
 
 @media (max-width: 767.98px) {
@@ -427,7 +427,7 @@ a:focus {
 }
 
 .page-header a:hover {
-    color: #88BF56;
+    /* color: #88BF56; */
 }
 
 .page-header a::after {
@@ -484,7 +484,7 @@ a:focus {
 }
 
 .section-header p {
-    color: #88BF56;
+    /* color: #88BF56; */
     font-size: 18px;
     font-weight: 600;
     margin-bottom: 5px;
@@ -568,7 +568,7 @@ a:focus {
 .feature .feature-icon [class^="flaticon-"]::before {
     position: relative;
     margin: 0;
-    color: #88BF56;
+    /* color: #88BF56; */
     font-size: 60px;
     line-height: 60px;
     z-index: 3;
@@ -586,7 +586,7 @@ a:focus {
 }
 
 .feature .feature-text a:hover {
-    color: #88BF56;
+    /* color: #88BF56; */
 }
 
 .feature .feature-text p {
@@ -668,7 +668,7 @@ a:focus {
 }
 
 .about .about-text a.btn:hover {
-    color: #88BF56;
+    /* color: #88BF56; */
     background: #1b2d21;
 }
 
@@ -817,7 +817,7 @@ a:focus {
     width: calc(100% - 60px);
     font-size: 20px;
     font-weight: 700;
-    color: #88BF56;
+    /* color: #88BF56; */
     text-align: left;
     overflow: hidden;
     white-space: nowrap;
@@ -1001,7 +1001,7 @@ a:focus {
 .team .team-text h2 {
     font-size: 20px;
     font-weight: 600;
-    color: #88BF56;
+    /* color: #88BF56; */
     transition: .5s;
 }
 
@@ -1147,7 +1147,7 @@ a:focus {
     font-family: 'font Awesome 5 Free';
     content: "\f067";
     float: right;
-    color: #88BF56;
+    /* color: #88BF56; */
     font-size: 12px;
     font-weight: 900;
     transition: .5s;
@@ -1243,7 +1243,7 @@ a:focus {
 }
 
 .testimonial .testimonial-slider h3 {
-    color: #88BF56;
+    /* color: #88BF56; */
     font-size: 22px;
     font-weight: 700;
 }
@@ -1305,7 +1305,7 @@ a:focus {
     width: calc(100% - 60px);
     font-size: 18px;
     font-weight: 700;
-    color: #88BF56;
+    /* color: #88BF56; */
     text-align: left;
     overflow: hidden;
     white-space: nowrap;
@@ -1355,7 +1355,7 @@ a:focus {
     font-size: 14px;
     font-weight: 300;
     font-style: italic;
-    color: #666666;
+    /* color: #666666; */
 }
 
 .blog .blog-meta p a {
@@ -1376,12 +1376,12 @@ a:focus {
 .blog .pagination .page-link {
     color: #1b2d21;
     border-radius: 0;
-    border-color: #88BF56;
+    border-/* color: #88BF56; */
 }
 
 .blog .pagination .page-link:hover,
 .blog .pagination .page-item.active .page-link {
-    color: #88BF56;
+    /* color: #88BF56; */
     background: #1b2d21;
 }
 
@@ -1420,12 +1420,12 @@ a:focus {
     padding: 7px 15px;
     font-size: 14px;
     font-weight: 400;
-    color: #666666;
+    /* color: #666666; */
     border: 1px solid #dddddd;
 }
 
 .single .single-tags a:hover {
-    color: #88BF56;
+    /* color: #88BF56; */
     background: #1b2d21;
 }
 
@@ -1546,7 +1546,7 @@ a:focus {
 
 .single .related-slider .owl-nav .owl-prev:hover,
 .single .related-slider .owl-nav .owl-next:hover {
-    color: #88BF56;
+    /* color: #88BF56; */
     background: #1b2d21;
 }
 
@@ -1645,7 +1645,7 @@ a:focus {
 }
 
 .single .comment-form .btn:hover {
-    color: #88BF56;
+    /* color: #88BF56; */
     background: #1b2d21;
 }
 
@@ -1708,7 +1708,7 @@ a:focus {
     height: 40px;
     padding: 0;
     font-size: 25px;
-    color: #88BF56;
+    /* color: #88BF56; */
     background: none;
     border-radius: 0;
     border: none;
@@ -1728,7 +1728,7 @@ a:focus {
 }
 
 .sidebar .tab-post .nav.nav-pills .nav-link {
-    color: #88BF56;
+    /* color: #88BF56; */
     background: #1b2d21;
     border-radius: 0;
 }
@@ -1776,7 +1776,7 @@ a:focus {
     content: '\f105';
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
-    color: #88BF56;
+    /* color: #88BF56; */
     left: 1px;
 }
 
@@ -1796,12 +1796,12 @@ a:focus {
     padding: 7px 15px;
     font-size: 14px;
     font-weight: 400;
-    color: #666666;
+    /* color: #666666; */
     border: 1px solid #dddddd;
 }
 
 .single .tag-widget a:hover {
-    color: #88BF56;
+    /* color: #88BF56; */
     background: #1b2d21;
 }
 
@@ -1871,8 +1871,8 @@ a:focus {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-    /* background: #1b2d21;
-    color: #88BF56; */
+    /* background: #1b2d21; */
+    /* color: #88BF56; */
     background: #0061ac;
     color: #fff;
     /* border: 1px solid #003e6f; */
@@ -1889,7 +1889,7 @@ a:focus {
 }
 
 .portfolio .load-more .btn:hover {
-    color: #88BF56;
+    /* color: #88BF56; */
     background: #1b2d21;
 }
 
@@ -1954,7 +1954,7 @@ a:focus {
     width: calc(100% - 60px);
     font-size: 20px;
     font-weight: 700;
-    color: #88BF56;
+    /* color: #88BF56; */
     text-align: center;
     overflow: hidden;
     white-space: nowrap;
@@ -2023,7 +2023,7 @@ a:focus {
 
 .contact .contact-item [class^="flaticon-"]::before {
     margin: 0;
-    color: #88BF56;
+    /* color: #88BF56; */
     font-size: 40px;
 }
 
@@ -2034,7 +2034,7 @@ a:focus {
 }
 
 .contact .contact-text h2 {
-    color: #88BF56;
+    /* color: #88BF56; */
     font-size: 20px;
     font-weight: 600;
 }
@@ -2094,7 +2094,7 @@ a:focus {
     padding: 16px 30px;
     font-size: 16px;
     font-weight: 600;
-    color: #88BF56;
+    /* color: #88BF56; */
     background: #1b2d21;
     border: none;
     border-radius: 0;
@@ -2137,7 +2137,7 @@ a:focus {
     padding-bottom: 10px;
     font-size: 20px;
     font-weight: 600;
-    color: #88BF56;
+    /* color: #88BF56; */
 }
 
 .footer h2::after {
@@ -2180,7 +2180,7 @@ a:focus {
 }
 
 .footer .footer-link a:hover {
-    color: #88BF56;
+    /* color: #88BF56; */
     letter-spacing: 1px;
 }
 
@@ -2217,7 +2217,7 @@ a:focus {
 
 .footer .footer-social a:hover {
     background: #88BF56;
-    border-color: #88BF56;
+    border-/* color: #88BF56; */
 }
 
 .footer .footer-social a:hover i {
@@ -2245,7 +2245,7 @@ a:focus {
     font-size: 14px;
     font-weight: 500;
     text-transform: uppercase;
-    color: #88BF56;
+    /* color: #88BF56; */
     background: #121518;
     border-radius: 0;
     border: 2px solid #88BF56;
@@ -2275,7 +2275,7 @@ a:focus {
 }
 
 .footer .footer-menu .f-menu a:hover {
-    color: #88BF56;
+    /* color: #88BF56; */
 }
 
 .footer .footer-menu .f-menu a:last-child {
@@ -2299,7 +2299,7 @@ a:focus {
 }
 
 .footer .copyright p a {
-    color: #88BF56;
+    /* color: #88BF56; */
     font-weight: 500;
     letter-spacing: 1px;
 }
