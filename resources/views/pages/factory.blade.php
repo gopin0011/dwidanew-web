@@ -27,21 +27,21 @@
     .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
 <link data-minify="1" rel='stylesheet' id='wpml-blocks-css' href='https://bluebotics.com/wp-content/cache/min/1/wp-content/plugins/sitepress-multilingual-cms/dist/css/blocks/styles.css?ver=1682258217' media='all' />
-<link data-minify="1" rel='stylesheet' id='labb-frontend-styles-css' href='https://bluebotics.com/wp-content/cache/min/1/wp-content/plugins/addons-for-beaver-builder-premium/assets/css/labb-frontend.css?ver=1682258217' media='all' />
-<link data-minify="1" rel='stylesheet' id='labb-icomoon-styles-css' href='https://bluebotics.com/wp-content/cache/min/1/wp-content/plugins/addons-for-beaver-builder-premium/assets/css/icomoon.css?ver=1682258217' media='all' />
-<link data-minify="1" rel='stylesheet' id='cookie-law-info-css' href='https://bluebotics.com/wp-content/cache/min/1/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-public.css?ver=1682258217' media='all' />
-<link data-minify="1" rel='stylesheet' id='cookie-law-info-gdpr-css' href='https://bluebotics.com/wp-content/cache/min/1/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-gdpr.css?ver=1682258217' media='all' />
-<link rel='stylesheet' id='wpml-legacy-dropdown-0-css' href='//bluebotics.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown/style.min.css?ver=1' media='all' />
-<link rel='stylesheet' id='wpml-menu-item-0-css' href='//bluebotics.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.min.css?ver=1' media='all' />
-<link data-minify="1" rel='stylesheet' id='font-awesome-5-css' href='https://bluebotics.com/wp-content/cache/min/1/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/css/all.min.css?ver=1682258217' media='all' />
-<link data-minify="1" rel='stylesheet' id='dashicons-css' href='https://bluebotics.com/wp-content/cache/min/1/wp-includes/css/dashicons.min.css?ver=1682258217' media='all' />
-<link data-minify="1" rel='stylesheet' id='ultimate-icons-css' href='https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/bb-plugin/icons/ultimate-icons/style.css?ver=1682258217' media='all' />
-<link data-minify="1" rel='stylesheet' id='fl-builder-layout-bundle-67c5dade2f7e9c91310c3f808a9e40b1-css' href='https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/bb-plugin/cache/67c5dade2f7e9c91310c3f808a9e40b1-layout-bundle.css?ver=1682623770' media='all' />
-<link rel='stylesheet' id='jquery-magnificpopup-css' href='https://bluebotics.com/wp-content/plugins/bb-plugin/css/jquery.magnificpopup.min.css?ver=2.6.3.3' media='all' />
-<link rel='stylesheet' id='base-css' href='https://bluebotics.com/wp-content/themes/bb-theme/css/base.min.css?ver=1682614687' media='all' />
-<link data-minify="1" rel='stylesheet' id='fl-automator-skin-css' href='https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/bb-theme/skin-6408a59d69038.css?ver=1682258217' media='all' />
+<link data-minify="1" rel='stylesheet' id='labb-frontend-styles-css' href="{{asset('assets/wp-content/cache/labb-frontend.css?ver=1682258217')}}" media='all' />
+<link data-minify="1" rel='stylesheet' id='labb-icomoon-styles-css' href="{{asset('assets/wp-content/cache/icomoon.css?ver=1682258217')}}" media='all' />
+<link data-minify="1" rel='stylesheet' id='cookie-law-info-css' href="{{asset('assets/wp-content/plugins/cookie-law-info-public.css?ver=1682258217')}}" media='all' />
+<link data-minify="1" rel='stylesheet' id='cookie-law-info-gdpr-css' href="{{asset('assets/wp-content/plugins/cookie-law-info-gdpr.css?ver=1682258217')}}" media='all' />
+<link rel='stylesheet' id='wpml-legacy-dropdown-0-css' href="{{asset('assets/plugins/sitepress-multilingual-cms/templates/language-switchers/style.min.css?ver=1')}}" media='all' />
+<link rel='stylesheet' id='wpml-menu-item-0-css' href="{{asset('assets/plugins/sitepress-multilingual-cms/templates/menu-item/style.min.css?ver=1')}}" media='all' />
+<link data-minify="1" rel='stylesheet' id='font-awesome-5-css' href="{{asset('assets/wp-content/plugins/fontawesome/all.min.css?ver=1682258217')}}" media='all' />
+<link data-minify="1" rel='stylesheet' id='dashicons-css' href="{{asset('assets/wp-content/cache/dashicons.min.css?ver=1682258217')}}" media='all' />
+<link data-minify="1" rel='stylesheet' id='ultimate-icons-css' href="{{asset('assets/wp-content/cache/ultimate-icons/style.css?ver=1682258217')}}" media='all' />
+<link data-minify="1" rel='stylesheet' id='fl-builder-layout-bundle-67c5dade2f7e9c91310c3f808a9e40b1-css' href="{{asset('assets/uploads/bb-plugin/cache/67c5dade2f7e9c91310c3f808a9e40b1-layout-bundle.css?ver=1682623770')}}" media='all' />
+<link rel='stylesheet' id='jquery-magnificpopup-css' href="{{asset('assets/wp-content/plugins/jquery.magnificpopup.min.css?ver=2.6.3.3')}}" media='all' />
+<link rel='stylesheet' id='base-css' href="{{asset('assets/themes/bb-theme/css/base.min.css?ver=1682614687')}}" media='all' />
+<link data-minify="1" rel='stylesheet' id='fl-automator-skin-css' href="{{asset('assets/uploads/bb-theme/skin-6408a59d69038.css?ver=1682258217')}}" media='all' />
 <link rel='stylesheet' id='fl-child-theme-css' href='https://bluebotics.com/wp-content/themes/bb-theme-child/style.css?ver=1682614687' media='all' />
-<link rel='stylesheet' id='pp-animate-css' href='https://bluebotics.com/wp-content/plugins/bbpowerpack/assets/css/animate.min.css?ver=3.5.1' media='all' />
+<link rel='stylesheet' id='pp-animate-css' href="{{asset('assets/plugins/bbpowerpack/assets/css/animate.min.css?ver=3.5.1')}}" media='all' />
 <style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 <style id="wp-custom-css">
          .top_layer {
