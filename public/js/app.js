@@ -19312,6 +19312,110 @@ var __WEBPACK_AMD_DEFINE_RESULT__;/**
 
 /***/ }),
 
+/***/ "./resources/sass/ultimateicons.scss":
+/*!*******************************************!*\
+  !*** ./resources/sass/ultimateicons.scss ***!
+  \*******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
+/***/ "./resources/sass/legacydropdown.scss":
+/*!********************************************!*\
+  !*** ./resources/sass/legacydropdown.scss ***!
+  \********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
+/***/ "./resources/sass/layout-bundle.scss":
+/*!*******************************************!*\
+  !*** ./resources/sass/layout-bundle.scss ***!
+  \*******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
+/***/ "./resources/sass/base-min.scss":
+/*!**************************************!*\
+  !*** ./resources/sass/base-min.scss ***!
+  \**************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
+/***/ "./resources/sass/skin.scss":
+/*!**********************************!*\
+  !*** ./resources/sass/skin.scss ***!
+  \**********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
+/***/ "./resources/sass/22-layout.scss":
+/*!***************************************!*\
+  !*** ./resources/sass/22-layout.scss ***!
+  \***************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
+/***/ "./resources/sass/home.scss":
+/*!**********************************!*\
+  !*** ./resources/sass/home.scss ***!
+  \**********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
+/***/ "./resources/css/app.css":
+/*!*******************************!*\
+  !*** ./resources/css/app.css ***!
+  \*******************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
 /***/ "./resources/sass/app.scss":
 /*!*********************************!*\
   !*** ./resources/sass/app.scss ***!
@@ -19351,10 +19455,23 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./resources/css/app.css":
-/*!*******************************!*\
-  !*** ./resources/css/app.css ***!
-  \*******************************/
+/***/ "./resources/sass/style2.scss":
+/*!************************************!*\
+  !*** ./resources/sass/style2.scss ***!
+  \************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
+/***/ "./resources/sass/bxslider.scss":
+/*!**************************************!*\
+  !*** ./resources/sass/bxslider.scss ***!
+  \**************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -19681,8 +19798,17 @@ module.exports = JSON.parse('{"_from":"axios@^0.21","_id":"axios@0.21.4","_inBun
 /******/ 		var installedChunks = {
 /******/ 			"/js/app": 0,
 /******/ 			"css/app": 0,
+/******/ 			"css/bxslider": 0,
+/******/ 			"css/style2": 0,
 /******/ 			"css/product": 0,
-/******/ 			"css/_SiteHeader": 0
+/******/ 			"css/_SiteHeader": 0,
+/******/ 			"css/home": 0,
+/******/ 			"css/22-layout": 0,
+/******/ 			"css/skin": 0,
+/******/ 			"css/base-min": 0,
+/******/ 			"css/layout-bundle": 0,
+/******/ 			"css/legacydropdown": 0,
+/******/ 			"css/ultimateicons": 0
 /******/ 		};
 /******/ 		
 /******/ 		// no chunk on demand loading
@@ -19732,11 +19858,20 @@ module.exports = JSON.parse('{"_from":"axios@^0.21","_id":"axios@0.21.4","_inBun
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module depends on other loaded chunks and execution need to be delayed
-/******/ 	__webpack_require__.O(undefined, ["css/app","css/product","css/_SiteHeader"], () => (__webpack_require__("./resources/js/app.js")))
-/******/ 	__webpack_require__.O(undefined, ["css/app","css/product","css/_SiteHeader"], () => (__webpack_require__("./resources/sass/app.scss")))
-/******/ 	__webpack_require__.O(undefined, ["css/app","css/product","css/_SiteHeader"], () => (__webpack_require__("./resources/sass/_SiteHeader.scss")))
-/******/ 	__webpack_require__.O(undefined, ["css/app","css/product","css/_SiteHeader"], () => (__webpack_require__("./resources/sass/product.scss")))
-/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["css/app","css/product","css/_SiteHeader"], () => (__webpack_require__("./resources/css/app.css")))
+/******/ 	__webpack_require__.O(undefined, ["css/app","css/bxslider","css/style2","css/product","css/_SiteHeader","css/home","css/22-layout","css/skin","css/base-min","css/layout-bundle","css/legacydropdown","css/ultimateicons"], () => (__webpack_require__("./resources/js/app.js")))
+/******/ 	__webpack_require__.O(undefined, ["css/app","css/bxslider","css/style2","css/product","css/_SiteHeader","css/home","css/22-layout","css/skin","css/base-min","css/layout-bundle","css/legacydropdown","css/ultimateicons"], () => (__webpack_require__("./resources/sass/app.scss")))
+/******/ 	__webpack_require__.O(undefined, ["css/app","css/bxslider","css/style2","css/product","css/_SiteHeader","css/home","css/22-layout","css/skin","css/base-min","css/layout-bundle","css/legacydropdown","css/ultimateicons"], () => (__webpack_require__("./resources/sass/_SiteHeader.scss")))
+/******/ 	__webpack_require__.O(undefined, ["css/app","css/bxslider","css/style2","css/product","css/_SiteHeader","css/home","css/22-layout","css/skin","css/base-min","css/layout-bundle","css/legacydropdown","css/ultimateicons"], () => (__webpack_require__("./resources/sass/product.scss")))
+/******/ 	__webpack_require__.O(undefined, ["css/app","css/bxslider","css/style2","css/product","css/_SiteHeader","css/home","css/22-layout","css/skin","css/base-min","css/layout-bundle","css/legacydropdown","css/ultimateicons"], () => (__webpack_require__("./resources/sass/style2.scss")))
+/******/ 	__webpack_require__.O(undefined, ["css/app","css/bxslider","css/style2","css/product","css/_SiteHeader","css/home","css/22-layout","css/skin","css/base-min","css/layout-bundle","css/legacydropdown","css/ultimateicons"], () => (__webpack_require__("./resources/sass/bxslider.scss")))
+/******/ 	__webpack_require__.O(undefined, ["css/app","css/bxslider","css/style2","css/product","css/_SiteHeader","css/home","css/22-layout","css/skin","css/base-min","css/layout-bundle","css/legacydropdown","css/ultimateicons"], () => (__webpack_require__("./resources/sass/ultimateicons.scss")))
+/******/ 	__webpack_require__.O(undefined, ["css/app","css/bxslider","css/style2","css/product","css/_SiteHeader","css/home","css/22-layout","css/skin","css/base-min","css/layout-bundle","css/legacydropdown","css/ultimateicons"], () => (__webpack_require__("./resources/sass/legacydropdown.scss")))
+/******/ 	__webpack_require__.O(undefined, ["css/app","css/bxslider","css/style2","css/product","css/_SiteHeader","css/home","css/22-layout","css/skin","css/base-min","css/layout-bundle","css/legacydropdown","css/ultimateicons"], () => (__webpack_require__("./resources/sass/layout-bundle.scss")))
+/******/ 	__webpack_require__.O(undefined, ["css/app","css/bxslider","css/style2","css/product","css/_SiteHeader","css/home","css/22-layout","css/skin","css/base-min","css/layout-bundle","css/legacydropdown","css/ultimateicons"], () => (__webpack_require__("./resources/sass/base-min.scss")))
+/******/ 	__webpack_require__.O(undefined, ["css/app","css/bxslider","css/style2","css/product","css/_SiteHeader","css/home","css/22-layout","css/skin","css/base-min","css/layout-bundle","css/legacydropdown","css/ultimateicons"], () => (__webpack_require__("./resources/sass/skin.scss")))
+/******/ 	__webpack_require__.O(undefined, ["css/app","css/bxslider","css/style2","css/product","css/_SiteHeader","css/home","css/22-layout","css/skin","css/base-min","css/layout-bundle","css/legacydropdown","css/ultimateicons"], () => (__webpack_require__("./resources/sass/22-layout.scss")))
+/******/ 	__webpack_require__.O(undefined, ["css/app","css/bxslider","css/style2","css/product","css/_SiteHeader","css/home","css/22-layout","css/skin","css/base-min","css/layout-bundle","css/legacydropdown","css/ultimateicons"], () => (__webpack_require__("./resources/sass/home.scss")))
+/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["css/app","css/bxslider","css/style2","css/product","css/_SiteHeader","css/home","css/22-layout","css/skin","css/base-min","css/layout-bundle","css/legacydropdown","css/ultimateicons"], () => (__webpack_require__("./resources/css/app.css")))
 /******/ 	__webpack_exports__ = __webpack_require__.O(__webpack_exports__);
 /******/ 	
 /******/ })()

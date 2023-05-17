@@ -1,6 +1,15 @@
 {
     "/js/app.js": "/js/app.js",
     "/css/app.css": "/css/app.css",
+    "/css/bxslider.css": "/css/bxslider.css",
+    "/css/style2.css": "/css/style2.css",
     "/css/product.css": "/css/product.css",
-    "/css/_SiteHeader.css": "/css/_SiteHeader.css"
+    "/css/_SiteHeader.css": "/css/_SiteHeader.css",
+    "/css/home.css": "/css/home.css",
+    "/css/22-layout.css": "/css/22-layout.css",
+    "/css/skin.css": "/css/skin.css",
+    "/css/base-min.css": "/css/base-min.css",
+    "/css/layout-bundle.css": "/css/layout-bundle.css",
+    "/css/legacydropdown.css": "/css/legacydropdown.css",
+    "/css/ultimateicons.css": "/css/ultimateicons.css"
 }

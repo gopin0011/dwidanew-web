@@ -44,6 +44,8 @@
       <meta name="msapplication-TileColor" content="#000000">
       <meta name="theme-color" content="#000000">
       <link rel="stylesheet" href="{{asset('public/assets/css/style.min.1678717687.css')}}" media="all">
+      <!-- <link href="{{ asset('public/css/style2.css') }}" rel="stylesheet"> -->
+
       <!-- Google Tag Manager -->
       <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -52,6 +54,14 @@
          })(window,document,'script','dataLayer','GTM-W8KPZF2');
       </script>
       <!-- End Google Tag Manager -->
+
+         <!-- bluebotics -->
+        <link href="{{ asset('public/css/bxslider.css') }}" rel="stylesheet">
+        <link href="{{ asset('public/css/ultimateicons.css') }}" rel="stylesheet">
+        <link href="{{ asset('public/css/legacydropdown.css') }}" rel="stylesheet">
+        <link href="{{ asset('public/css/layout-bundle.css') }}" rel="stylesheet">
+        <link href="{{ asset('public/css/base-min.css') }}" rel="stylesheet">
+        <link href="{{ asset('public/css/skin.css') }}" rel="stylesheet">
    </head>
    <body class="tpl-home ">
       <!-- Google Tag Manager (noscript) -->
@@ -86,7 +96,7 @@
                </ul>
             </div>
          </div>
-         <div class="SiteHeader-overlay SiteHeader-overlay--search">
+         <!-- <div class="SiteHeader-overlay SiteHeader-overlay--search">
             <a href="/en/products/find-a-model/" class="SiteHeader-search" data-overlay-toggle="search" aria-label="Search">
                <span class="Icon Icon--lens ">
                   <svg class="Icon-svg">
@@ -101,7 +111,7 @@
                   </svg>
                </span>
             </a>
-         </div>
+         </div> -->
          <div class="SiteHeader-overlay SiteHeader-overlay--menu">
             <span class="SiteHeader-menuToggle js-overlayToggle" data-overlay-toggle="menu" role="button" aria-label="menu">
                <span class="SiteHeader-menuIcon Icon Icon--menu">
@@ -249,6 +259,7 @@
             </div>
          </div>
       </header>
+
       <main class="Main" id="main" data-scroll-container>
          <div class="Main-container">
             <div class="HpSections js-toggleSiteHeader js-hpSections">
@@ -455,13 +466,13 @@
                         </div>
                         <div class="Banner-container">
                            <div class="Banner-row row">
-                              <div class="Banner-content col-12">
+                              <!-- <div class="Banner-content col-12">
                                  <div class="Banner-contentWrapper" data-scroll>
                                     <h2 class="Banner-title">ZERO EMISSION<br>COMPANY</h2>
                                     <p class="Banner-subtitle">From January 2022, Nobili has achieved net-zero carbon emissions by using electricity generated entirely from renewable sources.</p>
                                     <p class="Banner-cta"><a href="/en/corporate/sustainability/" class="Link">LEARN MORE</a></p>
                                  </div>
-                              </div>
+                              </div> -->
                            </div>
                         </div>
                      </div>
@@ -469,28 +480,8 @@
                </div>
             </div>
             <div class="CardsText Section  --adjacentBg" style="">
-               <div class="container">
-                  <div class="row">
-                     <div class="col-12 CardsText-mainCol">
-                        <div class="row CardsText-row">
-                           <div class="col-12 CardsText-col" data-scroll>
-                              <h4 class="CardsText-title">CATALOGS</h4>
-                              <p class="CardsText-subtitle">Stay up to date on our products through the related documentation</p>
-                              <a href="/en/catalogs/" class="Link">LEARN MORE</a>
-                           </div>
-                           <div class="col-12 CardsText-col" data-scroll>
-                              <h4 class="CardsText-title">NEWSROOM</h4>
-                              <p class="CardsText-subtitle">Live the Nobili experience to its fullest through our communication-dedicated area</p>
-                              <a href="/en/newsroom/" class="Link">LEARN MORE</a>
-                           </div>
-                           <div class="col-12 CardsText-col" data-scroll>
-                              <h4 class="CardsText-title">SUPPORT</h4>
-                              <p class="CardsText-subtitle">Find maintenance advice, warranty information and the nearest point of sale</p>
-                              <a href="/en/support/" class="Link">LEARN MORE</a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
+               <div class="source1">
+                @include('pages.landing')
                </div>
             </div>
             <div class="Newsletter js-newsletter">
