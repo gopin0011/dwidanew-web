@@ -14,6 +14,6 @@ class ProductImage extends Model
 
     public function media()
     {
-        return $this->hasOne(Media::class, 'id', 'id_product');
+        return $this->hasOne(Media::class, 'id', 'id_media');
     }
 }

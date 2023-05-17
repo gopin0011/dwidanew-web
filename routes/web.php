@@ -43,7 +43,7 @@ Route::get('brand/{catId?}', function (Request $request, $catId = 1) {
 
 Route::get('product/{productId?}/detail', function (Request $request, $productId = 1) {
     $product = \App\Models\Product::with('image.media','category')->find($productId);
-    // dd($product);
+    // dd($product->image[0]);
     return view('pages.detail', [
         'product' => $product, 
     ]);
