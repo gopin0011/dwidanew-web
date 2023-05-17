@@ -11,8 +11,8 @@
                                     <div class="fl-photo fl-photo-align-left" itemscope itemtype="https://schema.org/ImageObject">
                                        <div class="fl-photo-content fl-photo-img-svg">
                                           <a href="{{route('app.home')}}" target="_self" itemprop="url">
-                                             <img decoding="async" class="fl-photo-img wp-image-2785 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="BlueBotics logo white" itemprop="image" height="0" width="0"  data-lazy-src="{{asset('images/logo/djt_pt_putih.png')}}" />
-                                             <noscript><img decoding="async" class="fl-photo-img wp-image-2785 size-full" src="{{asset('images/djt_.png')}}" alt="BlueBotics logo white" itemprop="image" height="0" width="0"  /></noscript>
+                                             <img decoding="async" class="fl-photo-img wp-image-2785 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="BlueBotics logo white" itemprop="image" height="0" width="0"  data-lazy-src="{{asset('public/images/logo/djt_pt_putih.png')}}" />
+                                             <noscript><img decoding="async" class="fl-photo-img wp-image-2785 size-full" src="{{asset('public/images/djt_.png')}}" alt="BlueBotics logo white" itemprop="image" height="0" width="0"  /></noscript>
                                           </a>
                                        </div>
                                     </div>
@@ -248,7 +248,7 @@
                               <div class="fl-col-group fl-node-616d8bfa3009a fl-col-group-nested fl-col-group-custom-width" data-node="616d8bfa3009a">
                                  <!-- <div class="fl-col fl-node-616d8bfa3009b" data-node="616d8bfa3009b">
                                     <div class="fl-col-content fl-node-content">
-                                    <img src="{{asset('images/logo/djt_group.png')}}" style="margin-top:20px; margin-left: 100px;" width="100%">
+                                    <img src="{{asset('public/images/logo/djt_group.png')}}" style="margin-top:20px; margin-left: 100px;" width="100%">
 
                                        <div class="fl-module fl-module-menu fl-node-616d8bfa3009c" data-node="616d8bfa3009c">
                                           <div class="fl-module-content fl-node-content">
@@ -289,7 +289,7 @@
                                        <div class="fl-module fl-module-rich-text fl-node-616d8bfa30085" data-node="616d8bfa30085">
                                           <div class="fl-module-content fl-node-content">
                                              <div class="fl-rich-text">
-                                                <img src="{{asset('images/logo/djt_group.png')}}" class="djt-group-footer">
+                                                <img src="{{asset('public/images/logo/djt_group.png')}}" class="djt-group-footer">
                                              </div>
                                           </div>
                                        </div>

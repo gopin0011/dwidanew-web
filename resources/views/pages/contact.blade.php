@@ -4,7 +4,7 @@
 <noscript>
     <style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style>
 </noscript>
-<link data-minify="1" rel='stylesheet' id='fl-builder-layout-28-css' href="{{asset('assets/wp-content/28-layout.css?ver=1682259126')}}" media='all' />
+<link data-minify="1" rel='stylesheet' id='fl-builder-layout-28-css' href="{{asset('public/assets/wp-content/28-layout.css?ver=1682259126')}}" media='all' />
 <link data-minify="1" rel="stylesheet" href="https://bluebotics.com/wp-content/cache/min/1/jem7gzh.css?ver=1682258218">
 <link data-minify="1" href="https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/omgf/omgf-stylesheet-75/omgf-stylesheet-75.css?ver=1682258218" rel="stylesheet">
 <link rel='stylesheet' id='gravity_forms_theme_reset-css' href='https://bluebotics.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-reset.min.css?ver=2.7.4' media='all' />
@@ -13,7 +13,7 @@
 <link rel='stylesheet' id='gravity_forms_orbital_theme-css' href='https://bluebotics.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-orbital-theme.min.css?ver=2.7.4' media='all' />
 <link rel='stylesheet' id='gforms_reset_css-css' href='https://bluebotics.com/wp-content/plugins/gravityforms/legacy/css/formreset.min.css?ver=2.7.4' media='all' />
 <link rel='stylesheet' id='gforms_formsmain_css-css' href='https://bluebotics.com/wp-content/plugins/gravityforms/legacy/css/formsmain.min.css?ver=2.7.4' media='all' />
-<link rel='stylesheet' id='gforms_ready_class_css-css' href="{{asset('assets/wp-content/plugins/readyclass.min.css?ver=2.7.4')}}" media='all' />
+<link rel='stylesheet' id='gforms_ready_class_css-css' href="{{asset('public/assets/wp-content/plugins/readyclass.min.css?ver=2.7.4')}}" media='all' />
 <link rel='stylesheet' id='gforms_browsers_css-css' href='https://bluebotics.com/wp-content/plugins/gravityforms/legacy/css/browsers.min.css?ver=2.7.4' media='all' />
     <style id="wp-custom-css">
          .top_layer {
@@ -1105,8 +1105,8 @@
          }}		
          .fl-node-5f918afab1adb>.fl-row-content-wrap{
             /* background: linear-gradient(90deg,rgba(16,62,104,.8) 0%,rgba(7,90,234,.8) 100%),
-              url({{asset('images/produk.jpg')}}); */
-              background: url({{asset('images/produk.jpg')}});
+              url({{asset('public/images/produk.jpg')}}); */
+              background: url({{asset('public/images/produk.jpg')}});
             background-repeat:no-repeat;
             background-position:0% 40%;
             background-attachment:scroll;

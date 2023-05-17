@@ -1093,7 +1093,7 @@
          top:100px !important;
          }}		
       </style>
-      <link data-minify="1" rel='stylesheet' id='fl-builder-layout-22-css' href="{{asset('assets/uploads/bb-plugin/cache/22-layout.css?ver=1681229321')}}" media='all' />
+      <link data-minify="1" rel='stylesheet' id='fl-builder-layout-22-css' href="{{asset('public/assets/uploads/bb-plugin/cache/22-layout.css?ver=1681229321')}}" media='all' />
       <noscript>
          <style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style>
       </noscript>

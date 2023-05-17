@@ -11,7 +11,7 @@
                                     <div class="fl-photo fl-photo-align-left" itemscope itemtype="https://schema.org/ImageObject">
                                        <div class="fl-photo-content fl-photo-img-svg">
                                           <a href="{{route('app.home')}}" target="_self" itemprop="url">
-                                          <img decoding="async" class="fl-photo-img wp-image-10103 size-full" src="{{asset('images/djt_.png')}}" alt="BlueBotics logo." itemprop="image" height="0" width="0"  data-no-lazy="1" />
+                                          <img decoding="async" class="fl-photo-img wp-image-10103 size-full" src="{{asset('public/images/djt_.png')}}" alt="BlueBotics logo." itemprop="image" height="0" width="0"  data-no-lazy="1" />
                                           </a>
                                        </div>
                                     </div>
@@ -260,7 +260,7 @@
                                     <div class="fl-photo fl-photo-align-left" itemscope itemtype="https://schema.org/ImageObject">
                                        <div class="fl-photo-content fl-photo-img-svg">
                                           <a href="{{route('app.home')}}" target="_self" itemprop="url">
-                                          <img decoding="async" class="fl-photo-img wp-image-10103 size-full" src="{{asset('images/djt_.png')}}" alt="BlueBotics logo." itemprop="image" height="0" width="0"  data-no-lazy="1" />
+                                          <img decoding="async" class="fl-photo-img wp-image-10103 size-full" src="{{asset('public/images/djt_.png')}}" alt="BlueBotics logo." itemprop="image" height="0" width="0"  data-no-lazy="1" />
                                           </a>
                                        </div>
                                     </div>

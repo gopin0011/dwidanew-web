@@ -4,8 +4,8 @@
 @extends('layouts.app')
 
 @section('css')
-<link data-minify="1" rel='stylesheet' id='fl-builder-layout-22-css' href="{{asset('assets/uploads/bb-plugin/cache/22-layout.css?ver=1681229321')}}" media='all' />
-<link data-minify="1" rel='stylesheet' id='fl-builder-layout-bundle-67c5dade2f7e9c91310c3f808a9e40b1-css' href="{{asset('assets/uploads/bb-plugin/cache/67c5dade2f7e9c91310c3f808a9e40b1-layout-bundle.css?ver=1682623770')}}" media='all' />
+<link data-minify="1" rel='stylesheet' id='fl-builder-layout-22-css' href="{{asset('public/assets/uploads/bb-plugin/cache/22-layout.css?ver=1681229321')}}" media='all' />
+<link data-minify="1" rel='stylesheet' id='fl-builder-layout-bundle-67c5dade2f7e9c91310c3f808a9e40b1-css' href="{{asset('public/assets/uploads/bb-plugin/cache/67c5dade2f7e9c91310c3f808a9e40b1-layout-bundle.css?ver=1682623770')}}" media='all' />
 
 <style id="wp-custom-css">
          .top_layer {
@@ -1117,7 +1117,7 @@
 
          .fl-node-602ef686c49f6>.fl-row-content-wrap{
             background: linear-gradient(90deg,rgba(16,62,104,.8) 0%,rgba(7,90,234,.8) 100%),
-              url({{asset('images/produk.jpg')}});
+              url({{asset('public/images/produk.jpg')}});
             background-repeat:no-repeat;
             background-position:0% 40%;
             background-attachment:scroll;
