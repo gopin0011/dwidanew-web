@@ -1230,14 +1230,14 @@
                             <a href="{{route('app.product.detail', ['productId' => $product->id])}}" class="p-CollectionList-link">
                             <div class="grid">
                                 <figure class="p-CollectionList-figure effect-lily">
-                                    <!-- <div class="p-CollectionList-image lazyloaded" data-bgset="/site/assets/files/1225/velis_cr.480x0.jpg 480w 552h, /site/assets/files/1225/velis_cr.640x0.jpg 640w 736h" style="background-position: 50% 50%; background-image: url('{{ asset('storage/products/'.$product->image[0]->media->desktop) }}');">
+                                    <!-- <div class="p-CollectionList-image lazyloaded" data-bgset="/site/assets/files/1225/velis_cr.480x0.jpg 480w 552h, /site/assets/files/1225/velis_cr.640x0.jpg 640w 736h" style="background-position: 50% 50%; background-image: url('{{ asset('public/storage/products/'.$product->image[0]->media->desktop) }}');">
                                         <picture style="display: none;">
                                             <source data-srcset="/site/assets/files/1225/velis_cr.480x0.jpg 480w 552h" sizes="297.39130434782606px" srcset="/site/assets/files/1225/velis_cr.480x0.jpg 480w 552h">
                                             <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="contain" data-srcset="" sizes="297.39130434782606px" srcset="">
                                         </picture>
                                     </div>
                                     <noscript><img src="/site/assets/files/1225/velis_cr.640x0.jpg" alt=""></noscript> -->
-                                    <img src="{{ asset('storage/products/'.$product->image[0]->media->desktop) }}" alt="img12"/>
+                                    <img src="{{ asset('public/storage/products/'.$product->image[0]->media->desktop) }}" alt="img12"/>
                                 </figure>
                             </div>
                             <h1 class="h6 p-CollectionList-title"><span>{{$product->name}}</span></h1>
