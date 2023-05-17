@@ -15,7 +15,7 @@ use Illuminate\Http\Request;
 */
 
 Route::get('/', function () {
-    return view('pages.home');
+    return view('layouts.home');
 })->name('app.home');
 
 Route::get('about', function () {
