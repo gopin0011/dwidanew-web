@@ -1167,8 +1167,8 @@
 <!-- <link rel="stylesheet" href="{{asset('public/assets/css/magnific-popup.min.css')}}" type="text/css"> -->
 <!-- <link rel="stylesheet" href="{{asset('public/assets/css/product-style.css')}}" type="text/css"> -->
 <!-- <link rel="stylesheet" href="{{asset('public/assets/css/style.min.1678717687.css')}}" media="all"> -->
-<link href="{{ asset('css/app.css') }}" rel="stylesheet">
-<link href="{{ asset('css/_SiteHeader.css') }}" rel="stylesheet">
+<link href="{{ asset('public/css/app.css') }}" rel="stylesheet">
+<link href="{{ asset('public/css/_SiteHeader.css') }}" rel="stylesheet">
 
 @endsection
 
