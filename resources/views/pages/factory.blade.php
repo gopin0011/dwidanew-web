@@ -27,21 +27,21 @@
     .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
 <link data-minify="1" rel='stylesheet' id='wpml-blocks-css' href='https://bluebotics.com/wp-content/cache/min/1/wp-content/plugins/sitepress-multilingual-cms/dist/css/blocks/styles.css?ver=1682258217' media='all' />
-<link data-minify="1" rel='stylesheet' id='labb-frontend-styles-css' href="{{asset('public/assets/wp-content/cache/labb-frontend.css?ver=1682258217')}}" media='all' />
-<link data-minify="1" rel='stylesheet' id='labb-icomoon-styles-css' href="{{asset('public/assets/wp-content/cache/icomoon.css?ver=1682258217')}}" media='all' />
-<link data-minify="1" rel='stylesheet' id='cookie-law-info-css' href="{{asset('public/assets/wp-content/plugins/cookie-law-info-public.css?ver=1682258217')}}" media='all' />
-<link data-minify="1" rel='stylesheet' id='cookie-law-info-gdpr-css' href="{{asset('public/assets/wp-content/plugins/cookie-law-info-gdpr.css?ver=1682258217')}}" media='all' />
-<link rel='stylesheet' id='wpml-legacy-dropdown-0-css' href="{{asset('public/assets/plugins/sitepress-multilingual-cms/templates/language-switchers/style.min.css?ver=1')}}" media='all' />
-<link rel='stylesheet' id='wpml-menu-item-0-css' href="{{asset('public/assets/plugins/sitepress-multilingual-cms/templates/menu-item/style.min.css?ver=1')}}" media='all' />
-<link data-minify="1" rel='stylesheet' id='font-awesome-5-css' href="{{asset('public/assets/wp-content/plugins/fontawesome/all.min.css?ver=1682258217')}}" media='all' />
-<link data-minify="1" rel='stylesheet' id='dashicons-css' href="{{asset('public/assets/wp-content/cache/dashicons.min.css?ver=1682258217')}}" media='all' />
-<link data-minify="1" rel='stylesheet' id='ultimate-icons-css' href="{{asset('public/assets/wp-content/cache/ultimate-icons/style.css?ver=1682258217')}}" media='all' />
-<link data-minify="1" rel='stylesheet' id='fl-builder-layout-bundle-67c5dade2f7e9c91310c3f808a9e40b1-css' href="{{asset('public/assets/uploads/bb-plugin/cache/67c5dade2f7e9c91310c3f808a9e40b1-layout-bundle.css?ver=1682623770')}}" media='all' />
-<link rel='stylesheet' id='jquery-magnificpopup-css' href="{{asset('public/assets/wp-content/plugins/jquery.magnificpopup.min.css?ver=2.6.3.3')}}" media='all' />
-<link rel='stylesheet' id='base-css' href="{{asset('public/assets/themes/bb-theme/css/base.min.css?ver=1682614687')}}" media='all' />
-<link data-minify="1" rel='stylesheet' id='fl-automator-skin-css' href="{{asset('public/assets/uploads/bb-theme/skin-6408a59d69038.css?ver=1682258217')}}" media='all' />
+<link data-minify="1" rel='stylesheet' id='labb-frontend-styles-css' href="{{asset('assets/wp-content/cache/labb-frontend.css?ver=1682258217')}}" media='all' />
+<link data-minify="1" rel='stylesheet' id='labb-icomoon-styles-css' href="{{asset('assets/wp-content/cache/icomoon.css?ver=1682258217')}}" media='all' />
+<link data-minify="1" rel='stylesheet' id='cookie-law-info-css' href="{{asset('assets/wp-content/plugins/cookie-law-info-public.css?ver=1682258217')}}" media='all' />
+<link data-minify="1" rel='stylesheet' id='cookie-law-info-gdpr-css' href="{{asset('assets/wp-content/plugins/cookie-law-info-gdpr.css?ver=1682258217')}}" media='all' />
+<link rel='stylesheet' id='wpml-legacy-dropdown-0-css' href="{{asset('assets/plugins/sitepress-multilingual-cms/templates/language-switchers/style.min.css?ver=1')}}" media='all' />
+<link rel='stylesheet' id='wpml-menu-item-0-css' href="{{asset('assets/plugins/sitepress-multilingual-cms/templates/menu-item/style.min.css?ver=1')}}" media='all' />
+<link data-minify="1" rel='stylesheet' id='font-awesome-5-css' href="{{asset('assets/wp-content/plugins/fontawesome/all.min.css?ver=1682258217')}}" media='all' />
+<link data-minify="1" rel='stylesheet' id='dashicons-css' href="{{asset('assets/wp-content/cache/dashicons.min.css?ver=1682258217')}}" media='all' />
+<link data-minify="1" rel='stylesheet' id='ultimate-icons-css' href="{{asset('assets/wp-content/cache/ultimate-icons/style.css?ver=1682258217')}}" media='all' />
+<link data-minify="1" rel='stylesheet' id='fl-builder-layout-bundle-67c5dade2f7e9c91310c3f808a9e40b1-css' href="{{asset('assets/uploads/bb-plugin/cache/67c5dade2f7e9c91310c3f808a9e40b1-layout-bundle.css?ver=1682623770')}}" media='all' />
+<link rel='stylesheet' id='jquery-magnificpopup-css' href="{{asset('assets/wp-content/plugins/jquery.magnificpopup.min.css?ver=2.6.3.3')}}" media='all' />
+<link rel='stylesheet' id='base-css' href="{{asset('assets/themes/bb-theme/css/base.min.css?ver=1682614687')}}" media='all' />
+<link data-minify="1" rel='stylesheet' id='fl-automator-skin-css' href="{{asset('assets/uploads/bb-theme/skin-6408a59d69038.css?ver=1682258217')}}" media='all' />
 <link rel='stylesheet' id='fl-child-theme-css' href='https://bluebotics.com/wp-content/themes/bb-theme-child/style.css?ver=1682614687' media='all' />
-<link rel='stylesheet' id='pp-animate-css' href="{{asset('public/assets/plugins/bbpowerpack/assets/css/animate.min.css?ver=3.5.1')}}" media='all' />
+<link rel='stylesheet' id='pp-animate-css' href="{{asset('assets/plugins/bbpowerpack/assets/css/animate.min.css?ver=3.5.1')}}" media='all' />
 <style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 <style id="wp-custom-css">
          .top_layer {
@@ -1148,7 +1148,7 @@
         }
         .fl-node-602ef686c49f6>.fl-row-content-wrap{
             background: linear-gradient(90deg,rgba(16,62,104,.8) 0%,rgba(7,90,234,.8) 100%),
-              url({{asset('public/images/factory.jpg')}});
+              url({{asset('images/factory.jpg')}});
             background-repeat:no-repeat;
             background-position:0% 40%;
             background-attachment:scroll;
@@ -1168,8 +1168,8 @@
 </noscript>
 <link data-minify="1" rel="stylesheet" href="https://bluebotics.com/wp-content/cache/min/1/jem7gzh.css?ver=1682258218">
 <link data-minify="1" href="https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/omgf/omgf-stylesheet-75/omgf-stylesheet-75.css?ver=1682258218" rel="stylesheet">
-<link rel="stylesheet" href="{{asset('public/assets/css/magnific-popup.min.css')}}" type="text/css">
-<link rel="stylesheet" href="{{asset('public/assets/css/product-style.css')}}" type="text/css">
+<link rel="stylesheet" href="{{asset('assets/css/magnific-popup.min.css')}}" type="text/css">
+<link rel="stylesheet" href="{{asset('assets/css/product-style.css')}}" type="text/css">
 @endsection
 
 
@@ -1281,7 +1281,7 @@
       <script src='https://bluebotics.com/wp-content/plugins/addons-for-beaver-builder-premium/assets/js/labb-frontend.min.js?ver=3.1' id='labb-frontend-scripts-js' defer></script>
       <script src='https://bluebotics.com/wp-content/plugins/bb-plugin/js/jquery.waypoints.min.js?ver=2.6.3.3' id='jquery-waypoints-js' defer></script>
       <script src='https://bluebotics.com/wp-content/plugins/addons-for-beaver-builder-premium/assets/js/slick.min.js?ver=3.1' id='slick-js' defer></script>
-      <script data-minify="1" src="{{asset('public/assets/wp-content/cache/24-layout.js?ver=1682287855')}}" id='fl-builder-layout-24-js' defer></script>
+      <script data-minify="1" src="{{asset('assets/wp-content/cache/24-layout.js?ver=1682287855')}}" id='fl-builder-layout-24-js' defer></script>
       <script src='https://bluebotics.com/wp-content/plugins/bb-plugin/js/jquery.ba-throttle-debounce.min.js?ver=2.6.3.3' id='jquery-throttle-js' defer></script>
       <!-- <script data-minify="1" src='https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/bb-plugin/cache/8542c1b1b48ebc97585d92b9186f469f-layout-bundle.js?ver=1682258218' id='fl-builder-layout-bundle-8542c1b1b48ebc97585d92b9186f469f-js' defer></script> -->
       <script src='https://bluebotics.com/wp-content/plugins/bb-plugin/js/jquery.magnificpopup.min.js?ver=2.6.3.3' id='jquery-magnificpopup-js' defer></script>
@@ -1312,9 +1312,9 @@
       <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.7.4' id='gform_placeholder-js'></script>
       <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=e53fa1c181b98fcc24f245ddeff3f288' id='gform_gravityforms_utils-js'></script>
       <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=8d27ab6b5f180424b8c35a8bd6cf265b' id='gform_gravityforms_theme_vendors-js'></script>
-      <script src="{{asset('public/assets/js/jquery.min.js')}}"></script>
-      <script src="{{asset('public/assets/js/jquery.magnific-popup.min.js')}}"></script>
-      <script src="{{asset('public/assets/js/isotope.pkgd.min.js')}}"></script>
+      <script src="{{asset('assets/js/jquery.min.js')}}"></script>
+      <script src="{{asset('assets/js/jquery.magnific-popup.min.js')}}"></script>
+      <script src="{{asset('assets/js/isotope.pkgd.min.js')}}"></script>
       <script id='gform_gravityforms_theme-js-extra'>
          var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"669a140de0ea8af6b0e28af143bedc1d"}}},"hmr_dev":"","public_path":"https:\/\/bluebotics.com\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/"};
       </script>
