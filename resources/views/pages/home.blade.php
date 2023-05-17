@@ -2712,7 +2712,7 @@
                                                     <div class="fl-module fl-module-heading fl-node-5f3de08f7357d" data-node="5f3de08f7357d">
                                                     <div class="fl-module-content fl-node-content">
                                                         <h3 class="fl-heading">
-                                                            <span class="fl-heading-text">Discovery</span>
+                                                            <span class="fl-heading-text">Integrity</span>
                                                         </h3>
                                                     </div>
                                                     </div>
@@ -2733,7 +2733,7 @@
                                                                 <div class='uabb-infobox-title-wrap'></div>
                                                                 <div class="uabb-infobox-text-wrap">
                                                                     <div class="uabb-infobox-text uabb-text-editor">
-                                                                        <p>We discuss your needs to ensure our ANT navigation technology can bring value to your vehicle.</p>
+                                                                        <p>Having integrity and high commitment, can be relied upon every company activity.</p>
                                                                     </div>
                                                                 </div>
                                                                 </div>
@@ -2757,7 +2757,7 @@
                                                     <div id="project-phases-guide" class="fl-module fl-module-heading fl-node-5f3defb75ea26" data-node="5f3defb75ea26">
                                                     <div class="fl-module-content fl-node-content">
                                                         <h3 class="fl-heading">
-                                                            <span class="fl-heading-text">Integration</span>
+                                                            <span class="fl-heading-text">Innovative</span>
                                                         </h3>
                                                     </div>
                                                     </div>
@@ -2778,7 +2778,7 @@
                                                                 <div class='uabb-infobox-title-wrap'></div>
                                                                 <div class="uabb-infobox-text-wrap">
                                                                     <div class="uabb-infobox-text uabb-text-editor">
-                                                                        <p>This phase spans from kick-off until your company has a working ANT driven vehicle (including on-site support).<span id="plan"></span></p>
+                                                                        <p>The passion to create and innovate continuously on products based on expertise, good materials, design and determination in producing the best solutions for consumers.<span id="plan"></span></p>
                                                                     </div>
                                                                 </div>
                                                                 </div>
@@ -2802,7 +2802,7 @@
                                                     <div class="fl-module fl-module-heading fl-node-5f3de061bdb1d" data-node="5f3de061bdb1d">
                                                     <div class="fl-module-content fl-node-content">
                                                         <h3 class="fl-heading">
-                                                            <span class="fl-heading-text">Launch</span>
+                                                            <span class="fl-heading-text">Synergy</span>
                                                         </h3>
                                                     </div>
                                                     </div>
@@ -2823,7 +2823,7 @@
                                                                 <div class='uabb-infobox-title-wrap'></div>
                                                                 <div class="uabb-infobox-text-wrap">
                                                                     <div class="uabb-infobox-text uabb-text-editor">
-                                                                        <p>We work with you to make sure your launch is a success, including on-site support at your first customer installation.</p>
+                                                                        <p>Be proactive in cooperating with customers, business partners, communities, employees and company organizations.</p>
                                                                     </div>
                                                                 </div>
                                                                 </div>

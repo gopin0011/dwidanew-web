@@ -1131,6 +1131,23 @@
          position:absolute;
          top:100px !important;
          }}		
+        
+         .fl-node-602ef686c49f6>.fl-row-content-wrap{
+            background: linear-gradient(90deg,rgba(16,62,104,.8) 0%,rgba(7,90,234,.8) 100%),
+              url({{asset('images/_career.jpeg')}});
+            background-repeat:no-repeat;
+            background-position:0% 40%;
+            background-attachment:scroll;
+            background-size:auto
+         }
+
+         .fl-node-602ef686c49f8>.fl-col-content {
+            border-style: solid;
+            border-width: 0;
+            background-clip: border-box;
+            /* border-color:#ffa238; */
+            /* border-bottom-width:2px; */
+         }
 </style>
 <noscript>
     <style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style>
@@ -1153,7 +1170,7 @@
                         <div class="fl-module fl-module-heading fl-node-602ef686c49f3 fl-animation fl-fade-up" data-node="602ef686c49f3" data-animation-delay="0" data-animation-duration="2">
                            <div class="fl-module-content fl-node-content">
                               <h1 class="fl-heading">
-                                 <span class="fl-heading-text">News</span>
+                                 <span class="fl-heading-text">Career</span>
                               </h1>
                            </div>
                         </div>
@@ -1162,13 +1179,13 @@
                               <div class="fl-separator"></div>
                            </div>
                         </div>
-                        <div class="fl-module fl-module-heading fl-node-602ef686c49f4" data-node="602ef686c49f4">
+                        <!-- <div class="fl-module fl-module-heading fl-node-602ef686c49f4" data-node="602ef686c49f4">
                            <div class="fl-module-content fl-node-content">
                               <h4 class="fl-heading">
                                  <span class="fl-heading-text">The latest updates from bluebotics</span>
                               </h4>
                            </div>
-                        </div>
+                        </div> -->
                      </div>
                   </div>
                </div>
@@ -1182,7 +1199,7 @@
                <div class="fl-col-group fl-node-602ef686c49f7 fl-col-group-custom-width" data-node="602ef686c49f7">
                   <div class="fl-col fl-node-602ef686c49f8" data-node="602ef686c49f8">
                      <div class="fl-col-content fl-node-content">
-                        <div class="fl-module fl-module-post-grid fl-node-602ef686c49fa top_layer" data-node="602ef686c49fa">
+                        <div class="fl-module fl-module-post-grid fl-node-602ef686c49fa top_layer" data-node="602ef686c49fa" style="">
                            <div class="fl-module-content fl-node-content">
                               <div class="fl-post-feed" itemscope="itemscope" itemtype="https://schema.org/Blog">
                                  <div class="fl-post-feed-post fl-post-feed-image-above-title fl-post-align-default post-20620 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-featured-post tag-featured-news" itemscope itemtype="https://schema.org/BlogPosting">
@@ -1205,7 +1222,7 @@
                                        <meta itemprop="interactionType" content="https://schema.org/CommentAction" />
                                        <meta itemprop="userInteractionCount" content="0" />
                                     </div>
-                                    <div class="fl-post-feed-image">
+                                    <!-- <div class="fl-post-feed-image">
                                        <a href="https://bluebotics.com/bluebotics-prolog-agv-automation/" rel="bookmark" title="BlueBotics and ProLog Automation Join  Forces to Drive German AGV Adoption">
                                           <picture class="attachment-large size-large wp-post-image" decoding="async">
                                              <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2023/04/MicrosoftTeams-image-41-1024x256.png.webp 1024w, https://bluebotics.com/wp-content/uploads/2023/04/MicrosoftTeams-image-41-300x75.png.webp 300w, https://bluebotics.com/wp-content/uploads/2023/04/MicrosoftTeams-image-41-768x192.png.webp 768w, https://bluebotics.com/wp-content/uploads/2023/04/MicrosoftTeams-image-41-1536x384.png.webp 1536w, https://bluebotics.com/wp-content/uploads/2023/04/MicrosoftTeams-image-41.png.webp 1600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20256&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
@@ -1218,20 +1235,33 @@
                                              </picture>
                                           </noscript>
                                        </a>
-                                    </div>
+                                    </div> -->
                                     <div class="fl-post-feed-text">
-                                       <div class="fl-post-feed-header">
-                                          <h2 class="fl-post-feed-title" itemprop="headline">
-                                             <a href="https://bluebotics.com/bluebotics-prolog-agv-automation/" rel="bookmark" title="BlueBotics and ProLog Automation Join  Forces to Drive German AGV Adoption">BlueBotics and ProLog Automation Join  Forces to Drive German AGV Adoption</a>
+                                       <div class="fl-post-feed-header" style="border-top: 1px solid #ffa238;">
+                                          <h2 class="fl-post-feed-title" itemprop="headline" style="margin-top: 15px;">
+                                             <a href="https://www.jobstreet.co.id/id/job/tax-staff-4309080?jobId=jobstreet-id-job-4309080&sectionRank=1&token=0~5fe8f6e5-159a-4439-9f23-c856140ada9d&fr=SRP%20View%20In%20New%20Tab" rel="bookmark" title="Career">Tax Staff</a>
                                           </h2>
                                           <div class="fl-post-feed-meta">
                                              <span class="fl-post-feed-date">
-                                             April 4, 2023					</span>
+                                             Ditayangkan pada 27-Apr-23</span>
                                           </div>
                                        </div>
                                        <div class="fl-post-feed-content" itemprop="text">
-                                          <p>The Swiss vehicle navigation leader has teamed up with the Stuttgart-based AGV consulting and integration experts to bring the benefits of ‘ANT driven’ AGV solutions to organizations across Germany. BlueBotics and ProLog Automation have signed a strategic partnership to help drive the adoption of automated guided vehicles (AGV/FTS) across the German manufacturing and logistics sectors.&hellip;</p>
-                                          <a class="fl-post-feed-more" href="https://bluebotics.com/bluebotics-prolog-agv-automation/" title="BlueBotics and ProLog Automation Join  Forces to Drive German AGV Adoption">Read More >></a>
+                                       <span class="z1s6m00 _1hbhsw64y y44q7i0 y44q7i1 y44q7i21 y44q7ii">
+                                          <div class="z1s6m00">
+                                             <p><strong>Kualifikasi :</strong></p>
+                                             <ul>
+                                                <li>Pendidikan minimal S1 di bidang Akuntansi/Manajemen</li>
+                                                <li>Usia maksimal 35 tahun</li>
+                                                <li>Menguasai system Accurate atau system ERP lainnya</li>
+                                                <li>Memiliki pengalaman minimal 3 tahun di General Ledger dan Rekonsiliasi</li>
+                                                <li>Memiliki sertifikat Brevet A, B, C</li>
+                                                <li>Memiliki pengalaman bekerja di manufaktur (Furniture lebih diutamakan)</li>
+                                                <li>Menguasai prinsip akuntansi, Teliti, dan tekun</li>
+                                             </ul>
+                                             </div>
+                                          </span>
+                                          <a class="fl-post-feed-more" href="https://www.jobstreet.co.id/id/job/tax-staff-4309080?jobId=jobstreet-id-job-4309080&sectionRank=1&token=0~5fe8f6e5-159a-4439-9f23-c856140ada9d&fr=SRP%20View%20In%20New%20Tab" title="Career">Read More >></a>
                                        </div>
                                     </div>
                                     <div class="fl-clear"></div>
@@ -1240,521 +1270,11 @@
                               <div class="fl-clear"></div>
                            </div>
                         </div>
-                        <div class="fl-module fl-module-post-grid fl-node-602ef686c49ff top_layer" data-node="602ef686c49ff">
-                           <div class="fl-module-content fl-node-content">
-                              <div class="fl-post-grid" itemscope="itemscope" itemtype="https://schema.org/Blog">
-                                 <div class="fl-post-column">
-                                    <div class="fl-post-grid-post fl-post-grid-image-above-title fl-post-columns-post fl-post-align-default post-13860 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-business tag-news" itemscope itemtype="https://schema.org/BlogPosting">
-                                       <meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://bluebotics.com/bluebotics-events/" content="Meet BlueBotics at These Events" />
-                                       <meta itemprop="datePublished" content="2023-04-26" />
-                                       <meta itemprop="dateModified" content="2023-04-26" />
-                                       <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-                                          <meta itemprop="name" content="BlueBotics">
-                                       </div>
-                                       <div itemscope itemprop="author" itemtype="https://schema.org/Person">
-                                          <meta itemprop="url" content="https://bluebotics.com/author/rachelrayner/" />
-                                          <meta itemprop="name" content="Rachel Rayner" />
-                                       </div>
-                                       <div itemscope itemprop="image" itemtype="https://schema.org/ImageObject">
-                                          <meta itemprop="url" content="https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1.jpg" />
-                                          <meta itemprop="width" content="1806" />
-                                          <meta itemprop="height" content="1257" />
-                                       </div>
-                                       <div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter">
-                                          <meta itemprop="interactionType" content="https://schema.org/CommentAction" />
-                                          <meta itemprop="userInteractionCount" content="0" />
-                                       </div>
-                                       <div class="fl-post-grid-image">
-                                          <a href="https://bluebotics.com/bluebotics-events/" rel="bookmark" title="Meet BlueBotics at These Events">
-                                             <picture class="attachment-large size-large wp-post-image" decoding="async">
-                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-1024x713.jpg.webp 1024w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-300x209.jpg.webp 300w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-768x535.jpg.webp 768w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-1536x1069.jpg.webp 1536w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-50x35.jpg.webp 50w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-100x70.jpg.webp 100w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-150x104.jpg.webp 150w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1.jpg.webp 1806w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20713&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                <img width="1024" height="713" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20713&#039;%3E%3C/svg%3E" alt="BlueBotics Events 2022 team at Modex in Atlanta." decoding="async" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-1024x713.jpg 1024w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-300x209.jpg 300w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-768x535.jpg 768w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-1536x1069.jpg 1536w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-50x35.jpg 50w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-100x70.jpg 100w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-150x104.jpg 150w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1.jpg 1806w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-1024x713.jpg"/>
-                                             </picture>
-                                             <noscript>
-                                                <picture class="attachment-large size-large wp-post-image" decoding="async" loading="lazy">
-                                                   <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-1024x713.jpg.webp 1024w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-300x209.jpg.webp 300w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-768x535.jpg.webp 768w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-1536x1069.jpg.webp 1536w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-50x35.jpg.webp 50w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-100x70.jpg.webp 100w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-150x104.jpg.webp 150w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1.jpg.webp 1806w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                   <img width="1024" height="713" src="https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-1024x713.jpg" alt="BlueBotics Events 2022 team at Modex in Atlanta." decoding="async" loading="lazy" srcset="https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-1024x713.jpg 1024w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-300x209.jpg 300w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-768x535.jpg 768w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-1536x1069.jpg 1536w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-50x35.jpg 50w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-100x70.jpg 100w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1-150x104.jpg 150w, https://bluebotics.com/wp-content/uploads/2022/04/BlueBotics_Events_2022_b-1.jpg 1806w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                </picture>
-                                             </noscript>
-                                          </a>
-                                       </div>
-                                       <div class="fl-post-grid-text">
-                                          <h2 class="fl-post-grid-title" itemprop="headline">
-                                             <a href="https://bluebotics.com/bluebotics-events/" title="Meet BlueBotics at These Events">Meet BlueBotics at These Events</a>
-                                          </h2>
-                                          <div class="fl-post-grid-meta">
-                                             <span class="fl-post-grid-date">
-                                             April 26, 2023				</span>
-                                          </div>
-                                          <div class="fl-post-grid-content">
-                                             <p>BlueBotics will be present at the following events. We would be happy to meet you in person and answer any questions you may have.</p>
-                                             <a class="fl-post-grid-more" href="https://bluebotics.com/bluebotics-events/" title="Meet BlueBotics at These Events">Read More >></a>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="fl-post-column">
-                                    <div class="fl-post-grid-post fl-post-grid-image-above-title fl-post-columns-post fl-post-align-default post-20256 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-news" itemscope itemtype="https://schema.org/BlogPosting">
-                                       <meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://bluebotics.com/bluebotics-mastermover-agv-navigation/" content="BlueBotics Partners with MasterMover for Best-in-Class AGV Navigation" />
-                                       <meta itemprop="datePublished" content="2023-03-20" />
-                                       <meta itemprop="dateModified" content="2023-04-12" />
-                                       <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-                                          <meta itemprop="name" content="BlueBotics">
-                                       </div>
-                                       <div itemscope itemprop="author" itemtype="https://schema.org/Person">
-                                          <meta itemprop="url" content="https://bluebotics.com/author/rachelrayner/" />
-                                          <meta itemprop="name" content="Rachel Rayner" />
-                                       </div>
-                                       <div itemscope itemprop="image" itemtype="https://schema.org/ImageObject">
-                                          <meta itemprop="url" content="https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-scaled.jpg" />
-                                          <meta itemprop="width" content="2560" />
-                                          <meta itemprop="height" content="1463" />
-                                       </div>
-                                       <div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter">
-                                          <meta itemprop="interactionType" content="https://schema.org/CommentAction" />
-                                          <meta itemprop="userInteractionCount" content="0" />
-                                       </div>
-                                       <div class="fl-post-grid-image">
-                                          <a href="https://bluebotics.com/bluebotics-mastermover-agv-navigation/" rel="bookmark" title="BlueBotics Partners with MasterMover for Best-in-Class AGV Navigation">
-                                             <picture class="attachment-large size-large wp-post-image" decoding="async">
-                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-1024x585.jpg.webp 1024w, https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-300x171.jpg.webp 300w, https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-768x439.jpg.webp 768w, https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-1536x878.jpg.webp 1536w, https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-2048x1170.jpg.webp 2048w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20585&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                <img width="1024" height="585" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20585&#039;%3E%3C/svg%3E" alt="MasterMover has partnered with BlueBotics" decoding="async" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-1024x585.jpg 1024w, https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-300x171.jpg 300w, https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-768x439.jpg 768w, https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-1536x878.jpg 1536w, https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-2048x1170.jpg 2048w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-1024x585.jpg"/>
-                                             </picture>
-                                             <noscript>
-                                                <picture class="attachment-large size-large wp-post-image" decoding="async" loading="lazy">
-                                                   <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-1024x585.jpg.webp 1024w, https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-300x171.jpg.webp 300w, https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-768x439.jpg.webp 768w, https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-1536x878.jpg.webp 1536w, https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-2048x1170.jpg.webp 2048w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                   <img width="1024" height="585" src="https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-1024x585.jpg" alt="MasterMover has partnered with BlueBotics" decoding="async" loading="lazy" srcset="https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-1024x585.jpg 1024w, https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-300x171.jpg 300w, https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-768x439.jpg 768w, https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-1536x878.jpg 1536w, https://bluebotics.com/wp-content/uploads/2023/03/MicrosoftTeams-image-13-2048x1170.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                </picture>
-                                             </noscript>
-                                          </a>
-                                       </div>
-                                       <div class="fl-post-grid-text">
-                                          <h2 class="fl-post-grid-title" itemprop="headline">
-                                             <a href="https://bluebotics.com/bluebotics-mastermover-agv-navigation/" title="BlueBotics Partners with MasterMover for Best-in-Class AGV Navigation">BlueBotics Partners with MasterMover for Best-in-Class AGV Navigation</a>
-                                          </h2>
-                                          <div class="fl-post-grid-meta">
-                                             <span class="fl-post-grid-date">
-                                             March 20, 2023				</span>
-                                          </div>
-                                          <div class="fl-post-grid-content">
-                                             <p>Vehicle automation leader BlueBotics has partnered with MasterMover, the world’s leading manufacturer of electric tug and tow solutions, to provide best-in-class ANT navigation technologies for MasterMover’s range of Automated Guided Vehicles.</p>
-                                             <a class="fl-post-grid-more" href="https://bluebotics.com/bluebotics-mastermover-agv-navigation/" title="BlueBotics Partners with MasterMover for Best-in-Class AGV Navigation">Read More >></a>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="fl-post-column">
-                                    <div class="fl-post-grid-post fl-post-grid-image-above-title fl-post-columns-post fl-post-align-default post-17482 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-business" itemscope itemtype="https://schema.org/BlogPosting">
-                                       <meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://bluebotics.com/bluebotics-launches-antdriven/" content="BlueBotics Launches ANTdriven.com to Help Professionals Start Their AGV Journeys" />
-                                       <meta itemprop="datePublished" content="2022-05-31" />
-                                       <meta itemprop="dateModified" content="2022-10-13" />
-                                       <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-                                          <meta itemprop="name" content="BlueBotics">
-                                       </div>
-                                       <div itemscope itemprop="author" itemtype="https://schema.org/Person">
-                                          <meta itemprop="url" content="https://bluebotics.com/author/mattwade/" />
-                                          <meta itemprop="name" content="Matt Wade" />
-                                       </div>
-                                       <div itemscope itemprop="image" itemtype="https://schema.org/ImageObject">
-                                          <meta itemprop="url" content="https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop.jpg" />
-                                          <meta itemprop="width" content="2000" />
-                                          <meta itemprop="height" content="1000" />
-                                       </div>
-                                       <div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter">
-                                          <meta itemprop="interactionType" content="https://schema.org/CommentAction" />
-                                          <meta itemprop="userInteractionCount" content="0" />
-                                       </div>
-                                       <div class="fl-post-grid-image">
-                                          <a href="https://bluebotics.com/bluebotics-launches-antdriven/" rel="bookmark" title="BlueBotics Launches ANTdriven.com to Help Professionals Start Their AGV Journeys">
-                                             <picture class="attachment-large size-large wp-post-image" decoding="async">
-                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-1024x512.jpg.webp 1024w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-300x150.jpg.webp 300w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-768x384.jpg.webp 768w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-1536x768.jpg.webp 1536w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-50x25.jpg.webp 50w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-100x50.jpg.webp 100w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-150x75.jpg.webp 150w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop.jpg.webp 2000w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20512&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                <img width="1024" height="512" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20512&#039;%3E%3C/svg%3E" alt="ANTdriven allows you to start your AGV journey." decoding="async" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-1024x512.jpg 1024w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-300x150.jpg 300w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-768x384.jpg 768w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-1536x768.jpg 1536w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-50x25.jpg 50w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-100x50.jpg 100w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-150x75.jpg 150w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop.jpg 2000w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-1024x512.jpg"/>
-                                             </picture>
-                                             <noscript>
-                                                <picture class="attachment-large size-large wp-post-image" decoding="async" loading="lazy">
-                                                   <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-1024x512.jpg.webp 1024w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-300x150.jpg.webp 300w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-768x384.jpg.webp 768w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-1536x768.jpg.webp 1536w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-50x25.jpg.webp 50w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-100x50.jpg.webp 100w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-150x75.jpg.webp 150w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop.jpg.webp 2000w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                   <img width="1024" height="512" src="https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-1024x512.jpg" alt="ANTdriven allows you to start your AGV journey." decoding="async" loading="lazy" srcset="https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-1024x512.jpg 1024w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-300x150.jpg 300w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-768x384.jpg 768w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-1536x768.jpg 1536w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-50x25.jpg 50w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-100x50.jpg 100w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop-150x75.jpg 150w, https://bluebotics.com/wp-content/uploads/2022/05/white-background-antdriven-laptop.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                </picture>
-                                             </noscript>
-                                          </a>
-                                       </div>
-                                       <div class="fl-post-grid-text">
-                                          <h2 class="fl-post-grid-title" itemprop="headline">
-                                             <a href="https://bluebotics.com/bluebotics-launches-antdriven/" title="BlueBotics Launches ANTdriven.com to Help Professionals Start Their AGV Journeys">BlueBotics Launches ANTdriven.com to Help Professionals Start Their AGV Journeys</a>
-                                          </h2>
-                                          <div class="fl-post-grid-meta">
-                                             <span class="fl-post-grid-date">
-                                             May 31, 2022				</span>
-                                          </div>
-                                          <div class="fl-post-grid-content">
-                                             <p>BlueBotics has launched ANTdriven.com. This new educational resource enables warehouse, factory, and supply chain decision-makers to learn about and explore a wide range of different automated vehicle technologies from across the ANT navigation ecosystem. In today’s challenging business landscape, staff such as warehouse and factory managers are increasingly turning to automation to ensure the ongoing&hellip;</p>
-                                             <a class="fl-post-grid-more" href="https://bluebotics.com/bluebotics-launches-antdriven/" title="BlueBotics Launches ANTdriven.com to Help Professionals Start Their AGV Journeys">Read More >></a>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="fl-post-column">
-                                    <div class="fl-post-grid-post fl-post-grid-image-above-title fl-post-columns-post fl-post-align-default post-16821 post type-post status-publish format-standard has-post-thumbnail hentry category-news" itemscope itemtype="https://schema.org/BlogPosting">
-                                       <meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://bluebotics.com/oceaneering-chooses-bluebotics-navigation/" content="Oceaneering Chooses BlueBotics Navigation Technology for New Product Lines" />
-                                       <meta itemprop="datePublished" content="2022-03-28" />
-                                       <meta itemprop="dateModified" content="2022-10-13" />
-                                       <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-                                          <meta itemprop="name" content="BlueBotics">
-                                       </div>
-                                       <div itemscope itemprop="author" itemtype="https://schema.org/Person">
-                                          <meta itemprop="url" content="https://bluebotics.com/author/mattwade/" />
-                                          <meta itemprop="name" content="Matt Wade" />
-                                       </div>
-                                       <div itemscope itemprop="image" itemtype="https://schema.org/ImageObject">
-                                          <meta itemprop="url" content="https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1.png" />
-                                          <meta itemprop="width" content="768" />
-                                          <meta itemprop="height" content="432" />
-                                       </div>
-                                       <div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter">
-                                          <meta itemprop="interactionType" content="https://schema.org/CommentAction" />
-                                          <meta itemprop="userInteractionCount" content="6" />
-                                       </div>
-                                       <div class="fl-post-grid-image">
-                                          <a href="https://bluebotics.com/oceaneering-chooses-bluebotics-navigation/" rel="bookmark" title="Oceaneering Chooses BlueBotics Navigation Technology for New Product Lines">
-                                             <picture class="attachment-large size-large wp-post-image" decoding="async">
-                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1.png.webp 768w, https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1-300x169.png.webp 300w, https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1-50x28.png.webp 50w, https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1-100x56.png.webp 100w, https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1-150x84.png.webp 150w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20768%20432&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 768px) 100vw, 768px"/>
-                                                <img width="768" height="432" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20768%20432&#039;%3E%3C/svg%3E" alt="Oceaneering chooses BlueBotics." decoding="async" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1.png 768w, https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1-300x169.png 300w, https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1-50x28.png 50w, https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1-100x56.png 100w, https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1-150x84.png 150w" data-lazy-sizes="(max-width: 768px) 100vw, 768px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1.png"/>
-                                             </picture>
-                                             <noscript>
-                                                <picture class="attachment-large size-large wp-post-image" decoding="async" loading="lazy">
-                                                   <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1.png.webp 768w, https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1-300x169.png.webp 300w, https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1-50x28.png.webp 50w, https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1-100x56.png.webp 100w, https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1-150x84.png.webp 150w" sizes="(max-width: 768px) 100vw, 768px"/>
-                                                   <img width="768" height="432" src="https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1.png" alt="Oceaneering chooses BlueBotics." decoding="async" loading="lazy" srcset="https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1.png 768w, https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1-300x169.png 300w, https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1-50x28.png 50w, https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1-100x56.png 100w, https://bluebotics.com/wp-content/uploads/2022/04/CompactMover-FOL-U-1200-220321_CM_FOL_01-edited-position-1-768x432-1-150x84.png 150w" sizes="(max-width: 768px) 100vw, 768px"/>
-                                                </picture>
-                                             </noscript>
-                                          </a>
-                                       </div>
-                                       <div class="fl-post-grid-text">
-                                          <h2 class="fl-post-grid-title" itemprop="headline">
-                                             <a href="https://bluebotics.com/oceaneering-chooses-bluebotics-navigation/" title="Oceaneering Chooses BlueBotics Navigation Technology for New Product Lines">Oceaneering Chooses BlueBotics Navigation Technology for New Product Lines</a>
-                                          </h2>
-                                          <div class="fl-post-grid-meta">
-                                             <span class="fl-post-grid-date">
-                                             March 28, 2022				</span>
-                                          </div>
-                                          <div class="fl-post-grid-content">
-                                             <p>March 28, 2022, Atlanta, Georgia Oceaneering International announced today at MODEX that it has chosen BlueBotics, S.A, to provide navigation technology for its line of industrial autonomous mobile robots. “Our goal is to unlock the full potential of mobile robotics and enable widespread adoption in all industries,” said Henny Bouwmeester, Vice President and General Manager&hellip;</p>
-                                             <a class="fl-post-grid-more" href="https://bluebotics.com/oceaneering-chooses-bluebotics-navigation/" title="Oceaneering Chooses BlueBotics Navigation Technology for New Product Lines">Read More >></a>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="fl-post-column">
-                                    <div class="fl-post-grid-post fl-post-grid-image-above-title fl-post-columns-post fl-post-align-default post-16755 post type-post status-publish format-standard has-post-thumbnail hentry category-news" itemscope itemtype="https://schema.org/BlogPosting">
-                                       <meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://bluebotics.com/online-event-the-future-of-electrification/" content="[Online Event] The Future of Electrification" />
-                                       <meta itemprop="datePublished" content="2022-03-07" />
-                                       <meta itemprop="dateModified" content="2022-08-17" />
-                                       <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-                                          <meta itemprop="name" content="BlueBotics">
-                                       </div>
-                                       <div itemscope itemprop="author" itemtype="https://schema.org/Person">
-                                          <meta itemprop="url" content="https://bluebotics.com/author/rachelrayner/" />
-                                          <meta itemprop="name" content="Rachel Rayner" />
-                                       </div>
-                                       <div itemscope itemprop="image" itemtype="https://schema.org/ImageObject">
-                                          <meta itemprop="url" content="https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter.png" />
-                                          <meta itemprop="width" content="1600" />
-                                          <meta itemprop="height" content="900" />
-                                       </div>
-                                       <div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter">
-                                          <meta itemprop="interactionType" content="https://schema.org/CommentAction" />
-                                          <meta itemprop="userInteractionCount" content="10" />
-                                       </div>
-                                       <div class="fl-post-grid-image">
-                                          <a href="https://bluebotics.com/online-event-the-future-of-electrification/" rel="bookmark" title="[Online Event] The Future of Electrification">
-                                             <picture class="attachment-large size-large wp-post-image" decoding="async">
-                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-1024x576.png.webp 1024w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-300x169.png.webp 300w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-768x432.png.webp 768w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-1536x864.png.webp 1536w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-50x28.png.webp 50w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-100x56.png.webp 100w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-150x84.png.webp 150w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter.png.webp 1600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20576&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                <img width="1024" height="576" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20576&#039;%3E%3C/svg%3E" alt="Future of Electrification Virtual conference" decoding="async" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-1024x576.png 1024w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-300x169.png 300w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-768x432.png 768w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-1536x864.png 1536w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-50x28.png 50w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-100x56.png 100w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-150x84.png 150w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter.png 1600w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-1024x576.png"/>
-                                             </picture>
-                                             <noscript>
-                                                <picture class="attachment-large size-large wp-post-image" decoding="async" loading="lazy">
-                                                   <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-1024x576.png.webp 1024w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-300x169.png.webp 300w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-768x432.png.webp 768w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-1536x864.png.webp 1536w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-50x28.png.webp 50w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-100x56.png.webp 100w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-150x84.png.webp 150w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter.png.webp 1600w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                   <img width="1024" height="576" src="https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-1024x576.png" alt="Future of Electrification Virtual conference" decoding="async" loading="lazy" srcset="https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-1024x576.png 1024w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-300x169.png 300w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-768x432.png 768w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-1536x864.png 1536w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-50x28.png 50w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-100x56.png 100w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter-150x84.png 150w, https://bluebotics.com/wp-content/uploads/2022/03/FoE_Twitter.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                </picture>
-                                             </noscript>
-                                          </a>
-                                       </div>
-                                       <div class="fl-post-grid-text">
-                                          <h2 class="fl-post-grid-title" itemprop="headline">
-                                             <a href="https://bluebotics.com/online-event-the-future-of-electrification/" title="[Online Event] The Future of Electrification">[Online Event] The Future of Electrification</a>
-                                          </h2>
-                                          <div class="fl-post-grid-meta">
-                                             <span class="fl-post-grid-date">
-                                             March 7, 2022				</span>
-                                          </div>
-                                          <div class="fl-post-grid-content">
-                                             <p>Join influencers and industry experts to discuss trends, best practices, practical challenges and the opportunities of electrification across a variety of industries, including construction, material handling, emobility, and robotics/UAV. </p>
-                                             <a class="fl-post-grid-more" href="https://bluebotics.com/online-event-the-future-of-electrification/" title="[Online Event] The Future of Electrification">Read More >></a>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="fl-post-column">
-                                    <div class="fl-post-grid-post fl-post-grid-image-above-title fl-post-columns-post fl-post-align-default post-16715 post type-post status-publish format-standard has-post-thumbnail hentry category-news" itemscope itemtype="https://schema.org/BlogPosting">
-                                       <meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://bluebotics.com/bluebotics-fleet-modex-2022/" content="BlueBotics to Showcase ANT Navigation With full AGV Fleet Demo at MODEX 2022" />
-                                       <meta itemprop="datePublished" content="2022-03-01" />
-                                       <meta itemprop="dateModified" content="2022-10-13" />
-                                       <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-                                          <meta itemprop="name" content="BlueBotics">
-                                       </div>
-                                       <div itemscope itemprop="author" itemtype="https://schema.org/Person">
-                                          <meta itemprop="url" content="https://bluebotics.com/author/rachelrayner/" />
-                                          <meta itemprop="name" content="Rachel Rayner" />
-                                       </div>
-                                       <div itemscope itemprop="image" itemtype="https://schema.org/ImageObject">
-                                          <meta itemprop="url" content="https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow.jpg" />
-                                          <meta itemprop="width" content="800" />
-                                          <meta itemprop="height" content="450" />
-                                       </div>
-                                       <div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter">
-                                          <meta itemprop="interactionType" content="https://schema.org/CommentAction" />
-                                          <meta itemprop="userInteractionCount" content="8" />
-                                       </div>
-                                       <div class="fl-post-grid-image">
-                                          <a href="https://bluebotics.com/bluebotics-fleet-modex-2022/" rel="bookmark" title="BlueBotics to Showcase ANT Navigation With full AGV Fleet Demo at MODEX 2022">
-                                             <picture class="attachment-large size-large wp-post-image" decoding="async">
-                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow.jpg.webp 800w, https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow-300x169.jpg.webp 300w, https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow-768x432.jpg.webp 768w, https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow-50x28.jpg.webp 50w, https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow-100x56.jpg.webp 100w, https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow-150x84.jpg.webp 150w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20800%20450&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 800px) 100vw, 800px"/>
-                                                <img width="800" height="450" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20800%20450&#039;%3E%3C/svg%3E" alt="A fleet of mini lite mobile robots at an automation tradeshow." decoding="async" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow.jpg 800w, https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow-300x169.jpg 300w, https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow-768x432.jpg 768w, https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow-50x28.jpg 50w, https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow-100x56.jpg 100w, https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow-150x84.jpg 150w" data-lazy-sizes="(max-width: 800px) 100vw, 800px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow.jpg"/>
-                                             </picture>
-                                             <noscript>
-                                                <picture class="attachment-large size-large wp-post-image" decoding="async" loading="lazy">
-                                                   <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow.jpg.webp 800w, https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow-300x169.jpg.webp 300w, https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow-768x432.jpg.webp 768w, https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow-50x28.jpg.webp 50w, https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow-100x56.jpg.webp 100w, https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow-150x84.jpg.webp 150w" sizes="(max-width: 800px) 100vw, 800px"/>
-                                                   <img width="800" height="450" src="https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow.jpg" alt="A fleet of mini lite mobile robots at an automation tradeshow." decoding="async" loading="lazy" srcset="https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow.jpg 800w, https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow-300x169.jpg 300w, https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow-768x432.jpg 768w, https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow-50x28.jpg 50w, https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow-100x56.jpg 100w, https://bluebotics.com/wp-content/uploads/2022/02/A-fleet-of-mini-lite-mobile-robots-at-an-automation-tradeshow-150x84.jpg 150w" sizes="(max-width: 800px) 100vw, 800px"/>
-                                                </picture>
-                                             </noscript>
-                                          </a>
-                                       </div>
-                                       <div class="fl-post-grid-text">
-                                          <h2 class="fl-post-grid-title" itemprop="headline">
-                                             <a href="https://bluebotics.com/bluebotics-fleet-modex-2022/" title="BlueBotics to Showcase ANT Navigation With full AGV Fleet Demo at MODEX 2022">BlueBotics to Showcase ANT Navigation With full AGV Fleet Demo at MODEX 2022</a>
-                                          </h2>
-                                          <div class="fl-post-grid-meta">
-                                             <span class="fl-post-grid-date">
-                                             March 1, 2022				</span>
-                                          </div>
-                                          <div class="fl-post-grid-content">
-                                             <p>BlueBotics is heading to MODEX 2022 to showcase a unique multi-brand fleet demo of vehicles driven by its ANT technology.<br />
-                                                The booth will feature several different brands of AMRs and AGVs from across the ANT navigation ecosystem.
-                                             </p>
-                                             <a class="fl-post-grid-more" href="https://bluebotics.com/bluebotics-fleet-modex-2022/" title="BlueBotics to Showcase ANT Navigation With full AGV Fleet Demo at MODEX 2022">Read More >></a>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="fl-post-column">
-                                    <div class="fl-post-grid-post fl-post-grid-image-above-title fl-post-columns-post fl-post-align-default post-16419 post type-post status-publish format-standard has-post-thumbnail hentry category-news" itemscope itemtype="https://schema.org/BlogPosting">
-                                       <meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://bluebotics.com/bluebotics-acquired-zapi-group/" content="BlueBotics is Acquired by ZAPI GROUP" />
-                                       <meta itemprop="datePublished" content="2022-02-02" />
-                                       <meta itemprop="dateModified" content="2022-08-17" />
-                                       <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-                                          <meta itemprop="name" content="BlueBotics">
-                                       </div>
-                                       <div itemscope itemprop="author" itemtype="https://schema.org/Person">
-                                          <meta itemprop="url" content="https://bluebotics.com/author/mattwade/" />
-                                          <meta itemprop="name" content="Matt Wade" />
-                                       </div>
-                                       <div itemscope itemprop="image" itemtype="https://schema.org/ImageObject">
-                                          <meta itemprop="url" content="https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-scaled-e1643721743879.jpg" />
-                                          <meta itemprop="width" content="800" />
-                                          <meta itemprop="height" content="533" />
-                                       </div>
-                                       <div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter">
-                                          <meta itemprop="interactionType" content="https://schema.org/CommentAction" />
-                                          <meta itemprop="userInteractionCount" content="0" />
-                                       </div>
-                                       <div class="fl-post-grid-image">
-                                          <a href="https://bluebotics.com/bluebotics-acquired-zapi-group/" rel="bookmark" title="BlueBotics is Acquired by ZAPI GROUP">
-                                             <picture class="attachment-large size-large wp-post-image" decoding="async">
-                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-1024x683.jpg.webp 1024w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-300x200.jpg.webp 300w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-768x512.jpg.webp 768w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-1536x1024.jpg.webp 1536w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-2048x1365.jpg.webp 2048w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-50x33.jpg.webp 50w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-100x67.jpg.webp 100w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-150x100.jpg.webp 150w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-scaled-e1643721743879.jpg.webp 800w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20683&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                <img width="1024" height="683" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20683&#039;%3E%3C/svg%3E" alt="ZAPI GROUP acquires BlueBotics." decoding="async" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-1024x683.jpg 1024w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-300x200.jpg 300w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-768x512.jpg 768w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-1536x1024.jpg 1536w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-2048x1365.jpg 2048w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-50x33.jpg 50w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-100x67.jpg 100w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-150x100.jpg 150w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-scaled-e1643721743879.jpg 800w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-1024x683.jpg"/>
-                                             </picture>
-                                             <noscript>
-                                                <picture class="attachment-large size-large wp-post-image" decoding="async" loading="lazy">
-                                                   <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-1024x683.jpg.webp 1024w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-300x200.jpg.webp 300w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-768x512.jpg.webp 768w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-1536x1024.jpg.webp 1536w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-2048x1365.jpg.webp 2048w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-50x33.jpg.webp 50w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-100x67.jpg.webp 100w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-150x100.jpg.webp 150w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-scaled-e1643721743879.jpg.webp 800w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                   <img width="1024" height="683" src="https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-1024x683.jpg" alt="ZAPI GROUP acquires BlueBotics." decoding="async" loading="lazy" srcset="https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-1024x683.jpg 1024w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-300x200.jpg 300w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-768x512.jpg 768w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-1536x1024.jpg 1536w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-2048x1365.jpg 2048w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-50x33.jpg 50w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-100x67.jpg 100w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-150x100.jpg 150w, https://bluebotics.com/wp-content/uploads/2022/02/ZAPI-GROUP-acquires-BlueBotics-scaled-e1643721743879.jpg 800w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                </picture>
-                                             </noscript>
-                                          </a>
-                                       </div>
-                                       <div class="fl-post-grid-text">
-                                          <h2 class="fl-post-grid-title" itemprop="headline">
-                                             <a href="https://bluebotics.com/bluebotics-acquired-zapi-group/" title="BlueBotics is Acquired by ZAPI GROUP">BlueBotics is Acquired by ZAPI GROUP</a>
-                                          </h2>
-                                          <div class="fl-post-grid-meta">
-                                             <span class="fl-post-grid-date">
-                                             February 2, 2022				</span>
-                                          </div>
-                                          <div class="fl-post-grid-content">
-                                             <p>We are excited to announce that BlueBotics has been acquired by ZAPI GROUP. </p>
-                                             <a class="fl-post-grid-more" href="https://bluebotics.com/bluebotics-acquired-zapi-group/" title="BlueBotics is Acquired by ZAPI GROUP">Read More >></a>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="fl-post-column">
-                                    <div class="fl-post-grid-post fl-post-grid-image-above-title fl-post-columns-post fl-post-align-default post-13883 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-news" itemscope itemtype="https://schema.org/BlogPosting">
-                                       <meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://bluebotics.com/durr-systems-partnership-paint-shop-agv/" content="BlueBotics and Dürr Systems Sign Agreement to Drive Future of Paint Shop AGVs" />
-                                       <meta itemprop="datePublished" content="2021-10-29" />
-                                       <meta itemprop="dateModified" content="2022-08-17" />
-                                       <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-                                          <meta itemprop="name" content="BlueBotics">
-                                       </div>
-                                       <div itemscope itemprop="author" itemtype="https://schema.org/Person">
-                                          <meta itemprop="url" content="https://bluebotics.com/author/mattwade/" />
-                                          <meta itemprop="name" content="Matt Wade" />
-                                       </div>
-                                       <div itemscope itemprop="image" itemtype="https://schema.org/ImageObject">
-                                          <meta itemprop="url" content="https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat.jpg" />
-                                          <meta itemprop="width" content="800" />
-                                          <meta itemprop="height" content="450" />
-                                       </div>
-                                       <div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter">
-                                          <meta itemprop="interactionType" content="https://schema.org/CommentAction" />
-                                          <meta itemprop="userInteractionCount" content="0" />
-                                       </div>
-                                       <div class="fl-post-grid-image">
-                                          <a href="https://bluebotics.com/durr-systems-partnership-paint-shop-agv/" rel="bookmark" title="BlueBotics and Dürr Systems Sign Agreement to Drive Future of Paint Shop AGVs">
-                                             <picture class="attachment-large size-large wp-post-image" decoding="async">
-                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat.jpg.webp 800w, https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat-300x169.jpg.webp 300w, https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat-768x432.jpg.webp 768w, https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat-50x28.jpg.webp 50w, https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat-100x56.jpg.webp 100w, https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat-150x84.jpg.webp 150w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20800%20450&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 800px) 100vw, 800px"/>
-                                                <img width="800" height="450" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20800%20450&#039;%3E%3C/svg%3E" alt="BlueBotics Durr Paint Shop AGV." decoding="async" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat.jpg 800w, https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat-300x169.jpg 300w, https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat-768x432.jpg 768w, https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat-50x28.jpg 50w, https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat-100x56.jpg 100w, https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat-150x84.jpg 150w" data-lazy-sizes="(max-width: 800px) 100vw, 800px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat.jpg"/>
-                                             </picture>
-                                             <noscript>
-                                                <picture class="attachment-large size-large wp-post-image" decoding="async" loading="lazy">
-                                                   <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat.jpg.webp 800w, https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat-300x169.jpg.webp 300w, https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat-768x432.jpg.webp 768w, https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat-50x28.jpg.webp 50w, https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat-100x56.jpg.webp 100w, https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat-150x84.jpg.webp 150w" sizes="(max-width: 800px) 100vw, 800px"/>
-                                                   <img width="800" height="450" src="https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat.jpg" alt="BlueBotics Durr Paint Shop AGV." decoding="async" loading="lazy" srcset="https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat.jpg 800w, https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat-300x169.jpg 300w, https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat-768x432.jpg 768w, https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat-50x28.jpg 50w, https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat-100x56.jpg 100w, https://bluebotics.com/wp-content/uploads/2021/09/BlueBotics-Durr-Paint-Shop-AGV-Feat-150x84.jpg 150w" sizes="(max-width: 800px) 100vw, 800px"/>
-                                                </picture>
-                                             </noscript>
-                                          </a>
-                                       </div>
-                                       <div class="fl-post-grid-text">
-                                          <h2 class="fl-post-grid-title" itemprop="headline">
-                                             <a href="https://bluebotics.com/durr-systems-partnership-paint-shop-agv/" title="BlueBotics and Dürr Systems Sign Agreement to Drive Future of Paint Shop AGVs">BlueBotics and Dürr Systems Sign Agreement to Drive Future of Paint Shop AGVs</a>
-                                          </h2>
-                                          <div class="fl-post-grid-meta">
-                                             <span class="fl-post-grid-date">
-                                             October 29, 2021				</span>
-                                          </div>
-                                          <div class="fl-post-grid-content">
-                                             <p>BlueBotics SA has signed an exclusive agreement with Dürr Systems AG to create innovative AGVs that will revolutionize paint shop efficiency.</p>
-                                             <a class="fl-post-grid-more" href="https://bluebotics.com/durr-systems-partnership-paint-shop-agv/" title="BlueBotics and Dürr Systems Sign Agreement to Drive Future of Paint Shop AGVs">Read More >></a>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="fl-post-column">
-                                    <div class="fl-post-grid-post fl-post-grid-image-above-title fl-post-columns-post fl-post-align-default post-14674 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-news" itemscope itemtype="https://schema.org/BlogPosting">
-                                       <meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://bluebotics.com/bluebotics-ceo-receives-2021-industrie-award/" content="BlueBotics CEO Receives 2021 Industrie 4.0 Award" />
-                                       <meta itemprop="datePublished" content="2021-09-11" />
-                                       <meta itemprop="dateModified" content="2022-08-17" />
-                                       <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-                                          <meta itemprop="name" content="BlueBotics">
-                                       </div>
-                                       <div itemscope itemprop="author" itemtype="https://schema.org/Person">
-                                          <meta itemprop="url" content="https://bluebotics.com/author/rachelrayner/" />
-                                          <meta itemprop="name" content="Rachel Rayner" />
-                                       </div>
-                                       <div itemscope itemprop="image" itemtype="https://schema.org/ImageObject">
-                                          <meta itemprop="url" content="https://bluebotics.com/wp-content/uploads/2021/10/original-1.webp" />
-                                          <meta itemprop="width" content="800" />
-                                          <meta itemprop="height" content="534" />
-                                       </div>
-                                       <div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter">
-                                          <meta itemprop="interactionType" content="https://schema.org/CommentAction" />
-                                          <meta itemprop="userInteractionCount" content="3" />
-                                       </div>
-                                       <div class="fl-post-grid-image">
-                                          <a href="https://bluebotics.com/bluebotics-ceo-receives-2021-industrie-award/" rel="bookmark" title="BlueBotics CEO Receives 2021 Industrie 4.0 Award">
-                                             <img width="800" height="534" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20534'%3E%3C/svg%3E" class="attachment-large size-large wp-post-image" alt="BlueBotics CEO Nicola Tomatis was honored in the fourth annual Prix Industrie 4.0 award as one of the “Shapers” of Swiss industry." decoding="async" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2021/10/original-1.webp 800w, https://bluebotics.com/wp-content/uploads/2021/10/original-1-300x200.webp 300w, https://bluebotics.com/wp-content/uploads/2021/10/original-1-768x513.webp 768w, https://bluebotics.com/wp-content/uploads/2021/10/original-1-50x33.webp 50w, https://bluebotics.com/wp-content/uploads/2021/10/original-1-100x67.webp 100w, https://bluebotics.com/wp-content/uploads/2021/10/original-1-150x100.webp 150w" data-lazy-sizes="(max-width: 800px) 100vw, 800px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2021/10/original-1.webp" />
-                                             <noscript><img width="800" height="534" src="https://bluebotics.com/wp-content/uploads/2021/10/original-1.webp" class="attachment-large size-large wp-post-image" alt="BlueBotics CEO Nicola Tomatis was honored in the fourth annual Prix Industrie 4.0 award as one of the “Shapers” of Swiss industry." decoding="async" loading="lazy" srcset="https://bluebotics.com/wp-content/uploads/2021/10/original-1.webp 800w, https://bluebotics.com/wp-content/uploads/2021/10/original-1-300x200.webp 300w, https://bluebotics.com/wp-content/uploads/2021/10/original-1-768x513.webp 768w, https://bluebotics.com/wp-content/uploads/2021/10/original-1-50x33.webp 50w, https://bluebotics.com/wp-content/uploads/2021/10/original-1-100x67.webp 100w, https://bluebotics.com/wp-content/uploads/2021/10/original-1-150x100.webp 150w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>
-                                          </a>
-                                       </div>
-                                       <div class="fl-post-grid-text">
-                                          <h2 class="fl-post-grid-title" itemprop="headline">
-                                             <a href="https://bluebotics.com/bluebotics-ceo-receives-2021-industrie-award/" title="BlueBotics CEO Receives 2021 Industrie 4.0 Award">BlueBotics CEO Receives 2021 Industrie 4.0 Award</a>
-                                          </h2>
-                                          <div class="fl-post-grid-meta">
-                                             <span class="fl-post-grid-date">
-                                             September 11, 2021				</span>
-                                          </div>
-                                          <div class="fl-post-grid-content">
-                                             <p>BlueBotics CEO Nicola Tomatis was honored in the fourth annual Prix Industrie 4.0 award as one of the “Shapers” of Swiss industry. The Industrie 4.0 Award recognizes innovation, and aims to encourage others in the community. Switzerland is a global center of innovation and has been crowned the “most innovative country” by the World Intellectual&hellip;</p>
-                                             <a class="fl-post-grid-more" href="https://bluebotics.com/bluebotics-ceo-receives-2021-industrie-award/" title="BlueBotics CEO Receives 2021 Industrie 4.0 Award">Read More >></a>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="fl-post-column">
-                                    <div class="fl-post-grid-post fl-post-grid-image-above-title fl-post-columns-post fl-post-align-default post-13906 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-news" itemscope itemtype="https://schema.org/BlogPosting">
-                                       <meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://bluebotics.com/dolphin-agvs-by-dta/" content="Introducing ANT driven Dolphin AGVs by DTA" />
-                                       <meta itemprop="datePublished" content="2021-09-07" />
-                                       <meta itemprop="dateModified" content="2022-09-14" />
-                                       <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-                                          <meta itemprop="name" content="BlueBotics">
-                                       </div>
-                                       <div itemscope itemprop="author" itemtype="https://schema.org/Person">
-                                          <meta itemprop="url" content="https://bluebotics.com/author/mattwade/" />
-                                          <meta itemprop="name" content="Matt Wade" />
-                                       </div>
-                                       <div itemscope itemprop="image" itemtype="https://schema.org/ImageObject">
-                                          <meta itemprop="url" content="https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat.jpg" />
-                                          <meta itemprop="width" content="800" />
-                                          <meta itemprop="height" content="450" />
-                                       </div>
-                                       <div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter">
-                                          <meta itemprop="interactionType" content="https://schema.org/CommentAction" />
-                                          <meta itemprop="userInteractionCount" content="0" />
-                                       </div>
-                                       <div class="fl-post-grid-image">
-                                          <a href="https://bluebotics.com/dolphin-agvs-by-dta/" rel="bookmark" title="Introducing ANT driven Dolphin AGVs by DTA">
-                                             <picture class="attachment-large size-large wp-post-image" decoding="async">
-                                                <source type="image/webp" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat.jpg.webp 800w, https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat-300x169.jpg.webp 300w, https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat-768x432.jpg.webp 768w, https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat-50x28.jpg.webp 50w, https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat-100x56.jpg.webp 100w, https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat-150x84.jpg.webp 150w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20800%20450&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 800px) 100vw, 800px"/>
-                                                <img width="800" height="450" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20800%20450&#039;%3E%3C/svg%3E" alt="DTA Dolphin AGV BlueBotics." decoding="async" data-lazy-srcset="https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat.jpg 800w, https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat-300x169.jpg 300w, https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat-768x432.jpg 768w, https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat-50x28.jpg 50w, https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat-100x56.jpg 100w, https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat-150x84.jpg 150w" data-lazy-sizes="(max-width: 800px) 100vw, 800px" data-lazy-src="https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat.jpg"/>
-                                             </picture>
-                                             <noscript>
-                                                <picture class="attachment-large size-large wp-post-image" decoding="async" loading="lazy">
-                                                   <source type="image/webp" srcset="https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat.jpg.webp 800w, https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat-300x169.jpg.webp 300w, https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat-768x432.jpg.webp 768w, https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat-50x28.jpg.webp 50w, https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat-100x56.jpg.webp 100w, https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat-150x84.jpg.webp 150w" sizes="(max-width: 800px) 100vw, 800px"/>
-                                                   <img width="800" height="450" src="https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat.jpg" alt="DTA Dolphin AGV BlueBotics." decoding="async" loading="lazy" srcset="https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat.jpg 800w, https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat-300x169.jpg 300w, https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat-768x432.jpg 768w, https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat-50x28.jpg 50w, https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat-100x56.jpg 100w, https://bluebotics.com/wp-content/uploads/2022/09/DTA-Dolphin-AGV-feat-150x84.jpg 150w" sizes="(max-width: 800px) 100vw, 800px"/>
-                                                </picture>
-                                             </noscript>
-                                          </a>
-                                       </div>
-                                       <div class="fl-post-grid-text">
-                                          <h2 class="fl-post-grid-title" itemprop="headline">
-                                             <a href="https://bluebotics.com/dolphin-agvs-by-dta/" title="Introducing ANT driven Dolphin AGVs by DTA">Introducing ANT driven Dolphin AGVs by DTA</a>
-                                          </h2>
-                                          <div class="fl-post-grid-meta">
-                                             <span class="fl-post-grid-date">
-                                             September 7, 2021				</span>
-                                          </div>
-                                          <div class="fl-post-grid-content">
-                                             <p>DTA has announced the release of its new heavy transporter Dolphin AGVs, driven by BlueBotics ANT navigation.</p>
-                                             <a class="fl-post-grid-more" href="https://bluebotics.com/dolphin-agvs-by-dta/" title="Introducing ANT driven Dolphin AGVs by DTA">Read More >></a>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="fl-clear"></div>
-                              <div class="fl-builder-pagination">
-                                 <ul class='page-numbers'>
-                                    <li><span aria-current="page" class="page-numbers current">1</span></li>
-                                    <li><a class="page-numbers" href="https://bluebotics.com/category/news/paged-2/2/">2</a></li>
-                                    <li><a class="page-numbers" href="https://bluebotics.com/category/news/paged-2/3/">3</a></li>
-                                    <li><a class="page-numbers" href="https://bluebotics.com/category/news/paged-2/4/">4</a></li>
-                                    <li><a class="next page-numbers" href="https://bluebotics.com/category/news/paged-2/2/">Next &raquo;</a></li>
-                                 </ul>
-                              </div>
-                           </div>
-                        </div>
                      </div>
                   </div>
                   <div class="fl-col fl-node-602ef686c49fb fl-col-small" data-node="602ef686c49fb">
                      <div class="fl-col-content fl-node-content">
-                        <div class="fl-module fl-module-widget fl-node-602ef686c49fe" data-node="602ef686c49fe">
+                        <!-- <div class="fl-module fl-module-widget fl-node-602ef686c49fe" data-node="602ef686c49fe">
                            <div class="fl-module-content fl-node-content">
                               <div class="fl-widget">
                                  <div class="widget widget_search">
@@ -1765,7 +1285,7 @@
                               </div>
                            </div>
                         </div>
-                        <div class="fl-module fl-module-widget fl-node-602ef686c49fc" data-node="602ef686c49fc">
+                       <div class="fl-module fl-module-widget fl-node-602ef686c49fc" data-node="602ef686c49fc">
                            <div class="fl-module-content fl-node-content">
                               <div class="fl-widget">
                                  <div class="widget widget_categories">
@@ -1780,7 +1300,7 @@
                                  </div>
                               </div>
                            </div>
-                        </div>
+                        </div> -->
                         <div class="fl-module fl-module-widget fl-node-602ef686c49fd" data-node="602ef686c49fd">
                            <div class="fl-module-content fl-node-content">
                               <div class="fl-widget">
@@ -1788,9 +1308,9 @@
                                     <h2 class="widgettitle">Recent Posts</h2>
                                     <ul>
                                        <li>
-                                          <a href="https://bluebotics.com/bluebotics-events/">Meet BlueBotics at These Events</a>
+                                          <a href="https://www.jobstreet.co.id/id/job/tax-staff-4309080?jobId=jobstreet-id-job-4309080&sectionRank=1&token=0~5fe8f6e5-159a-4439-9f23-c856140ada9d&fr=SRP%20View%20In%20New%20Tab">Tax Staff</a>
                                        </li>
-                                       <li>
+                                       <!-- <li>
                                           <a href="https://bluebotics.com/bluebotics-prolog-agv-automation/">BlueBotics and ProLog Automation Join  Forces to Drive German AGV Adoption</a>
                                        </li>
                                        <li>
@@ -1801,7 +1321,7 @@
                                        </li>
                                        <li>
                                           <a href="https://bluebotics.com/bluebotics-launches-antdriven/">BlueBotics Launches ANTdriven.com to Help Professionals Start Their AGV Journeys</a>
-                                       </li>
+                                       </li> -->
                                     </ul>
                                  </div>
                               </div>

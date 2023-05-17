@@ -343,7 +343,7 @@ a:focus {
 .carousel .carousel-caption .btn:hover {
     color: #1b2d21;
     background: #88BF56;
-    border-/* color: #88BF56; */
+    /* border-color: #88BF56; */
 }
 
 @media (max-width: 767.98px) {

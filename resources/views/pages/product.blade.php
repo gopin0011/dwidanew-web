@@ -25,6 +25,8 @@
     .wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
     :where(.wp-block-columns.is-layout-flex){gap: 2em;}
     .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+    
+    
 </style>
 <link data-minify="1" rel='stylesheet' id='wpml-blocks-css' href="{{asset('assets/wp-content/cache/sitepress-multilingual-cms/styles.css?ver=1682258217')}}" media='all' />
 <link data-minify="1" rel='stylesheet' id='labb-frontend-styles-css' href="{{asset('assets/wp-content/cache/labb-frontend.css?ver=1682258217')}}" media='all' />
@@ -1138,14 +1140,36 @@
          .mt-5 {
             margin-top: 15px;
          }
+         .fl-node-602ef686c49f6>.fl-row-content-wrap{
+            background: linear-gradient(90deg,rgba(16,62,104,.8) 0%,rgba(7,90,234,.8) 100%),
+              url({{asset('images/produk.jpg')}});
+            background-repeat:no-repeat;
+            background-position:0% 40%;
+            background-attachment:scroll;
+            background-size:auto
+         }
+
+         .fl-node-602ef686c49f8>.fl-col-content {
+            border-style: solid;
+            border-width: 0;
+            background-clip: border-box;
+            /* border-color:#ffa238; */
+            /* border-bottom-width:2px; */
+         }
 </style>
+
+
 <noscript>
     <style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style>
 </noscript>
 <link data-minify="1" rel="stylesheet" href="{{asset('assets/wp-content/jem7gzh.css?ver=1682258218')}}">
 <link data-minify="1" href="{{asset('assets/wp-content/omgf-stylesheet-75.css?ver=1682258218')}}" rel="stylesheet">
-<link rel="stylesheet" href="{{asset('assets/css/magnific-popup.min.css')}}" type="text/css">
-<link rel="stylesheet" href="{{asset('assets/css/product-style.css')}}" type="text/css">
+<!-- <link rel="stylesheet" href="{{asset('assets/css/magnific-popup.min.css')}}" type="text/css"> -->
+<!-- <link rel="stylesheet" href="{{asset('assets/css/product-style.css')}}" type="text/css"> -->
+<!-- <link rel="stylesheet" href="{{asset('assets/css/style.min.1678717687.css')}}" media="all"> -->
+<link href="{{ asset('css/app.css') }}" rel="stylesheet">
+<link href="{{ asset('css/_SiteHeader.css') }}" rel="stylesheet">
+
 @endsection
 
 
@@ -1160,7 +1184,7 @@
                 <div class="fl-module fl-module-heading fl-node-602ef686c49f3 fl-animation fl-fade-up" data-node="602ef686c49f3" data-animation-delay="0" data-animation-duration="2">
                     <div class="fl-module-content fl-node-content">
                         <h1 class="fl-heading">
-                            <span class="fl-heading-text">Product</span>
+                            <span class="fl-heading-text">Our Product</span>
                         </h1>
                     </div>
                 </div>
@@ -1169,650 +1193,64 @@
                         <div class="fl-separator"></div>
                     </div>
                 </div>
-                <div class="fl-module fl-module-heading fl-node-602ef686c49f4" data-node="602ef686c49f4">
+                <!-- <div class="fl-module fl-module-heading fl-node-602ef686c49f4" data-node="602ef686c49f4">
                     <div class="fl-module-content fl-node-content">
                         <h4 class="fl-heading">
                             <span class="fl-heading-text">The latest updates from bluebotics</span>
                         </h4>
                     </div>
-                </div>
+                </div> -->
                 </div>
             </div>
         </div>
     </div>
     </div>
 </div>
-<div class="uabb-js-breakpoint" style="display: none;"></div>
-<div class="portfolio mt-5">
-    <div class="container-fluid2">
-        <div class="row">
-            <div class="col-12">
-                <ul id="portfolio-flters">
-                    <li data-filter="*" class="filter-active">ALL</li>
-                    <li data-filter=".app">APP</li>
-                    <li data-filter=".arcwood">ARCWOOD</li>
-                    <li data-filter=".djt">DJT</li>
-                    <li data-filter=".hond">HOND</li>
-                    <li data-filter=".legano">LEGANO</li>
-                    <li data-filter=".noutek">NOUTEK</li>
-                    <li data-filter=".talisma">TALISMA</li>
-                    <li data-filter=".vasiki">VASIKI</li>
-                </ul>
-            </div>
-        </div>
-        <div class="row portfolio-container">
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item app wow fadeInUp" data-wow-delay="0.1s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/APP/01.jpg')}}" alt="Image">
-                        
+<div style="background-color: #fff;">
+    <div class="container">
+    
+            <div class="source2">
+                <div class="SiteHeader-submenu mt-5">
+                    <div class="SiteHeader-submenu-container container">
+                        <div class="scrollable-list">
+                            <ul class="scrollable-ul">
+                                @foreach($category as $cat)
+                                <li class="{{ request()->route('catId') == $cat->id ? 'is-active' : '' }}"><a href="{{route('app.product', ['catId' => $cat->id])}}">{{$cat->name}}</a></li>
+                                @endforeach
+                            </ul>
+                        </div>
                     </div>
-                    
                 </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item arcwood wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/ARCWOOD/01.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item djt wow fadeInUp" data-wow-delay="0.3s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/DJT/01.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item hond wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/HOND/01.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item legano wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/LEGANO/01.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item noutek wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/NOUTEK/01.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item talisma wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/TALISMA/01.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item vasiki wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/VASIKI/01.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item app wow fadeInUp" data-wow-delay="0.4s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/APP/02.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item arcwood wow fadeInUp" data-wow-delay="0.5s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/ARCWOOD/02.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item djt wow fadeInUp" data-wow-delay="0.3s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/DJT/02.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item hond wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/HOND/02.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item legano wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/LEGANO/02.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item noutek wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/NOUTEK/02.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item talisma wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/TALISMA/02.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item vasiki wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/VASIKI/02.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item app wow fadeInUp" data-wow-delay="0.4s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/APP/03.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item arcwood wow fadeInUp" data-wow-delay="0.5s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/ARCWOOD/03.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item djt wow fadeInUp" data-wow-delay="0.3s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/DJT/03.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item hond wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/HOND/03.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item legano wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/LEGANO/03.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item noutek wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/NOUTEK/03.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item talisma wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/TALISMA/03.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item vasiki wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/VASIKI/03.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item app wow fadeInUp" data-wow-delay="0.4s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/APP/04.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item arcwood wow fadeInUp" data-wow-delay="0.5s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/ARCWOOD/04.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item djt wow fadeInUp" data-wow-delay="0.3s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/DJT/04.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item hond wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/HOND/04.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item legano wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/LEGANO/04.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item noutek wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/NOUTEK/04.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item talisma wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/TALISMA/04.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item vasiki wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/VASIKI/04.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item app wow fadeInUp" data-wow-delay="0.4s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/APP/05.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item arcwood wow fadeInUp" data-wow-delay="0.5s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/ARCWOOD/05.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item djt wow fadeInUp" data-wow-delay="0.3s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/DJT/05.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item hond wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/HOND/05.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item legano wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/LEGANO/05.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item noutek wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/NOUTEK/05.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item talisma wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/TALISMA/05.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item vasiki wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/VASIKI/05.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item arcwood wow fadeInUp" data-wow-delay="0.5s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/ARCWOOD/06.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item djt wow fadeInUp" data-wow-delay="0.3s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/DJT/06.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item hond wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/HOND/06.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item legano wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/LEGANO/06.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item noutek wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/NOUTEK/06.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item talisma wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/TALISMA/06.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item vasiki wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/VASIKI/06.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item arcwood wow fadeInUp" data-wow-delay="0.5s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/ARCWOOD/07.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item djt wow fadeInUp" data-wow-delay="0.3s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/DJT/07.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item hond wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/HOND/07.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item legano wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/LEGANO/07.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item noutek wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/NOUTEK/07.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item talisma wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/TALISMA/07.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item vasiki wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/VASIKI/07.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item arcwood wow fadeInUp" data-wow-delay="0.5s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/ARCWOOD/08.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item djt wow fadeInUp" data-wow-delay="0.3s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/DJT/08.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item hond wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/HOND/08.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item legano wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/LEGANO/08.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item noutek wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/NOUTEK/08.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item talisma wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/TALISMA/08.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item vasiki wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/VASIKI/08.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item arcwood wow fadeInUp" data-wow-delay="0.5s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/ARCWOOD/09.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item djt wow fadeInUp" data-wow-delay="0.3s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/DJT/09.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item hond wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/HOND/09.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item legano wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/LEGANO/09.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item noutek wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/NOUTEK/09.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item talisma wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/TALISMA/09.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item vasiki wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/VASIKI/09.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item arcwood wow fadeInUp" data-wow-delay="0.5s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/ARCWOOD/10.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item djt wow fadeInUp" data-wow-delay="0.3s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/DJT/10.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item hond wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/HOND/10.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item legano wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/LEGANO/10.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item noutek wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/NOUTEK/10.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item talisma wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/TALISMA/10.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item vasiki wow fadeInUp" data-wow-delay="0.2s">
-                <div class="portfolio-warp">
-                    <div class="portfolio-img">
-                        <img src="{{asset('images/products/VASIKI/10.jpg')}}" alt="Image">
-                        
-                    </div>
-                </div>
-            </div>
-            
-        </div>
-    </div>
-</div>
 
+                <div class="row mb-5">
+                <div class="col-12 p-CollectionList-mainCol">
+                    <div class="row">
+                        @foreach($categoryProduct->product as $product)
+                        <article class="col-6 p-CollectionList-col is-inview" data-scroll="">
+                            <a href="{{route('app.product.detail', ['productId' => $product->id])}}" class="p-CollectionList-link">
+                            <div class="grid">
+                                <figure class="p-CollectionList-figure effect-lily">
+                                    <!-- <div class="p-CollectionList-image lazyloaded" data-bgset="/site/assets/files/1225/velis_cr.480x0.jpg 480w 552h, /site/assets/files/1225/velis_cr.640x0.jpg 640w 736h" style="background-position: 50% 50%; background-image: url('{{ asset('storage/products/'.$product->image[0]->media->desktop) }}');">
+                                        <picture style="display: none;">
+                                            <source data-srcset="/site/assets/files/1225/velis_cr.480x0.jpg 480w 552h" sizes="297.39130434782606px" srcset="/site/assets/files/1225/velis_cr.480x0.jpg 480w 552h">
+                                            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="contain" data-srcset="" sizes="297.39130434782606px" srcset="">
+                                        </picture>
+                                    </div>
+                                    <noscript><img src="/site/assets/files/1225/velis_cr.640x0.jpg" alt=""></noscript> -->
+                                    <img src="{{ asset('storage/products/'.$product->image[0]->media->desktop) }}" alt="img12"/>
+                                </figure>
+                            </div>
+                            <h1 class="h6 p-CollectionList-title"><span>{{$product->name}}</span></h1>
+                            <p class="text-light p-CollectionList-subtitle">{{$product->subtitle}}</p>
+                            </a>
+                        </article>
+                        @endforeach
+                    </div>
+                </div>
+                </div>
+        </div>
+    </div>
+</div>
 @endsection
 
 
@@ -1856,8 +1294,7 @@
       <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=e53fa1c181b98fcc24f245ddeff3f288' id='gform_gravityforms_utils-js'></script>
       <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=8d27ab6b5f180424b8c35a8bd6cf265b' id='gform_gravityforms_theme_vendors-js'></script>
       <script src="{{asset('assets/js/jquery.min.js')}}"></script>
-      <script src="{{asset('assets/js/jquery.magnific-popup.min.js')}}"></script>
-      <script src="{{asset('assets/js/isotope.pkgd.min.js')}}"></script>
+      <script src="{{asset('assets/js/vendor.min.js')}}"></script>
       <script id='gform_gravityforms_theme-js-extra'>
          var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"669a140de0ea8af6b0e28af143bedc1d"}}},"hmr_dev":"","public_path":"https:\/\/bluebotics.com\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/"};
       </script>
@@ -1975,6 +1412,27 @@
                 $(this).addClass('filter-active');
 
                 portfolioIsotope.isotope({filter: $(this).data('filter')});
+
+                if ($(this).data('filter') != "*") {
+                    $class = $(this).data('filter') + " .portfolio-img";
+                    $($class + ' .lightbox-cats').magnificPopup({ 
+                        type: 'image',
+                        gallery:{enabled:true}
+                        // other options
+                    });
+                }
+                else {
+                    $('.lightbox-cats').magnificPopup({ 
+                        type: 'image',
+                        gallery:{enabled:true}
+                        // other options
+                    });
+                }
+            });
+
+            // Toggle menu dropdown saat menu burger di klik
+            document.querySelector('.SiteHeader-burger').addEventListener('click', function() {
+                document.querySelector('.SiteHeader-dropdown').classList.toggle('open');
             });
        });
     </script>

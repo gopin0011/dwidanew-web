@@ -1,0 +1,36 @@
+// output a css property with a responsive map of values
+@mixin res-prop($prop: "margin-bottom", $values: (xs: 1rem), $factor: false, $important: false, $roundValues: false) {
+  $_important: "";
+  @if ($important) {
+    $_important: "!important";
+  }
+  @if type-of($factor) == 'map' {
+    @each $breakpoint in map-keys($factor) {
+      $mediaFactor : map-get($factor, $breakpoint);
+      @include media-breakpoint-up($breakpoint) {
+        $value : map-get($values, $breakpoint) * $mediaFactor;
+        @if $roundValues == true {
+          $value : round($value);
+        }
+        @each $prop_single in $prop {
+          #{$prop_single}: $value #{$_important};
+        }
+      }
+    }
+  } @else {
+    @each $breakpoint in map-keys($values) {
+      @include media-breakpoint-up($breakpoint) {
+        $value : map-get($values, $breakpoint);
+        @if $factor != false {
+          $value : $value * $factor;
+        }
+        @if $roundValues == true {
+          $value : round($value);
+        }
+        @each $prop_single in $prop {
+          #{$prop_single}: $value #{$_important};
+        }
+      }
+    }
+  }
+}
