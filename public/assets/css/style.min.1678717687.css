@@ -14663,6 +14663,13 @@ html:not(.is-mobile) a:hover .SearchResultsContents-title span {
 .has-inverted-header.has-transparent-header .SiteHeader-search {
   color: #fff;
 }
+/* .has-inverted-header.has-transparent-header .SiteHeader-logo img {
+  width: 250px;
+  background-image: url('../../images/djt_.png');
+  background-size: cover;
+  background-position: center;
+} */
+
 @media (max-width: 767.98px) {
   .show-menu .SiteHeader-logo,
   .show-menu .SiteHeader-parentLink,
@@ -14679,6 +14686,7 @@ html:not(.is-mobile) a:hover .SearchResultsContents-title span {
   }
 }
 .SiteHeader-logo {
+  /* logo */
   display: block;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);

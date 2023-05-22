@@ -1,7 +1,7 @@
 @font-face {
   font-display: swap;
   font-family: "Ultimate-Icons";
-  src: url(/fonts/Ultimate-Icons.ttf?40217709005cd610f83e2916e906abda) format("truetype"), url(/fonts/Ultimate-Icons.woff?29543b590f4ce8e5b457b1237e6076fe) format("woff"), url(/fonts/Ultimate-Icons.svg?d7f68205286cacb727bd50a7bb9eda0c) format("svg");
+  src: url("../fonts/Ultimate-Icons.ttf?40217709005cd610f83e2916e906abda") format("truetype"), url("../fonts/Ultimate-Icons.woff?29543b590f4ce8e5b457b1237e6076fe") format("woff"), url("../fonts/Ultimate-Icons.svg?d7f68205286cacb727bd50a7bb9eda0c") format("svg");
   font-weight: 400;
   font-style: normal;
 }

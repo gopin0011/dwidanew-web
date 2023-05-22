@@ -13,13 +13,13 @@ use Illuminate\Http\Request;
 | contains the "web" middleware group. Now create something great!
 |
 */
-Route::get('/landing', function () {
-    return view('layouts.home');
-})->name('app.landing');
-
 Route::get('/', function () {
-    return view('pages.home');
+    return view('layouts.home');
 })->name('app.home');
+
+// Route::get('/home-old', function () {
+//     return view('pages.home');
+// })->name('app.home');
 
 Route::get('about', function () {
     return view('pages.about');

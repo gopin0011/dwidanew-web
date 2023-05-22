@@ -5,7 +5,7 @@
       <meta http-equiv="X-UA-Compatible" content="IE=Edge">
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover">
       <meta name="format-detection" content="telephone=no">
-      <title>Nobili Rubinetterie</title>
+      <title>Dwida Jaya Tama - One Stop Education Solution</title>
       <link rel="canonical" href="https://www.nobili.it/">
       <meta property="og:title" content="Nobili Rubinetterie">
       <meta property="og:type" content="website">
@@ -56,12 +56,20 @@
       <!-- End Google Tag Manager -->
 
          <!-- bluebotics -->
-        <link href="{{ asset('public/css/bxslider.css') }}" rel="stylesheet">
+        <!-- <link href="{{ asset('public/css/bxslider.css') }}" rel="stylesheet"> -->
         <link href="{{ asset('public/css/ultimateicons.css') }}" rel="stylesheet">
         <link href="{{ asset('public/css/legacydropdown.css') }}" rel="stylesheet">
         <link href="{{ asset('public/css/layout-bundle.css') }}" rel="stylesheet">
         <link href="{{ asset('public/css/base-min.css') }}" rel="stylesheet">
         <link href="{{ asset('public/css/skin.css') }}" rel="stylesheet">
+        <style>
+         html.has-scrolled .fl-photo-img {
+            width: 250%;
+         }
+        </style>
+        <script src="{{ asset('public/js/jquery.js') }}"></script>
+        <script src="{{ asset('public/js/jquery.bxslider.min.js') }}"></script>
+        <link href="{{ asset('public/css/bxslider.css') }}" rel="stylesheet">
    </head>
    <body class="tpl-home ">
       <!-- Google Tag Manager (noscript) -->
@@ -71,10 +79,11 @@
       <header class="SiteHeader">
          <div class="SiteHeader-bar container">
             <div class="SiteHeader-brand">
-               <a href="/" class="SiteHeader-logo" aria-label="Homepage">
-                  <svg viewbox="0 0 134 26">
+               <a href="#" onclick="javascript:window.location.href='{{ route('app.home') }}';" class="SiteHeader-logo" aria-label="Homepage">
+                  <!-- <svg viewbox="0 0 134 26">
                      <path d="M0.836,0.812L0.825,25.19h4.878V10.215L25.214,26V0.812h-4.893v14.967L0.828,0L0.836,0.812z M88.472,0.81h4.88v24.375h-4.88 V0.81z M127.822,0.812h4.878V25.19h-4.878V0.812z M104.078,20.314h17.915v4.876H99.202V0.812h4.876V20.314z M29.608,13 c0-7.179,5.459-13,12.194-13c6.733,0,12.192,5.821,12.192,13c0,7.182-5.459,13-12.192,13C35.067,26,29.608,20.182,29.608,13 M34.486,13c0,4.488,3.275,8.127,7.316,8.127c4.04,0,7.317-3.639,7.317-8.127s-3.277-8.124-7.317-8.124 C37.761,4.876,34.486,8.512,34.486,13 M75.903,25.188H58.877V0.812h17.109c4.026,0.017,7.28,3.286,7.28,7.314 c0,1.87-0.708,3.571-1.868,4.865c1.165,1.296,1.868,3.007,1.868,4.884C83.265,21.915,79.942,25.188,75.903,25.188 M76.029,5.688 H63.765v4.878l12.183-0.002c1.346,0,2.439-1.091,2.439-2.437C78.387,6.807,77.34,5.731,76.029,5.688 M76.064,20.321l-0.116-0.006 c1.346,0,2.439-1.093,2.439-2.439s-1.093-2.437-2.463-2.437l-12.16,0.004v4.878C63.765,20.321,76.065,20.321,76.064,20.321z" />
-                  </svg>
+                  </svg> -->
+                  <img id="image-container" decoding="async" class="fl-photo-img wp-image-10103 size-full" src="{{asset('public/images/logo/djt_pt_putih.png')}}" width="250" alt="BlueBotics logo." itemprop="image" data-no-lazy="1" style="width: 250px">
                </a>
             </div>
          </div>
@@ -82,16 +91,16 @@
             <div class="SiteHeader-submenu-container container">
                <ul>
                   <li>
-                     <a href="{{route('app.home')}}">Home</a>
+                     <a href="#" onclick="javascript:window.location.href='{{ route('app.home') }}';">Home</a>
                   </li>
                   <li>
-                     <a href="{{route('app.about')}}">About</a>
+                     <a href="#" onclick="javascript:window.location.href='{{ route('app.about') }}';">About</a>
                   </li>
                   <li>
-                     <a href="{{route('app.factory')}}">Factory</a>
+                     <a href="#" onclick="javascript:window.location.href='{{ route('app.factory') }}';">Factory</a>
                   </li>
                   <li>
-                     <a href="{{route('app.career')}}">Career</a>
+                     <a href="#" onclick="javascript:window.location.href='{{ route('app.career') }}';">Career</a>
                   </li>
                </ul>
             </div>
@@ -113,7 +122,7 @@
             </a>
          </div> -->
          <div class="SiteHeader-overlay SiteHeader-overlay--menu">
-            <span class="SiteHeader-menuToggle js-overlayToggle" data-overlay-toggle="menu" role="button" aria-label="menu">
+            <!-- <span class="SiteHeader-menuToggle js-overlayToggle" data-overlay-toggle="menu" role="button" aria-label="menu">
                <span class="SiteHeader-menuIcon Icon Icon--menu">
                   <svg viewbox="0 0 22 22" class="Icon-svg">
                      <line x1="2" y1="5" x2="20" y2="5" />
@@ -121,9 +130,9 @@
                      <line x1="2" y1="17" x2="20" y2="17" />
                   </svg>
                </span>
-            </span>
-            <div class="SiteHeader-overlay-bg"></div>
-            <div class="SiteHeader-overlay-wrapper">
+            </span> -->
+            <!-- <div class="SiteHeader-overlay-bg"></div> -->
+            <!-- <div class="SiteHeader-overlay-wrapper">
                <div class="Menu container">
                   <div class="row">
                      <div class="Menu-col col-12">
@@ -256,7 +265,7 @@
                      </div>
                   </div>
                </div>
-            </div>
+            </div> -->
          </div>
       </header>
 
@@ -484,15 +493,19 @@
                 @include('pages.landing')
                </div>
             </div>
-            <div class="Newsletter js-newsletter">
+            <div class="source1">
+                  @include('layouts.footer')
+               </div>
+            <!-- <div class="Newsletter js-newsletter">
                <div class="container">
                   <div class="Newsletter-content">
                      <a href="https://04ddf417.sibforms.com/serve/MUIEADer0PKkRG6VMR6RiTzAtztTUng_nSnbI2IxDYIbhxWCn6G2K3V2R7CyXwJDAkJQkoRwRrqLN7dMZQ-wbvEMfApVY68sfYydGda5xuidbTFnvRAYdihwcDbrhPFzedRjUS88appd5okG62PK494r5tPCHjQkTGyrzQg31LRl1gEztkd6dFWE9U_hzk_tUJmiNfKZzn_-Q-z_" data-newsletter-toggle class="Button">Subscribe to our newsletter</a>
                   </div>
                </div>
-            </div>
-            <div class="SiteFooter">
-               <div class="container">
+            </div> -->
+            <!-- <div class="SiteFooter"> -->
+               
+               <!-- <div class="container">
                   <div class="SiteFooter-logo">
                      <svg viewbox="0 0 134 26">
                         <path d="M0.836,0.812L0.825,25.19h4.878V10.215L25.214,26V0.812h-4.893v14.967L0.828,0L0.836,0.812z M88.472,0.81h4.88v24.375h-4.88 V0.81z M127.822,0.812h4.878V25.19h-4.878V0.812z M104.078,20.314h17.915v4.876H99.202V0.812h4.876V20.314z M29.608,13 c0-7.179,5.459-13,12.194-13c6.733,0,12.192,5.821,12.192,13c0,7.182-5.459,13-12.192,13C35.067,26,29.608,20.182,29.608,13 M34.486,13c0,4.488,3.275,8.127,7.316,8.127c4.04,0,7.317-3.639,7.317-8.127s-3.277-8.124-7.317-8.124 C37.761,4.876,34.486,8.512,34.486,13 M75.903,25.188H58.877V0.812h17.109c4.026,0.017,7.28,3.286,7.28,7.314 c0,1.87-0.708,3.571-1.868,4.865c1.165,1.296,1.868,3.007,1.868,4.884C83.265,21.915,79.942,25.188,75.903,25.188 M76.029,5.688 H63.765v4.878l12.183-0.002c1.346,0,2.439-1.091,2.439-2.437C78.387,6.807,77.34,5.731,76.029,5.688 M76.064,20.321l-0.116-0.006 c1.346,0,2.439-1.093,2.439-2.439s-1.093-2.437-2.463-2.437l-12.16,0.004v4.878C63.765,20.321,76.065,20.321,76.064,20.321z" />
@@ -613,12 +626,12 @@
                         </li>
                      </ul>
                   </div>
-               </div>
-            </div>
+               </div> -->
+            <!-- </div> -->
          </div>
       </main>
-      <div class="Mask" id="mask"></div>
-      <div class="CookieAlert js-cookieAlert color-inverted" data-cookie-name="cookieAlert">
+      <!-- <div class="Mask" id="mask"></div> -->
+      <!-- <div class="CookieAlert js-cookieAlert color-inverted" data-cookie-name="cookieAlert">
          <div class="CookieAlert-container">
             <div class="CookieAlert-text">
                <span class="CookieAlert-info">This website use cookies. Read our cookies policy. </span><br><a class="CookieAlert-link" href="/en/cookies/" data-cookie-url>More info</a>
@@ -627,7 +640,7 @@
                <button class="CookieAlert-button Button" data-cookie-dismiss>OK</button>
             </div>
          </div>
-      </div>
+      </div> -->
       <svg class="SvgLibrary">
          <defs>
             <symbol id="icon-lens" viewbox="0 0 24 24">
@@ -713,8 +726,10 @@
             </symbol>
          </defs>
       </svg>
+      
       <script>var gMapsApiKey = "AIzaSyBvCzYeTlZiOOv56NZW5F0OoESNT1VMHZ8";</script>
       <script defer src="{{asset('public/assets/js/vendor.min.1678717687.js')}}"></script>
       <script defer src="{{asset('public/assets/js/app.min.1679048292.js')}}"></script>
+      @yield('js')
    </body>
 </html>

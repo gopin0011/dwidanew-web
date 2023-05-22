@@ -3715,7 +3715,16 @@ webpackJsonp([0], [, , , function(e, t, n) {
 
     function s() {
         var e = y.scroll.instance;
-        e.scroll.y > b ? x || (v.classList.add(S.notTop), x = !0) : x && (v.classList.remove(S.notTop), x = !1), e.direction && e.direction != T && ("up" == e.direction && (v.classList.add(S.scrollUp), v.classList.remove(S.scrollDown)), "down" == e.direction && (v.classList.remove(S.scrollUp), v.classList.add(S.scrollDown)), T = e.direction), C = !1
+        e.scroll.y > b ? x || (v.classList.add(S.notTop), x = !0) : x && (v.classList.remove(S.notTop), x = !1), e.direction && e.direction != T && ("up" == e.direction && (v.classList.add(S.scrollUp), v.classList.remove(S.scrollDown)), "down" == e.direction && (v.classList.remove(S.scrollUp), v.classList.add(S.scrollDown)), T = e.direction), C = !1;
+        if(e.scroll.y > b) {
+            var imageContainer = document.getElementById('image-container');
+            imageContainer.src="public/images/djt_.png"; 
+        } 
+        else {
+            console.log('dudul');
+            var imageContainer = document.getElementById('image-container');
+            imageContainer.src="public/images/logo/djt_pt_putih.png"; 
+        }
     }
 
     function l() {

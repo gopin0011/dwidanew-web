@@ -16,6 +16,7 @@ mix.js('resources/js/app.js', 'public/js')
         //
     ])
     .sass('resources/sass/app.scss', 'public/css')
+    .copy('node_modules/jquery/dist/jquery.js', 'public/js')
     .sass('resources/sass/_SiteHeader.scss', 'public/css')
     .sass('resources/sass/product.scss', 'public/css')
     .sass('resources/sass/style2.scss', 'public/css')

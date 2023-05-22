@@ -11,5 +11,6 @@
     "/css/base-min.css": "/css/base-min.css",
     "/css/layout-bundle.css": "/css/layout-bundle.css",
     "/css/legacydropdown.css": "/css/legacydropdown.css",
-    "/css/ultimateicons.css": "/css/ultimateicons.css"
+    "/css/ultimateicons.css": "/css/ultimateicons.css",
+    "/js/jquery.js": "/js/jquery.js"
 }
