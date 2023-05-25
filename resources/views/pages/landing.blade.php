@@ -3,6 +3,35 @@
 @section('css')
 <link href="{{ asset('public/css/22-layout.css') }}" rel="stylesheet">
 <link href="{{ asset('public/css/home.css') }}" rel="stylesheet">
+<style>
+
+.source1 .fl-node-5f3deb89bf0cb .single_client_logo:nth-child(5n+1) {
+    border-left: 0px solid transparent;
+}
+
+.source1 .fl-node-5f3deb89bf0cb .single_client_logo {
+    height: 125px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-left: 1px solid #edeff2;
+    width: 25%;
+    float: left;
+    border-bottom: 1px solid #edeff2;
+}
+
+.source1 .fl-node-5f3deb89bf0cb .single_client_logo img {
+    filter: grayscale(1);
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    max-width: 80%;
+}
+.source1 .fl-node-5f3deb89bf0cb .single_client_logo img:hover {
+  filter: grayscale(0);
+}
+
+</style>
 @endsection
 
 @section('contents')
@@ -88,7 +117,7 @@
                         </div>
                         
                         
-                        <div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5f3db28e4fc33 fl-row-custom-height fl-row-align-center top-layer" data-node="5f3db28e4fc33">
+                        <!-- <div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5f3db28e4fc33 fl-row-custom-height fl-row-align-center top-layer" data-node="5f3db28e4fc33">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
                             <div class="fl-row-content fl-row-fixed-width fl-node-content">
@@ -140,7 +169,7 @@
                                 </div>
                             </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5f3db2996a799" data-node="5f3db2996a799">
                             <div class="fl-row-content-wrap">
                             <div class="uabb-row-separator uabb-top-row-separator" ></div>
@@ -477,8 +506,9 @@
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="pp-video-wrapper pp-video-source-hosted pp-aspect-ratio-169">
                                                     <div class="pp-fit-aspect-ratio">
-                                                    <video class="pp-video-player" src="{{asset('public/images/compro_djt.mp4')}}" controls=""></video>
-                                                    <div data-bg="{{asset('public/images/tumnel_1.jpg')}}" class="pp-video-image-overlay rocket-lazyload" style="">
+                                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/h0f5EPf4Dks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                                    <!-- <video class="pp-video-player" src="{{asset('public/images/compro_djt.mp4')}}" controls=""></video> -->
+                                                    <!-- <div data-bg="{{asset('public/images/tumnel_1.jpg')}}" class="pp-video-image-overlay rocket-lazyload" style="">
                                                         <div class="pp-video-play-icon" role="button" tabindex="0">
                                                             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                                                 viewBox="0 0 415.346 415.346" xml:space="preserve" aria-hidden="true">
@@ -490,7 +520,7 @@
                                                             </svg>
                                                             <span class="pp-screen-only">Play Video</span>
                                                         </div>
-                                                    </div>
+                                                    </div> -->
                                                     </div>
                                                 </div>
                                             </div>
@@ -809,7 +839,7 @@
                                         <div class="fl-module fl-module-heading fl-node-5f3ddb38165ce" data-node="5f3ddb38165ce">
                                             <div class="fl-module-content fl-node-content">
                                                 <h3 class="fl-heading">
-                                                    <span class="fl-heading-text">Factory & Warehouse</span>
+                                                    <span class="fl-heading-text">Our Works</span>
                                                 </h3>
                                             </div>
                                         </div>
@@ -852,7 +882,7 @@
                                         <div class="fl-module fl-module-heading fl-node-5f3df04c63dea" data-node="5f3df04c63dea">
                                             <div class="fl-module-content fl-node-content">
                                                 <h3 class="fl-heading">
-                                                    <span class="fl-heading-text">Finished Goods Warehouse</span>
+                                                    <span class="fl-heading-text">Interior & Furniture</span>
                                                 </h3>
                                             </div>
                                         </div>
@@ -898,7 +928,7 @@
                                         <div class="fl-module fl-module-heading fl-node-5f7f6c4b7f466" data-node="5f7f6c4b7f466">
                                             <div class="fl-module-content fl-node-content">
                                                 <h3 class="fl-heading">
-                                                    <span class="fl-heading-text">Distribution Warehouse</span>
+                                                    <span class="fl-heading-text">Equipment</span>
                                                 </h3>
                                             </div>
                                         </div>
@@ -921,7 +951,7 @@
                                         </div>
                                         </div>
                                     </div>
-                                    <div class="fl-col fl-node-5f7f6c49837b7 fl-col-small fl-col-has-cols hover-scale" data-node="5f7f6c49837b7">
+                                    <!-- <div class="fl-col fl-node-5f7f6c49837b7 fl-col-small fl-col-has-cols hover-scale" data-node="5f7f6c49837b7">
                                         <div class="fl-col-content fl-node-content">
                                         <div class="fl-module fl-module-photo fl-node-5f7f6c4983d81" data-node="5f7f6c4983d81">
                                             <div class="fl-module-content fl-node-content">
@@ -948,85 +978,6 @@
                                                 </h3>
                                             </div>
                                         </div>
-                                        <!-- <div class="fl-module fl-module-separator fl-node-5f7f6c4983d84" data-node="5f7f6c4983d84">
-                                            <div class="fl-module-content fl-node-content">
-                                                <div class="fl-separator"></div>
-                                            </div>
-                                        </div>
-                                        <div class="fl-col-group fl-node-5f7f6c4983d85 fl-col-group-nested fl-col-group-custom-width" data-node="5f7f6c4983d85">
-                                            <div class="fl-col fl-node-5f7f6c4983d86 fl-col-small" data-node="5f7f6c4983d86">
-                                                <div class="fl-col-content fl-node-content">
-                                                    <div class="fl-module fl-module-rich-text fl-node-5f7f6c4983d87" data-node="5f7f6c4983d87">
-                                                    <div class="fl-module-content fl-node-content">
-                                                        <div class="fl-rich-text">
-                                                            <p style="text-align: right;">Client:</p>
-                                                        </div>
-                                                    </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="fl-col fl-node-5f7f6c4983d88" data-node="5f7f6c4983d88">
-                                                <div class="fl-col-content fl-node-content">
-                                                    <div class="fl-module fl-module-rich-text fl-node-5f7f6c4983d89" data-node="5f7f6c4983d89">
-                                                    <div class="fl-module-content fl-node-content">
-                                                        <div class="fl-rich-text">
-                                                            <p>Shenzhen Yee Fung Automation Technology Co.</p>
-                                                        </div>
-                                                    </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="fl-col-group fl-node-5f7f6c4983d8a fl-col-group-nested fl-col-group-custom-width" data-node="5f7f6c4983d8a">
-                                            <div class="fl-col fl-node-5f7f6c4983d8b fl-col-small" data-node="5f7f6c4983d8b">
-                                                <div class="fl-col-content fl-node-content">
-                                                    <div class="fl-module fl-module-rich-text fl-node-5f7f6c4983d8c" data-node="5f7f6c4983d8c">
-                                                    <div class="fl-module-content fl-node-content">
-                                                        <div class="fl-rich-text">
-                                                            <p style="text-align: right;">Vehicle:</p>
-                                                        </div>
-                                                    </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="fl-col fl-node-5f7f6c4983d8d" data-node="5f7f6c4983d8d">
-                                                <div class="fl-col-content fl-node-content">
-                                                    <div class="fl-module fl-module-rich-text fl-node-5f7f6c4983d8e" data-node="5f7f6c4983d8e">
-                                                    <div class="fl-module-content fl-node-content">
-                                                        <div class="fl-rich-text">
-                                                            <p>Thomas<br />
-                                                                (GETA LQQS32)
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="fl-col-group fl-node-5f7f6c4983d8f fl-col-group-nested fl-col-group-custom-width" data-node="5f7f6c4983d8f">
-                                            <div class="fl-col fl-node-5f7f6c4983d90 fl-col-small" data-node="5f7f6c4983d90">
-                                                <div class="fl-col-content fl-node-content">
-                                                    <div class="fl-module fl-module-rich-text fl-node-5f7f6c4983d91" data-node="5f7f6c4983d91">
-                                                    <div class="fl-module-content fl-node-content">
-                                                        <div class="fl-rich-text">
-                                                            <p style="text-align: right;">Navigation:</p>
-                                                        </div>
-                                                    </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="fl-col fl-node-5f7f6c4983d92" data-node="5f7f6c4983d92">
-                                                <div class="fl-col-content fl-node-content">
-                                                    <div class="fl-module fl-module-rich-text fl-node-5f7f6c4983d93" data-node="5f7f6c4983d93">
-                                                    <div class="fl-module-content fl-node-content">
-                                                        <div class="fl-rich-text">
-                                                            <p>ANT localization</p>
-                                                        </div>
-                                                    </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div> -->
                                         <div class="fl-module fl-module-advanced-icon fl-node-5f8a0de0d691b fl-visible-mobile" data-node="5f8a0de0d691b">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="uabb-module-content adv-icon-wrap adv-icon-horizontal adv-icon-right">
@@ -1045,7 +996,7 @@
                                             </div>
                                         </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="fl-col-group fl-node-5f7f6cded4488" data-node="5f7f6cded4488">
                                     <div class="fl-col fl-node-5f7f6cded46d2 fl-col-small" data-node="5f7f6cded46d2">
@@ -1128,70 +1079,35 @@
                             </div>
                         </div>
                         <div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5f3deb89bf0cb" data-node="5f3deb89bf0cb">
-                            <div class="fl-row-content-wrap">
-                            <div class="uabb-row-separator uabb-top-row-separator" ></div>
-                            <div class="fl-row-content fl-row-fixed-width fl-node-content">
-                                <div class="fl-col-group fl-node-5f3deb8a0b6de fl-col-group-equal-height fl-col-group-align-center fl-col-group-custom-width" data-node="5f3deb8a0b6de">
-                                    <div class="fl-col fl-node-5f3deb8a0ba39 fl-col-small" data-node="5f3deb8a0ba39">
-                                        <div class="fl-col-content fl-node-content">
-                                        <div class="fl-module fl-module-photo fl-node-5f3dec0e4119c" data-node="5f3dec0e4119c">
-                                            <div class="fl-module-content fl-node-content">
-                                                <div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
-                                                    <div class="fl-photo-content fl-photo-img-png">
-                                                    <a href="https://bluebotics.com/contact/" target="_self" itemprop="url">
-                                                        <picture decoding="async" class="fl-photo-img wp-image-16911 size-large" itemprop="image">
-                                                            <source type="image/png" data-lazy-srcset="{{asset('public/images/15_.png')}} 1024w, {{asset('public/images/15_.png')}} 300w, {{asset('public/images/15_.png')}} 768w, {{asset('public/images/15_.png')}} 50w, {{asset('public/images/15_.png')}} 100w, {{asset('public/images/15_.png')}} 150w, {{asset('public/images/15_.png')}} 1475w" srcset="{{asset('public/images/15_.png')}}" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                            <img decoding="async" src="{{asset('public/images/15_.png')}}" alt="BlueBotics has ANT loc, ANT loc+ and ANT lite+." itemprop="image" height="370" width="1024" data-lazy-srcset="{{asset('public/images/15_.png')}} 1024w, {{asset('public/images/15_.png')}} 300w, {{asset('public/images/15_.png')}} 768w, {{asset('public/images/15_.png')}} 50w, {{asset('public/images/15_.png')}} 100w, {{asset('public/images/15_.png')}} 150w, {{asset('public/images/15_.png')}} 1475w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="{{asset('public/images/15_.png')}}"/>
-                                                        </picture>
-                                                        <noscript>
-                                                            <picture decoding="async" class="fl-photo-img wp-image-16911 size-large" itemprop="image">
-                                                                <source type="image/png" srcset="{{asset('public/images/15_.png')}} 1024w, {{asset('public/images/15_.png')}} 300w, {{asset('public/images/15_.png')}} 768w, {{asset('public/images/15_.png')}} 50w, {{asset('public/images/15_.png')}} 100w, {{asset('public/images/15_.png')}} 150w, {{asset('public/images/15_.png')}} 1475w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                                <img decoding="async" src="{{asset('public/images/15_.png')}}" alt="BlueBotics has ANT loc, ANT loc+ and ANT lite+." itemprop="image" height="370" width="1024" srcset="{{asset('public/images/15_.png')}} 1024w, {{asset('public/images/15_.png')}} 300w, {{asset('public/images/15_.png')}} 768w, {{asset('public/images/15_.png')}} 50w, {{asset('public/images/15_.png')}} 100w, {{asset('public/images/15_.png')}} 150w, {{asset('public/images/15_.png')}} 1475w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                            </picture>
-                                                        </noscript>
-                                                    </a>
-                                                    </div>
-                                                </div>
-                                            </div>
+                            <div class="container">
+                                <div class="row align-items-center">
+                                    <div class="col-lg-12">
+                                        <div class="single_client_logo">
+                                            <img src="{{asset('public/images/logo/djt_.png')}}" alt="">
                                         </div>
+                                        <div class="single_client_logo">
+                                            <img src="{{asset('public/images/logo/arcwood_.png')}}" alt="">
                                         </div>
-                                    </div>
-                                    <div class="fl-col fl-node-5f3deb8a0ba40 fl-col-small" data-node="5f3deb8a0ba40">
-                                        <div class="fl-col-content fl-node-content">
-                                        <div class="fl-module fl-module-heading fl-node-5f3df3b764b21" data-node="5f3df3b764b21">
-                                            <div class="fl-module-content fl-node-content">
-                                                <h3 class="fl-heading">
-                                                    <span class="fl-heading-text">Let's get started</span>
-                                                </h3>
-                                            </div>
+                                        <div class="single_client_logo">
+                                            <img src="{{asset('public/images/logo/Hond_.png')}}" alt="">
                                         </div>
-                                        <div class="fl-module fl-module-separator fl-node-5f3ded6bbfaca" data-node="5f3ded6bbfaca">
-                                            <div class="fl-module-content fl-node-content">
-                                                <div class="fl-separator"></div>
-                                            </div>
+                                        <div class="single_client_logo">
+                                            <img src="{{asset('public/images/logo/jualankita.png')}}" alt="">
                                         </div>
-                                        <div class="fl-module fl-module-rich-text fl-node-5f3debd5a42f6" data-node="5f3debd5a42f6">
-                                            <div class="fl-module-content fl-node-content">
-                                                <div class="fl-rich-text">
-                                                    <p>Take the first step to automating your vehicle.<br />
-                                                    Schedule a call with our expert team today.
-                                                    </p>
-                                                </div>
-                                            </div>
+                                        <div class="single_client_logo">
+                                            <img src="{{asset('public/images/logo/legano.png')}}" alt="">
                                         </div>
-                                        <div class="fl-module fl-module-button fl-node-5f3df4beb9560 obvia" data-node="5f3df4beb9560">
-                                            <div class="fl-module-content fl-node-content">
-                                                <div class="fl-button-wrap fl-button-width-auto fl-button-left">
-                                                    <a href="{{route('app.contact')}}" target="_self" class="fl-button" role="button">
-                                                    <span class="fl-button-text">Get in Touch</span>
-                                                    </a>
-                                                </div>
-                                            </div>
+                                        <div class="single_client_logo">
+                                            <img src="{{asset('public/images/logo/noutek_.png')}}" alt="">
                                         </div>
+                                        <div class="single_client_logo">
+                                            <img src="{{asset('public/images/logo/talisma.png')}}" alt="">
+                                        </div>
+                                        <div class="single_client_logo">
+                                            <img src="{{asset('public/images/logo/Vasiki_.png')}}" alt="">
                                         </div>
                                     </div>
                                 </div>
-                            </div>
                             </div>
                         </div>
                     </div>
@@ -1204,7 +1120,6 @@
         </div>
     </div>
 </div>
-
 
 
 @endsection

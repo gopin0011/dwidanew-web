@@ -10,9 +10,9 @@
                                  <div class="fl-module-content fl-node-content">
                                     <div class="fl-photo fl-photo-align-left" itemscope itemtype="https://schema.org/ImageObject">
                                        <div class="fl-photo-content fl-photo-img-svg">
-                                          <a href="#" onclick="window.location.href='{{route('app.home')}}';" target="_self" itemprop="url">
-                                             <img decoding="async" class="fl-photo-img wp-image-2785 size-full" src="{{asset('public/images/logo/djt_pt_putih.png')}}" alt="BlueBotics logo white" itemprop="image" height="0" width="0"  data-lazy-src="{{asset('public/images/logo/djt_pt_putih.png')}}" />
-                                             <noscript><img decoding="async" class="fl-photo-img wp-image-2785 size-full" src="{{asset('public/images/logo/djt_pt_putih.png')}}" alt="BlueBotics logo white" itemprop="image" height="0" width="0"  /></noscript>
+                                          <a href="{{route('app.home')}}" target="_self" itemprop="url">
+                                             <img decoding="async" class="fl-photo-img wp-image-2785 size-full" src="{{asset('public/images/djt_.png')}}" alt="BlueBotics logo white" itemprop="image" height="0" width="0"  data-lazy-src="{{asset('public/images/logo/djt_pt_putih.png')}}" />
+                                             <noscript><img decoding="async" class="fl-photo-img wp-image-2785 size-full" src="{{asset('public/images/djt_.png')}}" alt="BlueBotics logo white" itemprop="image" height="0" width="0"  /></noscript>
                                           </a>
                                        </div>
                                     </div>

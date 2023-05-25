@@ -44,7 +44,7 @@
       <meta name="msapplication-TileColor" content="#000000">
       <meta name="theme-color" content="#000000">
       <link rel="stylesheet" href="{{asset('public/assets/css/style.min.1678717687.css')}}" media="all">
-      <!-- <link href="{{ asset('public/css/style2.css') }}" rel="stylesheet"> -->
+      <link href="{{ asset('public/css/style2.css') }}" rel="stylesheet">
 
       <!-- Google Tag Manager -->
       <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -65,6 +65,20 @@
         <style>
          html.has-scrolled .fl-photo-img {
             width: 250%;
+         }
+         .source1 .djt-group-footer {
+               margin-top: 50px;
+               width: 60%;
+         }
+         .source1 .fl-node-5f3db2a1e2955 {
+            margin-top: -100px;
+            /* position: inherit; */
+         }
+         @media only screen and (max-width: 768px) {
+            .source1 .djt-group-footer {
+               margin-top: 0px;
+               width: 25%;
+            }
          }
         </style>
         <script src="{{ asset('public/js/jquery.js') }}"></script>
@@ -495,139 +509,7 @@
             </div>
             <div class="source1">
                   @include('layouts.footer')
-               </div>
-            <!-- <div class="Newsletter js-newsletter">
-               <div class="container">
-                  <div class="Newsletter-content">
-                     <a href="https://04ddf417.sibforms.com/serve/MUIEADer0PKkRG6VMR6RiTzAtztTUng_nSnbI2IxDYIbhxWCn6G2K3V2R7CyXwJDAkJQkoRwRrqLN7dMZQ-wbvEMfApVY68sfYydGda5xuidbTFnvRAYdihwcDbrhPFzedRjUS88appd5okG62PK494r5tPCHjQkTGyrzQg31LRl1gEztkd6dFWE9U_hzk_tUJmiNfKZzn_-Q-z_" data-newsletter-toggle class="Button">Subscribe to our newsletter</a>
-                  </div>
-               </div>
-            </div> -->
-            <!-- <div class="SiteFooter"> -->
-               
-               <!-- <div class="container">
-                  <div class="SiteFooter-logo">
-                     <svg viewbox="0 0 134 26">
-                        <path d="M0.836,0.812L0.825,25.19h4.878V10.215L25.214,26V0.812h-4.893v14.967L0.828,0L0.836,0.812z M88.472,0.81h4.88v24.375h-4.88 V0.81z M127.822,0.812h4.878V25.19h-4.878V0.812z M104.078,20.314h17.915v4.876H99.202V0.812h4.876V20.314z M29.608,13 c0-7.179,5.459-13,12.194-13c6.733,0,12.192,5.821,12.192,13c0,7.182-5.459,13-12.192,13C35.067,26,29.608,20.182,29.608,13 M34.486,13c0,4.488,3.275,8.127,7.316,8.127c4.04,0,7.317-3.639,7.317-8.127s-3.277-8.124-7.317-8.124 C37.761,4.876,34.486,8.512,34.486,13 M75.903,25.188H58.877V0.812h17.109c4.026,0.017,7.28,3.286,7.28,7.314 c0,1.87-0.708,3.571-1.868,4.865c1.165,1.296,1.868,3.007,1.868,4.884C83.265,21.915,79.942,25.188,75.903,25.188 M76.029,5.688 H63.765v4.878l12.183-0.002c1.346,0,2.439-1.091,2.439-2.437C78.387,6.807,77.34,5.731,76.029,5.688 M76.064,20.321l-0.116-0.006 c1.346,0,2.439-1.093,2.439-2.439s-1.093-2.437-2.463-2.437l-12.16,0.004v4.878C63.765,20.321,76.065,20.321,76.064,20.321z" />
-                     </svg>
-                  </div>
-                  <div class="SiteFooter-menu-top">
-                     <ul>
-                        <li>
-                           <a href='/en/contacts/'>Contacts</a>
-                        </li>
-                        <li>
-                           <a href='/en/job-opportunities/'>Job opportunities</a>
-                        </li>
-                        <li>
-                           <a target='_blank' href='https://b2b.nobili.it/Languages.aspx?language=en'>Customer area</a>
-                        </li>
-                        <li>
-                           <a target='_blank' href='https://b2b.grupponobili.it/Languages.aspx?to=LoginAnomymous.aspx&language=en'>Spare parts</a>
-                        </li>
-                        <li>
-                           <a target='_blank' href='https://support.nobili.it/en/support-web2case-en/'>After sales</a>
-                        </li>
-                     </ul>
-                  </div>
-                  <div class="SiteFooter-company">
-                     <div class="SiteFooter-company-toggle collapsed" data-toggle="collapse" data-target="#footer-info" aria-expanded="false">Company info<span class="SiteFooter-company-icon"></span>
-                     </div>
-                     <div class="SiteFooter-company-content collapse" id="footer-info">
-                        <p>CARLO NOBILI SPA RUBINETTERIE VIA LAGONE 32 – 28021 BORGOMANERO (NO)<br />
-                           CAPITALE SOCIALE: € 30.012.000 REA: NO - 114950 DELLA CCIAA DI NOVARA C.F. E P.IVA: 00260820030<br />
-                           OBBLIGHI INFORMATIVI PER LE EROGAZIONI PUBBLICHE: GLI AIUTI DI STATO E GLI AIUTI “DE MINIMIS” RICEVUTI SONO CONTENUTI NEL REGISTRO NAZIONALE DEGLI AIUTI DI STATO DI CUI ALL’ART. 52 DL. N. 234 DEL 2012 PRESENTI SUL SITO WWW.RNA.GOV.IT
-                        </p>
-                     </div>
-                  </div>
-                  <div class="SiteFooter-menu-bottom">
-                     <ul>
-                        <li>
-                           <a href='/en/quality-policy/'>Quality policy</a>
-                        </li>
-                        <li>
-                           <a href='/en/environmental-policy/'>INTEGRATED ENVIRONMENT, HEALTH AND SAFETY POLICY</a>
-                        </li>
-                        <li>
-                           <a href='/en/privacy-1/'>SAFETY AND ENVIRONMENT INFORMATION</a>
-                        </li>
-                        <li>
-                           <a target='_blank' href='https://media.grupponobili.it/downloads/docs/CodiceEticoMod231.pdf'>Code of ethics</a>
-                        </li>
-                        <li>
-                           <a target='_blank' href='https://media.grupponobili.it/downloads/docs/ModOrganizzativo231.pdf'>Organisational model</a>
-                        </li>
-                        <li>
-                           <a href='/en/privacy/'>Privacy policy</a>
-                        </li>
-                        <li>
-                           <a href='/en/cookies/'>Cookie policy</a>
-                        </li>
-                        <li>
-                           <a href='/en/credits/'>Credits</a>
-                        </li>
-                     </ul>
-                  </div>
-                  <div class="SiteFooter-social">
-                     <ul>
-                        <li>
-                           <a href="http://www.facebook.com/nobilirubinetterie" target="_blank" rel="noopener" title="facebook">
-                              <span class="Icon Icon--facebook ">
-                                 <svg class="Icon-svg">
-                                    <use xlink:href="#icon-facebook"></use>
-                                 </svg>
-                              </span>
-                           </a>
-                        </li>
-                        <li>
-                           <a href="http://www.instagram.com/nobilirubinetterie" target="_blank" rel="noopener" title="instagram">
-                              <span class="Icon Icon--instagram ">
-                                 <svg class="Icon-svg">
-                                    <use xlink:href="#icon-instagram"></use>
-                                 </svg>
-                              </span>
-                           </a>
-                        </li>
-                        <li>
-                           <a href="https://www.pinterest.it/nobilirubinetterie/" target="_blank" rel="noopener" title="pinterest">
-                              <span class="Icon Icon--pinterest ">
-                                 <svg class="Icon-svg">
-                                    <use xlink:href="#icon-pinterest"></use>
-                                 </svg>
-                              </span>
-                           </a>
-                        </li>
-                        <li>
-                           <a href="http://www.twitter.com/nobilitweet" target="_blank" rel="noopener" title="twitter">
-                              <span class="Icon Icon--twitter ">
-                                 <svg class="Icon-svg">
-                                    <use xlink:href="#icon-twitter"></use>
-                                 </svg>
-                              </span>
-                           </a>
-                        </li>
-                        <li>
-                           <a href="https://www.youtube.com/channel/UC5FIDeprG8vEZEVJ0N6BiIw" target="_blank" rel="noopener" title="youtube">
-                              <span class="Icon Icon--youtube ">
-                                 <svg class="Icon-svg">
-                                    <use xlink:href="#icon-youtube"></use>
-                                 </svg>
-                              </span>
-                           </a>
-                        </li>
-                        <li>
-                           <a href="http://www.LinkedIn.com/company/nobilirubinetterie" target="_blank" rel="noopener" title="linkedin">
-                              <span class="Icon Icon--linkedin ">
-                                 <svg class="Icon-svg">
-                                    <use xlink:href="#icon-linkedin"></use>
-                                 </svg>
-                              </span>
-                           </a>
-                        </li>
-                     </ul>
-                  </div>
-               </div> -->
-            <!-- </div> -->
+            </div>
          </div>
       </main>
       <!-- <div class="Mask" id="mask"></div> -->

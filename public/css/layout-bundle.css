@@ -1681,7 +1681,7 @@
   background: transparent;
 }
 .source1 .fl-col-group-equal-height.fl-col-group-align-bottom .fl-col-content {
-  justify-content: flex-end;
+  /* justify-content: flex-end; */
   -webkit-box-align: end;
   -webkit-box-pack: end;
   -ms-flex-pack: end;
@@ -3742,7 +3742,7 @@
   padding: 0;
 }
 .source1 .fl-col-group-equal-height.fl-col-group-align-bottom .fl-col-content {
-  justify-content: flex-end;
+  /* justify-content: flex-end; */
   -webkit-box-align: end;
   -webkit-box-pack: end;
   -ms-flex-pack: end;

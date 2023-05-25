@@ -7,6 +7,7 @@
 <link data-minify="1" rel='stylesheet' id='fl-builder-layout-22-css' href="{{asset('public/assets/uploads/bb-plugin/cache/22-layout.css?ver=1681229321')}}" media='all' />
 <link data-minify="1" rel='stylesheet' id='fl-builder-layout-bundle-67c5dade2f7e9c91310c3f808a9e40b1-css' href="{{asset('public/assets/uploads/bb-plugin/cache/67c5dade2f7e9c91310c3f808a9e40b1-layout-bundle.css?ver=1682623770')}}" media='all' />
 
+
 <style id="wp-custom-css">
          .top_layer {
          z-index: 10;
@@ -442,13 +443,13 @@
          display: flex;
          flex-direction: column-reverse;
          }
-         .owl-nav {
+         /* .owl-nav {
          display: flex;
          align-items: flex-end;
          flex-direction: column;
          border-top: solid 1px #6dc6da;
          margin-bottom: -30px;
-         }
+         } */
          .pp-testimonial {
          padding-top: 0px;
          }
@@ -459,16 +460,16 @@
          margin-top: 60px;
          }
          .owl-carousel .owl-nav button.owl-prev, .owl-carousel .owl-nav button.owl-next {
-         width: 40px !important;
+         width: 65px !important;
          height: 40px !important;
          border-radius: 0;
          margin: 0;
          }
          .owl-carousel .owl-nav button.owl-prev {
-         background: #fff !important;
+         /* background: #fff !important; */
          }
          .owl-carousel .owl-nav button.owl-next {
-         background: #52a6dd !important;
+         /* background: #52a6dd !important; */
          }
          .owl-nav button svg {
          background: none !important;
@@ -1131,12 +1132,43 @@
             /* border-color:#ffa238; */
             /* border-bottom-width:2px; */
          }
+
+.product_list .section_tittle {
+    text-align: left !important;
+}
+.section_tittle {
+    margin-bottom: 80px;
+}
+.product_list .section_tittle h2 {
+    text-transform: capitalize;
+}
+.section_tittle h2 {
+    font-size: 36px;
+    color: #1a1a1a;
+    line-height: 27px;
+    font-weight: 700;
+    position: relative;
+    margin-bottom: 28px;
+}
+.product_list .section_tittle span {
+    color: #adadad;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 60px;
+}
+.product_list .owl-nav {
+    position: absolute;
+    right: 0;
+    top: -62px;
+}
       </style>
       <noscript>
          <style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style>
       </noscript>
       <link data-minify="1" rel="stylesheet" href="https://bluebotics.com/wp-content/cache/min/1/jem7gzh.css?ver=1681229321">
       <link data-minify="1" href="https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/omgf/omgf-stylesheet-75/omgf-stylesheet-75.css?ver=1681229321" rel="stylesheet">
+         <link href="{{ asset('public/assets/css/lightslider.min.css') }}" rel="stylesheet">
+         <link href="{{ asset('public/assets/css/owl.carousel.min.css') }}" rel="stylesheet">         
 @endsection
 
 
@@ -1173,103 +1205,85 @@
     </div>
     </div>
 </div>
-<div style="margin-top:40px;"></div>
+<div style="background-color: #fff;">
+<div style="padding-top:80px;"></div>
 
-<div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5f7e027ea8390" data-node="5f7e027ea8390">
-   <div class="fl-row-content-wrap">
-      <div class="uabb-row-separator uabb-top-row-separator"></div>
-      <div class="fl-row-content fl-row-fixed-width fl-node-content">
-         <div class="fl-col-group fl-node-5f7e027ef419c fl-col-group-responsive-reversed" data-node="5f7e027ef419c">
-            <div class="fl-col fl-node-5f3d8d604ee7b top_layer" data-node="5f3d8d604ee7b">
-               <div class="fl-col-content fl-node-content">
-                  <div class="fl-module fl-module-heading fl-node-5f3d8be4c1cd7 fl-animation fl-fade-up" data-node="5f3d8be4c1cd7" data-animation-delay="0" data-animation-duration="2">
-                     <div class="fl-module-content fl-node-content">
-                        <h3 class="fl-heading">
-                           <span class="fl-heading-text">{{$product->name}}</span>
-                        </h3>
-                     </div>
-                  </div>
-                  <div class="fl-module fl-module-separator fl-node-5f3d84ee30555" data-node="5f3d84ee30555">
-                     <div class="fl-module-content fl-node-content">
-                        <div class="fl-separator"></div>
-                     </div>
-                  </div>
-                  <div class="fl-module fl-module-rich-text fl-node-5f3d8c6b23a7c" data-node="5f3d8c6b23a7c">
-                     <div class="fl-module-content fl-node-content">
-                        <div class="fl-rich-text">
-                           <p>{{$product->description}}</p>
-                        </div>
-                     </div>
-                  </div>
-               </div>
+<div class="product_image_area section_padding">
+   <div class="container">
+      <div class="row s_product_inner justify-content-between">
+         <div class="col-lg-7 col-xl-7">
+          <div class="product_slider_img">
+            <div id="vertical">
+              @foreach($product->image as $key => $image)
+              <div data-thumb="{{asset('public/storage/products/'.$product->image[0]->media->desktop)}}">
+                <img src="{{asset('public/storage/products/'.$product->image[0]->media->desktop)}}" />
+              </div>
+              @endforeach
+            </div>
+          </div>
+
+         </div>
+         <div class="col-lg-5 col-xl-4">
+            <div class="s_product_text">
+               <!-- <h5>previous <span>|</span> next</h5> -->
+               <h3>{{$product->name}}</h3>
+               <!-- <h2>$149.99</h2> -->
+               <ul class="list">
+                  <li>
+                     <a class="active" href="#">
+                     <span>Brands</span> : {{$product->category->name}}</a>
+                  </li>
+                  <!-- <li>
+                     <a href="#"> <span>Availibility</span> : In Stock</a>
+                  </li> -->
+               </ul>
+               <p>
+                  {{$product->description}}
+               </p>
             </div>
          </div>
       </div>
    </div>
 </div>
-<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5f3d8d604eb94 fl-row-custom-height fl-row-align-center" data-node="5f3d8d604eb94">
-   <div class="fl-row-content-wrap">
-      <div class="uabb-row-separator uabb-top-row-separator" ></div>
-      <div class="fl-row-content fl-row-full-width fl-node-content">
-         <div class="fl-col-group fl-node-5f3da2c571869" data-node="5f3da2c571869">
-            <div class="fl-col fl-node-5f3da2c571c02 home-page-slider" data-node="5f3da2c571c02">
-               <div class="fl-col-content fl-node-content"></div>
-            </div>
-         </div>
-         <div class="fl-col-group fl-node-5f99c37f0da50 fl-col-group-custom-width" data-node="5f99c37f0da50">
-            <div class="fl-col fl-node-5f99c37f0d8b3 home-page-slider" data-node="5f99c37f0d8b3">
-               <div class="fl-col-content fl-node-content">
-                  <div id="history" class="fl-module fl-module-content-slider fl-node-5f99c37f0d8b0 obvia" data-node="5f99c37f0d8b0">
-                     <div class="fl-module-content fl-node-content">
-                        <div class="fl-content-slider">
-                           <div class="fl-content-slider-wrapper">
-                              <div class="fl-slide fl-slide-0 fl-slide-text-right">
-                                 <div class="fl-slide-mobile-photo">
-                                    <picture decoding="async" loading="false" class="fl-slide-mobile-photo-img wp-image-2264">
-                                       <source type="image/webp" data-lazy-srcset="{{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 1024w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 300w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 768w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 1536w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 50w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 100w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 150w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 1920w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20683&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                       <img decoding="async" width="1024" height="683" loading="false" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20683&#039;%3E%3C/svg%3E" alt="BlueBotics Autonomous Navigation drives the F3 Nipper AGV" data-lazy-srcset="{{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 1024w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-300x200.jpg 300w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-768x512.jpg 768w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-1536x1024.jpg 1536w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-50x33.jpg 50w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-100x67.jpg 100w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-150x100.jpg 150w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper.jpg 1920w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="{{ asset('public/storage/products/'.$product->image[0]->media->desktop) }}"/>
-                                    </picture>
-                                    <noscript>
-                                       <picture decoding="async" loading="false" class="fl-slide-mobile-photo-img wp-image-2264">
-                                          <source type="image/webp" srcset="{{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 1024w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 300w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 768w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 1536w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 50w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 100w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 150w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 1920w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                          <img decoding="async" width="1024" height="683" loading="false" src="{{ asset('public/storage/products/'.$product->image[0]->media->desktop) }}" alt="BlueBotics Autonomous Navigation drives the F3 Nipper AGV" srcset="{{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 1024w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-300x200.jpg 300w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-768x512.jpg 768w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-1536x1024.jpg 1536w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-50x33.jpg 50w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-100x67.jpg 100w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-150x100.jpg 150w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                       </picture>
-                                    </noscript>
-                                 </div>
-                                 <div class="fl-slide-foreground clearfix">
-                                    <div class="fl-slide-content-wrap">
-                                       <!-- <div class="fl-slide-content">
-                                          </div> -->
-                                    </div>
-                                    <div class="fl-slide-photo-wrap">
-                                       <div class="fl-slide-photo">
-                                          <picture decoding="async" loading="false" class="fl-slide-photo-img wp-image-2264">
-                                             <source type="image/webp" data-lazy-srcset="{{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 1024w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 300w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 768w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 1536w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 50w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 100w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 150w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 1920w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20683&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                             <img decoding="async" width="1024" height="683" loading="false" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20683&#039;%3E%3C/svg%3E" alt="BlueBotics Autonomous Navigation drives the F3 Nipper AGV" data-lazy-srcset="{{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 1024w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-300x200.jpg 300w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-768x512.jpg 768w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-1536x1024.jpg 1536w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-50x33.jpg 50w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-100x67.jpg 100w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-150x100.jpg 150w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper.jpg 1920w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="{{ asset('public/storage/products/'.$product->image[0]->media->desktop) }}"/>
-                                          </picture>
-                                          <noscript>
-                                             <picture decoding="async" loading="false" class="fl-slide-photo-img wp-image-2264">
-                                                <source type="image/webp" srcset="{{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 1024w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 300w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 768w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 1536w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 50w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 100w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 150w, {{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 1920w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                                <img decoding="async" width="1024" height="683" loading="false" src="{{ asset('public/storage/products/'.$product->image[0]->media->desktop) }}" alt="BlueBotics Autonomous Navigation drives the F3 Nipper AGV" srcset="{{ asset('public/storage/products/'.$product->image[0]->media->desktop) }} 1024w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-300x200.jpg 300w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-768x512.jpg 768w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-1536x1024.jpg 1536w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-50x33.jpg 50w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-100x67.jpg 100w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper-150x100.jpg 150w, https://bluebotics.com/wp-content/uploads/2020/12/3-BlueBotics_autonomous_navigation_2019-F3-Design-3x-Nipper.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-                                             </picture>
-                                          </noscript>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="fl-clear"></div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
+
 <!-- </div> -->
-<div class="empty-div"></div>
+<div class="empty-div" style="padding-top: 120px;"></div>
+
+<div class="product_list best_seller">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-12">
+          <div class="section_tittle text-center">
+            <h2>Product Related </h2> 
+            <hr>
+            <!-- <span>shop</span> -->
+          </div>
+        </div>
+      </div>
+      <div class="row align-items-center justify-content-between">
+        <div class="col-lg-12">
+          <div class="best_product_slider owl-carousel">
+            @foreach($product->related as $key => $product)
+            <a href="{{route('app.product.detail',['productId' => $product->id])}}">
+            <div class="single_product_item">
+              <img src="{{asset('public/storage/products/'.$product->image[0]->media->desktop)}}" alt="">
+              <div class="single_product_text">
+                <h4>{{$product->name}}</h4>
+                <!-- <h3>$150.00</h3> -->
+              </div>
+            </div>
+            </a>
+            @endforeach
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+
+<div class="empty-div" style="padding-top: 80px;"></div>
+</div>
+
+
 @endsection
 
 
@@ -1420,4 +1434,10 @@
          {$('body').off('uabb-trigger.'+hook,callback);},};})(jQuery);jQuery(document).ready(function($){if(typeof bowser!=='undefined'&&bowser!==null){var uabb_browser=bowser.name,uabb_browser_v=bowser.version,uabb_browser_class=uabb_browser.replace(/\s+/g,'-').toLowerCase(),uabb_browser_v_class=uabb_browser_class+parseInt(uabb_browser_v);$('html').addClass(uabb_browser_class).addClass(uabb_browser_v_class);}
          $('.uabb-row-separator').parents('html').css('overflow-x','hidden');});(function($){jQuery(document).ready(function(){if(typeof jQuery.fn.waypoint!=='undefined'){$('.fl-node-2r7cuo4h3mx6 .uabb-info-list-icon').waypoint({offset:'90%',handler:function(e){jQuery(this.element).addClass('pulse animated');}});}});})(jQuery);});
       </script>
+      <script src="{{asset('public/assets/js/jquery.min.js')}}"></script>
+      <script src="{{asset('public/assets/js/lightslider.min.js')}}"></script>
+      <script src="{{asset('public/assets/js/slick.min.js')}}"></script>
+      <script src="{{asset('public/assets/js/owl.carousel.min.js')}}"></script>
+      <script src="{{asset('public/assets/js/custom.js')}}"></script>
+      
 @endsection

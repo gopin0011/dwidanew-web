@@ -12,6 +12,8 @@ class Product extends Model
 
     protected $table = 'product';
 
+    protected $primaryKey = 'id';
+
     public function image()
     {
         return $this->hasMany(ProductImage::class,'id_product');
@@ -20,5 +22,10 @@ class Product extends Model
     public function category()
     {
         return $this->hasOne(Category::class, 'id', 'id_category');
+    }
+
+    public function related()
+    {
+        return $this->hasMany(Product::class,'id_category','id_category')->with(['image.media']);
     }
 }

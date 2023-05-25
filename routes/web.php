@@ -17,9 +17,10 @@ Route::get('/', function () {
     return view('layouts.home');
 })->name('app.home');
 
-// Route::get('/home-old', function () {
-//     return view('pages.home');
-// })->name('app.home');
+Route::get('/home-old', function () {
+    return view('pages.home');
+});
+// ->name('app.home')
 
 Route::get('about', function () {
     return view('pages.about');
@@ -45,8 +46,11 @@ Route::get('brand/{catId?}', function (Request $request, $catId = 1) {
 })->name('app.product');
 
 Route::get('product/{productId?}/detail', function (Request $request, $productId = 1) {
-    $product = \App\Models\Product::with('image.media','category')->find($productId);
-    // dd($product->image[0]);
+    $product = \App\Models\Product::with(['image.media','related' => function ($query) use ($productId) {
+        $query->whereNotIn('product.id', [$productId]);
+    }])->find($productId);
+
+    // dd($product);
     return view('pages.detail', [
         'product' => $product, 
     ]);
