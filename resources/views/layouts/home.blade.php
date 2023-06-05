@@ -88,6 +88,11 @@ top: 0rem;
          #image-container {
             width: 120%;
          }
+
+         @font-face {
+    font-family: "BlissBucket";
+    src: url("public/fonts/BlissBucket.otf") format("opentype");
+}
         </style>
         <script src="{{ asset('public/js/jquery.js') }}"></script>
         <script src="{{ asset('public/js/jquery.bxslider.min.js') }}"></script>
@@ -299,17 +304,15 @@ top: 0rem;
                      <div class="swiper-wrapper">
                         <div class="swiper-slide HpSlider-item color-inverted">
                            <div class="HpSlider-media" data-swiper-parallax="90%">
-                              <div class="HpSlider-image lazyload d-landscape" data-sizes="auto" data-bgset="/site/assets/files/31539/manifest_000.640x0.jpg 640w 360h, /site/assets/files/31539/manifest_000.1024x0.jpg 1024w 575h, /site/assets/files/31539/manifest_000.1920x0.jpg 1920w 1079h, /site/assets/files/31539/manifest_000.1920x0.jpg 1920w 1079h" style="background-position: 50% 50%;"></div>
-                              <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="/site/assets/files/31539/manifest_xs_000.600x0.jpg 600w 1017h, /site/assets/files/31539/manifest_xs_000.600x0.jpg 600w 1017h" style="background-position: 50% 50%;"></div>
-                              <div class="HpSlider-video d-landscape" data-video-src="{{asset('public/images/manifest-hb.mp4')}}"></div>
-                              <div class="HpSlider-video d-portrait" data-video-src="/site/assets/files/31539/manifest-mobile-hb2.mp4"></div>
+                              <div class="HpSlider-image lazyload d-landscape" data-sizes="auto" data-bgset="{{asset('public/images/landing1.jpg')}} 640w 360h, {{asset('public/images/landing1.jpg')}} 1024w 575h, {{asset('public/images/landing1.jpg')}} 1920w 1079h, {{asset('public/images/landing1.jpg')}} 2400w 1348h" style="background-position: 50% 50%;"></div>
+                              <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="{{asset('public/images/landing1.jpg')}} 640w 1143h, {{asset('public/images/landing1.jpg')}} 1024w 1829h, {{asset('public/images/landing1.jpg')}} 1350w 2411h, {{asset('public/images/landing1.jpg')}} 1350w 2411h" style="background-position: 50% 50%;"></div>
                            </div>
                            <div class="HpSlider-content" data-swiper-parallax="100%">
                               <div class="container" style="margin-top: 300px;">
                                  <div class="row">
                                     <div class="col-12 HpSlider-contentCol" data-scroll data-scroll-offset="0, 30%" data-scroll-repeat="true">
                                        <h1>
-                                          <div class="js-splitLines SplitLines">SOLUTION<br />
+                                          <div class="js-splitLines SplitLines" style="font-family: 'BlissBucket'; font-size: 52px;">SOLUTION<br />
                                           OF IMPROVEMENT
                                           </div>
                                        </h1>
@@ -324,15 +327,15 @@ top: 0rem;
                         </div>
                         <div class="swiper-slide HpSlider-item color-inverted">
                            <div class="HpSlider-media" data-swiper-parallax="90%">
-                              <div class="HpSlider-image lazyload d-landscape" data-sizes="auto" data-bgset="{{asset('public/images/manifest_000.1920x0.jpg')}} 640w 360h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1024w 575h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1920w 1079h, {{asset('public/images/manifest_000.1920x0.jpg')}} 2400w 1348h" style="background-position: 50% 50%;"></div>
-                              <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="{{asset('public/images/manifest_000.1920x0.jpg')}} 640w 1143h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1024w 1829h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1350w 2411h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1350w 2411h" style="background-position: 50% 50%;"></div>
+                              <div class="HpSlider-image lazyload d-landscape" data-sizes="auto" data-bgset="{{asset('public/images/landing2.jpg')}} 640w 360h, {{asset('public/images/landing2.jpg')}} 1024w 575h, {{asset('public/images/landing2.jpg')}} 1920w 1079h, {{asset('public/images/landing2.jpg')}} 2400w 1348h" style="background-position: 50% 50%;"></div>
+                              <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="{{asset('public/images/landing2.jpg')}} 640w 1143h, {{asset('public/images/landing2.jpg')}} 1024w 1829h, {{asset('public/images/landing2.jpg')}} 1350w 2411h, {{asset('public/images/landing2.jpg')}} 1350w 2411h" style="background-position: 50% 50%;"></div>
                            </div>
                            <div class="HpSlider-content" data-swiper-parallax="100%">
                               <div class="container" style="margin-top: 250px;">
                                  <div class="row">
                                     <div class="col-12 HpSlider-contentCol" data-scroll data-scroll-offset="0, 30%" data-scroll-repeat="true">
                                        <h1>
-                                          <div class="js-splitLines SplitLines">Pure<br />
+                                          <div class="js-splitLines SplitLines" style="font-family: 'BlissBucket'; font-size: 52px;">Pure<br />
                                              minimalism
                                           </div>
                                        </h1>
@@ -347,15 +350,15 @@ top: 0rem;
                         </div>
                         <div class="swiper-slide HpSlider-item color-inverted">
                            <div class="HpSlider-media" data-swiper-parallax="90%">
-                              <div class="HpSlider-image lazyload d-landscape" data-sizes="auto" data-bgset="{{asset('public/images/manifest_000.1920x0.jpg')}} 640w 360h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1024w 575h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1920w 1079h, {{asset('public/images/manifest_000.1920x0.jpg')}} 2400w 1348h" style="background-position: 50% 50%;"></div>
-                              <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="{{asset('public/images/manifest_000.1920x0.jpg')}} 640w 1143h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1024w 1829h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1350w 2411h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1350w 2411h" style="background-position: 50% 50%;"></div>
+                              <div class="HpSlider-image lazyload d-landscape" data-sizes="auto" data-bgset="{{asset('public/images/landing3.jpg')}} 640w 360h, {{asset('public/images/landing3.jpg')}} 1024w 575h, {{asset('public/images/landing3.jpg')}} 1920w 1079h, {{asset('public/images/landing3.jpg')}} 2400w 1348h" style="background-position: 50% 50%;"></div>
+                              <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="{{asset('public/images/landing3.jpg')}} 640w 1143h, {{asset('public/images/landing3.jpg')}} 1024w 1829h, {{asset('public/images/landing3.jpg')}} 1350w 2411h, {{asset('public/images/landing3.jpg')}} 1350w 2411h" style="background-position: 50% 50%;"></div>
                            </div>
                            <div class="HpSlider-content" data-swiper-parallax="100%">
                               <div class="container" style="margin-top: 250px;">
                                  <div class="row">
                                     <div class="col-12 HpSlider-contentCol" data-scroll data-scroll-offset="0, 30%" data-scroll-repeat="true">
                                        <h1>
-                                          <div class="js-splitLines SplitLines">Shower,<br />
+                                          <div class="js-splitLines SplitLines" style="font-family: 'BlissBucket'; font-size: 52px;">Shower,<br />
                                              simply
                                           </div>
                                        </h1>
@@ -370,15 +373,15 @@ top: 0rem;
                         </div>
                         <div class="swiper-slide HpSlider-item color-inverted">
                            <div class="HpSlider-media" data-swiper-parallax="90%">
-                              <div class="HpSlider-image lazyload d-landscape" data-sizes="auto" data-bgset="{{asset('public/images/manifest_000.1920x0.jpg')}} 640w 360h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1024w 575h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1920w 1079h, {{asset('public/images/manifest_000.1920x0.jpg')}} 2400w 1348h" style="background-position: 50% 50%;"></div>
-                              <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="{{asset('public/images/manifest_000.1920x0.jpg')}} 640w 1143h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1024w 1829h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1350w 2411h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1350w 2411h" style="background-position: 50% 50%;"></div>
+                              <div class="HpSlider-image lazyload d-landscape" data-sizes="auto" data-bgset="{{asset('public/images/manifest_000.1920x0.jpg')}} 640w 360h, {{asset('public/images/landing4.jpg')}} 1024w 575h, {{asset('public/images/landing4.jpg')}} 1920w 1079h, {{asset('public/images/landing4.jpg')}} 2400w 1348h" style="background-position: 50% 50%;"></div>
+                              <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="{{asset('public/images/manifest_000.1920x0.jpg')}} 640w 1143h, {{asset('public/images/landing4.jpg')}} 1024w 1829h, {{asset('public/images/landing4.jpg')}} 1350w 2411h, {{asset('public/images/landing4.jpg')}} 1350w 2411h" style="background-position: 50% 50%;"></div>
                            </div>
                            <div class="HpSlider-content" data-swiper-parallax="100%">
                               <div class="container" style="margin-top: 250px;">
                                  <div class="row">
                                     <div class="col-12 HpSlider-contentCol" data-scroll data-scroll-offset="0, 30%" data-scroll-repeat="true">
                                        <h1>
-                                          <div class="js-splitLines SplitLines">Shower,<br />
+                                          <div class="js-splitLines SplitLines" style="font-family: 'BlissBucket'; font-size: 52px;">Shower,<br />
                                              simply
                                           </div>
                                        </h1>
@@ -515,7 +518,8 @@ top: 0rem;
                 @include('pages.landing')
                </div>
             </div>
-            <div class="source1">
+            <div class="source1" style="margin-top: auto;">
+               <div id="footer-secondary-menus"></div>
                   @include('layouts.footer-2')
             </div>
          </div>
@@ -621,5 +625,6 @@ top: 0rem;
       <script defer src="{{asset('public/assets/js/vendor.min.1678717687.js')}}"></script>
       <script defer src="{{asset('public/assets/js/app.min.1679048292.js')}}"></script>
       @yield('js')
+      
    </body>
 </html>
