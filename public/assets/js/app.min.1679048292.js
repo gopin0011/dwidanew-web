@@ -3718,12 +3718,17 @@ webpackJsonp([0], [, , , function(e, t, n) {
         e.scroll.y > b ? x || (v.classList.add(S.notTop), x = !0) : x && (v.classList.remove(S.notTop), x = !1), e.direction && e.direction != T && ("up" == e.direction && (v.classList.add(S.scrollUp), v.classList.remove(S.scrollDown)), "down" == e.direction && (v.classList.remove(S.scrollUp), v.classList.add(S.scrollDown)), T = e.direction), C = !1;
         if(e.scroll.y > b) {
             var imageContainer = document.getElementById('image-container');
-            imageContainer.src="public/images/djt_.png"; 
+            imageContainer.style.display = 'none';
+            var SiteHeader = document.getElementById('SiteHeader');
+            SiteHeader.style.display = 'none';
         } 
         else {
-            console.log('dudul');
+            console.log('Didedikasikan untuk almarhumah istri dan anak tercinta, Wiwik dan Aslan (Bogor 2023)');
             var imageContainer = document.getElementById('image-container');
-            imageContainer.src="public/images/logo/djt_pt_putih.png"; 
+            imageContainer.src="public/images/wadaw_putih.png";
+            imageContainer.style.display = '';
+            var SiteHeader = document.getElementById('SiteHeader');
+            SiteHeader.style.display = '';
         }
     }
 

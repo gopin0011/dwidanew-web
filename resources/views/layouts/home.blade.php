@@ -80,6 +80,14 @@
                width: 25%;
             }
          }
+         .SiteHeader-logo {
+  width: 80%;
+left: 10.6%;
+top: 0rem;
+         }
+         #image-container {
+            width: 120%;
+         }
         </style>
         <script src="{{ asset('public/js/jquery.js') }}"></script>
         <script src="{{ asset('public/js/jquery.bxslider.min.js') }}"></script>
@@ -90,14 +98,14 @@
       <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W8KPZF2"
          height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <!-- End Google Tag Manager (noscript) -->
-      <header class="SiteHeader">
+      <header class="SiteHeader" id="SiteHeader">
          <div class="SiteHeader-bar container">
             <div class="SiteHeader-brand">
                <a href="#" onclick="javascript:window.location.href='{{ route('app.home') }}';" class="SiteHeader-logo" aria-label="Homepage">
                   <!-- <svg viewbox="0 0 134 26">
                      <path d="M0.836,0.812L0.825,25.19h4.878V10.215L25.214,26V0.812h-4.893v14.967L0.828,0L0.836,0.812z M88.472,0.81h4.88v24.375h-4.88 V0.81z M127.822,0.812h4.878V25.19h-4.878V0.812z M104.078,20.314h17.915v4.876H99.202V0.812h4.876V20.314z M29.608,13 c0-7.179,5.459-13,12.194-13c6.733,0,12.192,5.821,12.192,13c0,7.182-5.459,13-12.192,13C35.067,26,29.608,20.182,29.608,13 M34.486,13c0,4.488,3.275,8.127,7.316,8.127c4.04,0,7.317-3.639,7.317-8.127s-3.277-8.124-7.317-8.124 C37.761,4.876,34.486,8.512,34.486,13 M75.903,25.188H58.877V0.812h17.109c4.026,0.017,7.28,3.286,7.28,7.314 c0,1.87-0.708,3.571-1.868,4.865c1.165,1.296,1.868,3.007,1.868,4.884C83.265,21.915,79.942,25.188,75.903,25.188 M76.029,5.688 H63.765v4.878l12.183-0.002c1.346,0,2.439-1.091,2.439-2.437C78.387,6.807,77.34,5.731,76.029,5.688 M76.064,20.321l-0.116-0.006 c1.346,0,2.439-1.093,2.439-2.439s-1.093-2.437-2.463-2.437l-12.16,0.004v4.878C63.765,20.321,76.065,20.321,76.064,20.321z" />
                   </svg> -->
-                  <img id="image-container" decoding="async" class="fl-photo-img wp-image-10103 size-full" src="{{asset('public/images/logo/djt_pt_putih.png')}}" width="250" alt="BlueBotics logo." itemprop="image" data-no-lazy="1" style="width: 250px">
+                  <img id="image-container" decoding="async" class="fl-photo-img wp-image-10103 size-full" src="{{asset('public/images/wadaw_putih.png')}}" alt="BlueBotics logo." itemprop="image" data-no-lazy="1">
                </a>
             </div>
          </div>
@@ -297,17 +305,17 @@
                               <div class="HpSlider-video d-portrait" data-video-src="/site/assets/files/31539/manifest-mobile-hb2.mp4"></div>
                            </div>
                            <div class="HpSlider-content" data-swiper-parallax="100%">
-                              <div class="container">
+                              <div class="container" style="margin-top: 300px;">
                                  <div class="row">
                                     <div class="col-12 HpSlider-contentCol" data-scroll data-scroll-offset="0, 30%" data-scroll-repeat="true">
                                        <h1>
-                                          <div class="js-splitLines SplitLines">Daily<br />
-                                             wonders
+                                          <div class="js-splitLines SplitLines">SOLUTION<br />
+                                          OF IMPROVEMENT
                                           </div>
                                        </h1>
                                        <div class="Prose">
-                                          <p>Let you marvel at taps and showers of the highest made in Italy excellence, 100% Nobili since 1954.</p>
-                                          <p><a class="Button Button--arrow" href="/en/manifest/">Discover Nobili</a></p>
+                                          <p>Lorem ipsum dolor sit Lorem ipsum dolor sit Lorem ipsum dolor sit Lorem ipsum dolor sit Lorem ipsum dolor sit Lorem ipsum dolor sit Lorem ipsum dolor sit Lorem ipsum dolor sit</p>
+                                          <!-- <p><a class="Button Button--arrow" href="/en/manifest/">Discover Nobili</a></p> -->
                                        </div>
                                     </div>
                                  </div>
@@ -320,7 +328,7 @@
                               <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="{{asset('public/images/manifest_000.1920x0.jpg')}} 640w 1143h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1024w 1829h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1350w 2411h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1350w 2411h" style="background-position: 50% 50%;"></div>
                            </div>
                            <div class="HpSlider-content" data-swiper-parallax="100%">
-                              <div class="container">
+                              <div class="container" style="margin-top: 250px;">
                                  <div class="row">
                                     <div class="col-12 HpSlider-contentCol" data-scroll data-scroll-offset="0, 30%" data-scroll-repeat="true">
                                        <h1>
@@ -330,7 +338,7 @@
                                        </h1>
                                        <div class="Prose">
                                           <p>Velis eliminates the superfluous and returns to the essential through a modern, timeless line - an original and extraordinary balance of style and progress.</p>
-                                          <p><a class="Button Button--arrow" href="/en/products/bathroom/velis/">DISCOVER VELIS</a></p>
+                                          <!-- <p><a class="Button Button--arrow" href="/en/products/bathroom/velis/">DISCOVER VELIS</a></p> -->
                                        </div>
                                     </div>
                                  </div>
@@ -343,7 +351,7 @@
                               <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="{{asset('public/images/manifest_000.1920x0.jpg')}} 640w 1143h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1024w 1829h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1350w 2411h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1350w 2411h" style="background-position: 50% 50%;"></div>
                            </div>
                            <div class="HpSlider-content" data-swiper-parallax="100%">
-                              <div class="container">
+                              <div class="container" style="margin-top: 250px;">
                                  <div class="row">
                                     <div class="col-12 HpSlider-contentCol" data-scroll data-scroll-offset="0, 30%" data-scroll-repeat="true">
                                        <h1>
@@ -353,7 +361,7 @@
                                        </h1>
                                        <div class="Prose">
                                           <p>Universal, intelligent and versatile: the Wellbox flush fit thermostatic mixer, synonymous with technological advancement, turns the creation of a shower into an incredibly simple affair.</p>
-                                          <p><a class="Button Button--arrow" href="/en/products/shower/wellbox/">DISCOVER WELLBOX</a></p>
+                                          <!-- <p><a class="Button Button--arrow" href="/en/products/shower/wellbox/">DISCOVER WELLBOX</a></p> -->
                                        </div>
                                     </div>
                                  </div>
@@ -366,7 +374,7 @@
                               <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="{{asset('public/images/manifest_000.1920x0.jpg')}} 640w 1143h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1024w 1829h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1350w 2411h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1350w 2411h" style="background-position: 50% 50%;"></div>
                            </div>
                            <div class="HpSlider-content" data-swiper-parallax="100%">
-                              <div class="container">
+                              <div class="container" style="margin-top: 250px;">
                                  <div class="row">
                                     <div class="col-12 HpSlider-contentCol" data-scroll data-scroll-offset="0, 30%" data-scroll-repeat="true">
                                        <h1>
@@ -376,7 +384,7 @@
                                        </h1>
                                        <div class="Prose">
                                           <p>Universal, intelligent and versatile: the Wellbox flush fit thermostatic mixer, synonymous with technological advancement, turns the creation of a shower into an incredibly simple affair.</p>
-                                          <p><a class="Button Button--arrow" href="/en/products/shower/wellbox/">DISCOVER LAVANTE</a></p>
+                                          <!-- <p><a class="Button Button--arrow" href="/en/products/shower/wellbox/">DISCOVER LAVANTE</a></p> -->
                                        </div>
                                     </div>
                                  </div>
@@ -508,7 +516,7 @@
                </div>
             </div>
             <div class="source1">
-                  @include('layouts.footer')
+                  @include('layouts.footer-2')
             </div>
          </div>
       </main>

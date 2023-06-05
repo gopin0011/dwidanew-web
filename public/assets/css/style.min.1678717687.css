@@ -14630,7 +14630,7 @@ html:not(.is-mobile) a:hover .SearchResultsContents-title span {
 .SiteHeader-logo,
 .SiteHeader-menuToggle,
 .SiteHeader-search {
-  font-size: 0;
+  /* font-size: 0; */
 }
 .SiteHeader-logo,
 .SiteHeader-menuToggle,
@@ -14687,10 +14687,10 @@ html:not(.is-mobile) a:hover .SearchResultsContents-title span {
 }
 .SiteHeader-logo {
   /* logo */
-  display: block;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+  /* display: block; */
+  /* left: 50%; */
+  /* -webkit-transform: translate(-50%, -50%); */
+  /* transform: translate(-50%, -50%); */
 }
 .SiteHeader-logo svg {
   height: 1.07143rem;
@@ -15019,6 +15019,7 @@ a:hover .SiteHeader-parentLinkLabel {
   transition: transform 0.6s, opacity 0.2s, color 0.15s;
   transition: transform 0.6s, opacity 0.2s, color 0.15s, -webkit-transform 0.6s;
   will-change: transform;
+  margin-top: 20px;
 }
 @media (min-width: 768px) {
   .SiteHeader-submenu-container {
