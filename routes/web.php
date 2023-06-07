@@ -13,6 +13,10 @@ use Illuminate\Http\Request;
 | contains the "web" middleware group. Now create something great!
 |
 */
+
+define('furniture', 'FURNITURE AND INTERIOR');
+define('equipment', 'EQUIPMENTS');
+
 Route::get('/', function () {
     return view('layouts.home');
 })->name('app.home');
@@ -44,6 +48,32 @@ Route::get('brand/{catId?}', function (Request $request, $catId = 1) {
         'categoryProduct' => $categoryProduct,
     ]);
 })->name('app.product');
+
+Route::get('our-works/{type?}/{brand?}', function (Request $request, $type = 1, $brand = 1) {
+    $brands = [];
+    $type_char = furniture;
+
+    if($type == 1) {
+        $brands = \App\Models\Category::where('is_furniture', 1)->orderBy('sort', 'asc')->get();
+    }
+    else {
+        $brands = \App\Models\Category::where('is_equipment', 1)->orderBy('sort', 'asc')->get();
+        $type_char = equipment;
+    }
+
+    // dd($brands);
+    // $category = \App\Models\Category::get();
+    $categoryProduct = \App\Models\Category::where('id', $brand)->with(['product.image.media'])->first();
+
+    // dd($categoryProduct->product[0]->image[0]);
+    return view('pages.product-work', [
+        'type' => $type,
+        'brands' => $brands,
+        'type_char' => $type_char,
+        'categoryProduct' => $categoryProduct,
+        // 'category' => $category, 
+    ]);
+})->name('app.work');
 
 Route::get('product/{productId?}/detail', function (Request $request, $productId = 1) {
     $product = \App\Models\Product::with(['image.media','related' => function ($query) use ($productId) {

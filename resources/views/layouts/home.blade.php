@@ -88,11 +88,38 @@ top: 0rem;
          #image-container {
             width: 120%;
          }
+         .footmer {
+            position: relative;
+            background-color:#000; color:#fff; 
+         }
+         @media (min-width: 768px) {
+            .footmer {
+   background-color:#000; color:#fff; 
+}
+}
 
+@media (min-width: 1024px) {
+   .footmer {
+   background-color:#000; color:#fff; height: 300px; padding: 100px 0px !important;
+} 
+}
+@media (min-width: 2000px) {
+   .SiteHeader-submenu-container ul {
+      margin-top: 60px !important;
+   }
+   .SiteHeader-submenu-container {
+      height: 5.8125rem !important;
+   }
+   .footmer {
+   background-color:#000; color:#fff; height: 400px; padding: 100px 0px !important;
+}
+}         
+         
          @font-face {
     font-family: "BlissBucket";
     src: url("public/fonts/BlissBucket.otf") format("opentype");
 }
+
         </style>
         <script src="{{ asset('public/js/jquery.js') }}"></script>
         <script src="{{ asset('public/js/jquery.bxslider.min.js') }}"></script>
@@ -325,7 +352,7 @@ top: 0rem;
                               </div>
                            </div>
                         </div>
-                        <div class="swiper-slide HpSlider-item color-inverted">
+                        <!-- <div class="swiper-slide HpSlider-item color-inverted">
                            <div class="HpSlider-media" data-swiper-parallax="90%">
                               <div class="HpSlider-image lazyload d-landscape" data-sizes="auto" data-bgset="{{asset('public/images/landing2.jpg')}} 640w 360h, {{asset('public/images/landing2.jpg')}} 1024w 575h, {{asset('public/images/landing2.jpg')}} 1920w 1079h, {{asset('public/images/landing2.jpg')}} 2400w 1348h" style="background-position: 50% 50%;"></div>
                               <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="{{asset('public/images/landing2.jpg')}} 640w 1143h, {{asset('public/images/landing2.jpg')}} 1024w 1829h, {{asset('public/images/landing2.jpg')}} 1350w 2411h, {{asset('public/images/landing2.jpg')}} 1350w 2411h" style="background-position: 50% 50%;"></div>
@@ -341,13 +368,13 @@ top: 0rem;
                                        </h1>
                                        <div class="Prose">
                                           <p>Velis eliminates the superfluous and returns to the essential through a modern, timeless line - an original and extraordinary balance of style and progress.</p>
-                                          <!-- <p><a class="Button Button--arrow" href="/en/products/bathroom/velis/">DISCOVER VELIS</a></p> -->
+                                          <p><a class="Button Button--arrow" href="/en/products/bathroom/velis/">DISCOVER VELIS</a></p>
                                        </div>
                                     </div>
                                  </div>
                               </div>
                            </div>
-                        </div>
+                        </div> -->
                         <div class="swiper-slide HpSlider-item color-inverted">
                            <div class="HpSlider-media" data-swiper-parallax="90%">
                               <div class="HpSlider-image lazyload d-landscape" data-sizes="auto" data-bgset="{{asset('public/images/landing3.jpg')}} 640w 360h, {{asset('public/images/landing3.jpg')}} 1024w 575h, {{asset('public/images/landing3.jpg')}} 1920w 1079h, {{asset('public/images/landing3.jpg')}} 2400w 1348h" style="background-position: 50% 50%;"></div>
@@ -371,7 +398,7 @@ top: 0rem;
                               </div>
                            </div>
                         </div>
-                        <div class="swiper-slide HpSlider-item color-inverted">
+                        <!-- <div class="swiper-slide HpSlider-item color-inverted">
                            <div class="HpSlider-media" data-swiper-parallax="90%">
                               <div class="HpSlider-image lazyload d-landscape" data-sizes="auto" data-bgset="{{asset('public/images/manifest_000.1920x0.jpg')}} 640w 360h, {{asset('public/images/landing4.jpg')}} 1024w 575h, {{asset('public/images/landing4.jpg')}} 1920w 1079h, {{asset('public/images/landing4.jpg')}} 2400w 1348h" style="background-position: 50% 50%;"></div>
                               <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="{{asset('public/images/manifest_000.1920x0.jpg')}} 640w 1143h, {{asset('public/images/landing4.jpg')}} 1024w 1829h, {{asset('public/images/landing4.jpg')}} 1350w 2411h, {{asset('public/images/landing4.jpg')}} 1350w 2411h" style="background-position: 50% 50%;"></div>
@@ -387,13 +414,13 @@ top: 0rem;
                                        </h1>
                                        <div class="Prose">
                                           <p>Universal, intelligent and versatile: the Wellbox flush fit thermostatic mixer, synonymous with technological advancement, turns the creation of a shower into an incredibly simple affair.</p>
-                                          <!-- <p><a class="Button Button--arrow" href="/en/products/shower/wellbox/">DISCOVER LAVANTE</a></p> -->
+                                          <p><a class="Button Button--arrow" href="/en/products/shower/wellbox/">DISCOVER LAVANTE</a></p>
                                        </div>
                                     </div>
                                  </div>
                               </div>
                            </div>
-                        </div>
+                        </div> -->
                         <!-- <div class="swiper-slide HpSlider-item ">
                            <div class="HpSlider-media" data-swiper-parallax="90%">
                               <div class="HpSlider-image lazyload d-landscape" data-sizes="auto" data-bgset="{{asset('public/images/manifest_000.1920x0.jpg')}} 640w 360h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1024w 575h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1920w 1079h, {{asset('public/images/manifest_000.1920x0.jpg')}} 2400w 1348h" style="background-position: 50% 50%;"></div>
@@ -425,24 +452,24 @@ top: 0rem;
                               <circle r="30" cx="50" cy="50" />
                            </svg>
                         </div>
-                        <div class="HpSlider-navItem" data-hpslider-page>
+                        <!-- <div class="HpSlider-navItem" data-hpslider-page>
                            <span class="HpSlider-navLabel">Velis</span>
                            <svg class="HpSlider-progressSlide" data-hpslider-progress viewbox="0 0 100 100">
                               <circle r="30" cx="50" cy="50" />
                            </svg>
-                        </div>
+                        </div> -->
                         <div class="HpSlider-navItem" data-hpslider-page>
                            <span class="HpSlider-navLabel">Wellbox</span>
                            <svg class="HpSlider-progressSlide" data-hpslider-progress viewbox="0 0 100 100">
                               <circle r="30" cx="50" cy="50" />
                            </svg>
                         </div>
-                        <div class="HpSlider-navItem" data-hpslider-page>
+                        <!-- <div class="HpSlider-navItem" data-hpslider-page>
                            <span class="HpSlider-navLabel">Levante</span>
                            <svg class="HpSlider-progressSlide" data-hpslider-progress viewbox="0 0 100 100">
                               <circle r="30" cx="50" cy="50" />
                            </svg>
-                        </div>
+                        </div> -->
                      </div>
                      <div class="HpSlider-hint" data-hpslider-hint>
                         <div class="HpSlider-hintLed"></div>
@@ -513,14 +540,15 @@ top: 0rem;
                   </div>
                </div>
             </div>
-            <div class="CardsText Section  --adjacentBg" style="">
+            <div class="CardsText Section  --adjacentBg">
                <div class="source1">
                 @include('pages.landing')
                </div>
             </div>
-            <div class="source1" style="margin-top: auto;">
-               <div id="footer-secondary-menus"></div>
-                  @include('layouts.footer-2')
+            <div class="CardsText Section footmer">
+               <div class="source1">
+               @include('layouts.footer-2')
+               </div>
             </div>
          </div>
       </main>

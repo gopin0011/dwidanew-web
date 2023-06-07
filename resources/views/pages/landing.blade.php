@@ -60,6 +60,8 @@
 .source1 #footer-secondary-menus{
     /* height: 400px; */
 }
+
+
 </style>
 @endsection
 
@@ -81,13 +83,13 @@
     </div>
 </div>
 <div class="row" style="margin-top: 130px;">
-    <div class="col-md-12" style="height: 410px; background-image: url('public/images/DJI_edit.jpg'); background-size: 1470px 410px; background-repeat: no-repeat; background-position: 30% center; filter: grayscale(100%);">
+    <div class="col-md-12" style="height: 410px; background-image: url('public/images/DJI_edit.jpg'); background-size: 100vw 410px; background-repeat: no-repeat; background-position: 30% center; filter: grayscale(100%);">
         &nbsp;
     </div>
 </div>
 
 <div class="row" style="margin-top: 130px;">
-    <div class="container">
+    <div class="col-md-10 col-md-offset-1">
         <div class="row">
             <div class="col-md-12" style="box-shadow: 0px 25px 0 -24px #000;">
                 <div class="col-md-6">
@@ -98,7 +100,7 @@
                 </div>
             </div>
         </div>
-        <div class="row target" style="margin-top: 20px;" id="div_vision">
+        <div class="row target" style="margin-top: 20px; position: relative;" id="div_vision">
         <div class="col-md-12">
             <div class="col-md-6">
                 <p>In 2007, PT. DWIDA JAYA TAMA coming as a company specialized in manufacturing education equipment. It started from education equipment for elementary to junior high school. Since then, we are also thriving to the higher level, for senior high school to the university. Starting as an education equipment provider for majors such as math and science also for software which becoming a trend nowadays.</p>
@@ -108,11 +110,12 @@
             </div>
         </div>
         </div>
+        
     </div>
 </div>
 
 <div class="row" style="margin-top: 50px;">
-    <div class="container">
+    <div class="col-md-10 col-md-offset-1">
         <div class="row">
             <div class="col-md-12" style="box-shadow: 0px 25px 0 -24px #000;">
                 <div class="col-md-6">
@@ -123,7 +126,7 @@
                 </div>
             </div>
         </div>
-        <div class="row target" style="margin-top: 20px;" id="div_mission">
+        <div class="row target" style="margin-top: 20px; position: relative;" id="div_mission">
         <div class="col-md-12">
             <div class="col-md-6">
                 <p>“Give the best services” by giving guarantee that the customer will receive our maximum service, for instance in quality product, easiness, along with competitive expense</p>
@@ -136,15 +139,15 @@
 </div>
 
 <div class="row" style="margin-top: 130px; z-index: -100;">
-    <div class="col-md-12" style="height: 310px; background:linear-gradient(rgba(26, 26, 26, 0) 0, #000 100%), url('public/images/Gedung_dwida_oke.jpg'); background-repeat: no-repeat; background-size: 1470px 410px; background-position: 30% center; filter: grayscale(1);">
+    <div class="col-md-12" style="height: 310px; background:linear-gradient(rgba(26, 26, 26, 0) 0, #000 100%), url('public/images/Gedung_dwida_oke.jpg'); background-repeat: no-repeat; background-size: 100vw 410px; background-position: 30% center; filter: grayscale(1);">
         &nbsp;
     </div>
-    <div class="container">
+    <div class="col-md-10 col-md-offset-1">
         <div class="row align-items-center d-flex">
             <div class="col-lg-12" style="margin-top: -155px; background-color: #fff;box-shadow: -25px 25px 0 -24px #000;">
                 <div class="container" style="margin-top: 20px;">
                     <div class="row">
-                        <div class="col-md-3 single_client_logo">
+                        <div class="col-md-6 single_client_logo">
                             <img src="{{asset('public/images/logo/djt_.png')}}" alt="">
                         </div>
                         <div class="col-md-3 single_client_logo">
@@ -153,19 +156,19 @@
                         <div class="col-md-3 single_client_logo">
                             <img src="{{asset('public/images/logo/Hond_.png')}}" alt="">
                         </div>
-                        <div class="col-md-3 single_client_logo">
-                            <img src="{{asset('public/images/logo/noutek_.png')}}" alt="">
-                        </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-3 col-md-offset-1 single_client_logo">
+                        <div class="col-md-3 single_client_logo">
                             <img src="{{asset('public/images/logo/legano.png')}}" alt="">
                         </div>
-                        <div class="col-md-4 single_client_logo">
+                        <div class="col-md-3 single_client_logo">
                             <img src="{{asset('public/images/logo/arcwood_.png')}}" alt="">
                         </div>
                         <div class="col-md-3 single_client_logo">
                             <img src="{{asset('public/images/logo/talisma.png')}}" alt="">
+                        </div>
+                        <div class="col-md-3 single_client_logo">
+                            <img src="{{asset('public/images/logo/noutek_.png')}}" alt="">
                         </div>
                     </div>
                 </div>
@@ -175,14 +178,14 @@
 </div>
 
 <div class="row" style="margin-top: 75px;">
-    <div class="container">
+    <div class="col-md-10 col-md-offset-1">
         <h3 style="color: #000;font-family: 'BlissBucket';"">OUR WORKS</h3>
         <div class="row" style="margin-top: 30px;">
             <div class="col-md-4" style="border: 1px solid #000;">
                 <h3 style="color: #000; text-align: center; padding: 90px 0;font-family: 'BlissBucket';"">FURNITURE AND <br>INTERIOR</h3>
             </div>
             <div class="col-md-8">
-                <div class="show-bg-2" style="height:300px;"><a href="#">
+                <div class="show-bg-2" style="height:300px;"><a href="#" onclick="window.location.href='{{route('app.work', ['type'=>1, 'brand'=>5])}}';">
                     <img src="{{asset('public/images/IM2_SHOWROOM_CLASSIC3_LEGANO.jpg')}}" style="height:300px;border: 1px solid #000;background:linear-gradient(rgba(26, 26, 26, 0) 0, #1a1a1a 100%)">
                     <div class="bottom-right">See Our Product And Projects</div></a>
                 </div>
@@ -193,7 +196,7 @@
                 <h3 style="color: #000; text-align: center; padding: 110px 0;font-family: 'BlissBucket';"">EQUIPMENT</h3>
             </div>
             <div class="col-md-8">
-                <div class="show-bg-2" style="height:300px;"><a href="#">
+                <div class="show-bg-2" style="height:300px;"><a href="#" onclick="window.location.href='{{route('app.work', ['type'=>2, 'brand'=>3])}}';">
                     <img src="{{asset('public/images/fc2.jpg')}}" style="height:300px;border: 1px solid #000;background:linear-gradient(rgba(26, 26, 26, 0) 0, #1a1a1a 100%)">
                     <div class="bottom-right">See Our Product And Projects</div></a>
                 </div>
@@ -226,6 +229,29 @@
             $('#div_vision').hide();
          }
 
+
+      var scrollableElement = document.getElementById('main');
+        var previousScrollLeft = scrollableElement.scrollLeft;
+
+        scrollableElement.addEventListener('scroll', function() {
+        var currentScrollLeft = scrollableElement.scrollLeft;
+
+        if (currentScrollLeft > previousScrollLeft) {
+            console.log('Scrolling to the right');
+            scrollableElement.style.removeProperty('overflow-y');
+        } else if (currentScrollLeft < previousScrollLeft) {
+            console.log('Scrolling to the left');
+            scrollableElement.style.removeProperty('overflow-y');
+        }
+
+        previousScrollLeft = currentScrollLeft;
+        });
+
+
+
       });
+      
+      
+
       </script>
 @endsection

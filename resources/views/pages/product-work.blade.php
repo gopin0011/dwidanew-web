@@ -42,6 +42,7 @@
 <link data-minify="1" rel='stylesheet' id='fl-automator-skin-css' href="{{asset('public/assets/uploads/bb-theme/skin-6408a59d69038.css?ver=1682258217')}}" media='all' />
 <link rel='stylesheet' id='fl-child-theme-css' href='https://bluebotics.com/wp-content/themes/bb-theme-child/style.css?ver=1682614687' media='all' />
 <link rel='stylesheet' id='pp-animate-css' href="{{asset('public/assets/plugins/bbpowerpack/assets/css/animate.min.css?ver=3.5.1')}}" media='all' />
+<link href="{{ asset('public/css/owl.carousel.min.css') }}" rel="stylesheet">
 <style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 <style id="wp-custom-css">
          .top_layer {
@@ -504,7 +505,7 @@
          background: #fff !important;
          }
          .owl-carousel .owl-nav button.owl-next {
-         background: #52a6dd !important;
+         background: #fff !important;
          }
          .owl-nav button svg {
          background: none !important;
@@ -1163,6 +1164,213 @@
             /* border-color:#ffa238; */
             /* border-bottom-width:2px; */
          }
+         .product-container {
+  /* max-width: 1200px; */
+  max-width: calc(100vw - (405px));
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  .product-container {
+    max-width: 1200px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .product-container {
+    max-width: 1200px;
+  }
+}
+@media (min-width: 2000px) {
+    .product-container {
+        max-width: calc(100vw - (405px));
+  }
+}
+.product-grid {
+  display: grid;
+  /* grid-template-columns: repeat(3, 1fr); */
+  grid-gap: 25px;
+}
+
+@media (min-width: 768px) {
+  .product-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .product-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 2000px) {
+  .product-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.show-bg-2 {
+  /* position: relative;
+  overflow: hidden; */
+  border: 1px solid #eee;
+  transition: box-shadow .3s;
+}
+
+.product-image img {
+  width: 100%;
+  height: 470px;
+  transition: .3s;
+  padding-bottom: 20px;
+}
+.product-image {
+  position: relative;
+}
+.show-bg-2:hover .product-image img {
+  /* transform: scale(1.1); */
+  border: 1px solid #eee;
+  box-shadow: 0 0 11px rgba(33,33,33,.2);
+  /* filter: grayscale(100%); */
+}
+.caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  /* background-color: rgba(0, 0, 0, 0.7); */
+  /* color: #000; */
+  padding: 15px;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.container-fluid2 ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.container-fluid2 ul li {
+  display: inline;
+  margin-left: 10px; /* Atur jarak antara elemen <li> jika diperlukan */
+  border-left: 1px solid black;
+  padding-left: 13px;
+}
+
+.container-fluid2 ul li a {
+  color: #000;
+  font-family: 'BlissBucket';
+  font-size: 14px;
+  text-transform: uppercase;
+}
+.container-fluid2 ul li:first-child {
+  border-left: none; /* Menghapus border kiri pada elemen pertama */
+  margin-left: 0;
+}
+.container-fluid2 {
+    padding: 20px 0;
+}
+.container-fluid2:first-child {
+    padding-bottom: 0;
+}
+@font-face {
+    font-family: "BlissBucket";
+    src: url("../../public/fonts/BlissBucket.otf") format("opentype");
+}
+.project__slider__item {
+	height: 600px;
+	position: relative;
+	overflow: hidden;
+}
+
+.project__slider__item:hover .project__slider__item__hover {
+	bottom: 30px;
+}
+
+.project__slider__item:hover .project__slider__item__hover span {
+	left: 0;
+}
+
+.project__slider__item:hover .project__slider__item__hover h5 {
+	right: 0;
+}
+
+.project__slider.owl-carousel .col-lg-3 {
+	max-width: 100%;
+}
+
+.project__slider.owl-carousel .owl-nav button {
+	height: 50px !important;
+	width: 50px !important;
+	background: #ffffff;
+	font-size: 28px;
+	color: #111111;
+	position: absolute;
+	left: 35px;
+	top: 50%;
+	margin-top: -25px;
+	line-height: 54px;
+	text-align: center;
+}
+
+.project__slider.owl-carousel .owl-nav button.owl-next {
+	left: auto;
+	right: 35px;
+}
+
+.project__slider__item__hover {
+	text-align: center;
+	background: #ffffff;
+	position: absolute;
+	left: 25px;
+	bottom: -500px;
+	width: calc(100% - 50px);
+	padding: 25px 15px;
+	-webkit-transition: all, 0.5s;
+	-o-transition: all, 0.5s;
+	transition: all, 0.5s;
+	overflow: hidden;
+}
+
+.project__slider__item__hover span {
+	color: #dfa667;
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	display: block;
+	margin-bottom: 10px;
+	position: relative;
+	left: 30px;
+	-webkit-transition: all, 1s;
+	-o-transition: all, 1s;
+	transition: all, 1s;
+}
+
+.project__slider__item__hover h5 {
+	color: #111111;
+	font-size: 20px;
+	text-transform: uppercase;
+	position: relative;
+	right: 30px;
+	-webkit-transition: all, 1s;
+	-o-transition: all, 1s;
+	transition: all, 1s;
+}
+.projects-image {
+    margin: 0 10px;
+}
+.fl-page {
+    background-color: #fff;
+}
+.owl-item{
+    border-bottom: none;
+}
+.owl-carousel.owl-loaded {
+    display: flex;
+    flex-direction: unset;
+}
+
 </style>
 <noscript>
     <style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style>
@@ -1171,6 +1379,9 @@
 <link data-minify="1" href="https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/omgf/omgf-stylesheet-75/omgf-stylesheet-75.css?ver=1682258218" rel="stylesheet">
 <link rel="stylesheet" href="{{asset('public/assets/css/magnific-popup.min.css')}}" type="text/css">
 <link rel="stylesheet" href="{{asset('public/assets/css/product-style.css')}}" type="text/css">
+<link href="{{ asset('public/css/app.css') }}" rel="stylesheet">
+<link href="{{ asset('public/css/_SiteHeader.css') }}" rel="stylesheet">
+<link rel="stylesheet" href="https://leganofurniture.com/assets/css/elegant-icons.css" type="text/css">
 @endsection
 
 
@@ -1185,7 +1396,7 @@
                 <div class="fl-module fl-module-heading fl-node-602ef686c49f3 fl-animation fl-fade-up" data-node="602ef686c49f3" data-animation-delay="0" data-animation-duration="2">
                     <div class="fl-module-content fl-node-content">
                         <h1 class="fl-heading">
-                            <span class="fl-heading-text">Our Factory</span>
+                            <span class="fl-heading-text">{{$type_char}}</span>
                         </h1>
                     </div>
                 </div>
@@ -1208,69 +1419,88 @@
     </div>
 </div>
 <div class="uabb-js-breakpoint" style="display: none;"></div>
-<div class="container">
-    <div class="portfolio mt-5">
-        <div class="container-fluid2">
-            <div class="row portfolio-container">
-                <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="portfolio-warp">
-                        <div class="portfolio-img">
-                            <a href="https://leganofurniture.com/assets/img/project/fc4.jpg" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
-                                <img src="https://leganofurniture.com/assets/img/project/fc4.jpg" alt="">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="portfolio-warp">
-                        <div class="portfolio-img">
-                            <a href="https://leganofurniture.com/assets/img/project/fc3.jpg" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
-                                <img src="https://leganofurniture.com/assets/img/project/fc3.jpg" alt="">
-                            </a>    
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="portfolio-warp">
-                        <div class="portfolio-img">
-                            <a href="https://leganofurniture.com/assets/img/project/fc1.jpg" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
-                                <img src="https://leganofurniture.com/assets/img/project/fc1.jpg" alt="">
-                            </a>      
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="portfolio-warp">
-                        <div class="portfolio-img">
-                            <a href="https://leganofurniture.com/assets/img/project/fc2.jpg" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
-                                <img src="https://leganofurniture.com/assets/img/project/fc2.jpg" alt="">
-                            </a>    
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="portfolio-warp">
-                        <div class="portfolio-img">
-                            <a href="https://leganofurniture.com/assets/img/project/fc5.jpg" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
-                                <img src="https://leganofurniture.com/assets/img/project/fc5.jpg" alt="">
-                            </a> 
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="portfolio-warp">
-                        <div class="portfolio-img">
-                            <a href="https://leganofurniture.com/assets/img/project/fc6.jpg" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
-                                <img src="https://leganofurniture.com/assets/img/project/fc6.jpg" alt="">
-                            </a>  
-                        </div>
-                    </div>
-                </div>
-            </div>
+<div class="container2" style="background-color: #fff;">
+    <div class="row container-fluid2">
+        <div class="col-md-4"><p style="font-family: 'BlissBucket'; font-size: 24px;">PRODUCTS</p></div>
+        <div class="col-md-8 text-right">
+            <ul>
+                @foreach($brands as $brand => $data)
+                <li><a href="{{route('app.work',['type'=>$type, 'brand'=>$data['id']])}}">{{$data->name}}</a></li>
+                @endforeach
+            </ul>
         </div>
     </div>
+    <div class="row container-fluid2">
+        <div class="product-container">
+            <div class="product-grid">
+                @foreach($categoryProduct->product as $product)
+                <div class="show-bg-2">
+                <div class="product-image">
+                    <a href="{{ asset('public/storage/products/'.$product->image[0]->media->desktop) }}" class="lightbox-cats">
+                    <img src="{{ asset('public/storage/products/'.$product->image[0]->media->desktop) }}" alt="">
+                    <div class="caption">{{$product->name}}</div>
+                    </a>
+                </div>
+                </div>
+                <!-- Tambahkan gambar lainnya sesuai kebutuhan -->
+                @endforeach
+            </div>
+        </div>
+    </div>    
+@if($type == 1)    
+    <div class="row container-fluid2">
+            <div class="col-md-12"><p style="font-family: 'BlissBucket'; font-size: 24px;">PROJECT</p></div>
+                <div class="project__slider owl-carousel">
+                <div class="projects-image">
+                        <div class="project__slider__item set-bg" data-setbg="{{ asset('public/storage/projects/image-02.jpg') }}">
+                            <!-- <img src="{{ asset('public/storage/projects/image-02.jpg') }}"> -->
+                            <div class="project__slider__item__hover">
+                                <h5><a href="#">OFFICE SPACE</a></h5>
+                            </div>
+                        </div>
+                        </div>
+                        <div class="projects-image">
+                        <div class="project__slider__item set-bg" data-setbg="{{ asset('public/storage/projects/image-03.jpg') }}">
+                            <div class="project__slider__item__hover">
+                                <h5><a href="#">HALL</a></h5>
+                            </div>
+                        </div>
+                        </div>
+                        <div class="projects-image">
+                        <div class="project__slider__item set-bg" data-setbg="{{ asset('public/storage/projects/image-04.jpg') }}">
+                            <div class="project__slider__item__hover">
+                                <h5><a href="#">RESIDENTIAL</a></h5>
+                            </div>
+                        </div>
+                        </div>
+                        <div class="projects-image">
+                        <div class="project__slider__item set-bg" data-setbg="{{ asset('public/storage/projects/image-05.jpg') }}">
+                            <div class="project__slider__item__hover">
+                                <h5><a href="#">HOSPITALITY</a></h5>
+                            </div>
+                        </div>
+                        </div>
+                        <div class="projects-image">
+                        <div class="project__slider__item set-bg" data-setbg="{{ asset('public/storage/projects/image-06.jpg') }}">
+                            <div class="project__slider__item__hover">
+                                <h5><a href="#">PUBLIC SPACE</a></h5>
+                            </div>
+                        </div>
+                        </div>
+                        <div class="projects-image">
+                        <div class="project__slider__item set-bg" data-setbg="{{ asset('public/storage/projects/image-07.jpg') }}">
+                            <div class="project__slider__item__hover">
+                                <h5><a href="#">UNIVERSITY</a></h5>
+                            </div>
+                        </div>
+                        </div>
+                </div>
+            </div>    
+
 </div>
 
+<div style="margin:40px 0; background-color: #fff"></div>
+@endif
 @endsection
 
 
@@ -1313,9 +1543,10 @@
       <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.7.4' id='gform_placeholder-js'></script>
       <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=e53fa1c181b98fcc24f245ddeff3f288' id='gform_gravityforms_utils-js'></script>
       <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=8d27ab6b5f180424b8c35a8bd6cf265b' id='gform_gravityforms_theme_vendors-js'></script>
-      <script src="{{asset('public/assets/js/jquery.min.js')}}"></script>
+      <script src="https://leganofurniture.com/assets/js/jquery-3.3.1.min.js"></script>
       <script src="{{asset('public/assets/js/jquery.magnific-popup.min.js')}}"></script>
-      <script src="{{asset('public/assets/js/isotope.pkgd.min.js')}}"></script>
+      <script src="{{asset('public/assets/js/owl.carousel.min.js')}}"></script>
+      
       <!-- <script id='gform_gravityforms_theme-js-extra'>
          var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"669a140de0ea8af6b0e28af143bedc1d"}}},"hmr_dev":"","public_path":"https:\/\/bluebotics.com\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/"};
       </script> -->
@@ -1422,17 +1653,39 @@
                 gallery:{enabled:true}
                 // other options
             });
-            // Portfolio isotope and filter
-            var portfolioIsotope = $('.portfolio-container').isotope({
-                itemSelector: '.portfolio-item',
-                layoutMode: 'fitRows'
+
+            $('.set-bg').each(function () {
+                var bg = $(this).data('setbg');
+                $(this).css('background-image', 'url(' + bg + ')');
             });
 
-            $('#portfolio-flters li').on('click', function () {
-                $("#portfolio-flters li").removeClass('filter-active');
-                $(this).addClass('filter-active');
-
-                portfolioIsotope.isotope({filter: $(this).data('filter')});
+            $(".project__slider").owlCarousel({
+                loop: true,
+                margin: 0,
+                items: 3,
+                dots: false,
+                nav: true,
+                navText: ["<span class='arrow_carrot-left'><span/>", "<span class='arrow_carrot-right'><span/>"],
+                smartSpeed: 1200,
+                autoHeight: false,
+                autoplay: false,
+                responsive: {
+                    320: {
+                        items: 1
+                    },
+                    768: {
+                        items: 2
+                    },
+                    992: {
+                        items: 3
+                    },
+                    1200: {
+                        items: 3
+                    },
+                    2000: {
+                        items: 4
+                    }
+                }
             });
        });
     </script>

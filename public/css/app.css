@@ -11947,8 +11947,8 @@
   font-size: 14px;
   line-height: 1.5;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  /* align-items: center; */
+  /* justify-content: center; */
   position: relative;
   z-index: 1042;
   text-transform: uppercase;

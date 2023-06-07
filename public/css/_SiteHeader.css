@@ -17,7 +17,7 @@
   background-color: #fff;
   transition: opacity 0.3s;
   opacity: 1;
-  border-bottom: 1px solid #eee;
+  /* border-bottom: 1px solid #eee; */
 }
 .page-transitioning .source2 .SiteHeader-bar:before,
 .page-transitioning .source2 .SiteHeader-submenu-container:before {
@@ -237,14 +237,14 @@ a:hover .source2 .SiteHeader-parentLinkLabel, .has-scrolled.has-scrolled-up .sou
 .source2 .SiteHeader-submenu {
   overflow: hidden;
   padding-bottom: 1px;
-  border-bottom: 1px solid #eee;
-  border-top: 1px solid #eee;
+  /* border-bottom: 1px solid #eee;
+  border-top: 1px solid #eee; */
 }
 .source2 .SiteHeader-submenu-container {
   height: 3.8125rem;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  /* align-items: center; */
+  /* justify-content: right; */
   position: relative;
   z-index: 100;
   text-transform: uppercase;

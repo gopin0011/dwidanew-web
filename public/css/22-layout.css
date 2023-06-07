@@ -7987,7 +7987,7 @@
   pointer-events: auto;
   width: 100% !important;
   height: 100%;
-  overflow-y: scroll;
+  /* overflow-y: scroll; */
   top: 0 !important;
   transform: none !important;
 }

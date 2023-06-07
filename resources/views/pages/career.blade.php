@@ -110,7 +110,7 @@
          }
          h4 {  
          font-family: 'Jost', sans-serif;
-         text-transform: uppercase;
+         /* text-transform: uppercase; */
          }
          h5 {  
          font-family: obvia, sans-serif;
@@ -1133,12 +1133,13 @@
          }}		
         
          .fl-node-602ef686c49f6>.fl-row-content-wrap{
-            background: linear-gradient(90deg,rgba(16,62,104,.8) 0%,rgba(7,90,234,.8) 100%),
+            background: linear-gradient(90deg,rgba(16,62,104,.8) 0%,#000 100%),
               url({{asset('public/images/_career.jpeg')}});
             background-repeat:no-repeat;
             background-position:0% 40%;
             background-attachment:scroll;
-            background-size:auto
+            background-size:auto;
+            border-bottom: 10px solid #f3962c;
          }
 
          .fl-node-602ef686c49f8>.fl-col-content {
@@ -1179,13 +1180,13 @@
                               <div class="fl-separator"></div>
                            </div>
                         </div>
-                        <!-- <div class="fl-module fl-module-heading fl-node-602ef686c49f4" data-node="602ef686c49f4">
+                        <div class="fl-module fl-module-heading fl-node-602ef686c49f4" data-node="602ef686c49f4">
                            <div class="fl-module-content fl-node-content">
                               <h4 class="fl-heading">
-                                 <span class="fl-heading-text">The latest updates from bluebotics</span>
+                                 <span class="fl-heading-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span>
                               </h4>
                            </div>
-                        </div> -->
+                        </div>
                      </div>
                   </div>
                </div>
@@ -1346,62 +1347,67 @@
 @endsection
 
 @section('js')
-      <script id='labb-frontend-scripts-js-extra'>
-         var labb_ajax_object = {"ajax_url":"https:\/\/bluebotics.com\/wp-admin\/admin-ajax.php","block_nonce":"27577d1676","gallery_nonce":"6b18eecc67"};
+      <!-- <script id='labb-frontend-scripts-js-extra'>
+         var labb_ajax_object = {"ajax_url":"https:\/\/bluebotics.com\/wp-admin\/admin-ajax.php","block_nonce":"63d093ad02","gallery_nonce":"5a418ea309"};
          var labb_settings = {"custom_css":""};
-      </script>
+      </script> -->
       <script src='https://bluebotics.com/wp-content/plugins/addons-for-beaver-builder-premium/assets/js/labb-frontend.min.js?ver=3.1' id='labb-frontend-scripts-js' defer></script>
-      <script src='https://bluebotics.com/wp-content/plugins/bb-plugin/js/jquery.ba-throttle-debounce.min.js?ver=2.6.3.3' id='jquery-throttle-js' defer></script>
       <script src='https://bluebotics.com/wp-content/plugins/bb-plugin/js/jquery.waypoints.min.js?ver=2.6.3.3' id='jquery-waypoints-js' defer></script>
-      <script data-minify="1" src='https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/bb-plugin/cache/fba37393bfb0a07d25f322e5aebdbc6a-layout-bundle.js?ver=1682271335' id='fl-builder-layout-bundle-fba37393bfb0a07d25f322e5aebdbc6a-js' defer></script>
+      <script src='https://bluebotics.com/wp-content/plugins/addons-for-beaver-builder-premium/assets/js/slick.min.js?ver=3.1' id='slick-js' defer></script>
+      <script data-minify="1" src="{{asset('public/assets/wp-content/cache/24-layout.js?ver=1682287855')}}" id='fl-builder-layout-24-js' defer></script>
+      <script src='https://bluebotics.com/wp-content/plugins/bb-plugin/js/jquery.ba-throttle-debounce.min.js?ver=2.6.3.3' id='jquery-throttle-js' defer></script>
+      <!-- <script data-minify="1" src='https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/bb-plugin/cache/8542c1b1b48ebc97585d92b9186f469f-layout-bundle.js?ver=1682258218' id='fl-builder-layout-bundle-8542c1b1b48ebc97585d92b9186f469f-js' defer></script> -->
       <script src='https://bluebotics.com/wp-content/plugins/bb-plugin/js/jquery.magnificpopup.min.js?ver=2.6.3.3' id='jquery-magnificpopup-js' defer></script>
-      <script src='https://bluebotics.com/wp-content/plugins/bb-plugin/js/jquery.fitvids.min.js?ver=1.2' id='jquery-fitvids-js' defer></script>
-      <script id='fl-automator-js-extra'>
+      <!-- <script id='fl-automator-js-extra'>
          var themeopts = {"medium_breakpoint":"992","mobile_breakpoint":"768","scrollTopPosition":"800"};
-      </script>
-      <script src='https://bluebotics.com/wp-content/themes/bb-theme/js/theme.min.js?ver=1682614687' id='fl-automator-js' defer></script>
-      <script data-minify="1" src='https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/bb-plugin/cache/18054-layout-partial.js?ver=1682258218' id='fl-builder-layout-18054-js' defer></script>
-      <script data-minify="1" src='https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/bb-plugin/cache/18057-layout-partial.js?ver=1682258218' id='fl-builder-layout-18057-js' defer></script>
+      </script> -->
+      <script src='https://bluebotics.com/wp-content/themes/bb-theme/js/theme.min.js?ver=1682523585' id='fl-automator-js' defer></script>
+      <!-- <script data-minify="1" src='https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/bb-plugin/cache/18054-layout-partial.js?ver=1682258218' id='fl-builder-layout-18054-js' defer></script>
+      <script data-minify="1" src='https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/bb-plugin/cache/18057-layout-partial.js?ver=1682258218' id='fl-builder-layout-18057-js' defer></script> -->
       <script src='https://bluebotics.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js' defer></script>
       <script src='https://bluebotics.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
       <script src='https://bluebotics.com/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca' id='wp-dom-ready-js' defer></script>
       <script src='https://bluebotics.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
       <script src='https://bluebotics.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
-      <script id='wp-i18n-js-after'>
+      <!-- <script id='wp-i18n-js-after'>
          wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
-      </script>
+      </script> -->
       <script src='https://bluebotics.com/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664' id='wp-a11y-js' defer></script>
       <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.7.4' id='gform_json-js'></script>
-      <script id='gform_gravityforms-js-extra'>
+      <!-- <script id='gform_gravityforms-js-extra'>
          var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
          var gf_legacy_multi = [];
          var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/bluebotics.com\/wp-content\/plugins\/gravityforms\/images"}};
          var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/bluebotics.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/bluebotics.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"669a140de0ea8af6b0e28af143bedc1d","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
-      </script>
+      </script> -->
       <script id='gform_gravityforms-js-before'></script>
       <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.7.4' id='gform_gravityforms-js'></script>
       <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.7.4' id='gform_placeholder-js'></script>
       <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=e53fa1c181b98fcc24f245ddeff3f288' id='gform_gravityforms_utils-js'></script>
       <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=8d27ab6b5f180424b8c35a8bd6cf265b' id='gform_gravityforms_theme_vendors-js'></script>
-      <script id='gform_gravityforms_theme-js-extra'>
+      <script src="{{asset('public/assets/js/jquery.min.js')}}"></script>
+      <script src="{{asset('public/assets/js/jquery.magnific-popup.min.js')}}"></script>
+      <script src="{{asset('public/assets/js/isotope.pkgd.min.js')}}"></script>
+      <!-- <script id='gform_gravityforms_theme-js-extra'>
          var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"669a140de0ea8af6b0e28af143bedc1d"}}},"hmr_dev":"","public_path":"https:\/\/bluebotics.com\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/"};
-      </script>
-      <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=9c9598c0c1b63e5624987254d79ea8ef' id='gform_gravityforms_theme-js'></script>
-      <script>window.addEventListener('DOMContentLoaded', function() {
+      </script> -->
+      <!-- <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=9c9598c0c1b63e5624987254d79ea8ef' id='gform_gravityforms_theme-js'></script> -->
+      <!-- <script>window.addEventListener('DOMContentLoaded', function() {
          gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 31) {if(typeof Placeholders != 'undefined'){
                                  Placeholders.enable();
                              }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
          });
-      </script>
-      <script>window.addEventListener('DOMContentLoaded', function() {
+      </script> -->
+      <!-- <script>window.addEventListener('DOMContentLoaded', function() {
          gform.initializeOnLoaded( function() { jQuery(document).trigger('gform_post_render', [31, 1]) } );
          });
-      </script>
-      <script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+      </script> -->
+      <!-- <script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
          if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
          images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
          if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)
-      </script><script data-no-minify="1" async src="https://bluebotics.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script>window.addEventListener('DOMContentLoaded', function() {!function(name,definition){if(typeof module!='undefined'&&module.exports)module.exports=definition()
+      </script> -->
+      <!-- <script data-no-minify="1" async src="https://bluebotics.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script>window.addEventListener('DOMContentLoaded', function() {!function(name,definition){if(typeof module!='undefined'&&module.exports)module.exports=definition()
          else if(typeof define=='function'&&define.amd)define(name,definition)
          else this[name]=definition()}('bowser',function(){var t=true
          function detect(ua){function getFirstMatch(regex){var match=ua.match(regex);return(match&&match.length>1&&match[1])||'';}
@@ -1479,5 +1485,27 @@
          {$('body').on('uabb-trigger.'+hook,callback);},removeHook:function(hook,callback)
          {$('body').off('uabb-trigger.'+hook,callback);},};})(jQuery);jQuery(document).ready(function($){if(typeof bowser!=='undefined'&&bowser!==null){var uabb_browser=bowser.name,uabb_browser_v=bowser.version,uabb_browser_class=uabb_browser.replace(/\s+/g,'-').toLowerCase(),uabb_browser_v_class=uabb_browser_class+parseInt(uabb_browser_v);$('html').addClass(uabb_browser_class).addClass(uabb_browser_v_class);}
          $('.uabb-row-separator').parents('html').css('overflow-x','hidden');});(function($){jQuery(document).ready(function(){if(typeof jQuery.fn.waypoint!=='undefined'){$('.fl-node-2r7cuo4h3mx6 .uabb-info-list-icon').waypoint({offset:'90%',handler:function(e){jQuery(this.element).addClass('pulse animated');}});}});})(jQuery);});
-      </script>
+
+      </script> -->
+      <script>
+       $(document).ready(function() {
+            // $('.lightbox-cats').magnificPopup({ 
+            //     type: 'image',
+            //     gallery:{enabled:true}
+            //     // other options
+            // });
+            // Portfolio isotope and filter
+            // var portfolioIsotope = $('.portfolio-container').isotope({
+            //     itemSelector: '.portfolio-item',
+            //     layoutMode: 'fitRows'
+            // });
+
+            // $('#portfolio-flters li').on('click', function () {
+            //     $("#portfolio-flters li").removeClass('filter-active');
+            //     $(this).addClass('filter-active');
+
+            //     portfolioIsotope.isotope({filter: $(this).data('filter')});
+            // });
+       });
+    </script>
 @endsection

@@ -777,7 +777,7 @@
 }
 .source1 .pre-scrollable {
   max-height: 340px;
-  overflow-y: scroll;
+  /* overflow-y: scroll; */
 }
 .source1 .container {
   padding-right: 15px;
