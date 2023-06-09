@@ -249,12 +249,11 @@
          </defs>
       </svg>
       <div class="fl-page">
-         @include('layouts.header')
 
          @yield('contents')
          <!-- .fl-page-content -->
-
-         @include('layouts.footer')
+         
+         @include('layouts.footer-2')
          
          <div class="uabb-js-breakpoint" style="display: none;"></div>
       </div>

@@ -94,13 +94,13 @@ top: 0rem;
          }
          @media (min-width: 768px) {
             .footmer {
-   background-color:#000; color:#fff; 
+   background-color:#333333; color:#fff; 
 }
 }
 
 @media (min-width: 1024px) {
    .footmer {
-   background-color:#000; color:#fff; height: 300px; padding: 100px 0px !important;
+   background-color:#333333; color:#fff; height: 300px;
 } 
 }
 @media (min-width: 2000px) {
@@ -111,13 +111,18 @@ top: 0rem;
       height: 5.8125rem !important;
    }
    .footmer {
-   background-color:#000; color:#fff; height: 400px; padding: 100px 0px !important;
+   background-color:#333333; color:#fff; height: 400px; position: relative; top: 50px;
 }
 }         
          
          @font-face {
     font-family: "BlissBucket";
     src: url("public/fonts/BlissBucket.otf") format("opentype");
+}
+@media screen and (min-width: 768px) {
+  .SiteHeader-overlay.SiteHeader-overlay--menu {
+    display: none;
+  }
 }
 
         </style>
@@ -176,7 +181,7 @@ top: 0rem;
             </a>
          </div> -->
          <div class="SiteHeader-overlay SiteHeader-overlay--menu">
-            <!-- <span class="SiteHeader-menuToggle js-overlayToggle" data-overlay-toggle="menu" role="button" aria-label="menu">
+            <span class="SiteHeader-menuToggle js-overlayToggle" data-overlay-toggle="menu" role="button" aria-label="menu">
                <span class="SiteHeader-menuIcon Icon Icon--menu">
                   <svg viewbox="0 0 22 22" class="Icon-svg">
                      <line x1="2" y1="5" x2="20" y2="5" />
@@ -184,9 +189,9 @@ top: 0rem;
                      <line x1="2" y1="17" x2="20" y2="17" />
                   </svg>
                </span>
-            </span> -->
-            <!-- <div class="SiteHeader-overlay-bg"></div> -->
-            <!-- <div class="SiteHeader-overlay-wrapper">
+            </span>
+            <div class="SiteHeader-overlay-bg"></div>
+            <div class="SiteHeader-overlay-wrapper">
                <div class="Menu container">
                   <div class="row">
                      <div class="Menu-col col-12">
@@ -319,7 +324,7 @@ top: 0rem;
                      </div>
                   </div>
                </div>
-            </div> -->
+            </div>
          </div>
       </header>
 
@@ -331,8 +336,11 @@ top: 0rem;
                      <div class="swiper-wrapper">
                         <div class="swiper-slide HpSlider-item color-inverted">
                            <div class="HpSlider-media" data-swiper-parallax="90%">
-                              <div class="HpSlider-image lazyload d-landscape" data-sizes="auto" data-bgset="{{asset('public/images/landing1.jpg')}} 640w 360h, {{asset('public/images/landing1.jpg')}} 1024w 575h, {{asset('public/images/landing1.jpg')}} 1920w 1079h, {{asset('public/images/landing1.jpg')}} 2400w 1348h" style="background-position: 50% 50%;"></div>
-                              <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="{{asset('public/images/landing1.jpg')}} 640w 1143h, {{asset('public/images/landing1.jpg')}} 1024w 1829h, {{asset('public/images/landing1.jpg')}} 1350w 2411h, {{asset('public/images/landing1.jpg')}} 1350w 2411h" style="background-position: 50% 50%;"></div>
+                              <!-- <div class="HpSlider-image lazyload d-landscape" data-sizes="auto" data-bgset="/site/assets/files/31539/manifest_000.640x0.jpg 640w 360h, /site/assets/files/31539/manifest_000.1024x0.jpg 1024w 575h, /site/assets/files/31539/landing3.jpg 1920w 1079h, /site/assets/files/31539/landing3.jpg 1920w 1079h" style="background-position: 50% 50%;"></div> -->
+                              <!-- <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="/site/assets/files/31539/manifest_xs_000.600x0.jpg 600w 1017h, /site/assets/files/31539/manifest_xs_000.600x0.jpg 600w 1017h" style="background-position: 50% 50%;"></div> -->
+                              <div class="HpSlider-video d-landscape" data-video-src="{{asset('public/images/footage.mp4')}}"></div>
+                              <div class="HpSlider-video d-landscape" data-video-src="{{asset('public/images/footage.mp4')}}"></div>
+                              <div class="HpSlider-video d-portrait" data-video-src="{{asset('public/images/footage.mp4')}}"></div>
                            </div>
                            <div class="HpSlider-content" data-swiper-parallax="100%">
                               <div class="container" style="margin-top: 300px;">
@@ -377,8 +385,8 @@ top: 0rem;
                         </div> -->
                         <div class="swiper-slide HpSlider-item color-inverted">
                            <div class="HpSlider-media" data-swiper-parallax="90%">
-                              <div class="HpSlider-image lazyload d-landscape" data-sizes="auto" data-bgset="{{asset('public/images/landing3.jpg')}} 640w 360h, {{asset('public/images/landing3.jpg')}} 1024w 575h, {{asset('public/images/landing3.jpg')}} 1920w 1079h, {{asset('public/images/landing3.jpg')}} 2400w 1348h" style="background-position: 50% 50%;"></div>
-                              <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="{{asset('public/images/landing3.jpg')}} 640w 1143h, {{asset('public/images/landing3.jpg')}} 1024w 1829h, {{asset('public/images/landing3.jpg')}} 1350w 2411h, {{asset('public/images/landing3.jpg')}} 1350w 2411h" style="background-position: 50% 50%;"></div>
+                              <div class="HpSlider-image lazyload d-landscape" data-sizes="auto" data-bgset="{{asset('public/images/landing1.jpg')}} 640w 360h, {{asset('public/images/landing1.jpg')}} 1024w 575h, {{asset('public/images/landing1.jpg')}} 1920w 1079h, {{asset('public/images/landing1.jpg')}} 2400w 1348h" style="background-position: 50% 50%;"></div>
+                              <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="{{asset('public/images/landing1.jpg')}} 640w 1143h, {{asset('public/images/landing1.jpg')}} 1024w 1829h, {{asset('public/images/landing1.jpg')}} 1350w 2411h, {{asset('public/images/landing1.jpg')}} 1350w 2411h" style="background-position: 50% 50%;"></div>
                            </div>
                            <div class="HpSlider-content" data-swiper-parallax="100%">
                               <div class="container" style="margin-top: 250px;">
@@ -398,10 +406,10 @@ top: 0rem;
                               </div>
                            </div>
                         </div>
-                        <!-- <div class="swiper-slide HpSlider-item color-inverted">
+                        <div class="swiper-slide HpSlider-item color-inverted">
                            <div class="HpSlider-media" data-swiper-parallax="90%">
-                              <div class="HpSlider-image lazyload d-landscape" data-sizes="auto" data-bgset="{{asset('public/images/manifest_000.1920x0.jpg')}} 640w 360h, {{asset('public/images/landing4.jpg')}} 1024w 575h, {{asset('public/images/landing4.jpg')}} 1920w 1079h, {{asset('public/images/landing4.jpg')}} 2400w 1348h" style="background-position: 50% 50%;"></div>
-                              <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="{{asset('public/images/manifest_000.1920x0.jpg')}} 640w 1143h, {{asset('public/images/landing4.jpg')}} 1024w 1829h, {{asset('public/images/landing4.jpg')}} 1350w 2411h, {{asset('public/images/landing4.jpg')}} 1350w 2411h" style="background-position: 50% 50%;"></div>
+                              <div class="HpSlider-image lazyload d-landscape" data-sizes="auto" data-bgset="{{asset('public/images/landing3.jpg')}} 640w 360h, {{asset('public/images/landing3.jpg')}} 1024w 575h, {{asset('public/images/landing3.jpg')}} 1920w 1079h, {{asset('public/images/landing3.jpg')}} 2400w 1348h" style="background-position: 50% 50%;"></div>
+                              <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="{{asset('public/images/landing3.jpg')}} 640w 1143h, {{asset('public/images/landing3.jpg')}} 1024w 1829h, {{asset('public/images/landing3.jpg')}} 1350w 2411h, {{asset('public/images/landing3.jpg')}} 1350w 2411h" style="background-position: 50% 50%;"></div>
                            </div>
                            <div class="HpSlider-content" data-swiper-parallax="100%">
                               <div class="container" style="margin-top: 250px;">
@@ -420,11 +428,11 @@ top: 0rem;
                                  </div>
                               </div>
                            </div>
-                        </div> -->
+                        </div>
                         <!-- <div class="swiper-slide HpSlider-item ">
                            <div class="HpSlider-media" data-swiper-parallax="90%">
-                              <div class="HpSlider-image lazyload d-landscape" data-sizes="auto" data-bgset="{{asset('public/images/manifest_000.1920x0.jpg')}} 640w 360h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1024w 575h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1920w 1079h, {{asset('public/images/manifest_000.1920x0.jpg')}} 2400w 1348h" style="background-position: 50% 50%;"></div>
-                              <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="{{asset('public/images/manifest_000.1920x0.jpg')}} 640w 1143h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1024w 1829h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1350w 2411h, {{asset('public/images/manifest_000.1920x0.jpg')}} 1350w 2411h" style="background-position: 50% 50%;"></div>
+                              <div class="HpSlider-image lazyload d-landscape" data-sizes="auto" data-bgset="{{asset('public/images/landing3.jpg')}} 640w 360h, {{asset('public/images/landing3.jpg')}} 1024w 575h, {{asset('public/images/landing3.jpg')}} 1920w 1079h, {{asset('public/images/landing3.jpg')}} 2400w 1348h" style="background-position: 50% 50%;"></div>
+                              <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="{{asset('public/images/landing3.jpg')}} 640w 1143h, {{asset('public/images/landing3.jpg')}} 1024w 1829h, {{asset('public/images/landing3.jpg')}} 1350w 2411h, {{asset('public/images/landing3.jpg')}} 1350w 2411h" style="background-position: 50% 50%;"></div>
                            </div>
                            <div class="HpSlider-content" data-swiper-parallax="100%">
                               <div class="container">
@@ -452,12 +460,12 @@ top: 0rem;
                               <circle r="30" cx="50" cy="50" />
                            </svg>
                         </div>
-                        <!-- <div class="HpSlider-navItem" data-hpslider-page>
+                        <div class="HpSlider-navItem" data-hpslider-page>
                            <span class="HpSlider-navLabel">Velis</span>
                            <svg class="HpSlider-progressSlide" data-hpslider-progress viewbox="0 0 100 100">
                               <circle r="30" cx="50" cy="50" />
                            </svg>
-                        </div> -->
+                        </div>
                         <div class="HpSlider-navItem" data-hpslider-page>
                            <span class="HpSlider-navLabel">Wellbox</span>
                            <svg class="HpSlider-progressSlide" data-hpslider-progress viewbox="0 0 100 100">
@@ -545,7 +553,7 @@ top: 0rem;
                 @include('pages.landing')
                </div>
             </div>
-            <div class="CardsText Section footmer">
+            <div class="CardsText footmer">
                <div class="source1">
                @include('layouts.footer-2')
                </div>

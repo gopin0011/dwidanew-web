@@ -3723,7 +3723,7 @@ webpackJsonp([0], [, , , function(e, t, n) {
             SiteHeader.style.display = 'none';
         } 
         else {
-            console.log('Didedikasikan untuk almarhumah istri dan anak tercinta, Wiwik dan Aslan (Bogor 2023)');
+            // console.log('Didedikasikan untuk almarhumah istri dan anak tercinta, Wiwik dan Aslan (Bogor 2023)');
             var imageContainer = document.getElementById('image-container');
             imageContainer.src="public/images/wadaw_putih.png";
             imageContainer.style.display = '';

@@ -1133,12 +1133,17 @@
          }}		
         
          .fl-node-602ef686c49f6>.fl-row-content-wrap{
-            background: linear-gradient(90deg,rgba(16,62,104,.8) 0%,#000 100%),
-              url({{asset('public/images/_career.jpeg')}});
-            background-repeat:no-repeat;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 410px;
+            background: linear-gradient(90deg,rgba(16,62,104,.8) 0%,#000 100%), url('public/images/_career.jpeg');
+            background-repeat: no-repeat;
+            background-position: center bottom;
+            background-attachment: scroll;
+            background-size: auto;
             background-position:0% 40%;
-            background-attachment:scroll;
-            background-size:auto;
             border-bottom: 10px solid #f3962c;
          }
 
@@ -1149,6 +1154,25 @@
             /* border-color:#ffa238; */
             /* border-bottom-width:2px; */
          }
+
+         .container-img {
+            position: relative;
+            /* Tambahkan properti lainnya jika diperlukan */
+            margin-bottom: 350px;
+         }
+         .container-img img {
+            position: relative;
+            /* Atur posisi gambar sesuai kebutuhan */
+            top: 30px;
+            left: 30px;
+            /* Tambahkan properti lainnya jika diperlukan */
+            width: 231px;
+         }
+
+
+.fl-node-602ef686c49fb > .fl-col-content {
+   margin-top: 12px;
+}
 </style>
 <noscript>
     <style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style>
@@ -1161,30 +1185,32 @@
 <div class="uabb-js-breakpoint" style="display: none;"></div>
 <div id="fl-main-content" class="fl-page-content" itemprop="mainContentOfPage" role="main">
    <div class="fl-builder-content fl-builder-content-10363 fl-builder-global-templates-locked" data-post-id="10363">
-      <div class="fl-row fl-row-full-width fl-row-bg-photo fl-node-602ef686c49f6 fl-row-custom-height fl-row-align-center" data-node="602ef686c49f6">
-         <div class="fl-row-content-wrap">
-            <div class="uabb-row-separator uabb-top-row-separator" ></div>
-            <div class="fl-row-content fl-row-fixed-width fl-node-content">
-               <div class="fl-col-group fl-node-602ef686c49f0 fl-col-group-equal-height fl-col-group-align-center" data-node="602ef686c49f0">
-                  <div class="fl-col fl-node-602ef686c49f2" data-node="602ef686c49f2">
-                     <div class="fl-col-content fl-node-content">
-                        <div class="fl-module fl-module-heading fl-node-602ef686c49f3 fl-animation fl-fade-up" data-node="602ef686c49f3" data-animation-delay="0" data-animation-duration="2">
-                           <div class="fl-module-content fl-node-content">
-                              <h1 class="fl-heading">
-                                 <span class="fl-heading-text">Career</span>
-                              </h1>
+      <div class="container-img">
+         <div class="fl-row fl-row-full-width fl-row-bg-photo fl-node-602ef686c49f6 fl-row-custom-height fl-row-align-center" data-node="602ef686c49f6">
+            <div class="fl-row-content-wrap">
+               <div class="uabb-row-separator uabb-top-row-separator" ></div>
+               <div class="fl-row-content fl-row-fixed-width fl-node-content">
+                  <div class="fl-col-group fl-node-602ef686c49f0 fl-col-group-equal-height fl-col-group-align-center" data-node="602ef686c49f0">
+                     <div class="fl-col fl-node-602ef686c49f2" data-node="602ef686c49f2">
+                        <div class="fl-col-content fl-node-content">
+                           <div class="fl-module fl-module-heading fl-node-602ef686c49f3 fl-animation fl-fade-up" data-node="602ef686c49f3" data-animation-delay="0" data-animation-duration="2">
+                              <div class="fl-module-content fl-node-content">
+                                 <h1 class="fl-heading">
+                                    <span class="fl-heading-text">Career</span>
+                                 </h1>
+                              </div>
                            </div>
-                        </div>
-                        <div class="fl-module fl-module-separator fl-node-602ef686c49f5" data-node="602ef686c49f5">
-                           <div class="fl-module-content fl-node-content">
-                              <div class="fl-separator"></div>
+                           <div class="fl-module fl-module-separator fl-node-602ef686c49f5" data-node="602ef686c49f5">
+                              <div class="fl-module-content fl-node-content">
+                                 <div class="fl-separator"></div>
+                              </div>
                            </div>
-                        </div>
-                        <div class="fl-module fl-module-heading fl-node-602ef686c49f4" data-node="602ef686c49f4">
-                           <div class="fl-module-content fl-node-content">
-                              <h4 class="fl-heading">
-                                 <span class="fl-heading-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span>
-                              </h4>
+                           <div class="fl-module fl-module-heading fl-node-602ef686c49f4" data-node="602ef686c49f4">
+                              <div class="fl-module-content fl-node-content">
+                                 <h4 class="fl-heading">
+                                    <span class="fl-heading-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span>
+                                 </h4>
+                              </div>
                            </div>
                         </div>
                      </div>
@@ -1192,6 +1218,8 @@
                </div>
             </div>
          </div>
+         <a href="{{route('app.home')}}">
+         <img src="{{asset('public/images/logo/djt_pt_putih.png')}}"></a>
       </div>
       <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-602ef686c49f9" data-node="602ef686c49f9">
          <div class="fl-row-content-wrap">
