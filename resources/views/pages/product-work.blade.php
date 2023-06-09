@@ -1267,6 +1267,15 @@
   border-left: none; /* Menghapus border kiri pada elemen pertama */
   margin-left: 0;
 }
+
+@media screen and (max-width: 768px) {
+    .product-container {
+        max-width: calc(100vw);
+  }
+  .container-fluid2 ul li a {
+    font-size: 8px;
+  }
+}
 .container-fluid2 {
     padding: 20px 0;
 }
