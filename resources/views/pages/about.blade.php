@@ -6,6 +6,10 @@
 <link data-minify="1" rel='stylesheet' id='fl-builder-layout-24-css' href="{{asset('public/assets/wp-content/24-layout.css?ver=1682287855')}}" media='all' />
 
 <style id="wp-custom-css">
+@font-face {
+    font-family: "BlissBucket";
+    src: url("../../public/fonts/BlissBucket.otf") format("opentype");
+}    
          .top_layer {
          z-index: 10;
          position: relative;}
@@ -66,7 +70,7 @@
          }
          /*Headlines*/
          h1,h2,h3 {  
-         font-family: obvia, sans-serif;
+         font-family: "BlissBucket";
          font-weight: 500;
          text-transform: uppercase;
          }
@@ -1100,7 +1104,7 @@
             left: 0;
             width: 100%;
             height: 410px;
-            background: linear-gradient(90deg,rgba(16,62,104,.8) 0%,#000 100%), url('public/images/about_head.jpg');
+            background: url('public/images/about.jpg');
             background-repeat: no-repeat;
             background-position: center bottom;
             background-attachment: scroll;
@@ -1112,7 +1116,7 @@
          .container-img {
             position: relative;
             /* Tambahkan properti lainnya jika diperlukan */
-            margin-bottom: 350px;
+            margin-bottom: 385px;
          }
          .container-img img {
             position: relative;
@@ -1176,8 +1180,8 @@
                             </div>
                             </div>
                         </div>
-                        <a href="{{route('app.home')}}">
-                        <img src="{{asset('public/images/logo/djt_pt_putih.png')}}"></a>
+                        <!-- <a href="{{route('app.home')}}">
+                        <img src="{{asset('public/images/logo/djt_pt_putih.png')}}"></a> -->
                     </div>
                         <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5f90a02030ffe" data-node="5f90a02030ffe">
                             <div class="fl-row-content-wrap">

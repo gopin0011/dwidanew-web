@@ -2,6 +2,11 @@
 
 @section('css')
 <style>
+
+@font-face {
+    font-family: "BlissBucket";
+    src: url("../../public/fonts/BlissBucket.otf") format("opentype");
+}
          img.wp-smiley,
          img.emoji {
          display: inline !important;
@@ -105,7 +110,7 @@
          }
          /*Headlines*/
          h1,h2,h3 {  
-         font-family: obvia, sans-serif;
+         font-family: "BlissBucket";
          font-weight: 500;
          text-transform: uppercase;
          }
@@ -1153,7 +1158,7 @@
             left: 0;
             width: 100%;
             height: 410px;
-            background: linear-gradient(90deg,rgba(16,62,104,.8) 0%,#000 100%), url({{asset('public/images/factory.jpg')}});
+            background: url({{$srcImage}});
             background-repeat: no-repeat;
             background-position: center bottom;
             background-attachment: scroll;
@@ -1248,6 +1253,7 @@
   font-size: 14px;
   text-transform: uppercase;
   font-weight: bold;
+  color: #000;
 }
 
 .caption small{
@@ -1291,10 +1297,6 @@
 }
 .container-fluid2:first-child {
     padding-bottom: 0;
-}
-@font-face {
-    font-family: "BlissBucket";
-    src: url("../../public/fonts/BlissBucket.otf") format("opentype");
 }
 .project__slider__item {
 	height: 600px;
@@ -1450,11 +1452,11 @@
         </div>
         </div>
     </div>
-    <a href="{{route('app.home')}}">
-    <img src="{{asset('public/images/logo/djt_pt_putih.png')}}"></a>
+    <!-- <a href="{{route('app.home')}}">
+    <img src="{{asset('public/images/logo/djt_pt_putih.png')}}"></a> -->
 </div>
 <div class="uabb-js-breakpoint" style="display: none;"></div>
-<div class="container2" style="background-color: #fff; padding-top: 15px;">
+<div class="container2" style="background-color: #fff; padding-top: 65px;">
     <div class="row container-fluid2">
         <div class="col-md-4"><p style="font-family: 'BlissBucket'; font-size: 24px;">PRODUCTS</p></div>
         <div class="col-md-8 text-right">

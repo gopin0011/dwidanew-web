@@ -125,7 +125,41 @@
             }
          }
 
-         
+         header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #fff;
+}
+
+.logo img {
+  height: 45px; /* Sesuaikan ukuran logo */
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+}
+
+nav ul li {
+  margin-left: 30px;
+}
+
+nav ul li:last-child {
+  /* Tambahkan gaya CSS untuk elemen terakhir di sini */
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+nav ul li a:hover {
+  text-decoration: none;
+}
          </style>
       
       <meta name="google-site-verification" content="r9X5Ibonx4yAmjtW_se3fFmkubCREcA7sVpkJPDSPxo" />
@@ -249,6 +283,7 @@
          </defs>
       </svg>
       <div class="fl-page">
+         @include('layouts.header-2')
 
          @yield('contents')
          <!-- .fl-page-content -->

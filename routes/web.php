@@ -52,6 +52,7 @@ Route::get('brand/{catId?}', function (Request $request, $catId = 1) {
 Route::get('our-works/{type?}/{brand?}', function (Request $request, $type = 1, $brand = 1) {
     $brands = [];
     $type_char = furniture;
+    $srcImage = asset('public/images/furniture.jpg');
 
     if($type == 1) {
         $brands = \App\Models\Category::where('is_furniture', 1)->orderBy('sort', 'asc')->get();
@@ -59,6 +60,7 @@ Route::get('our-works/{type?}/{brand?}', function (Request $request, $type = 1, 
     else {
         $brands = \App\Models\Category::where('is_equipment', 1)->orderBy('sort', 'asc')->get();
         $type_char = equipment;
+        $srcImage = asset('public/images/equipment.jpg');
     }
 
     // dd($brands);
@@ -71,7 +73,7 @@ Route::get('our-works/{type?}/{brand?}', function (Request $request, $type = 1, 
         'brands' => $brands,
         'type_char' => $type_char,
         'categoryProduct' => $categoryProduct,
-        // 'category' => $category, 
+        'srcImage' => $srcImage, 
     ]);
 })->name('app.work');
 

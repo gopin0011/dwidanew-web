@@ -2,6 +2,11 @@
 
 @section('css')
 <style>
+   @font-face {
+    font-family: "BlissBucket";
+    src: url("../../public/fonts/BlissBucket.otf") format("opentype");
+}
+
          img.wp-smiley,
          img.emoji {
          display: inline !important;
@@ -104,7 +109,7 @@
          }
          /*Headlines*/
          h1,h2,h3 {  
-         font-family: obvia, sans-serif;
+         font-family: 'BlissBucket';
          font-weight: 500;
          text-transform: uppercase;
          }
@@ -1138,7 +1143,7 @@
             left: 0;
             width: 100%;
             height: 410px;
-            background: linear-gradient(90deg,rgba(16,62,104,.8) 0%,#000 100%), url('public/images/_career.jpeg');
+            background: url('public/images/career.jpg');
             background-repeat: no-repeat;
             background-position: center bottom;
             background-attachment: scroll;
@@ -1171,7 +1176,7 @@
 
 
 .fl-node-602ef686c49fb > .fl-col-content {
-   margin-top: 12px;
+   margin-top: 60px;
 }
 </style>
 <noscript>
@@ -1218,8 +1223,8 @@
                </div>
             </div>
          </div>
-         <a href="{{route('app.home')}}">
-         <img src="{{asset('public/images/logo/djt_pt_putih.png')}}"></a>
+         <!-- <a href="{{route('app.home')}}">
+         <img src="{{asset('public/images/logo/djt_pt_putih.png')}}"></a> -->
       </div>
       <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-602ef686c49f9" data-node="602ef686c49f9">
          <div class="fl-row-content-wrap">
@@ -1267,7 +1272,7 @@
                                     </div> -->
                                     <div class="fl-post-feed-text">
                                        <div class="fl-post-feed-header" style="border-top: 1px solid #ffa238;">
-                                          <h2 class="fl-post-feed-title" itemprop="headline" style="margin-top: 15px;">
+                                          <h2 class="fl-post-feed-title" itemprop="headline" style="margin-top: 15px; font-family: 'BlissBucket';">
                                              <a href="https://www.jobstreet.co.id/id/job/tax-staff-4309080?jobId=jobstreet-id-job-4309080&sectionRank=1&token=0~5fe8f6e5-159a-4439-9f23-c856140ada9d&fr=SRP%20View%20In%20New%20Tab" rel="bookmark" title="Career">Tax Staff</a>
                                           </h2>
                                           <div class="fl-post-feed-meta">

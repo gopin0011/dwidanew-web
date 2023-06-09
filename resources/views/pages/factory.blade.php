@@ -2,6 +2,10 @@
 
 @section('css')
 <style>
+    @font-face {
+    font-family: "BlissBucket";
+    src: url("../../public/fonts/BlissBucket.otf") format("opentype");
+}
          img.wp-smiley,
          img.emoji {
          display: inline !important;
@@ -104,7 +108,7 @@
          }
          /*Headlines*/
          h1,h2,h3 {  
-         font-family: obvia, sans-serif;
+         font-family: "BlissBucket";
          font-weight: 500;
          text-transform: uppercase;
          }
@@ -1161,7 +1165,7 @@
             left: 0;
             width: 100%;
             height: 410px;
-            background: linear-gradient(90deg,rgba(16,62,104,.8) 0%,#000 100%), url('public/images/factory.jpg');
+            background: url('public/images/factory.jpg');
             background-repeat: no-repeat;
             background-position: center bottom;
             background-attachment: scroll;
@@ -1173,7 +1177,7 @@
          .container-img {
             position: relative;
             /* Tambahkan properti lainnya jika diperlukan */
-            margin-bottom: 350px;
+            margin-bottom: 410px;
          }
          .container-img img {
             position: relative;
@@ -1231,8 +1235,8 @@
         </div>
         </div>
     </div>
-    <a href="{{route('app.home')}}">
-    <img src="{{asset('public/images/logo/djt_pt_putih.png')}}"></a>
+    <!-- <a href="{{route('app.home')}}">
+    <img src="{{asset('public/images/logo/djt_pt_putih.png')}}"></a> -->
 </div>
 <div class="uabb-js-breakpoint" style="display: none;"></div>
 <div class="col-md-12">
