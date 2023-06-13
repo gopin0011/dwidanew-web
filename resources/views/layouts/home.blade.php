@@ -550,7 +550,7 @@ top: 0rem;
             </div>
             <div class="CardsText Section  --adjacentBg">
                <div class="source1">
-                @include('pages.landing')
+               @include('pages.landing')
                </div>
             </div>
             <div class="CardsText footmer">

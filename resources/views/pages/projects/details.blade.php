@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('css')
+<link rel="stylesheet" href="https://leganofurniture.com/assets/css/style.css" type="text/css">
 <style>
 
 @font-face {
@@ -1456,90 +1457,34 @@
     <img src="{{asset('public/images/logo/djt_pt_putih.png')}}"></a> -->
 </div>
 <div class="uabb-js-breakpoint" style="display: none;"></div>
+
 <div class="container2" style="background-color: #fff; padding-top: 65px;">
-    <div class="row container-fluid2">
-        <div class="col-md-4"><p style="font-family: 'BlissBucket'; font-size: 24px;">PRODUCTS</p></div>
-        <div class="col-md-8 text-right">
-            <ul>
-                @foreach($brands as $brand => $data)
-                <li><a href="{{route('app.work',['type'=>$type, 'brand'=>$data['id']])}}">{{$data->name}}</a></li>
-                @endforeach
-            </ul>
-        </div>
-    </div>
-    <div class="row container-fluid2">
-        <div class="product-container">
-            <div class="product-grid">
-                @foreach($categoryProduct->product as $product)
-                <div class="show-bg-2">
-                <div class="product-image">
-                    <a href="{{ asset('public/storage/products/'.$product->image[0]->media->desktop) }}" class="lightbox-cats">
-                    <img src="{{ asset('public/storage/products/'.$product->image[0]->media->desktop) }}" alt="">
-                    <div class="caption">{{$product->name}}
-                        <br><small>Projects Name</small>
+<section class="project-details spad">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="gallery-carousel popup-gallery">
+                        <div class="row">
+
+                            @foreach($projects->image->chunk($chunk) as $split)
+                            <div class="col-lg-{{ $chunk == 1 ? '12' : '6' }} col-md-{{ $chunk == 1 ? '12' : '6' }} col-sm-{{ $chunk == 1 ? '12' : '6' }}">
+                                @foreach($split as $project)
+                                <div class="gallery-item">
+                                    <a class="lightbox-cats" href="{{ asset('public/storage/projects/'.$project->media->desktop) }}" data-effect="mfp-zoom-in" title="">
+                                        <img src="{{ asset('public/storage/projects/'.$project->media->desktop) }}" alt="">
+                                    </a>
+                                </div>
+                                @endforeach
+                            </div>
+                            @endforeach
+
+                        </div>
                     </div>
-                    </a>
                 </div>
-                </div>
-                <!-- Tambahkan gambar lainnya sesuai kebutuhan -->
-                @endforeach
             </div>
         </div>
-    </div>    
-@if($type == 1)    
-    <div class="row container-fluid2">
-            <div class="col-md-12"><p style="font-family: 'BlissBucket'; font-size: 24px;">PROJECT</p></div>
-                <div class="project__slider owl-carousel">
-                <div class="projects-image">
-                        <div class="project__slider__item set-bg" data-setbg="{{ asset('public/storage/projects/image-02.jpg') }}">
-                            <!-- <img src="{{ asset('public/storage/projects/image-02.jpg') }}"> -->
-                            <div class="project__slider__item__hover">
-                                <h5><a href="{{route('app.projects',['type' => 1])}}">OFFICE SPACE</a></h5>
-                            </div>
-                        </div>
-                        </div>
-                        <div class="projects-image">
-                        <div class="project__slider__item set-bg" data-setbg="{{ asset('public/storage/projects/image-03.jpg') }}">
-                            <div class="project__slider__item__hover">
-                                <h5><a href="{{route('app.projects',['type' => 2])}}">HALL</a></h5>
-                            </div>
-                        </div>
-                        </div>
-                        <div class="projects-image">
-                        <div class="project__slider__item set-bg" data-setbg="{{ asset('public/storage/projects/image-04.jpg') }}">
-                            <div class="project__slider__item__hover">
-                                <h5><a href="{{route('app.projects',['type' => 3])}}">RESIDENTIAL</a></h5>
-                            </div>
-                        </div>
-                        </div>
-                        <div class="projects-image">
-                        <div class="project__slider__item set-bg" data-setbg="{{ asset('public/storage/projects/image-05.jpg') }}">
-                            <div class="project__slider__item__hover">
-                                <h5><a href="{{route('app.projects',['type' => 4])}}">HOSPITALITY</a></h5>
-                            </div>
-                        </div>
-                        </div>
-                        <div class="projects-image">
-                        <div class="project__slider__item set-bg" data-setbg="{{ asset('public/storage/projects/image-06.jpg') }}">
-                            <div class="project__slider__item__hover">
-                                <h5><a href="{{route('app.projects',['type' => 5])}}">PUBLIC SPACE</a></h5>
-                            </div>
-                        </div>
-                        </div>
-                        <div class="projects-image">
-                        <div class="project__slider__item set-bg" data-setbg="{{ asset('public/storage/projects/image-07.jpg') }}">
-                            <div class="project__slider__item__hover">
-                                <h5><a href="{{route('app.projects',['type' => 6])}}">UNIVERSITY</a></h5>
-                            </div>
-                        </div>
-                        </div>
-                </div>
-            </div>    
-
-</div>
-
-<div style="margin:40px 0; background-color: #fff"></div>
-@endif
+    </section>
+</div> 
 @endsection
 
 
@@ -1691,40 +1636,6 @@
                 type: 'image',
                 gallery:{enabled:true}
                 // other options
-            });
-
-            $('.set-bg').each(function () {
-                var bg = $(this).data('setbg');
-                $(this).css('background-image', 'url(' + bg + ')');
-            });
-
-            $(".project__slider").owlCarousel({
-                loop: true,
-                margin: 0,
-                items: 3,
-                dots: false,
-                nav: true,
-                navText: ["<span class=''><<span/>", "<span class=''>><span/>"],
-                smartSpeed: 1200,
-                autoHeight: false,
-                autoplay: false,
-                responsive: {
-                    320: {
-                        items: 1
-                    },
-                    768: {
-                        items: 2
-                    },
-                    992: {
-                        items: 3
-                    },
-                    1200: {
-                        items: 3
-                    },
-                    2000: {
-                        items: 4
-                    }
-                }
             });
        });
     </script>

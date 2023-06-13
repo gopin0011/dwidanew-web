@@ -77,6 +77,48 @@ Route::get('our-works/{type?}/{brand?}', function (Request $request, $type = 1, 
     ]);
 })->name('app.work');
 
+
+Route::get('projects/{type?}', function (Request $request, $type = 1) {
+    $srcImage = asset('public/images/furniture.jpg');
+    $type_char = 'Office Space';
+    $chunk = 4;
+
+    if ($type == 2) {
+        $type_char = 'Hall';
+        $chunk = 1;
+    }
+
+    else if ($type == 3) {
+        $type_char = 'Residential';
+        $chunk = 2;
+    }
+
+    else if ($type == 4) {
+        $type_char = 'Hospitality';
+        $chunk = 4;
+    }
+
+    else if ($type == 5) {
+        $type_char = 'Public Space';
+        $chunk = 1;
+    }
+
+    else if ($type == 6) {
+        $type_char = 'University';
+        $chunk = 6;
+    }
+
+    $projects = \App\Models\Project::where('id', $type)->with(['image.media'])->get();
+
+    // dd($projects);
+    return view('pages.projects.details', [
+        'srcImage' => $srcImage,
+        'type_char' => $type_char,
+        'projects' => $projects[0],
+        'chunk' => $chunk,
+    ]);
+})->name('app.projects');
+
 Route::get('product/{productId?}/detail', function (Request $request, $productId = 1) {
     $product = \App\Models\Product::with(['image.media','related' => function ($query) use ($productId) {
         $query->whereNotIn('product.id', [$productId]);

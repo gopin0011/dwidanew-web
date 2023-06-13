@@ -1,6 +1,6 @@
 <div class="align-items-center">
     <div class="col-md-12" style="background-color: #333333; padding: 80px 0px 60px 0px; color: #fff">
-        <div class="col-md-3"><img src="{{asset('public/images/logo/djt_pt_putih.png')}}" style="margin: 50px 75px;width: 70%;"></div>
+        <div class="col-md-3"><img src="{{asset('public/images/logo/djt_pt_putih.png')}}" style="padding: 0px 45px 50px 45px;width: 100%;"></div>
         <div class="col-md-2">
             <b>FIND US</b>
             <br>

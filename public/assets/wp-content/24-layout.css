@@ -1102,14 +1102,15 @@ img.mfp-img {
   }
 }
 .fl-node-5f909fa8899d2 > .fl-row-content-wrap:after {
-  background-image: linear-gradient(
+  /* background-image: linear-gradient(
     90deg,
     rgba(16, 62, 104, 0.8) 0%,
     rgba(7, 90, 234, 0.8) 100%
-  );
+  ); */
 }
 .fl-node-5f909fa8899d2 > .fl-row-content-wrap {
-  background-image: url(../../images/3_ok.jpg);
+  margin-top: 50px;
+  background-image: url(../../images/about_2.jpg);
   background-repeat: no-repeat;
   background-position: center bottom;
   background-attachment: scroll;
@@ -1234,7 +1235,7 @@ img.mfp-img {
   }
 }
 .fl-node-5f90a4b47e45d > .fl-row-content-wrap {
-  background-image: url(../../images/4_ok.jpg);
+  background-image: url(../../images/about_3.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
@@ -2223,11 +2224,12 @@ img.mfp-img {
   width: 100%;
 }
 .fl-node-5f90a42201248 > .fl-col-content {
-  background-image: url(https://bluebotics.com/wp-content/uploads/2020/10/Group-2304@2x-scaled.jpg);
+  /* background-image: url(https://bluebotics.com/wp-content/uploads/2020/10/Group-2304@2x-scaled.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
-  background-size: cover;
+  background-size: cover; */
+  background-color: #333333;
   border-style: solid;
   border-width: 0;
   background-clip: border-box;
@@ -3591,14 +3593,15 @@ img.mfp-img {
   width: 100%;
 }
 .fl-node-5f909fa889a96 > .fl-col-content:after {
-  background-image: linear-gradient(
+  /* background-image: linear-gradient(
     90deg,
     rgba(16, 62, 104, 0.8) 0%,
     #333333 100%
-  );
+  ); */
 }
 .fl-node-5f909fa889a96 > .fl-col-content {
-  background-image: url(../../images/5.jpg);
+  /* untuk about image div ke 4 */
+  background-image: url(../../images/about_4.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;

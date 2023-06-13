@@ -96,29 +96,14 @@ section.faq {
     font-weight: 300;
     letter-spacing: 1px;
     display: block;
-    margin: 0;
+    margin: 0 0 20px 0;
     cursor: pointer;
     transition: .2s;
     text-transform: uppercase;
 }
 
-/* #faq h2 {
-  color: #cc071e;
-  font-family: 'hm_light', sans-serif;
-  font-size: 20px;
-  line-height: 34px;
-  text-align: left;
-  padding: 15px 15px 0;
-  text-transform: none;
-  font-weight: 300;
-  letter-spacing: 1px;
-  display: block;
-  margin: 0;
-  cursor: pointer;
-  transition: .2s;
-} */
 
-#faq li p {
+#faq li .content-wrapper {
   color: #333;
   text-align: left;
   font-family: 'hm_light', sans-serif;
@@ -126,7 +111,7 @@ section.faq {
   line-height: 1.45;
   position: relative;
   overflow: hidden;
-  max-height: 250px;
+  /* max-height: 250px; */
   will-change: max-height;
   contain: layout;
   display: inline-block;
@@ -140,7 +125,17 @@ section.faq {
   z-index: 2;
   display: flex;
   align-items: flex-start;
+  padding-bottom: 15px;
 }
+
+
+.content-wrapper {
+  /* display: flex; */
+  align-items: center;
+  gap: 20px;
+  align-items: flex-start;
+  display: none;
+} 
 
 #faq ul {
   list-style: none;
@@ -217,17 +212,49 @@ section.faq {
 #faq ul li input[type=checkbox]:checked ~ i:after {
   /* transform: translate(-2px, 0) rotate(-45deg); */
 }
-#faq li img {
+#faq li .content-wrapper img {
   width: 568px;
   /* height: 300px; */
   filter: grayscale(100%);
-  order: 1;
+  order: 2;
   margin-left: 10px;
 }
 
-#faq li p {
-  order: 2;
+#faq li .content-wrapper p {
+  order: 1;
 }
+
+.our-company {
+  margin-top: 130px;
+}
+.djt-building {
+  height: 410px; 
+  background-image: url('public/images/DJI_edit.jpg'); 
+  background-size: 100vw 410px; 
+  background-repeat: no-repeat; 
+  background-position: 30% center; 
+  filter: grayscale(100%); 
+  margin-top: 50px;
+  /* position: block; */
+}
+
+
+@media only screen and (max-width: 768px) {
+  .our-company {
+    margin-top: 0px;
+  }
+  .djt-building {
+    height: 200px;
+  }
+  .content-wrapper {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .content-wrapper img {
+    margin-left: 0px !important;
+  }
+}
+
 </style>
 @endsection
 
@@ -236,7 +263,7 @@ section.faq {
 <div class="uabb-js-breakpoint" style="display: none;"></div>
 <div class="uabb-js-breakpoint" style="display: none;"></div>
 
-<div class="row">
+<div class="container-fluid">
     <div class="col-md-10 col-md-offset-1">
         <div class="col-md-6">
             <h3 style="color: #000; margin-bottom: 35px;font-family: 'BlissBucket';">OUR <br>COMPANY</h3>
@@ -244,42 +271,42 @@ section.faq {
         <p style="font-size: 15.06px;">In 2007, PT. DWIDA JAYA TAMA coming as a company specialized in manufacturing education equipment. It started from education equipment for elementary to junior high school. Since then, we are also thriving to the higher level, for senior high school to the university. Starting as an education equipment provider for majors such as math and science also for software which becoming a trend nowadays.</p>
         </div>
         <div class="col-md-6">
-            <img src="{{asset('public/images/image1.jpg')}}" style="height:295px;filter: grayscale(100%); margin-top:130px;">
+            <img class="our-company" src="{{asset('public/images/image1.jpg')}}" style="height:295px;filter: grayscale(100%);">
         </div>
     </div>
 </div>
-<div class="row" style="margin-top: 130px;">
-    <div class="col-md-12" style="height: 410px; background-image: url('public/images/DJI_edit.jpg'); background-size: 100vw 410px; background-repeat: no-repeat; background-position: 30% center; filter: grayscale(100%);">
-        &nbsp;
-    </div>
+
+<div class="djt-building">
+  &nbsp;
+  <div style="clear: both;"></div> <!-- Tambahkan elemen dengan clear:both -->
 </div>
 
-<div class="row" style="margin-top: 130px;">
-    <div class="col-md-10 col-md-offset-1">
+<div class="container-fluid" style="margin-top: 50px;">
+  <div class="col-md-10 col-md-offset-1">
     <div id="faq">
-  <ul>
-    <li>
-      <input type="checkbox" checked>
-      <i></i>
-      <h3>Vision</h3>
-      <p>In 2007, PT. DWIDA JAYA TAMA coming as a company specialized in manufacturing education equipment. It started from education equipment for elementary to junior high school. Since then, we are also thriving to the higher level, for senior high school to the university. Starting as an education equipment provider for majors such as math and science also for software which becoming a trend nowadays. 
-      <img src="{{asset('public/images/02_.jpg')}}">
-      </p>
-
-    </li>
-    <li>
-      <input type="checkbox" checked>
-      <i></i>
-      <h3>Mission</h3>
-      <p>“Give the best services” by giving guarantee that the customer will receive our maximum service, for instance in quality product, easiness, along with competitive expense
-      <img src="{{asset('public/images/04_.jpg')}}">
-      </p>
-    </li>
-  </ul>
-</div>
+      <ul>
+        <li>
+          <input type="checkbox" checked>
+          <i></i>
+          <h3>Vision</h3>
+          <div class="content-wrapper" style="display: none;">
+            <p>In 2007, PT. DWIDA JAYA TAMA coming as a company specialized in manufacturing education equipment. It started from education equipment for elementary to junior high school. Since then, we are also thriving to the higher level, for senior high school to the university. Starting as an education equipment provider for majors such as math and science also for software which becoming a trend nowadays.</p>
+            <img src="{{asset('public/images/02_.jpg')}}">
+          </div>
+        </li>
+        <li>
+          <input type="checkbox" checked>
+          <i></i>
+          <h3>Mission</h3>
+          <div class="content-wrapper" style="display: none;">
+            <p>“Give the best services” by giving guarantee that the customer will receive our maximum service, for instance in quality product, easiness, along with competitive expense</p>
+            <img src="{{asset('public/images/04_.jpg')}}">
+          </div>
+        </li>
+      </ul>
+    </div>
     </div>
 </div>
-
 
 <div class="row" style="margin-top: 130px; z-index: -100;">
     <div class="col-md-12" style="height: 410px; background:linear-gradient(rgba(26, 26, 26, 0) 0, #000 100%), url('public/images/baner1.jpg'); background-repeat: no-repeat; background-size: 100vw 410px; background-position: 30% center; filter: grayscale(1);">
@@ -291,35 +318,15 @@ section.faq {
                 <div class="container" style="margin-top: 20px;">
                     <div class="row">
                       <img src="{{asset('public/images/djt_all_logo-02.png')}}" alt="" style="padding-bottom: 50px;">
-<!-- 
-                        <div class="col-md-6 single_client_logo">
-                        </div>
-                        <div class="col-md-3 single_client_logo">
-                            <img src="{{asset('public/images/logo/Vasiki_.png')}}" alt="">
-                        </div>
-                        <div class="col-md-3 single_client_logo">
-                            <img src="{{asset('public/images/logo/Hond_.png')}}" alt="">
-                        </div> -->
+
                     </div>
-                    <!--<div class="row">
-                        <div class="col-md-3 single_client_logo">
-                            <img src="{{asset('public/images/logo/legano.png')}}" alt="">
-                        </div>
-                        <div class="col-md-3 single_client_logo">
-                            <img src="{{asset('public/images/logo/arcwood_.png')}}" alt="">
-                        </div>
-                        <div class="col-md-3 single_client_logo">
-                            <img src="{{asset('public/images/logo/talisma.png')}}" alt="">
-                        </div>
-                        <div class="col-md-3 single_client_logo">
-                            <img src="{{asset('public/images/logo/noutek_.png')}}" alt="">
-                        </div>
-                    </div> -->
+                    
                 </div>
             </div>
         </div>
     </div>
 </div>
+
 
 <div class="row" style="margin-top: 75px;">
     <div class="col-md-10 col-md-offset-1">
@@ -348,19 +355,15 @@ section.faq {
         </div>
     </div>
 </div>
-<div id="lastSection">
-
-</div>
-
 @endsection
 
 
 @section('js')
 <script>
-    window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
-    if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
-    images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
-    if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)
+    // window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+    // if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+    // images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+    // if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)
 </script>
 <script>
       $(document).ready(function() {
@@ -395,16 +398,15 @@ section.faq {
         });
 
         $('input[type="checkbox"]').click(function(){
-            var i = $(this).next('i');
+          var input = $(this);
+          var divElement = input.siblings('div.content-wrapper');
+
+            var li = input.closest('li'),
+                i = input.next('i');
+
             i.toggleClass('active');
-            console.log('a');
 
-            // var body = $('.Main-container'),
-            // height = body.height(),
-            // newHeight = height + 1000;
-
-            // $(".Main-container").html(body);
-            // $('<div>',{ 'class' : 'scrollable-content'}).appendTo($('#lastSection'));
+            divElement.slideToggle();
         });
 
       });
