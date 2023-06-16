@@ -6,6 +6,10 @@
 <link href="{{ asset('public/css/home.css') }}" rel="stylesheet">
 <style>
 
+  .Prose {
+    font-family: 'Arial';
+  }
+
 .source1 .single_client_logo:nth-child(5n+1) {
     border-left: 0px solid transparent;
 }
@@ -39,6 +43,7 @@
   bottom: 8px;
   right: 30px;
   color: #fff;
+  font-family: GothamSS, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "BlissBucket", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 .bottom-right a {
     color: #fff;
@@ -247,6 +252,11 @@ section.faq {
   border: 1px solid #000;
   height: 300px;
   padding: 110px 0;
+  display: flex; align-items: center; justify-content: center;
+}
+
+.our-work h3 {
+  text-align: center;
 }
 
 .show-bg-2 img {
@@ -283,7 +293,6 @@ section.faq {
     text-align-last: center;
   }
 }
-}
 
 @media only screen and (max-width: 768px) {
   .our-company {
@@ -305,6 +314,12 @@ section.faq {
     height: 130px;
     vertical-align: top;
     padding: 10px 0 0 0;
+    display: flex; align-items: center; justify-content: left;
+    text-align: left;
+  }
+
+  .our-work h3 {
+    text-align: left;
   }
 
   .show-bg-2 img {
@@ -356,6 +371,11 @@ section.faq {
     height: 130px;
     vertical-align: top;
     padding: 10px 0 0 0;
+    display: flex; align-items: center; justify-content: left;
+    text-align: left;
+  }
+  .our-work h3 {
+    text-align: left;
   }
   .content-wrapper {
     flex-direction: column;
@@ -492,50 +512,30 @@ section.faq {
 <div class="container-fluid" style="margin-top: 75px;">
     <div class="col-md-10 col-md-offset-1">
         <h3 style="color: #000;font-family: 'BlissBucket';">OUR WORKS</h3>
-        <!-- <div class="row" style="margin-top: 30px;">
-            <div class="col-md-4 our-work" style="height: 100%;">
-                <h3 style="color: #000; text-align: center; font-family: 'BlissBucket';"">FURNITURE AND <br>INTERIOR</h3>
-            </div>
-            <div class="col-md-8" style="height: 100%;">
-                <div class="show-bg-2"><a href="#" onclick="window.location.href='{{route('app.work', ['type'=>1, 'brand'=>5])}}';">
-                    <img src="{{asset('public/images/work1.jpg')}}">
-                    <div class="bottom-right">See Our Product And Projects</div></a>
-                </div>
-            </div>
-        </div> -->
+        
         <div class="row" style="margin-top: 30px;">
-          <div class="col-md-4 our-work" id="column1a" style="display: flex; align-items: center; justify-content: center;">
-            <h3 style="color: #000; text-align: center; font-family: 'BlissBucket';">FURNITURE AND <br>INTERIOR</h3>
+          <div class="col-md-4 col-sm-12 our-work" id="column1a">
+            <h3 class="container-fluid" style="color: #000; font-family: 'BlissBucket';">FURNITURE AND <br>INTERIOR</h3>
           </div>
-          <div class="col-md-8" id="column2a">
+          <div class="col-md-8 col-sm-12" id="column2a">
             <div class="show-bg-2">
               <a href="#" onclick="window.location.href='{{route('app.work', ['type'=>1, 'brand'=>5])}}';">
                 <img id="image1" src="{{asset('public/images/work1.jpg')}}" onload="setColumnHeight()">
-                <div class="bottom-right">See Our Product And Projects</div>
+                <div class="bottom-right" style="font-family: 'Arial';">See Our Product And Projects</div>
               </a>
             </div>
           </div>
         </div>
-        <!-- <div class="row equipment-work" style="margin-top: 30px;">
-            <div class="col-md-4 our-work" style="height: 100%;">
-                <h3 style="color: #000; text-align: center; font-family: 'BlissBucket';">EQUIPMENT</h3>
-            </div>
-            <div class="col-md-8" style="height: 100%;">
-                <div class="show-bg-2"><a href="#" onclick="window.location.href='{{route('app.work', ['type'=>2, 'brand'=>3])}}';">
-                    <img src="{{asset('public/images/work2.jpg')}}">
-                    <div class="bottom-right">See Our Product And Projects</div></a>
-                </div>
-            </div>
-        </div> -->
+        
         <div class="row" style="margin-top: 30px;">
-          <div class="col-md-4 our-work" id="column1b" style="display: flex; align-items: center; justify-content: center;">
-            <h3 style="color: #000; text-align: center; font-family: 'BlissBucket';">EQUIPMENT</h3>
+          <div class="col-md-4 col-sm-12 our-work" id="column1b">
+            <h3 class="container-fluid" style="color: #000; font-family: 'BlissBucket';">EQUIPMENT</h3>
           </div>
-          <div class="col-md-8" id="column2b">
+          <div class="col-md-8 col-sm-12" id="column2b">
             <div class="show-bg-2">
               <a href="#" onclick="window.location.href='{{route('app.work', ['type'=>2, 'brand'=>3])}}';">
                 <img id="image2" src="{{asset('public/images/work2.jpg')}}" onload="setColumnHeight()">
-                <div class="bottom-right">See Our Product And Projects</div>
+                <div class="bottom-right" style="font-family: 'Arial';">See Our Product And Projects</div>
               </a>
             </div>
           </div>

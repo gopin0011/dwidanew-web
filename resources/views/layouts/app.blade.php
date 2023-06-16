@@ -114,10 +114,7 @@
       
       @yield('css')
       <style>
-.djt-group-footer {
-      margin-top: 50px;
-      width: 60%;
-}
+
 
 header {
    display: flex;
@@ -156,25 +153,8 @@ nav ul li a:hover {
   text-decoration: none;
 }
 
-.footmer img.footer-logo-2 {
-   max-width: 35% !important;
-}
-.footmer .footer-logo {
-   max-width: 100%;
-}
 @media only screen and (max-width: 768px) {
-   .djt-group-footer {
-      margin-top: 0px;
-      width: 25%;
-   }
-      .text-center-mobile {
-         text-align: center;
-         /* display: flex; */
-         justify-content: center;
-         margin-left: auto;
-         margin-right: auto;
-         text-align-last: center;
-      }
+   
       header {
          display: flex;
          flex-direction: column;
@@ -194,22 +174,10 @@ nav ul li a:hover {
          text-align-last: center;
          padding: 5px 0px 0px 0px;
       }
-
 
 }
 @media only screen and (max-width: 820px) {
-      .djt-group-footer {
-         margin-top: 0px;
-         width: 25%;
-      }
-      .text-center-mobile {
-         text-align: center;
-         /* display: flex; */
-         justify-content: center;
-         margin-left: auto;
-         margin-right: auto;
-         text-align-last: center;
-      }
+      
       header {
          display: flex;
          flex-direction: column;
@@ -229,65 +197,15 @@ nav ul li a:hover {
          text-align-last: center;
          padding: 5px 0px 0px 0px;
       }
-      .footmer {
-         font-size: 25px;
-      }
-
-      .footmer img.footer-logo-2 {
-         max-width: 45%;
-      }
       
 }
 
-@media only screen and (max-width: 844px) {
-   .djt-group-footer {
-      margin-top: 0px;
-      width: 25%;
-   }
-   .text-center-mobile {
-      text-align: center;
-      /* display: flex; */
-      justify-content: center;
-      margin-left: auto;
-      margin-right: auto;
-      text-align-last: center;
-   }
-   
-   .footmer {
-      font-size: 15px;
-   }
 
-   .footmer img.footer-logo-2 {
-      max-width: 35% !important;
-   }
-   .footmer .footer-logo {
-      /* max-width: 60% !important; */
-   }
-}
 
-@media (max-width: 768px) {
-   .footmer {
-                  font-size: 19px;
-               }
-}
 
-/* Untuk resolusi 768px */
-@media (min-width: 768px) and (max-width: 819px) {
-   /* Tambahkan aturan CSS yang ingin Anda terapkan pada resolusi ini */
-   .footmer .footer-logo {
-         max-width: 80%;
-   }
-}
 
-/* Untuk resolusi 820px */
-@media (min-width: 820px) and (max-width: 820px) {
-   /* Tambahkan aturan CSS yang ingin Anda terapkan pada resolusi ini */
-   .footmer .footer-logo {
-         max-width: 80%;
-   }
-}
          </style>
-      
+      <link href="{{ asset('public/css/footer.css') }}" rel="stylesheet">
       <meta name="google-site-verification" content="r9X5Ibonx4yAmjtW_se3fFmkubCREcA7sVpkJPDSPxo" />
    </head>
    <body class="home page-template-default page page-id-22 fl-builder fl-theme-builder-header fl-theme-builder-header-home-header fl-theme-builder-footer fl-theme-builder-footer-footer fl-framework-base fl-preset-default fl-full-width fl-search-active" itemscope="itemscope" itemtype="https://schema.org/WebPage">

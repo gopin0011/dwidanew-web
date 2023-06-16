@@ -3814,7 +3814,7 @@ img.mfp-img {
   font-size: calc(16px + 0.1vw);
   line-height: 1.2;
   text-align: center;
-  text-transform: none;
+  text-transform: uppercase;
 }
 .fl-builder-content .fl-rich-text strong {
   font-weight: 700;
@@ -4212,7 +4212,7 @@ img.mfp-img {
   font-size: calc(16px + 0.1vw);
   line-height: 1.2;
   text-align: center;
-  text-transform: none;
+  text-transform: uppercase;
 }
 .fl-node-5fa42d6fcfb01 > .fl-module-content {
   margin-top: 40px;
@@ -4254,7 +4254,7 @@ img.mfp-img {
   font-size: calc(16px + 0.1vw);
   line-height: 1.2;
   text-align: center;
-  text-transform: none;
+  text-transform: uppercase;
 }
 .fl-builder-content .fl-node-5f90a73915c93 .fl-rich-text,
 .fl-builder-content .fl-node-5f90a73915c93 .fl-rich-text *:not(b, strong) {

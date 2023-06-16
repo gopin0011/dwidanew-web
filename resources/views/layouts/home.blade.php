@@ -91,28 +91,8 @@
             margin-bottom: 50px; /* Ganti dengan nilai jarak yang diinginkan */
          }
 
-         .footmer img.footer-logo-2 {
-            max-width: 45%;
-         }
-
-         .footmer .footer-logo {
-            max-width: 100%;
-         }
          @media only screen and (max-width: 844px) {
-            .source1 .djt-group-footer {
-               margin-top: 0px;
-               width: 25%;
-            }
-
             
-            .text-center-mobile {
-               text-align: center;
-               /* display: flex; */
-               justify-content: center;
-               margin-left: auto;
-               margin-right: auto;
-               text-align-last: center;
-            }
             .SplitLines {
                font-size: 24px;
             }
@@ -142,16 +122,9 @@
          #image-container {
             /* width: 120%; */
          }
-         .footmer {
-            position: relative;
-            background-color:#000; color:#fff; 
-         }
+         
 
-@media (min-width: 1024px) {
-   .footmer {
-   background-color:#333333; color:#fff; height: 300px;
-} 
-}
+
 
 @media (max-width: 1024px) {
    .our-company {
@@ -212,6 +185,10 @@
   #faq li .content-wrapper p {
   font-size: 15px;
 }
+/* .footmer .footer-logo {
+            max-width: 100%;
+            padding: 0px 45px 50px 45px;
+         } */
 }
 
 @media (min-width: 2000px) {
@@ -221,38 +198,19 @@
    .SiteHeader-submenu-container {
       height: 5.8125rem !important;
    }
-   .footmer {
-   background-color:#333333; color:#fff; height: 400px; position: relative; top: 50px;
-}
+   
 }         
          
-@font-face {
-    font-family: "BlissBucket";
-    src: url("public/fonts/BlissBucket.otf") format("opentype");
-}
+
 @media screen and (min-width: 768px) {
    .SiteHeader-overlay.SiteHeader-overlay--menu {
                display: none;
             }
-            .footmer {
-   background-color:#333333; color:#fff; 
-   
-}
+            
             
 }
 @media only screen and (max-width: 844px) {
-   .djt-group-footer {
-      margin-top: 0px;
-      width: 25%;
-   }
-   .text-center-mobile {
-      text-align: center;
-      /* display: flex; */
-      justify-content: center;
-      margin-left: auto;
-      margin-right: auto;
-      text-align-last: center;
-   }
+   
    header {
       display: flex;
       flex-direction: column;
@@ -273,42 +231,14 @@
       padding: 5px 0px 0px 0px;
    }
 
-   .footmer {
-      font-size: 15px;
-   }
-
-   .footmer img.footer-logo-2 {
-      max-width: 35% !important;
-   }
-   .footer-logo {
-      
-   }
-}
-@media (max-width: 768px) {
-   .footmer {
-                  font-size: 19px;
-               }
-}
-
-@media (min-width: 768px) and (max-width: 843px) {
-   /* Tambahkan aturan CSS yang ingin Anda terapkan pada resolusi ini */
-   .footmer .footer-logo {
-         max-width: 80%;
-   }
-}
-
-/* Untuk resolusi 820px */
-@media (min-width: 820px) and (max-width: 844px) {
-   /* Tambahkan aturan CSS yang ingin Anda terapkan pada resolusi ini */
-   .footmer .footer-logo {
-         max-width: 80%;
-   }
+   
 }
 
         </style>
         <script src="{{ asset('public/js/jquery.js') }}"></script>
         <script src="{{ asset('public/js/jquery.bxslider.min.js') }}"></script>
         <link href="{{ asset('public/css/bxslider.css') }}" rel="stylesheet">
+        <link href="{{ asset('public/css/footer.css') }}" rel="stylesheet">
    </head>
    <body class="tpl-home ">
       <!-- Google Tag Manager (noscript) -->

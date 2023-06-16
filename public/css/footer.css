@@ -1,0 +1,126 @@
+
+/* .djt-group-footer {
+    margin-top: 50px;
+    width: 60%;
+} */
+
+.footmer img.footer-logo-2 {
+   max-width: 45%;
+   margin-top: 50px;
+}
+.footmer .footer-logo {
+   max-width: 100%;
+}
+.footmer {
+   background-color: #333333 !important;
+   font-family: GothamSS, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+@media only screen and (max-width: 844px) {
+   .source1 .djt-group-footer {
+      margin-top: 0px;
+      width: 25%;
+   }
+
+   
+   .text-center-mobile {
+      /* text-align: center; */
+      /* display: flex; */
+      /* justify-content: center; */
+      /* margin-left: auto; */
+      /* margin-right: auto; */
+      /* text-align-last: center; */
+   }
+   
+
+   
+}
+
+
+.footmer {
+   position: relative;
+   background-color:#000; color:#fff; 
+}
+
+@media (min-width: 1024px) {
+.footmer {
+background-color:#333333; color:#fff; height: 300px;
+} 
+.footmer .footer-logo {
+   max-width: 100%;
+   padding: 0px 45px 50px 45px;
+}
+}
+
+
+@media (min-width: 2000px) {
+
+.footmer {
+background-color:#333333; color:#fff; height: 400px; position: relative; top: 50px;
+}
+.footmer .footer-logo {
+   max-width: 100%;
+   padding: 0px 45px 50px 45px;
+}
+}         
+
+@media screen and (min-width: 768px) {
+
+   .footmer {
+background-color:#333333; color:#fff; 
+
+}
+   
+}
+@media only screen and (max-width: 844px) {
+.djt-group-footer {
+margin-top: 0px;
+width: 25%;
+}
+.text-center-mobile {
+/* text-align: center; */
+/* display: flex; */
+/* justify-content: center; */
+/* margin-left: auto; */
+/* margin-right: auto; */
+/* text-align-last: center; */
+}
+
+.footmer {
+font-size: 15px;
+}
+
+.footmer img.footer-logo-2 {
+max-width: 35% !important;
+margin-top: 10px;
+}
+.footmer .partof {
+margin-top: 30px;
+}
+.footer-logo {
+padding: 0;
+max-width: 70% !important;
+margin-bottom: 20px;
+}
+}
+@media (max-width: 768px) {
+.footmer {
+         font-size: 19px;
+      }
+}
+
+@media (min-width: 768px) and (max-width: 843px) {
+/* Tambahkan aturan CSS yang ingin Anda terapkan pada resolusi ini */
+.footmer .footer-logo {
+max-width: 80%;
+padding: 0;
+}
+}
+
+/* Untuk resolusi 820px */
+@media (min-width: 820px) and (max-width: 844px) {
+/* Tambahkan aturan CSS yang ingin Anda terapkan pada resolusi ini */
+.footmer .footer-logo {
+max-width: 80%;
+padding: 0 !important;
+}
+}
