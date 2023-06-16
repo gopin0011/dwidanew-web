@@ -1839,9 +1839,9 @@ a:focus {
 
 .portfolio #portfolio-flters li,
 .portfolio .load-more .btn {
-    background: #ffa238;
+    background: #808080;
     text-transform: uppercase;
-    border: 1px solid #f3962c;
+    border: 1px solid #808080;
     border-style: none;
     border-width: 0;
     background-clip: border-box;

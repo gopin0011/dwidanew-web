@@ -90,7 +90,7 @@ body {
   }
   a:hover,
   a:focus {
-    color: #ffa238;
+    color: #808080;
   }
   blockquote {
     border-color: #e6e6e6;
@@ -1039,7 +1039,7 @@ body {
   a.fl-button:hover,
   .fl-builder-content a.fl-button:hover {
     color: #000;
-    background: #ffa238;
+    background: #808080;
   }
   a.fl-button *,
   a.fl-button:visited * {
@@ -1051,7 +1051,7 @@ body {
   a.fl-button:hover,
   a.button:hover {
     color: #000;
-    background-color: #ffa238;
+    background-color: #808080;
     border: 1px solid #fa8500;
   }
   .woocommerce a.button,
@@ -1083,7 +1083,7 @@ body {
   button:hover,
   input[type="button"]:hover,
   input[type="submit"]:hover {
-    background-color: #ffa238;
+    background-color: #808080;
     color: #000;
     border: 1px solid #fa8500;
     text-decoration: none;
@@ -1094,7 +1094,7 @@ body {
   button:focus,
   input[type="button"]:focus,
   input[type="submit"]:focus {
-    background-color: #ffa238;
+    background-color: #808080;
     color: #000;
     border: 1px solid #fa8500;
     outline: none;
@@ -1372,12 +1372,12 @@ body {
     }
     .fl-page-nav .navbar-nav li > a:hover,
     .fl-page-nav .navbar-nav li > a:focus {
-      color: #ffa238;
+      color: #808080;
     }
     .fl-page-nav .navbar-nav li.current-menu-ancestor > a,
     .fl-page-nav .navbar-nav li.current-menu-parent > a,
     .fl-page-nav .navbar-nav li.current-menu-item > a {
-      color: #ffa238;
+      color: #808080;
     }
     .fl-page-nav .navbar-nav li.current-menu-item ~ li.current-menu-item > a {
       color: #1e1e1e;

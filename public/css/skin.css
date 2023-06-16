@@ -91,7 +91,7 @@
 }
 .source1 a:hover,
 .source1 a:focus {
-  color: #ffa238;
+  color: #808080;
 }
 .source1 blockquote {
   border-color: #e6e6e6;
@@ -1001,7 +1001,7 @@
 .source1 a.fl-button:hover,
 .source1 .fl-builder-content a.fl-button:hover {
   color: #000;
-  background: #ffa238;
+  background: #808080;
 }
 .source1 a.fl-button *,
 .source1 a.fl-button:visited * {
@@ -1013,7 +1013,7 @@
 .source1 a.fl-button:hover,
 .source1 a.button:hover {
   color: #000;
-  background-color: #ffa238;
+  background-color: #808080;
   border: 1px solid #fa8500;
 }
 .source1 .woocommerce a.button,
@@ -1041,7 +1041,7 @@
 .source1 button:hover,
 .source1 input[type=button]:hover,
 .source1 input[type=submit]:hover {
-  background-color: #ffa238;
+  background-color: #808080;
   color: #000;
   border: 1px solid #fa8500;
   text-decoration: none;
@@ -1052,7 +1052,7 @@
 .source1 button:focus,
 .source1 input[type=button]:focus,
 .source1 input[type=submit]:focus {
-  background-color: #ffa238;
+  background-color: #808080;
   color: #000;
   border: 1px solid #fa8500;
   outline: none;
@@ -1312,12 +1312,12 @@
   }
   .source1 .fl-page-nav .navbar-nav li > a:hover,
   .source1 .fl-page-nav .navbar-nav li > a:focus {
-    color: #ffa238;
+    color: #808080;
   }
   .source1 .fl-page-nav .navbar-nav li.current-menu-ancestor > a,
   .source1 .fl-page-nav .navbar-nav li.current-menu-parent > a,
   .source1 .fl-page-nav .navbar-nav li.current-menu-item > a {
-    color: #ffa238;
+    color: #808080;
   }
   .source1 .fl-page-nav .navbar-nav li.current-menu-item ~ li.current-menu-item > a {
     color: #1e1e1e;

@@ -7,8 +7,8 @@
 
 <style id="wp-custom-css">
 @font-face {
-    font-family: "BlissBucket";
-    src: url("../../public/fonts/BlissBucket.otf") format("opentype");
+    font-family: BlissBucket;
+    src: url({{asset('public/fonts/Blissbucket.otf')}}) format("opentype");
 }    
          .top_layer {
          z-index: 10;
@@ -152,7 +152,7 @@
          }
          /* Mobile Menu */
          .menu-button span.menu-item-text  {
-         background:#ffa238 !important;
+         background:#808080 !important;
          padding: 5px 15px;
          border-radius: 5px;
          }
@@ -169,14 +169,14 @@
          color: #0061ac !important;
          }
          .uabb-creative-menu .sub-menu .menu-item-text:hover {
-         color: #ffa238 !important;
+         color: #808080 !important;
          }
          /*Custom Classes*/
          .left-border {
-         border-left: solid #ffa238 1px;
+         border-left: solid #808080 1px;
          }
          .bottom-border {
-         border-bottom: solid 1px #ffa238;
+         border-bottom: solid 1px #808080;
          padding-bottom: 7px;
          background-clip: content-box; 
          background-color: #fff;
@@ -211,7 +211,7 @@
          left: 0;
          }
          .home-page-slider .fl-slide-photo-wrap {
-         border-bottom: solid 2px #ffa238;
+         border-bottom: solid 2px #808080;
          padding-bottom: 7px;
          background-clip: content-box; 
          background-color: #fff;
@@ -271,7 +271,7 @@
          background-color:#52a6dd !important;
          }
          .bx-wrapper .bx-pager.bx-default-pager a {
-         background: #ffa238;
+         background: #808080;
          }
          .home-page-slider-info {
          position: relative;
@@ -294,7 +294,7 @@
          left: 0;
          }
          .home-page-slider .fl-slide-photo-wrap {
-         border-bottom: solid 2px #ffa238;
+         border-bottom: solid 2px #808080;
          padding-bottom: 7px;
          background-clip: content-box; 
          background-color: #fff;
@@ -334,7 +334,7 @@
          background-color:#52a6dd !important;
          }
          .bx-wrapper .bx-pager.bx-default-pager a {
-         background: #ffa238;
+         background: #808080;
          }
          .home-page-slider-info {
          position: relative;
@@ -388,7 +388,7 @@
          }
          /* Slider Dark */
          .test-dark-back .fl-slide-content-wrap .fl-slide-title {
-         color: #ffa238 !important;
+         color: #808080 !important;
          font-family: "Obvia", sans-serif;
          font-weight: 500;
          font-size: 20px;
@@ -438,7 +438,7 @@
          }
          .custom-testimony .pp-testimonials-title {
          padding-bottom: 15px;
-         border-bottom: solid 1px #ffa238;
+         border-bottom: solid 1px #808080;
          }
          .owl-carousel.owl-loaded {
          display: flex;
@@ -619,7 +619,7 @@
          min-height: 280px; 
          }
          .partners-caro .labb-carousel-item {
-         border-top: solid 5px #ffa238;
+         border-top: solid 5px #808080;
          border-radius: 5px;
          box-shadow: 3px 5px 15px 0px rgba(0,97,172,0.22);
          }
@@ -637,7 +637,7 @@
          margin-top: 20px;
          }
          .partners-caro .labb-container ul.slick-dots li button {
-         background: #ffa238;
+         background: #808080;
          border: none;
          }
          .partners-caro .labb-container ul.slick-dots li button:hover {
@@ -686,7 +686,7 @@
          z-index: 2;
          }
          .plan-caro .labb-container ul.slick-dots li button {
-         background: #ffa238;
+         background: #808080;
          border: none;
          }
          .plan-caro .labb-container ul.slick-dots li button:hover {
@@ -735,7 +735,7 @@
          z-index: 2;
          }
          .plan-caro .labb-container ul.slick-dots li button {
-         background: #ffa238;
+         background: #808080;
          border: none;
          }
          .plan-caro .labb-container ul.slick-dots li button:hover {
@@ -785,7 +785,7 @@
          z-index: 2;
          }
          .plan-caro .labb-container ul.slick-dots li button {
-         background: #ffa238;
+         background: #808080;
          border: none;
          }
          .plan-caro .labb-container ul.slick-dots li button:hover {
@@ -848,7 +848,7 @@
          z-index: 2;
          }}
          .how-it-works .labb-container ul.slick-dots li button {
-         background: #ffa238;
+         background: #808080;
          border: none;
          margin: 0px 10px
          }
@@ -918,7 +918,7 @@
          transition: all .5s;
          }
          .team-slide-box .uabb-imgicon-wrap {
-         border-bottom: 3px solid #ffa238;
+         border-bottom: 3px solid #808080;
          }
          @-moz-document url-prefix() {.uabb-slide-box-wrap .open-slidedown .uabb-slide-down {
          top:0%;
@@ -996,7 +996,7 @@
          }
          .lang-switch .wpml-ls-legacy-dropdown a:hover {
          background: transparent;
-         color: #f3962c;
+         color: #808080;
          }
          .lang-switch .wpml-ls-legacy-dropdown ul a:hover {
          background: #f8fcff;
@@ -1102,13 +1102,13 @@
             position: absolute;
             top: 0;
             left: 0;
-            width: 100%;
-            height: 410px;
+            width: 100vw;
+            max-height: 410px;
             background: url('public/images/about.jpg');
-            background-repeat: no-repeat;
+            background-repeat: inherit;
             background-position: center bottom;
             background-attachment: scroll;
-            background-size: auto;
+            background-size: 100%;
             background-position:0% 40%;
             /* Tambahkan properti lainnya jika diperlukan */
         }
@@ -1125,6 +1125,12 @@
             left: 30px;
             /* Tambahkan properti lainnya jika diperlukan */
             width: 231px;
+         }
+         @media only screen and (max-width: 992px) {
+            .fl-node-5f90a012491d3 > .fl-row-content-wrap {
+                /* background: url('public/images/about_mobile.jpg'); */
+                background-size: cover;
+            }
          }
 </style>
 <noscript>
@@ -1196,7 +1202,7 @@
                                                     <div class="fl-module fl-module-heading fl-node-5f90a02030ffa" data-node="5f90a02030ffa">
                                                     <div class="fl-module-content fl-node-content">
                                                         <h3 class="fl-heading">
-                                                            <span class="fl-heading-text">About Us</span>
+                                                            <span class="fl-heading-text" style="color: #000;">About Us</span>
                                                         </h3>
                                                     </div>
                                                     </div>
@@ -1379,7 +1385,7 @@
                                                     <div class="fl-module fl-module-heading fl-node-5fcdad1921d28" data-node="5fcdad1921d28">
                                                     <div class="fl-module-content fl-node-content">
                                                         <h3 class="fl-heading">
-                                                            <span class="fl-heading-text">Made In <br>Indonesia</span>
+                                                            <span class="fl-heading-text" style="color: #000;">Made In <br>Indonesia</span>
                                                         </h3>
                                                     </div>
                                                     </div>
@@ -1408,7 +1414,7 @@
                                                     <div class="fl-module fl-module-heading fl-node-5fee0357517b5" data-node="5fee0357517b5">
                                                     <div class="fl-module-content fl-node-content">
                                                         <h3 class="fl-heading">
-                                                            <span class="fl-heading-text">ISO</span>
+                                                            <span class="fl-heading-text" style="color: #000;">ISO</span>
                                                         </h3>
                                                     </div>
                                                     </div>
@@ -1767,7 +1773,8 @@
          if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
          images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
          if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)
-      </script><script data-no-minify="1" async src="https://bluebotics.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script>window.addEventListener('DOMContentLoaded', function() {!function(name,definition){if(typeof module!='undefined'&&module.exports)module.exports=definition()
+      </script>
+      <script data-no-minify="1" async src="https://bluebotics.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script>window.addEventListener('DOMContentLoaded', function() {!function(name,definition){if(typeof module!='undefined'&&module.exports)module.exports=definition()
          else if(typeof define=='function'&&define.amd)define(name,definition)
          else this[name]=definition()}('bowser',function(){var t=true
          function detect(ua){function getFirstMatch(regex){var match=ua.match(regex);return(match&&match.length>1&&match[1])||'';}

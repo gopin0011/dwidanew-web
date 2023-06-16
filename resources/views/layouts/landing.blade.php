@@ -268,22 +268,7 @@ section.faq {
   padding-bottom: 50px;
 }
 
-@media only screen and (max-width: 1024px) {
-  #faq li .content-wrapper img {
-    /* width: 568px; */
-    /* height: 300px; */
-    max-width: 768px;
-    filter: grayscale(100%);
-    order: 2;
-    margin-left: 10px;
-    text-align: center;
-    justify-content: center;
-    margin-left: auto;
-    margin-right: auto;
-    text-align-last: center;
-  }
-}
-}
+
 
 @media only screen and (max-width: 768px) {
   .our-company {
@@ -364,9 +349,6 @@ section.faq {
   .content-wrapper img {
     margin-left: 0px !important;
   }
-  /* .footmer .footer-logo {
-      max-width: 60%;
-   } */
 }
 
 @media (min-width: 1200px) {

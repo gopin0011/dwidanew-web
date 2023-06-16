@@ -1083,7 +1083,7 @@
 .source1 .fl-node-60257aac84266 .uabb-creative-menu.off-canvas .sub-menu > li > a:focus span.menu-item-text > i,
 .source1 .fl-node-60257aac84266 .uabb-creative-menu.off-canvas .menu li .uabb-has-submenu-container a:hover span.menu-item-text > i,
 .source1 .fl-node-60257aac84266 .uabb-creative-menu.off-canvas .menu li .uabb-has-submenu-container a:focus span.menu-item-text > i {
-  color: #ffa238;
+  color: #808080;
 }
 .source1 .fl-node-60257aac84266 .uabb-creative-menu.off-canvas .menu > li > a:hover span.menu-item-text,
 .source1 .fl-node-60257aac84266 .uabb-creative-menu.off-canvas .menu > li > a:focus span.menu-item-text,
@@ -1109,7 +1109,7 @@
 .source1 .fl-node-60257aac84266 .uabb-creative-menu.off-canvas .menu > li.current-menu-ancestor > .uabb-has-submenu-container > a span.menu-item-text > i,
 .source1 .fl-node-60257aac84266 .uabb-creative-menu.off-canvas .sub-menu > li.current-menu-ancestor > a span.menu-item-text > i,
 .source1 .fl-node-60257aac84266 .uabb-creative-menu.off-canvas .sub-menu > li.current-menu-ancestor > .uabb-has-submenu-container > a span.menu-item-text i {
-  color: #ffa238;
+  color: #808080;
 }
 .source1 .fl-node-60257aac84266 .uabb-creative-menu .uabb-off-canvas-menu.uabb-menu-left,
 .source1 .fl-node-60257aac84266 .menu-open.uabb-creative-menu .uabb-off-canvas-menu.uabb-menu-left,
@@ -1123,7 +1123,7 @@
 .source1 .fl-node-60257aac84266 .uabb-creative-menu.off-canvas .uabb-toggle-arrows li:focus .uabb-has-submenu-container .uabb-menu-toggle:before,
 .source1 .fl-node-60257aac84266 .uabb-creative-menu.off-canvas .uabb-toggle-arrows .uabb-creative-menu.current-menu-item .uabb-menu-toggle:before,
 .source1 .fl-node-60257aac84266 .uabb-creative-menu.off-canvas .uabb-toggle-arrows .uabb-creative-menu.current-menu-ancestor .uabb-menu-toggle:before {
-  color: #ffa238;
+  color: #808080;
 }
 .source1 .fl-node-60257aac84266 .uabb-creative-menu.off-canvas .uabb-toggle-plus li:hover .uabb-menu-toggle:before,
 .source1 .fl-node-60257aac84266 .uabb-creative-menu.off-canvas .uabb-toggle-plus li:focus .uabb-menu-toggle:before,
@@ -1131,7 +1131,7 @@
 .source1 .fl-node-60257aac84266 .uabb-creative-menu.off-canvas .uabb-toggle-plus li:focus .uabb-has-submenu-container .uabb-menu-toggle:before,
 .source1 .fl-node-60257aac84266 .uabb-creative-menu.off-canvas .uabb-toggle-plus .uabb-creative-menu.current-menu-item .uabb-menu-toggle:before,
 .source1 .fl-node-60257aac84266 .uabb-creative-menu.off-canvas .uabb-toggle-plus .uabb-creative-menu.current-menu-ancestor .uabb-menu-toggle:before {
-  color: #ffa238;
+  color: #808080;
 }
 .source1 .fl-node-60257aac84266 .uabb-creative-menu.off-canvas .uabb-clear {
   background: rgba(0, 0, 0, 0);
@@ -1483,7 +1483,7 @@
 .source1 .fl-builder-content .fl-node-5f3db7ed05a93 a.fl-button,
 .source1 .fl-builder-content .fl-node-5f3db7ed05a93 a.fl-button:hover,
 .source1 .fl-builder-content .fl-node-5f3db7ed05a93 a.fl-button:visited {
-  background: #ffa238;
+  background: #808080;
 }
 .source1 .fl-builder-content .fl-node-5f3db7ed05a93 a.fl-button:hover {
   background-color: #0061ac;
@@ -1516,7 +1516,7 @@
 .source1 .fl-builder-content .fl-node-5f3db7ed05a93 a.fl-button,
 .source1 .fl-builder-content .fl-node-5f3db7ed05a93 a.fl-button:visited {
   text-transform: uppercase;
-  border: 1px solid #f3962c;
+  border: 1px solid #808080;
   border-style: none;
   border-width: 0;
   background-clip: border-box;
@@ -2612,7 +2612,7 @@
   color: #fff;
 }
 .source1 .fl-node-616d8bfa30081 .fl-icon i {
-  background: #ffa238;
+  background: #808080;
 }
 .source1 .fl-node-616d8bfa30081 .fl-icon i {
   border-radius: 100%;
@@ -2697,7 +2697,7 @@
   width: 50px;
 }
 .source1 .fl-node-616d8bfa30084 h3.uabb-divider-text {
-  color: #ffa238;
+  color: #808080;
 }
 .source1 .fl-node-616d8bfa30084 h3.uabb-divider-text {
   white-space: nowrap;
@@ -2716,7 +2716,7 @@
   vertical-align: middle;
 }
 .source1 .fl-node-616d8bfa30084 .uabb-separator-line > span {
-  border-top: 1px solid #ffa238;
+  border-top: 1px solid #808080;
   display: block;
   margin-top: 0 !important;
 }
@@ -2781,7 +2781,7 @@
 .source1 .fl-row .fl-col .fl-node-616d8bfa30089 h3.fl-heading .fl-heading-text,
 .source1 .fl-row .fl-col .fl-node-616d8bfa30089 h3.fl-heading .fl-heading-text *,
 .source1 .fl-node-616d8bfa30089 h3.fl-heading .fl-heading-text {
-  color: #ffa238;
+  color: #808080;
 }
 .source1 .fl-node-616d8bfa30089.fl-module-heading .fl-heading {
   font-size: 20px;
@@ -2800,7 +2800,7 @@
 .source1 .fl-row .fl-col .fl-node-616d8bfa3008e h3.fl-heading .fl-heading-text,
 .source1 .fl-row .fl-col .fl-node-616d8bfa3008e h3.fl-heading .fl-heading-text *,
 .source1 .fl-node-616d8bfa3008e h3.fl-heading .fl-heading-text {
-  color: #ffa238;
+  color: #808080;
 }
 .source1 .fl-node-616d8bfa3008e.fl-module-heading .fl-heading {
   font-size: 20px;
@@ -2826,7 +2826,7 @@
 .source1 .fl-row .fl-col .fl-node-616d8bfa30093 h3.fl-heading .fl-heading-text,
 .source1 .fl-row .fl-col .fl-node-616d8bfa30093 h3.fl-heading .fl-heading-text *,
 .source1 .fl-node-616d8bfa30093 h3.fl-heading .fl-heading-text {
-  color: #ffa238;
+  color: #808080;
 }
 .source1 .fl-node-616d8bfa30093.fl-module-heading .fl-heading {
   font-size: 20px;
@@ -3020,7 +3020,7 @@
 .source1 .fl-node-616d8bfa30097 .pp-gf-content .gform_wrapper .gfield input:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file]):focus,
 .source1 .fl-node-616d8bfa30097 .pp-gf-content .gform_wrapper .gfield select:focus,
 .source1 .fl-node-616d8bfa30097 .pp-gf-content .gform_wrapper .gfield textarea:focus {
-  border-color: #ffa238;
+  border-color: #808080;
 }
 .source1 .fl-node-616d8bfa30097 .pp-gf-content .gform_wrapper .top_label input.medium,
 .source1 .fl-node-616d8bfa30097 .pp-gf-content .gform_wrapper .top_label select.medium {
@@ -3054,7 +3054,7 @@
 .source1 .fl-node-616d8bfa30097 .pp-gf-content .gform_wrapper .gform-button:hover,
 .source1 .fl-node-616d8bfa30097 .pp-gf-content .gform_wrapper .gform_footer .gform_button:hover,
 .source1 .fl-node-616d8bfa30097 .pp-gf-content .gform_wrapper .gform_page_footer .button:hover {
-  color: #ffa238;
+  color: #808080;
   background: #fff;
 }
 .source1 .fl-node-616d8bfa30097 .pp-gf-content .gform_wrapper .gfield_radio input[type=radio],
@@ -3109,8 +3109,8 @@
 .source1 .fl-node-616d8bfa30097 .pp-gf-content .gform_wrapper .gfield_checkbox input[type=checkbox]:focus:checked:before,
 .source1 .fl-node-616d8bfa30097 .pp-gf-content .gform_wrapper .ginput_container_consent input[type=checkbox]:checked:before,
 .source1 .fl-node-616d8bfa30097 .pp-gf-content .gform_wrapper .ginput_container_consent input[type=checkbox]:focus:checked:before {
-  background: #ffa238;
-  background-color: #ffa238;
+  background: #808080;
+  background-color: #808080;
 }
 .source1 .fl-node-616d8bfa30097 .pp-gf-content .gform_wrapper .gfield input[type=file] {
   background-color: transparent;
@@ -3182,7 +3182,7 @@
 .source1 .fl-node-616d8bfa30097 .pp-gf-content .gform_wrapper .gform-button,
 .source1 .fl-node-616d8bfa30097 .pp-gf-content .gform_wrapper .gform_footer .gform_button,
 .source1 .fl-node-616d8bfa30097 .pp-gf-content .gform_wrapper .gform_page_footer .button {
-  border-color: #ffa238;
+  border-color: #808080;
 }
 .source1 .fl-node-616d8bfa30097 .pp-gf-content {
   padding-top: 0;
@@ -3255,7 +3255,7 @@
   width: 50px;
 }
 .source1 .fl-node-616d8bfa30099 h3.uabb-divider-text {
-  color: #ffa238;
+  color: #808080;
 }
 .source1 .fl-node-616d8bfa30099 h3.uabb-divider-text {
   white-space: nowrap;
@@ -3274,7 +3274,7 @@
   vertical-align: middle;
 }
 .source1 .fl-node-616d8bfa30099 .uabb-separator-line > span {
-  border-top: 1px solid #ffa238;
+  border-top: 1px solid #808080;
   display: block;
   margin-top: 0 !important;
 }

@@ -2,10 +2,10 @@
 
 @section('css')
 <style>
-   @font-face {
-    font-family: "BlissBucket";
-    src: url("../../public/fonts/BlissBucket.otf") format("opentype");
-}
+@font-face {
+    font-family: BlissBucket;
+    src: url({{asset('public/fonts/Blissbucket.otf')}}) format("opentype");
+}   
 
          img.wp-smiley,
          img.emoji {
@@ -191,7 +191,7 @@
          }
          /* Mobile Menu */
          .menu-button span.menu-item-text  {
-         background:#ffa238 !important;
+         background:#808080 !important;
          padding: 5px 15px;
          border-radius: 5px;
          }
@@ -208,14 +208,14 @@
          color: #0061ac !important;
          }
          .uabb-creative-menu .sub-menu .menu-item-text:hover {
-         color: #ffa238 !important;
+         color: #808080 !important;
          }
          /*Custom Classes*/
          .left-border {
-         border-left: solid #ffa238 1px;
+         border-left: solid #808080 1px;
          }
          .bottom-border {
-         border-bottom: solid 1px #ffa238;
+         border-bottom: solid 1px #808080;
          padding-bottom: 7px;
          background-clip: content-box; 
          background-color: #fff;
@@ -250,7 +250,7 @@
          left: 0;
          }
          .home-page-slider .fl-slide-photo-wrap {
-         border-bottom: solid 2px #ffa238;
+         border-bottom: solid 2px #808080;
          padding-bottom: 7px;
          background-clip: content-box; 
          background-color: #fff;
@@ -310,7 +310,7 @@
          background-color:#52a6dd !important;
          }
          .bx-wrapper .bx-pager.bx-default-pager a {
-         background: #ffa238;
+         background: #808080;
          }
          .home-page-slider-info {
          position: relative;
@@ -333,7 +333,7 @@
          left: 0;
          }
          .home-page-slider .fl-slide-photo-wrap {
-         border-bottom: solid 2px #ffa238;
+         border-bottom: solid 2px #808080;
          padding-bottom: 7px;
          background-clip: content-box; 
          background-color: #fff;
@@ -373,7 +373,7 @@
          background-color:#52a6dd !important;
          }
          .bx-wrapper .bx-pager.bx-default-pager a {
-         background: #ffa238;
+         background: #808080;
          }
          .home-page-slider-info {
          position: relative;
@@ -427,7 +427,7 @@
          }
          /* Slider Dark */
          .test-dark-back .fl-slide-content-wrap .fl-slide-title {
-         color: #ffa238 !important;
+         color: #808080 !important;
          font-family: "Obvia", sans-serif;
          font-weight: 500;
          font-size: 20px;
@@ -477,7 +477,7 @@
          }
          .custom-testimony .pp-testimonials-title {
          padding-bottom: 15px;
-         border-bottom: solid 1px #ffa238;
+         border-bottom: solid 1px #808080;
          }
          .owl-carousel.owl-loaded {
          display: flex;
@@ -658,7 +658,7 @@
          min-height: 280px; 
          }
          .partners-caro .labb-carousel-item {
-         border-top: solid 5px #ffa238;
+         border-top: solid 5px #808080;
          border-radius: 5px;
          box-shadow: 3px 5px 15px 0px rgba(0,97,172,0.22);
          }
@@ -676,7 +676,7 @@
          margin-top: 20px;
          }
          .partners-caro .labb-container ul.slick-dots li button {
-         background: #ffa238;
+         background: #808080;
          border: none;
          }
          .partners-caro .labb-container ul.slick-dots li button:hover {
@@ -725,7 +725,7 @@
          z-index: 2;
          }
          .plan-caro .labb-container ul.slick-dots li button {
-         background: #ffa238;
+         background: #808080;
          border: none;
          }
          .plan-caro .labb-container ul.slick-dots li button:hover {
@@ -774,7 +774,7 @@
          z-index: 2;
          }
          .plan-caro .labb-container ul.slick-dots li button {
-         background: #ffa238;
+         background: #808080;
          border: none;
          }
          .plan-caro .labb-container ul.slick-dots li button:hover {
@@ -824,7 +824,7 @@
          z-index: 2;
          }
          .plan-caro .labb-container ul.slick-dots li button {
-         background: #ffa238;
+         background: #808080;
          border: none;
          }
          .plan-caro .labb-container ul.slick-dots li button:hover {
@@ -887,7 +887,7 @@
          z-index: 2;
          }}
          .how-it-works .labb-container ul.slick-dots li button {
-         background: #ffa238;
+         background: #808080;
          border: none;
          margin: 0px 10px
          }
@@ -957,7 +957,7 @@
          transition: all .5s;
          }
          .team-slide-box .uabb-imgicon-wrap {
-         border-bottom: 3px solid #ffa238;
+         border-bottom: 3px solid #808080;
          }
          @-moz-document url-prefix() {.uabb-slide-box-wrap .open-slidedown .uabb-slide-down {
          top:0%;
@@ -1035,7 +1035,7 @@
          }
          .lang-switch .wpml-ls-legacy-dropdown a:hover {
          background: transparent;
-         color: #f3962c;
+         color: #808080;
          }
          .lang-switch .wpml-ls-legacy-dropdown ul a:hover {
          background: #f8fcff;
@@ -1142,28 +1142,29 @@
             top: 0;
             left: 0;
             width: 100%;
-            height: 410px;
+            max-height: 410px;
             background: url('public/images/career.jpg');
-            background-repeat: no-repeat;
+            background-repeat: inherit;
             background-position: center bottom;
             background-attachment: scroll;
-            background-size: auto;
+            background-size: 100%;
             background-position:0% 40%;
-            border-bottom: 10px solid #f3962c;
+            border-bottom: 10px solid #808080;
          }
 
          .fl-node-602ef686c49f8>.fl-col-content {
             border-style: solid;
             border-width: 0;
             background-clip: border-box;
-            /* border-color:#ffa238; */
+            /* border-color:#808080; */
             /* border-bottom-width:2px; */
          }
 
          .container-img {
             position: relative;
             /* Tambahkan properti lainnya jika diperlukan */
-            margin-bottom: 350px;
+            /* margin-bottom: 350px; */
+            min-height: 410px;
          }
          .container-img img {
             position: relative;
@@ -1176,7 +1177,13 @@
 
 
 .fl-node-602ef686c49fb > .fl-col-content {
-   margin-top: 60px;
+   /* margin-top: 60px; */
+}
+@media only screen and (max-width: 992px) {
+   .fl-node-602ef686c49f6>.fl-row-content-wrap {
+      background-size: cover;
+      /* min-height: 410px; */
+   }
 }
 </style>
 <noscript>
@@ -1201,7 +1208,7 @@
                            <div class="fl-module fl-module-heading fl-node-602ef686c49f3 fl-animation fl-fade-up" data-node="602ef686c49f3" data-animation-delay="0" data-animation-duration="2">
                               <div class="fl-module-content fl-node-content">
                                  <h1 class="fl-heading">
-                                    <span class="fl-heading-text">Career</span>
+                                    <span class="fl-heading-text" style="font-family: 'BlissBucket';">Career</span>
                                  </h1>
                               </div>
                            </div>
@@ -1271,9 +1278,9 @@
                                        </a>
                                     </div> -->
                                     <div class="fl-post-feed-text">
-                                       <div class="fl-post-feed-header" style="border-top: 1px solid #ffa238;">
+                                       <div class="fl-post-feed-header" style="border-top: 1px solid #808080;">
                                           <h2 class="fl-post-feed-title" itemprop="headline" style="margin-top: 15px; font-family: 'BlissBucket';">
-                                             <a href="https://www.jobstreet.co.id/id/job/tax-staff-4309080?jobId=jobstreet-id-job-4309080&sectionRank=1&token=0~5fe8f6e5-159a-4439-9f23-c856140ada9d&fr=SRP%20View%20In%20New%20Tab" rel="bookmark" title="Career">Tax Staff</a>
+                                             <a href="https://www.jobstreet.co.id/id/job/tax-staff-4350860?jobId=jobstreet-id-job-4350860&sectionRank=1&token=0~81bd064b-4fa6-4ee5-b529-6d070c52adf3&fr=SRP%20View%20In%20New%20Tab" rel="bookmark" title="Career">Tax Staff</a>
                                           </h2>
                                           <div class="fl-post-feed-meta">
                                              <span class="fl-post-feed-date">
@@ -1295,7 +1302,7 @@
                                              </ul>
                                              </div>
                                           </span>
-                                          <a class="fl-post-feed-more" href="https://www.jobstreet.co.id/id/job/tax-staff-4309080?jobId=jobstreet-id-job-4309080&sectionRank=1&token=0~5fe8f6e5-159a-4439-9f23-c856140ada9d&fr=SRP%20View%20In%20New%20Tab" title="Career">Read More >></a>
+                                          <a class="fl-post-feed-more" href="https://www.jobstreet.co.id/id/job/tax-staff-4350860?jobId=jobstreet-id-job-4350860&sectionRank=1&token=0~81bd064b-4fa6-4ee5-b529-6d070c52adf3&fr=SRP%20View%20In%20New%20Tab" title="Career">Read More >></a>
                                        </div>
                                     </div>
                                     <div class="fl-clear"></div>
@@ -1342,7 +1349,7 @@
                                     <h2 class="widgettitle">Recent Posts</h2>
                                     <ul>
                                        <li>
-                                          <a href="https://www.jobstreet.co.id/id/job/tax-staff-4309080?jobId=jobstreet-id-job-4309080&sectionRank=1&token=0~5fe8f6e5-159a-4439-9f23-c856140ada9d&fr=SRP%20View%20In%20New%20Tab">Tax Staff</a>
+                                          <a href="https://www.jobstreet.co.id/id/job/tax-staff-4350860?jobId=jobstreet-id-job-4350860&sectionRank=1&token=0~81bd064b-4fa6-4ee5-b529-6d070c52adf3&fr=SRP%20View%20In%20New%20Tab">Tax Staff</a>
                                        </li>
                                        <!-- <li>
                                           <a href="https://bluebotics.com/bluebotics-prolog-agv-automation/">BlueBotics and ProLog Automation Join  Forces to Drive German AGV Adoption</a>

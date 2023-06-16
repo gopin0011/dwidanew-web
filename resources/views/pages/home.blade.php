@@ -145,7 +145,7 @@
          }
          /* Mobile Menu */
          .menu-button span.menu-item-text  {
-         background:#ffa238 !important;
+         background:#808080 !important;
          padding: 5px 15px;
          border-radius: 5px;
          }
@@ -162,14 +162,14 @@
          color: #0061ac !important;
          }
          .uabb-creative-menu .sub-menu .menu-item-text:hover {
-         color: #ffa238 !important;
+         color: #808080 !important;
          }
          /*Custom Classes*/
          .left-border {
-         border-left: solid #ffa238 1px;
+         border-left: solid #808080 1px;
          }
          .bottom-border {
-         border-bottom: solid 1px #ffa238;
+         border-bottom: solid 1px #808080;
          padding-bottom: 7px;
          background-clip: content-box; 
          background-color: #fff;
@@ -204,7 +204,7 @@
          left: 0;
          }
          .home-page-slider .fl-slide-photo-wrap {
-         border-bottom: solid 2px #ffa238;
+         border-bottom: solid 2px #808080;
          padding-bottom: 7px;
          background-clip: content-box; 
          background-color: #fff;
@@ -264,7 +264,7 @@
          background-color:#52a6dd !important;
          }
          .bx-wrapper .bx-pager.bx-default-pager a {
-         background: #ffa238;
+         background: #808080;
          }
          .home-page-slider-info {
          position: relative;
@@ -287,7 +287,7 @@
          left: 0;
          }
          .home-page-slider .fl-slide-photo-wrap {
-         border-bottom: solid 2px #ffa238;
+         border-bottom: solid 2px #808080;
          padding-bottom: 7px;
          background-clip: content-box; 
          background-color: #fff;
@@ -327,7 +327,7 @@
          background-color:#52a6dd !important;
          }
          .bx-wrapper .bx-pager.bx-default-pager a {
-         background: #ffa238;
+         background: #808080;
          }
          .home-page-slider-info {
          position: relative;
@@ -381,7 +381,7 @@
          }
          /* Slider Dark */
          .test-dark-back .fl-slide-content-wrap .fl-slide-title {
-         color: #ffa238 !important;
+         color: #808080 !important;
          font-family: "Obvia", sans-serif;
          font-weight: 500;
          font-size: 20px;
@@ -431,7 +431,7 @@
          }
          .custom-testimony .pp-testimonials-title {
          padding-bottom: 15px;
-         border-bottom: solid 1px #ffa238;
+         border-bottom: solid 1px #808080;
          }
          .owl-carousel.owl-loaded {
          display: flex;
@@ -612,7 +612,7 @@
          min-height: 280px; 
          }
          .partners-caro .labb-carousel-item {
-         border-top: solid 5px #ffa238;
+         border-top: solid 5px #808080;
          border-radius: 5px;
          box-shadow: 3px 5px 15px 0px rgba(0,97,172,0.22);
          }
@@ -630,7 +630,7 @@
          margin-top: 20px;
          }
          .partners-caro .labb-container ul.slick-dots li button {
-         background: #ffa238;
+         background: #808080;
          border: none;
          }
          .partners-caro .labb-container ul.slick-dots li button:hover {
@@ -679,7 +679,7 @@
          z-index: 2;
          }
          .plan-caro .labb-container ul.slick-dots li button {
-         background: #ffa238;
+         background: #808080;
          border: none;
          }
          .plan-caro .labb-container ul.slick-dots li button:hover {
@@ -728,7 +728,7 @@
          z-index: 2;
          }
          .plan-caro .labb-container ul.slick-dots li button {
-         background: #ffa238;
+         background: #808080;
          border: none;
          }
          .plan-caro .labb-container ul.slick-dots li button:hover {
@@ -778,7 +778,7 @@
          z-index: 2;
          }
          .plan-caro .labb-container ul.slick-dots li button {
-         background: #ffa238;
+         background: #808080;
          border: none;
          }
          .plan-caro .labb-container ul.slick-dots li button:hover {
@@ -841,7 +841,7 @@
          z-index: 2;
          }}
          .how-it-works .labb-container ul.slick-dots li button {
-         background: #ffa238;
+         background: #808080;
          border: none;
          margin: 0px 10px
          }
@@ -911,7 +911,7 @@
          transition: all .5s;
          }
          .team-slide-box .uabb-imgicon-wrap {
-         border-bottom: 3px solid #ffa238;
+         border-bottom: 3px solid #808080;
          }
          @-moz-document url-prefix() {.uabb-slide-box-wrap .open-slidedown .uabb-slide-down {
          top:0%;
@@ -989,7 +989,7 @@
          }
          .lang-switch .wpml-ls-legacy-dropdown a:hover {
          background: transparent;
-         color: #f3962c;
+         color: #808080;
          }
          .lang-switch .wpml-ls-legacy-dropdown ul a:hover {
          background: #f8fcff;

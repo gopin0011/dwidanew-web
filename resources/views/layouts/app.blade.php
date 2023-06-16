@@ -114,24 +114,19 @@
       
       @yield('css')
       <style>
-         .djt-group-footer {
-               margin-top: 50px;
-               width: 60%;
-         }
-         @media only screen and (max-width: 768px) {
-            .djt-group-footer {
-               margin-top: 0px;
-               width: 25%;
-            }
-         }
-
-         header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px;
-  background-color: #fff;
+.djt-group-footer {
+      margin-top: 50px;
+      width: 60%;
 }
+
+header {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 10px;
+   background-color: #fff;
+}
+
 
 .logo img {
   height: 45px; /* Sesuaikan ukuran logo */
@@ -159,6 +154,137 @@ nav ul li a {
 }
 nav ul li a:hover {
   text-decoration: none;
+}
+
+.footmer img.footer-logo-2 {
+   max-width: 35% !important;
+}
+.footmer .footer-logo {
+   max-width: 100%;
+}
+@media only screen and (max-width: 768px) {
+   .djt-group-footer {
+      margin-top: 0px;
+      width: 25%;
+   }
+      .text-center-mobile {
+         text-align: center;
+         /* display: flex; */
+         justify-content: center;
+         margin-left: auto;
+         margin-right: auto;
+         text-align-last: center;
+      }
+      header {
+         display: flex;
+         flex-direction: column;
+      }
+      .logo {
+         order: 1;
+      }
+      nav {
+         order: 2;
+      }
+
+      nav ul {
+         text-align: center;
+         justify-content: center;
+         margin-left: auto;
+         margin-right: auto;
+         text-align-last: center;
+         padding: 5px 0px 0px 0px;
+      }
+
+
+}
+@media only screen and (max-width: 820px) {
+      .djt-group-footer {
+         margin-top: 0px;
+         width: 25%;
+      }
+      .text-center-mobile {
+         text-align: center;
+         /* display: flex; */
+         justify-content: center;
+         margin-left: auto;
+         margin-right: auto;
+         text-align-last: center;
+      }
+      header {
+         display: flex;
+         flex-direction: column;
+      }
+      .logo {
+         order: 1;
+      }
+      nav {
+         order: 2;
+      }
+
+      nav ul {
+         text-align: center;
+         justify-content: center;
+         margin-left: auto;
+         margin-right: auto;
+         text-align-last: center;
+         padding: 5px 0px 0px 0px;
+      }
+      .footmer {
+         font-size: 25px;
+      }
+
+      .footmer img.footer-logo-2 {
+         max-width: 45%;
+      }
+      
+}
+
+@media only screen and (max-width: 844px) {
+   .djt-group-footer {
+      margin-top: 0px;
+      width: 25%;
+   }
+   .text-center-mobile {
+      text-align: center;
+      /* display: flex; */
+      justify-content: center;
+      margin-left: auto;
+      margin-right: auto;
+      text-align-last: center;
+   }
+   
+   .footmer {
+      font-size: 15px;
+   }
+
+   .footmer img.footer-logo-2 {
+      max-width: 35% !important;
+   }
+   .footmer .footer-logo {
+      /* max-width: 60% !important; */
+   }
+}
+
+@media (max-width: 768px) {
+   .footmer {
+                  font-size: 19px;
+               }
+}
+
+/* Untuk resolusi 768px */
+@media (min-width: 768px) and (max-width: 819px) {
+   /* Tambahkan aturan CSS yang ingin Anda terapkan pada resolusi ini */
+   .footmer .footer-logo {
+         max-width: 80%;
+   }
+}
+
+/* Untuk resolusi 820px */
+@media (min-width: 820px) and (max-width: 820px) {
+   /* Tambahkan aturan CSS yang ingin Anda terapkan pada resolusi ini */
+   .footmer .footer-logo {
+         max-width: 80%;
+   }
 }
          </style>
       
@@ -288,8 +414,9 @@ nav ul li a:hover {
          @yield('contents')
          <!-- .fl-page-content -->
          
+         <div class="footmer">
          @include('layouts.footer-2')
-         
+         </div>
          <div class="uabb-js-breakpoint" style="display: none;"></div>
       </div>
       <!-- .fl-page -->

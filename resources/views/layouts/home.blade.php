@@ -74,35 +74,146 @@
             margin-top: -100px;
             /* position: inherit; */
          }
-         @media only screen and (max-width: 768px) {
+         .SplitLines {
+            font-size: 52px;
+            /* margin-top: 250px; */
+            bottom: 0;
+         }
+
+         .HpSlider-content {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            /* padding-bottom: 15px; */
+         }
+
+         .HpSlider-content .container {
+            margin-bottom: 50px; /* Ganti dengan nilai jarak yang diinginkan */
+         }
+
+         .footmer img.footer-logo-2 {
+            max-width: 45%;
+         }
+
+         .footmer .footer-logo {
+            max-width: 100%;
+         }
+         @media only screen and (max-width: 844px) {
             .source1 .djt-group-footer {
                margin-top: 0px;
                width: 25%;
             }
+
+            
+            .text-center-mobile {
+               text-align: center;
+               /* display: flex; */
+               justify-content: center;
+               margin-left: auto;
+               margin-right: auto;
+               text-align-last: center;
+            }
+            .SplitLines {
+               font-size: 24px;
+            }
+            #image-container {
+               width: 120%;
+               padding-top: 3px;
+            }
+            .HpSlider-content .container {
+               margin-bottom: 50px; /* Ganti dengan nilai jarak yang diinginkan */
+            }
+
+            
          }
          .SiteHeader-logo {
-  width: 80%;
-left: 10.6%;
-top: 0rem;
+            width: 77%;
+            /* left: 10.6%; */
+            top: 1rem;
+            /* margin-left: auto; */
+            /* margin-right: auto; */
+            
          }
+            .SiteHeader-brand {
+               display: flex;
+               justify-content: center;
+               align-items: center;
+            }
          #image-container {
-            width: 120%;
+            /* width: 120%; */
          }
          .footmer {
             position: relative;
             background-color:#000; color:#fff; 
          }
-         @media (min-width: 768px) {
-            .footmer {
-   background-color:#333333; color:#fff; 
-}
-}
 
 @media (min-width: 1024px) {
    .footmer {
    background-color:#333333; color:#fff; height: 300px;
 } 
 }
+
+@media (max-width: 1024px) {
+   .our-company {
+    margin-top: 0px;
+    width: 100%;
+  }
+  .djt-building {
+    height: 200px;
+  }
+  .content-wrapper {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .content-wrapper img {
+    margin-left: 0px !important;
+  }
+  .our-work {
+    border: none;
+    height: 130px;
+    vertical-align: top;
+    padding: 10px 0 0 0;
+  }
+
+  .show-bg-2 img {
+    padding: 0 0;
+    border: none;
+    /* height: 350px; */
+  }
+
+  .our-brands {
+    margin-top: -155px; 
+    background-color: #fff;
+    box-shadow: none;
+    border: none;
+  }
+
+  .equipment-work {
+    padding-top: 0;
+  }
+
+  .logo-all-brand {
+    padding-bottom: 15px;
+  }
+
+  #faq li .content-wrapper img {
+    /* width: 568px; */
+    /* height: 300px; */
+    max-width: 768px;
+    filter: grayscale(100%);
+    order: 2;
+    margin-left: 10px;
+    text-align: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align-last: center;
+  }
+  #faq li .content-wrapper p {
+  font-size: 15px;
+}
+}
+
 @media (min-width: 2000px) {
    .SiteHeader-submenu-container ul {
       margin-top: 60px !important;
@@ -115,14 +226,83 @@ top: 0rem;
 }
 }         
          
-         @font-face {
+@font-face {
     font-family: "BlissBucket";
     src: url("public/fonts/BlissBucket.otf") format("opentype");
 }
 @media screen and (min-width: 768px) {
-  .SiteHeader-overlay.SiteHeader-overlay--menu {
-    display: none;
-  }
+   .SiteHeader-overlay.SiteHeader-overlay--menu {
+               display: none;
+            }
+            .footmer {
+   background-color:#333333; color:#fff; 
+   
+}
+            
+}
+@media only screen and (max-width: 844px) {
+   .djt-group-footer {
+      margin-top: 0px;
+      width: 25%;
+   }
+   .text-center-mobile {
+      text-align: center;
+      /* display: flex; */
+      justify-content: center;
+      margin-left: auto;
+      margin-right: auto;
+      text-align-last: center;
+   }
+   header {
+      display: flex;
+      flex-direction: column;
+   }
+   .logo {
+      order: 1;
+   }
+   nav {
+      order: 2;
+   }
+
+   nav ul {
+      text-align: center;
+      justify-content: center;
+      margin-left: auto;
+      margin-right: auto;
+      text-align-last: center;
+      padding: 5px 0px 0px 0px;
+   }
+
+   .footmer {
+      font-size: 15px;
+   }
+
+   .footmer img.footer-logo-2 {
+      max-width: 35% !important;
+   }
+   .footer-logo {
+      
+   }
+}
+@media (max-width: 768px) {
+   .footmer {
+                  font-size: 19px;
+               }
+}
+
+@media (min-width: 768px) and (max-width: 843px) {
+   /* Tambahkan aturan CSS yang ingin Anda terapkan pada resolusi ini */
+   .footmer .footer-logo {
+         max-width: 80%;
+   }
+}
+
+/* Untuk resolusi 820px */
+@media (min-width: 820px) and (max-width: 844px) {
+   /* Tambahkan aturan CSS yang ingin Anda terapkan pada resolusi ini */
+   .footmer .footer-logo {
+         max-width: 80%;
+   }
 }
 
         </style>
@@ -142,7 +322,7 @@ top: 0rem;
                   <!-- <svg viewbox="0 0 134 26">
                      <path d="M0.836,0.812L0.825,25.19h4.878V10.215L25.214,26V0.812h-4.893v14.967L0.828,0L0.836,0.812z M88.472,0.81h4.88v24.375h-4.88 V0.81z M127.822,0.812h4.878V25.19h-4.878V0.812z M104.078,20.314h17.915v4.876H99.202V0.812h4.876V20.314z M29.608,13 c0-7.179,5.459-13,12.194-13c6.733,0,12.192,5.821,12.192,13c0,7.182-5.459,13-12.192,13C35.067,26,29.608,20.182,29.608,13 M34.486,13c0,4.488,3.275,8.127,7.316,8.127c4.04,0,7.317-3.639,7.317-8.127s-3.277-8.124-7.317-8.124 C37.761,4.876,34.486,8.512,34.486,13 M75.903,25.188H58.877V0.812h17.109c4.026,0.017,7.28,3.286,7.28,7.314 c0,1.87-0.708,3.571-1.868,4.865c1.165,1.296,1.868,3.007,1.868,4.884C83.265,21.915,79.942,25.188,75.903,25.188 M76.029,5.688 H63.765v4.878l12.183-0.002c1.346,0,2.439-1.091,2.439-2.437C78.387,6.807,77.34,5.731,76.029,5.688 M76.064,20.321l-0.116-0.006 c1.346,0,2.439-1.093,2.439-2.439s-1.093-2.437-2.463-2.437l-12.16,0.004v4.878C63.765,20.321,76.065,20.321,76.064,20.321z" />
                   </svg> -->
-                  <img id="image-container" decoding="async" class="fl-photo-img wp-image-10103 size-full" src="{{asset('public/images/wadaw_putih.png')}}" alt="BlueBotics logo." itemprop="image" data-no-lazy="1">
+                  <img id="image-container" decoding="async" class="fl-photo-img wp-image-10103 size-full" src="{{asset('public/images/dwida_putih.png')}}" alt="BlueBotics logo." itemprop="image" data-no-lazy="1">
                </a>
             </div>
          </div>
@@ -198,8 +378,8 @@ top: 0rem;
                         <div class="Menu-main js-menu js-spotlight">
                            <ul>
                               <li>
-                                 <a href='/en/products/'>Products</a>
-                                 <ul>
+                                 <a href='#' onclick="javascript:window.location.href='{{ route('app.home') }}';">HOME</a>
+                                 <!-- <ul>
                                     <li>
                                        <a href='/en/products/bathroom/'>Bathroom</a>
                                     </li>
@@ -215,11 +395,11 @@ top: 0rem;
                                     <li>
                                        <a href='/en/products/find-a-model/'>Find a model</a>
                                     </li>
-                                 </ul>
+                                 </ul> -->
                               </li>
                               <li>
-                                 <a href='/en/avantgarde/'>Avant-garde</a>
-                                 <ul>
+                                 <a href='#' onclick="javascript:window.location.href='{{ route('app.about') }}';">ABOUT</a>
+                                 <!-- <ul>
                                     <li>
                                        <a href='/en/avantgarde/technologyinside/'>Technology inside</a>
                                     </li>
@@ -232,11 +412,11 @@ top: 0rem;
                                     <li>
                                        <a href='/en/avantgarde/thermotech/'>THERMOTECH®</a>
                                     </li>
-                                 </ul>
+                                 </ul> -->
                               </li>
                               <li>
-                                 <a href='/en/corporate/'>Corporate</a>
-                                 <ul>
+                                 <a href='#' onclick="javascript:window.location.href='{{ route('app.factory') }}';">FACTORY</a>
+                                 <!-- <ul>
                                     <li>
                                        <a href='/en/corporate/who-we-are/'>Who we are</a>
                                     </li>
@@ -246,11 +426,11 @@ top: 0rem;
                                     <li>
                                        <a href='/en/corporate/sustainability/'>Sustainability</a>
                                     </li>
-                                 </ul>
+                                 </ul> -->
                               </li>
                               <li>
-                                 <a href='/en/suno/'>Technology Centre</a>
-                                 <ul>
+                                 <a href='#' onclick="javascript:window.location.href='{{ route('app.career') }}';">CAREER</a>
+                                 <!-- <ul>
                                     <li>
                                        <a href='/en/suno/material-processing/'>Material processing</a>
                                     </li>
@@ -263,11 +443,11 @@ top: 0rem;
                                     <li>
                                        <a href='/en/suno/logistics/'>Logistics</a>
                                     </li>
-                                 </ul>
+                                 </ul> -->
                               </li>
                            </ul>
                         </div>
-                        <div class="Menu-footer">
+                        <!-- <div class="Menu-footer">
                            <div class="Menu-service js-menu js-spotlight">
                               <ul>
                                  <li>
@@ -320,7 +500,7 @@ top: 0rem;
                                  </li>
                               </ul>
                            </div>
-                        </div>
+                        </div> -->
                      </div>
                   </div>
                </div>
@@ -343,12 +523,12 @@ top: 0rem;
                               <div class="HpSlider-video d-portrait" data-video-src="{{asset('public/images/footage.mp4')}}"></div>
                            </div>
                            <div class="HpSlider-content" data-swiper-parallax="100%">
-                              <div class="container" style="margin-top: 300px;">
+                              <div class="container">
                                  <div class="row">
                                     <div class="col-12 HpSlider-contentCol" data-scroll data-scroll-offset="0, 30%" data-scroll-repeat="true">
                                        <h1>
-                                          <div class="js-splitLines SplitLines" style="font-family: 'BlissBucket'; font-size: 52px;">SOLUTION<br />
-                                          OF IMPROVEMENT
+                                          <div class="js-splitLines SplitLines" style="font-family: 'BlissBucket'">SOLUTION<br />
+                                          OF IMPROVEMENT 
                                           </div>
                                        </h1>
                                        <div class="Prose">
@@ -389,11 +569,11 @@ top: 0rem;
                               <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="{{asset('public/images/landing1.jpg')}} 640w 1143h, {{asset('public/images/landing1.jpg')}} 1024w 1829h, {{asset('public/images/landing1.jpg')}} 1350w 2411h, {{asset('public/images/landing1.jpg')}} 1350w 2411h" style="background-position: 50% 50%;"></div>
                            </div>
                            <div class="HpSlider-content" data-swiper-parallax="100%">
-                              <div class="container" style="margin-top: 250px;">
+                              <div class="container">
                                  <div class="row">
                                     <div class="col-12 HpSlider-contentCol" data-scroll data-scroll-offset="0, 30%" data-scroll-repeat="true">
                                        <h1>
-                                          <div class="js-splitLines SplitLines" style="font-family: 'BlissBucket'; font-size: 52px;">Shower,<br />
+                                          <div class="js-splitLines SplitLines" style="font-family: 'BlissBucket'">Shower,<br />
                                              simply
                                           </div>
                                        </h1>
@@ -412,11 +592,11 @@ top: 0rem;
                               <div class="HpSlider-image lazyload d-portrait" data-sizes="auto" data-bgset="{{asset('public/images/landing3.jpg')}} 640w 1143h, {{asset('public/images/landing3.jpg')}} 1024w 1829h, {{asset('public/images/landing3.jpg')}} 1350w 2411h, {{asset('public/images/landing3.jpg')}} 1350w 2411h" style="background-position: 50% 50%;"></div>
                            </div>
                            <div class="HpSlider-content" data-swiper-parallax="100%">
-                              <div class="container" style="margin-top: 250px;">
+                              <div class="container">
                                  <div class="row">
                                     <div class="col-12 HpSlider-contentCol" data-scroll data-scroll-offset="0, 30%" data-scroll-repeat="true">
                                        <h1>
-                                          <div class="js-splitLines SplitLines" style="font-family: 'BlissBucket'; font-size: 52px;">Shower,<br />
+                                          <div class="js-splitLines SplitLines" style="font-family: 'BlissBucket'">Shower,<br />
                                              simply
                                           </div>
                                        </h1>

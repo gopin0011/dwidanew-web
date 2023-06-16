@@ -3725,7 +3725,7 @@ webpackJsonp([0], [, , , function(e, t, n) {
         else {
             // console.log('Didedikasikan untuk almarhumah istri dan anak tercinta, Wiwik dan Aslan (Bogor 2023)');
             var imageContainer = document.getElementById('image-container');
-            imageContainer.src="public/images/wadaw_putih.png";
+            imageContainer.src="public/images/dwida_putih.png";
             imageContainer.style.display = '';
             var SiteHeader = document.getElementById('SiteHeader');
             SiteHeader.style.display = '';
@@ -3758,21 +3758,22 @@ webpackJsonp([0], [, , , function(e, t, n) {
 
     function f() {
         0 != u("[data-scroll-container]").length && (l(), y = new p({
-            el: u("[data-scroll-container]").get(0),
-            smooth: !0,
-            scrollFromAnywhere: !1,
-            getSpeed: !0,
-            lerp: .15,
-            getDirection: !0,
-            resetNativeScroll: !1,
-            firefoxMultiplier: 1,
-            multiplier: -1 == navigator.userAgent.indexOf("Firefox") ? 1 : 2.5
+            // el: u("[data-scroll-container]").get(0),
+            // smooth: !0,
+            // scrollFromAnywhere: !1,
+            // getSpeed: !0,
+            // lerp: .15,
+            // getDirection: !0,
+            // resetNativeScroll: !1,
+            // firefoxMultiplier: 1,
+            // multiplier: -1 == navigator.userAgent.indexOf("Firefox") ? 1 : 2.5
         }), y.scrollTo(0, {
             duration: 0,
             disableLerp: !0
         }), y.on("scroll", r), y.on("scroll", w.update), y.on("call", function(e, t, n) {
             u(n.el).trigger(e, t)
-        }), window.scrollbar = y, window.scrollbar.fullUpdate = a, window.scrollbar.softUpdate = i, window.scrollbar.completeScrollTargets = l, window.scrollbar.isSmooth = u("html").hasClass("has-scroll-smooth"), window.scrollbar.isSmooth && (w.scrollerProxy("#main", {
+        })
+        , window.scrollbar = y, window.scrollbar.fullUpdate = a, window.scrollbar.softUpdate = i, window.scrollbar.completeScrollTargets = l, window.scrollbar.isSmooth = u("html").hasClass("has-scroll-smooth"), window.scrollbar.isSmooth && (w.scrollerProxy("#main", {
             scrollTop: function(e) {
                 return arguments.length ? y.scrollTo(e, 0, 0) : y.scroll.instance.scroll.y
             },
@@ -3785,9 +3786,11 @@ webpackJsonp([0], [, , , function(e, t, n) {
                 }
             },
             pinType: document.querySelector("#main").style.transform ? "transform" : "fixed"
-        }), window.scrollbar.scroller = "#main"), w.addEventListener("refresh", function() {
+        })
+        , window.scrollbar.scroller = "#main"), w.addEventListener("refresh", function() {
             window.scrollbar.update()
-        }), r(y), location.hash && document.getElementById(location.hash.slice(1)) && setTimeout(function() {
+        })
+        , r(y), location.hash && document.getElementById(location.hash.slice(1)) && setTimeout(function() {
             y.scrollTo(document.getElementById(location.hash.slice(1)), {
                 duration: 1200,
                 offset: -m.getTopOffset()
@@ -3819,7 +3822,8 @@ webpackJsonp([0], [, , , function(e, t, n) {
             init: f
         };
     e.exports = k
-}, , function(e, t, n) {
+}
+, , function(e, t, n) {
     var i = n(69),
         a = n(0),
         o = window.innerWidth,

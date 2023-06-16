@@ -91,11 +91,7 @@
          padding-bottom: 10px;
          border-top: solid 2px #6dc6da;
          }
-         @media (max-width: 768px){
-         ul.fl-menu-horizontal li.mega-menu > ul.sub-menu {
-         margin-right:auto;
-         }
-         }
+         
          /*ul.fl-menu-horizontal li.mega-menu.company.fl-has-submenu:hover > ul.sub-menu, ul.fl-menu-horizontal li.mega-menu.company.fl-has-submenu.focus > ul.sub-menu{
          max-width: 750px !important;
          text-align: center;
@@ -192,7 +188,7 @@
          }
          /* Mobile Menu */
          .menu-button span.menu-item-text  {
-         background:#ffa238 !important;
+         background:#808080 !important;
          padding: 5px 15px;
          border-radius: 5px;
          }
@@ -209,14 +205,14 @@
          color: #0061ac !important;
          }
          .uabb-creative-menu .sub-menu .menu-item-text:hover {
-         color: #ffa238 !important;
+         color: #808080 !important;
          }
          /*Custom Classes*/
          .left-border {
-         border-left: solid #ffa238 1px;
+         border-left: solid #808080 1px;
          }
          .bottom-border {
-         border-bottom: solid 1px #ffa238;
+         border-bottom: solid 1px #808080;
          padding-bottom: 7px;
          background-clip: content-box; 
          background-color: #fff;
@@ -251,7 +247,7 @@
          left: 0;
          }
          .home-page-slider .fl-slide-photo-wrap {
-         border-bottom: solid 2px #ffa238;
+         border-bottom: solid 2px #808080;
          padding-bottom: 7px;
          background-clip: content-box; 
          background-color: #fff;
@@ -311,7 +307,7 @@
          background-color:#52a6dd !important;
          }
          .bx-wrapper .bx-pager.bx-default-pager a {
-         background: #ffa238;
+         background: #808080;
          }
          .home-page-slider-info {
          position: relative;
@@ -334,7 +330,7 @@
          left: 0;
          }
          .home-page-slider .fl-slide-photo-wrap {
-         border-bottom: solid 2px #ffa238;
+         border-bottom: solid 2px #808080;
          padding-bottom: 7px;
          background-clip: content-box; 
          background-color: #fff;
@@ -374,7 +370,7 @@
          background-color:#52a6dd !important;
          }
          .bx-wrapper .bx-pager.bx-default-pager a {
-         background: #ffa238;
+         background: #808080;
          }
          .home-page-slider-info {
          position: relative;
@@ -428,7 +424,7 @@
          }
          /* Slider Dark */
          .test-dark-back .fl-slide-content-wrap .fl-slide-title {
-         color: #ffa238 !important;
+         color: #808080 !important;
          font-family: "Obvia", sans-serif;
          font-weight: 500;
          font-size: 20px;
@@ -478,7 +474,7 @@
          }
          .custom-testimony .pp-testimonials-title {
          padding-bottom: 15px;
-         border-bottom: solid 1px #ffa238;
+         border-bottom: solid 1px #808080;
          }
          .owl-carousel.owl-loaded {
          display: flex;
@@ -659,7 +655,7 @@
          min-height: 280px; 
          }
          .partners-caro .labb-carousel-item {
-         border-top: solid 5px #ffa238;
+         border-top: solid 5px #808080;
          border-radius: 5px;
          box-shadow: 3px 5px 15px 0px rgba(0,97,172,0.22);
          }
@@ -677,7 +673,7 @@
          margin-top: 20px;
          }
          .partners-caro .labb-container ul.slick-dots li button {
-         background: #ffa238;
+         background: #808080;
          border: none;
          }
          .partners-caro .labb-container ul.slick-dots li button:hover {
@@ -726,7 +722,7 @@
          z-index: 2;
          }
          .plan-caro .labb-container ul.slick-dots li button {
-         background: #ffa238;
+         background: #808080;
          border: none;
          }
          .plan-caro .labb-container ul.slick-dots li button:hover {
@@ -775,7 +771,7 @@
          z-index: 2;
          }
          .plan-caro .labb-container ul.slick-dots li button {
-         background: #ffa238;
+         background: #808080;
          border: none;
          }
          .plan-caro .labb-container ul.slick-dots li button:hover {
@@ -825,7 +821,7 @@
          z-index: 2;
          }
          .plan-caro .labb-container ul.slick-dots li button {
-         background: #ffa238;
+         background: #808080;
          border: none;
          }
          .plan-caro .labb-container ul.slick-dots li button:hover {
@@ -888,7 +884,7 @@
          z-index: 2;
          }}
          .how-it-works .labb-container ul.slick-dots li button {
-         background: #ffa238;
+         background: #808080;
          border: none;
          margin: 0px 10px
          }
@@ -958,7 +954,7 @@
          transition: all .5s;
          }
          .team-slide-box .uabb-imgicon-wrap {
-         border-bottom: 3px solid #ffa238;
+         border-bottom: 3px solid #808080;
          }
          @-moz-document url-prefix() {.uabb-slide-box-wrap .open-slidedown .uabb-slide-down {
          top:0%;
@@ -1036,7 +1032,7 @@
          }
          .lang-switch .wpml-ls-legacy-dropdown a:hover {
          background: transparent;
-         color: #f3962c;
+         color: #808080;
          }
          .lang-switch .wpml-ls-legacy-dropdown ul a:hover {
          background: #f8fcff;
@@ -1061,12 +1057,7 @@
          .wpml-ls-legacy-dropdown .wpml-ls-current-language a img {
          margin-top: 3px;
          }
-         @media (max-width: 660px) {
-         .lang-switch .wpml-ls-legacy-dropdown a {
-         padding-top: 10px !important;
-         padding-bottom: 10px;
-         }
-         }
+         
          /*Gravity Forms*/
          .gform_wrapper.gf_browser_chrome ul.gform_fields li.gfield span.name_first, .gform_wrapper.gf_browser_chrome ul.gform_fields li.gfield span.name_last, .gform_wrapper.gf_browser_chrome ul.gform_fields li.gfield span.name_middle {
          padding: 0px;
@@ -1157,21 +1148,21 @@
             top: 0;
             left: 0;
             width: 100%;
-            height: 410px;
+            max-height: 410px;
             background: url({{$srcImage}});
-            background-repeat: no-repeat;
+            background-repeat: inherit;
             background-position: center bottom;
             background-attachment: scroll;
-            background-size: auto;
+            background-size: 100%;
             background-position:0% 40%;
-            border-bottom: 10px solid #f3962c;
+            border-bottom: 10px solid #808080;
          }
 
          .fl-node-602ef686c49f8>.fl-col-content {
             border-style: solid;
             border-width: 0;
             background-clip: border-box;
-            /* border-color:#ffa238; */
+            /* border-color:#808080; */
             /* border-bottom-width:2px; */
          }
          .product-container {
@@ -1180,45 +1171,12 @@
   margin: 0 auto;
 }
 
-@media (min-width: 768px) {
-  .product-container {
-    max-width: 1200px;
-  }
-}
-
-@media (min-width: 1024px) {
-  .product-container {
-    max-width: 1200px;
-  }
-}
-@media (min-width: 2000px) {
-    .product-container {
-        max-width: calc(100vw - (405px));
-  }
-}
 .product-grid {
   display: grid;
   /* grid-template-columns: repeat(3, 1fr); */
   grid-gap: 25px;
 }
 
-@media (min-width: 768px) {
-  .product-grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
-}
-
-@media (min-width: 1024px) {
-  .product-grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
-}
-
-@media (min-width: 2000px) {
-  .product-grid {
-    grid-template-columns: repeat(4, 1fr);
-  }
-}
 
 .show-bg-2 {
   /* position: relative;
@@ -1284,12 +1242,15 @@
   margin-left: 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 992px) {
     .product-container {
         max-width: calc(100vw);
   }
   .container-fluid2 ul li a {
     font-size: 8px;
+  }
+  .fl-node-602ef686c49f6>.fl-row-content-wrap{
+            background-size: cover;
   }
 }
 .container-fluid2 {
@@ -1392,18 +1353,64 @@
     flex-direction: unset;
 }
 .container-img {
-            position: relative;
-            /* Tambahkan properti lainnya jika diperlukan */
-            margin-bottom: 350px;
-         }
-         .container-img img {
-            position: relative;
-            /* Atur posisi gambar sesuai kebutuhan */
-            top: 30px;
-            left: 30px;
-            /* Tambahkan properti lainnya jika diperlukan */
-            width: 231px;
-         }
+    position: relative;
+    /* Tambahkan properti lainnya jika diperlukan */
+    /* margin-bottom: 350px; */
+    min-height: 410px;
+}
+.container-img img {
+    position: relative;
+    /* Atur posisi gambar sesuai kebutuhan */
+    top: 30px;
+    left: 30px;
+    /* Tambahkan properti lainnya jika diperlukan */
+    width: 231px;
+}
+@media (max-width: 768px){
+    ul.fl-menu-horizontal li.mega-menu > ul.sub-menu {
+        margin-right:auto;
+    }
+}         
+@media (max-width: 660px) {
+    .lang-switch .wpml-ls-legacy-dropdown a {
+        padding-top: 10px !important;
+        padding-bottom: 10px;
+    }
+}
+@media (min-width: 768px) {
+  .product-container {
+    max-width: 1200px;
+  }
+  .product-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .product-container {
+    max-width: 1200px;
+  }
+  .product-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .container-img {
+    /* Tambahkan properti lainnya jika diperlukan */
+        /* margin-bottom: 350px; */
+    }
+}
+@media (min-width: 1800px) {
+    .product-container {
+        max-width: calc(100vw - (405px));
+    }
+    .product-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+    .container-img {
+    /* Tambahkan properti lainnya jika diperlukan */
+        /* margin-bottom: 370px; */
+    }
+}   
+  
 </style>
 <noscript>
     <style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style>
@@ -1456,7 +1463,7 @@
     <img src="{{asset('public/images/logo/djt_pt_putih.png')}}"></a> -->
 </div>
 <div class="uabb-js-breakpoint" style="display: none;"></div>
-<div class="container2" style="background-color: #fff; padding-top: 65px;">
+<div class="container2" style="background-color: #fff;">
     <div class="row container-fluid2">
         <div class="col-md-4"><p style="font-family: 'BlissBucket'; font-size: 24px;">PRODUCTS</p></div>
         <div class="col-md-8 text-right">
