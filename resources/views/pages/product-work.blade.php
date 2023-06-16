@@ -1366,6 +1366,12 @@
     /* Tambahkan properti lainnya jika diperlukan */
     width: 231px;
 }
+
+.gambar {
+  width: 100%; /* Sesuaikan dengan lebar yang diinginkan */
+  height: auto; /* Tinggi akan disesuaikan secara proporsional */
+}
+
 @media (max-width: 768px){
     ul.fl-menu-horizontal li.mega-menu > ul.sub-menu {
         margin-right:auto;
@@ -1481,7 +1487,7 @@
                 <div class="show-bg-2">
                 <div class="product-image">
                     <a href="{{ asset('public/storage/products/'.$product->image[0]->media->desktop) }}" class="lightbox-cats">
-                    <img src="{{ asset('public/storage/products/'.$product->image[0]->media->desktop) }}" alt="">
+                    <img class="gambar" src="{{ asset('public/storage/products/'.$product->image[0]->media->desktop) }}" alt="">
                     <div class="caption">{{$product->name}}
                         <br><small>Projects Name</small>
                     </div>
@@ -1693,6 +1699,28 @@
 
       </script> -->
       <script>
+        // Mendapatkan semua elemen gambar
+        
+
+        function setImageHeight() {
+            var gambar = document.getElementsByClassName("gambar");
+
+            // Loop melalui setiap elemen gambar
+            for (var i = 0; i < gambar.length; i++) {
+                // Mengatur tinggi gambar menjadi setengah dari lebar gambar
+                var lebar = gambar[i].width;
+                gambar[i].style.height = lebar + "px";
+            }
+
+            console.log('resize');
+        }
+
+        window.addEventListener('resize', function() {
+            setImageHeight();
+        });
+
+        setImageHeight();
+
        $(document).ready(function() {
             $('.lightbox-cats').magnificPopup({ 
                 type: 'image',

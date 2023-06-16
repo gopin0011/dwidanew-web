@@ -8,7 +8,7 @@
 <style id="wp-custom-css">
 @font-face {
     font-family: BlissBucket;
-    src: url({{asset('public/fonts/Blissbucket.otf')}}) format("opentype");
+    src: url({{asset('public/fonts/BlissBucket.otf')}}) format("opentype");
 }    
          .top_layer {
          z-index: 10;

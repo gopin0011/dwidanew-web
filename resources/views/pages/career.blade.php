@@ -4,7 +4,7 @@
 <style>
 @font-face {
     font-family: BlissBucket;
-    src: url({{asset('public/fonts/Blissbucket.otf')}}) format("opentype");
+    src: url({{asset('public/fonts/BlissBucket.otf')}}) format("opentype");
 }   
 
          img.wp-smiley,
