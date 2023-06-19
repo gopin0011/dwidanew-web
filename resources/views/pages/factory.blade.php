@@ -1249,11 +1249,9 @@
         </div>
         </div>
     </div>
-    <!-- <a href="{{route('app.home')}}">
-    <img src="{{asset('public/images/logo/djt_pt_putih.png')}}"></a> -->
 </div>
-<!-- <div class="uabb-js-breakpoint" style="display: none;"></div> -->
-<div class="col-md-12">
+<div class="uabb-js-breakpoint" style="display: none;"></div>
+<!-- <div class="col-md-12"> -->
     <div class="portfolio mt-5">
         <!-- <div class="container-fluid2"> -->
             <div class="row portfolio-container">
@@ -1314,7 +1312,7 @@
             </div>
         <!-- </div> -->
     </div>
-</div>
+<!-- </div> -->
 
 @endsection
 
