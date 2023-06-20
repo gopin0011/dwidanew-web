@@ -462,7 +462,7 @@
                                           </div>
                                        </h1>
                                        <div class="Prose">
-                                          <p>Lorem ipsum dolor sit Lorem ipsum dolor sit Lorem ipsum dolor sit Lorem ipsum dolor sit Lorem ipsum dolor sit Lorem ipsum dolor sit Lorem ipsum dolor sit Lorem ipsum dolor sit</p>
+                                          <p>We believe that continuous improvement is key to achieving this goal, and we offer a range of solutions to help our clients improve their manufacturing processes and products.</p>
                                           <!-- <p><a class="Button Button--arrow" href="/en/manifest/">Discover Nobili</a></p> -->
                                        </div>
                                     </div>
@@ -503,12 +503,12 @@
                                  <div class="row">
                                     <div class="col-12 HpSlider-contentCol" data-scroll data-scroll-offset="0, 30%" data-scroll-repeat="true">
                                        <h1>
-                                          <div class="js-splitLines SplitLines" style="font-family: 'BlissBucket'">Shower,<br />
-                                             simply
+                                          <div class="js-splitLines SplitLines" style="font-family: 'BlissBucket'">QUALITY<br />
+                                          COME FIRST
                                           </div>
                                        </h1>
                                        <div class="Prose">
-                                          <p>Universal, intelligent and versatile: the Wellbox flush fit thermostatic mixer, synonymous with technological advancement, turns the creation of a shower into an incredibly simple affair.</p>
+                                          <p>We have implemented rigorous quality control measures throughout our manufacturing process to ensure that our products meet the highest standards of quality and safety.</p>
                                           <!-- <p><a class="Button Button--arrow" href="/en/products/shower/wellbox/">DISCOVER WELLBOX</a></p> -->
                                        </div>
                                     </div>
@@ -526,13 +526,13 @@
                                  <div class="row">
                                     <div class="col-12 HpSlider-contentCol" data-scroll data-scroll-offset="0, 30%" data-scroll-repeat="true">
                                        <h1>
-                                          <div class="js-splitLines SplitLines" style="font-family: 'BlissBucket'">Shower,<br />
-                                             simply
+                                          <div class="js-splitLines SplitLines" style="font-family: 'BlissBucket'">CREATION WITH <br />
+                                          INNOVATION
                                           </div>
                                        </h1>
                                        <div class="Prose">
-                                          <p>Universal, intelligent and versatile: the Wellbox flush fit thermostatic mixer, synonymous with technological advancement, turns the creation of a shower into an incredibly simple affair.</p>
-                                          <p><a class="Button Button--arrow" href="/en/products/shower/wellbox/">DISCOVER LAVANTE</a></p>
+                                          <p>We are constantly exploring new ideas and technologies to create innovative products that meet the changing needs of our clients.</p>
+                                          <!-- <p><a class="Button Button--arrow" href="/en/products/shower/wellbox/">DISCOVER LAVANTE</a></p> -->
                                        </div>
                                     </div>
                                  </div>

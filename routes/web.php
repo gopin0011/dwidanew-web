@@ -52,6 +52,7 @@ Route::get('brand/{catId?}', function (Request $request, $catId = 1) {
 Route::get('our-works/{type?}/{brand?}', function (Request $request, $type = 1, $brand = 1) {
     $brands = [];
     $type_char = furniture;
+    $desc = "We specialize in a wide range of furniture works and products, including custom furniture design, manufacturing, and installation for commercial and residential spaces, as well as mass-produced furniture for various industries such as hospitality, education, and healthcare.";
     $srcImage = asset('public/images/furniture.jpg');
 
     if($type == 1) {
@@ -60,6 +61,7 @@ Route::get('our-works/{type?}/{brand?}', function (Request $request, $type = 1, 
     else {
         $brands = \App\Models\Category::where('is_equipment', 1)->orderBy('sort', 'asc')->get();
         $type_char = equipment;
+        $desc = "Our expertise in working with metal and plastic materials allows us to create a wide range of products, including automotive accessories, home appliances, healthcare tools, educational teaching aids, and mass production machines for various industries.";
         $srcImage = asset('public/images/equipment.jpg');
     }
 
@@ -67,11 +69,12 @@ Route::get('our-works/{type?}/{brand?}', function (Request $request, $type = 1, 
     // $category = \App\Models\Category::get();
     $categoryProduct = \App\Models\Category::where('id', $brand)->with(['product.image.media'])->first();
 
-    // dd($categoryProduct->product[0]->image[0]);
+    // dd($categoryProduct);
     return view('pages.product-work', [
         'type' => $type,
         'brands' => $brands,
         'type_char' => $type_char,
+        'desc' => $desc,
         'categoryProduct' => $categoryProduct,
         'srcImage' => $srcImage, 
     ]);

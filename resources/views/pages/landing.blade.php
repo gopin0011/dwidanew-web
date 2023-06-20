@@ -79,10 +79,10 @@ section.faq {
   padding-bottom: 3em;
 }
 
-#faq ul {
+#faq ul.visionmision {
   text-align: left;
 }
-.transition, div, p, ul li i:before, ul li i:after {
+.transition, div, p, ul.visionmision li.head i:before, ul li.head i:after {
   transition: all 0.3s;
 }
 
@@ -109,9 +109,9 @@ section.faq {
 }
 
 
-#faq li .content-wrapper {
+#faq li.head > .content-wrapper {
   color: #333;
-  text-align: left;
+  /* text-align: left; */
   font-family: 'hm_light', sans-serif;
   font-size: 14px;
   line-height: 1.45;
@@ -125,31 +125,42 @@ section.faq {
   transform: translate(0, 0);
   /* margin-top: 5px; */
   /* margin-bottom: 15px; */
-  padding: 15px 15px 0 15px;
+  /* padding: 15px 15px 0 15px; */
   transition: .3s opacity, .6s max-height;
   hyphens: auto;
   z-index: 2;
-  display: flex;
-  align-items: flex-start;
+  /* display: flex; */
+  /* align-items: flex-start; */
   padding-bottom: 15px;
+
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
 }
 
+#faq li.head > .content-wrapper .no-css {
+  /* Gaya khusus untuk mengabaikan pengaruh CSS */
+  /* order: 1; */
+  /* font-size: 19px; */
+  /* font-weight: 300; */
+}
 
 .content-wrapper {
   /* display: flex; */
-  align-items: center;
+  /* align-items: center;
   gap: 20px;
-  align-items: flex-start;
+  align-items: flex-start; */
   display: none;
 } 
 
-#faq ul {
+#faq ul.visionmision {
   list-style: none;
   perspective: 900;
   padding: 0;
   margin: 0;
 }
-#faq ul li {
+#faq ul.visionmision li.head {
   position: relative;
   overflow: hidden;
   padding: 0;
@@ -161,13 +172,13 @@ section.faq {
   -webkit-tap-highlight-color: transparent;
   border-bottom: 1px solid #333333;
 }
-#faq ul li + li {
+#faq ul.visionmision li.head + li.head {
   margin-top: 15px;
 }
-#faq ul li:last-of-type {
+#faq ul.visionmision li.head:last-of-type {
   padding-bottom: 0;
 }
-#faq ul li i {
+#faq ul.visionmision li.head i {
   position: absolute;
   /* transform: translate(-6px, 0); */
   margin-top: 20px;
@@ -176,10 +187,10 @@ section.faq {
 }
 
 
-#faq ul li i:before, ul li i:after {
+#faq ul.visionmision li.head i:before, ul.visionmision li.head i:after {
   /* transform: translate(-2px, 0) rotate(45deg); */
 }
-#faq ul li i:before {
+#faq ul.visionmision li.head i:before {
   content: "+";
   /* position: absolute; */
   /* background-color: #000; */
@@ -190,10 +201,10 @@ section.faq {
   font-size: 1.5em;
 }
 
-#faq ul li i.active:before {
+#faq ul.visionmision li.head i.active:before {
   content: "-";
 }
-#faq ul li input[type=checkbox] {
+#faq ul.visionmision li.head input[type=checkbox] {
   position: absolute;
   cursor: pointer;
   width: 100%;
@@ -202,36 +213,38 @@ section.faq {
   opacity: 0;
   touch-action: manipulation;
 }
-#faq ul li input[type=checkbox]:checked ~ h3 {
+#faq ul.visionmision li.head input[type=checkbox]:checked ~ h3 {
   color: #000;
 }
-#faq ul li input[type=checkbox]:checked ~ p {
+#faq ul.visionmision li.head input[type=checkbox]:checked ~ p {
   /*margin-top: 0;*/
   max-height: 0;
   transition: .3s;
   opacity: 0;
   /*transform: translate(0, 50%);*/
 }
-#faq ul li input[type=checkbox]:checked ~ i:before {
+#faq ul.visionmision li.head input[type=checkbox]:checked ~ i:before {
   /* transform: translate(2px, 0) rotate(45deg); */
 }
-#faq ul li input[type=checkbox]:checked ~ i:after {
+#faq ul.visionmision li.head input[type=checkbox]:checked ~ i:after {
   /* transform: translate(-2px, 0) rotate(-45deg); */
 }
-#faq li .content-wrapper img {
+#faq li.head .content-wrapper img {
   /* width: 568px; */
   /* height: 300px; */
-  max-width: 768px;
+  /* max-width: 675px; */
   filter: grayscale(100%);
   order: 2;
-  margin-left: 10px;
+  /* margin-left: 10px; */
+  align-self: flex-end;
+  float: right;
 }
 
-#faq li .content-wrapper p {
+#faq li.head .content-wrapper p {
   order: 1;
-  font-size: 19px;
+  font-size: 15.06px;
+  text-align: left;
 }
-
 .our-company {
   margin-top: 130px;
   width: 75%;
@@ -278,11 +291,19 @@ section.faq {
   padding-bottom: 50px;
 }
 
+
+.image-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
 @media only screen and (max-width: 1024px) {
-  #faq li .content-wrapper img {
+  #faq li.head .content-wrapper img {
     /* width: 568px; */
     /* height: 300px; */
-    max-width: 768px;
+    /* max-width: 575px; */
     filter: grayscale(100%);
     order: 2;
     margin-left: 10px;
@@ -343,10 +364,10 @@ section.faq {
     padding-bottom: 15px;
   }
 
-  #faq li .content-wrapper img {
+  #faq li.head .content-wrapper img {
     /* width: 568px; */
     /* height: 300px; */
-    max-width: 768px;
+    /* max-width: 575px; */
     filter: grayscale(100%);
     order: 2;
     margin-left: 10px;
@@ -356,8 +377,9 @@ section.faq {
     margin-right: auto;
     text-align-last: center;
   }
-  #faq li .content-wrapper p {
+  #faq li.head .content-wrapper p {
   font-size: 15px;
+  /* text-align: left; */
 }
 }
 
@@ -412,11 +434,15 @@ section.faq {
     <div class="col-md-10 col-md-offset-1">
         <div class="col-md-6">
             <h3 style="color: #000; margin-bottom: 35px;font-family: 'BlissBucket';">OUR <br>COMPANY</h3>
-        <p style="font-size: 15.06px;">In 2007, PT. DWIDA JAYA TAMA coming as a company specialized in manufacturing education equipment. It started from education equipment for elementary to junior high school. Since then, we are also thriving to the higher level, for senior high school to the university. Starting as an education equipment provider for majors such as math and science also for software which becoming a trend nowadays.</p>
-        <p style="font-size: 15.06px;">In 2007, PT. DWIDA JAYA TAMA coming as a company specialized in manufacturing education equipment. It started from education equipment for elementary to junior high school. Since then, we are also thriving to the higher level, for senior high school to the university. Starting as an education equipment provider for majors such as math and science also for software which becoming a trend nowadays.</p>
+        <p style="font-size: 15.06px;">Dwida Manufacture is a manufacturing company based in Bogor, Indonesia, established in 2006. We began our journey as a distributor of educational teaching aids, and have since expanded our business to include the production of our own products. In 2018, we ventured into the custom furniture industry, and now specialize in working with wood, metal, and plastic materials.</p>
+        <p style="font-size: 15.06px;">At Dwida Manufacture, we are committed to delivering high-quality products that meet international standards. Our dedication to quality is reflected in our certifications, which include ISO 9001, 14001, 45001, 27001, Indonesian Standards National, and Indonesian Timber Legality Verification.</p>
+        <p style="font-size: 15.06px;">Our state-of-the-art facilities feature updated and high-tech machines, allowing us to produce consistent, well-planned, and high-quality products. We take pride in our highly adaptive, competent, and skilled human resources, who undergo careful and professional training to ensure that they are equipped with the necessary skills to meet our clients' needs.</p>
+        <p style="font-size: 15.06px;">Our vision is to become a strong and sustainable international manufacturing company, and we are committed to achieving this by providing our clients with exceptional products and services. Whether you require custom furniture or other specialized products, we have the expertise and resources to meet your needs.</p>
         </div>
         <div class="col-md-6">
+        <div class="image-wrapper">
             <img class="our-company" src="{{asset('public/images/image1.jpg')}}">
+        </div>
         </div>
     </div>
 </div>
@@ -463,23 +489,25 @@ section.faq {
 <div class="container-fluid" style="margin-top: 50px;">
   <div class="col-md-10 col-md-offset-1">
     <div id="faq">
-      <ul>
-        <li>
+      <ul class="visionmision">
+        <li class="head">
           <input type="checkbox" checked>
           <i></i>
           <h3>Vision</h3>
           <div class="content-wrapper" style="display: none;">
-            <p>In 2007, PT. DWIDA JAYA TAMA coming as a company specialized in manufacturing education equipment. It started from education equipment for elementary to junior high school. Since then, we are also thriving to the higher level, for senior high school to the university. Starting as an education equipment provider for majors such as math and science also for software which becoming a trend nowadays.</p>
-            <img src="{{asset('public/images/02_.jpg')}}">
+          <div class="col-md-6 col-sm-12"><p>Become a strong and sustainable international manufacturing company.</p></div>
+          <div class="col-md-6 col-sm-12"><img src="{{asset('public/images/02_.jpg')}}"></div>
           </div>
         </li>
-        <li>
+        <li class="head">
           <input type="checkbox" checked>
           <i></i>
           <h3>Mission</h3>
           <div class="content-wrapper" style="display: none;">
-            <p>“Give the best services” by giving guarantee that the customer will receive our maximum service, for instance in quality product, easiness, along with competitive expense</p>
-            <img src="{{asset('public/images/04_.jpg')}}">
+          <div class="col-md-6 col-sm-12"><p>- Implementing standardized management systems in company operations.<br>
+          - Applying the latest technology and innovation development in each process line.<br>
+        - Developing competent and skilled Human Resources.</p></div>
+          <div class="col-md-6 col-sm-12"><img src="{{asset('public/images/04_.jpg')}}"></div>
           </div>
         </li>
       </ul>

@@ -1239,7 +1239,7 @@
                     <div class="fl-module fl-module-heading fl-node-602ef686c49f4" data-node="602ef686c49f4">
                         <div class="fl-module-content fl-node-content">
                             <h4 class="fl-heading">
-                                <span class="fl-heading-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span>
+                                <span class="fl-heading-text">Our factory is equipped with the latest technology and machinery, and we have a team of skilled professionals who are dedicated to ensuring that our products meet the highest standards of quality and safety.</span>
                             </h4>
                         </div>
                     </div>
@@ -1258,8 +1258,8 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.2s">
                     <div class="portfolio-warp">
                         <div class="portfolio-img">
-                            <a href="https://leganofurniture.com/assets/img/project/fc4.jpg" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
-                                <img src="https://leganofurniture.com/assets/img/project/fc4.jpg" alt="">
+                            <a href="{{asset('public/images/factory/fac_1.jpg')}}" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
+                                <img src="{{asset('public/images/factory/fac_1.jpg')}}" alt="">
                             </a>
                         </div>
                     </div>
@@ -1267,8 +1267,8 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
                     <div class="portfolio-warp">
                         <div class="portfolio-img">
-                            <a href="https://leganofurniture.com/assets/img/project/fc3.jpg" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
-                                <img src="https://leganofurniture.com/assets/img/project/fc3.jpg" alt="">
+                            <a href="{{asset('public/images/factory/fac_2.jpg')}}" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
+                                <img src="{{asset('public/images/factory/fac_2.jpg')}}" alt="">
                             </a>    
                         </div>
                     </div>
@@ -1276,8 +1276,8 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
                     <div class="portfolio-warp">
                         <div class="portfolio-img">
-                            <a href="https://leganofurniture.com/assets/img/project/fc1.jpg" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
-                                <img src="https://leganofurniture.com/assets/img/project/fc1.jpg" alt="">
+                            <a href="{{asset('public/images/factory/fac_3.jpg')}}" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
+                                <img src="{{asset('public/images/factory/fac_3.jpg')}}" alt="">
                             </a>      
                         </div>
                     </div>
@@ -1285,8 +1285,8 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
                     <div class="portfolio-warp">
                         <div class="portfolio-img">
-                            <a href="https://leganofurniture.com/assets/img/project/fc2.jpg" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
-                                <img src="https://leganofurniture.com/assets/img/project/fc2.jpg" alt="">
+                            <a href="{{asset('public/images/factory/fac_4.jpg')}}" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
+                                <img src="{{asset('public/images/factory/fac_4.jpg')}}" alt="">
                             </a>    
                         </div>
                     </div>
@@ -1294,8 +1294,8 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
                     <div class="portfolio-warp">
                         <div class="portfolio-img">
-                            <a href="https://leganofurniture.com/assets/img/project/fc5.jpg" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
-                                <img src="https://leganofurniture.com/assets/img/project/fc5.jpg" alt="">
+                            <a href="{{asset('public/images/factory/fac_5.jpg')}}" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
+                                <img src="{{asset('public/images/factory/fac_5.jpg')}}" alt="">
                             </a> 
                         </div>
                     </div>
@@ -1303,8 +1303,26 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
                     <div class="portfolio-warp">
                         <div class="portfolio-img">
-                            <a href="https://leganofurniture.com/assets/img/project/fc6.jpg" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
-                                <img src="https://leganofurniture.com/assets/img/project/fc6.jpg" alt="">
+                            <a href="{{asset('public/images/factory/fac_6.jpg')}}" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
+                                <img src="{{asset('public/images/factory/fac_6.jpg')}}" alt="">
+                            </a>  
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="portfolio-warp">
+                        <div class="portfolio-img">
+                            <a href="{{asset('public/images/factory/fac_7.jpg')}}" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
+                                <img src="{{asset('public/images/factory/fac_7.jpg')}}" alt="">
+                            </a>  
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="portfolio-warp">
+                        <div class="portfolio-img">
+                            <a href="{{asset('public/images/factory/fac_8.jpg')}}" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
+                                <img src="{{asset('public/images/factory/fac_8.jpg')}}" alt="">
                             </a>  
                         </div>
                     </div>
