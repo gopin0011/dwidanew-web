@@ -1187,9 +1187,9 @@
 
 .product-image img {
   width: 100%;
-  height: 470px;
+  height: auto;
   transition: .3s;
-  padding-bottom: 50px;
+  padding-bottom: 70px;
 }
 .product-image {
   position: relative;
@@ -1709,7 +1709,7 @@
             for (var i = 0; i < gambar.length; i++) {
                 // Mengatur tinggi gambar menjadi setengah dari lebar gambar
                 var lebar = gambar[i].width;
-                gambar[i].style.height = lebar + "px";
+                // gambar[i].style.height = lebar + "px";
             }
 
             console.log('resize');

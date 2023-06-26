@@ -1219,7 +1219,7 @@
                                                     <div class="fl-module fl-module-rich-text fl-node-5f90a02030ffd" data-node="5f90a02030ffd">
                                                     <div class="fl-module-content fl-node-content">
                                                         <div class="fl-rich-text">
-                                                            <p>PT Dwida Jaya Tama is a private company founded in 2006. Initially, our business was more focused on distributing educational aids. After seeing the market growth in Indonesia, we decided to expand our business by creating our own educational aids. Over time, we have been successful in producing aids for primary and secondary education, and now we are able to produce equipment for all levels of education.</p>
+                                                            <p>Dwida Manufacture is a manufacturing company based in Bogor, Indonesia, established in 2006. We began our journey as a distributor of educational teaching aids, and have since expanded our business to include the production of our own products. In 2018, we ventured into the custom furniture industry, and now specialize in working with wood, metal, and plastic materials.</p>
                                                         </div>
                                                     </div>
                                                     </div>
