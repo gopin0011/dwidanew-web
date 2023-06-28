@@ -447,11 +447,29 @@ section.faq {
     </div>
 </div>
 
-<!-- <div class="djt-building">
-  &nbsp;
-  <div style="clear: both;"></div>
-</div> -->
-<div style="margin-top: 75px;"></div>
+<div class="container-fluid" style="margin-top: 130px; z-index: -100;">
+  <div class="row">
+    <div class="col-md-12" style="min-height: 410px; background-image:url('public/images/baner1.jpg');background-repeat: no-repeat;background-position: center center;background-attachment: scroll;background-size: cover;">
+        &nbsp;
+    </div>
+    <div class="col-md-10 col-md-offset-1">
+        <div class="">
+            <div class="our-brands">
+                <div class="container" style="margin-top: 20px;">
+                    <div class="">
+                      <img src="{{asset('public/images/djt_all_logo-02.png')}}" alt="" class="logo-all-brand">
+
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>
+</div>
+
+
+<div style="margin-top: 125px;"></div>
 <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5f909fa889a01" data-node="5f909fa889a01">
     <div class="fl-row-content-wrap">
     <div class="uabb-row-separator uabb-top-row-separator" ></div>
@@ -486,7 +504,8 @@ section.faq {
     </div>
 </div>
 
-<div class="container-fluid" style="margin-top: 50px;">
+
+<div class="container-fluid" style="margin-top: 85px;">
   <div class="col-md-10 col-md-offset-1">
     <div id="faq">
       <ul class="visionmision">
@@ -514,28 +533,6 @@ section.faq {
     </div>
     </div>
 </div>
-
-<div class="container-fluid" style="margin-top: 130px; z-index: -100;">
-  <div class="row">
-    <div class="col-md-12" style="min-height: 410px; background-image:url('public/images/baner1.jpg');background-repeat: no-repeat;background-position: center center;background-attachment: scroll;background-size: cover;">
-        &nbsp;
-    </div>
-    <div class="col-md-10 col-md-offset-1">
-        <div class="">
-            <div class="our-brands">
-                <div class="container" style="margin-top: 20px;">
-                    <div class="">
-                      <img src="{{asset('public/images/djt_all_logo-02.png')}}" alt="" class="logo-all-brand">
-
-                    </div>
-                    
-                </div>
-            </div>
-        </div>
-    </div>
-  </div>
-</div>
-
 
 <div class="container-fluid" style="margin-top: 75px;">
     <div class="col-md-10 col-md-offset-1">

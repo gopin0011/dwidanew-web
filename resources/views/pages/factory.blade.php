@@ -1327,6 +1327,96 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="portfolio-warp">
+                        <div class="portfolio-img">
+                            <a href="{{asset('public/images/factory/fac_9.jpg')}}" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
+                                <img src="{{asset('public/images/factory/fac_9.jpg')}}" alt="">
+                            </a>  
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="portfolio-warp">
+                        <div class="portfolio-img">
+                            <a href="{{asset('public/images/factory/fac_10.jpg')}}" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
+                                <img src="{{asset('public/images/factory/fac_10.jpg')}}" alt="">
+                            </a>  
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="portfolio-warp">
+                        <div class="portfolio-img">
+                            <a href="{{asset('public/images/factory/fac_11.jpg')}}" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
+                                <img src="{{asset('public/images/factory/fac_11.jpg')}}" alt="">
+                            </a>  
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="portfolio-warp">
+                        <div class="portfolio-img">
+                            <a href="{{asset('public/images/factory/fac_12.jpg')}}" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
+                                <img src="{{asset('public/images/factory/fac_12.jpg')}}" alt="">
+                            </a>  
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="portfolio-warp">
+                        <div class="portfolio-img">
+                            <a href="{{asset('public/images/factory/fac_13.jpg')}}" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
+                                <img src="{{asset('public/images/factory/fac_13.jpg')}}" alt="">
+                            </a>  
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="portfolio-warp">
+                        <div class="portfolio-img">
+                            <a href="{{asset('public/images/factory/fac_14.jpg')}}" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
+                                <img src="{{asset('public/images/factory/fac_14.jpg')}}" alt="">
+                            </a>  
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="portfolio-warp">
+                        <div class="portfolio-img">
+                            <a href="{{asset('public/images/factory/fac_15.jpg')}}" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
+                                <img src="{{asset('public/images/factory/fac_15.jpg')}}" alt="">
+                            </a>  
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="portfolio-warp">
+                        <div class="portfolio-img">
+                            <a href="{{asset('public/images/factory/fac_16.jpg')}}" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
+                                <img src="{{asset('public/images/factory/fac_16.jpg')}}" alt="">
+                            </a>  
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="portfolio-warp">
+                        <div class="portfolio-img">
+                            <a href="{{asset('public/images/factory/fac_17.jpg')}}" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
+                                <img src="{{asset('public/images/factory/fac_17.jpg')}}" alt="">
+                            </a>  
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="portfolio-warp">
+                        <div class="portfolio-img">
+                            <a href="{{asset('public/images/factory/fac_18.jpg')}}" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
+                                <img src="{{asset('public/images/factory/fac_18.jpg')}}" alt="">
+                            </a>  
+                        </div>
+                    </div>
+                </div>
             </div>
         <!-- </div> -->
     </div>
