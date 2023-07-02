@@ -1220,7 +1220,7 @@
                            <div class="fl-module fl-module-heading fl-node-602ef686c49f4" data-node="602ef686c49f4">
                               <div class="fl-module-content fl-node-content">
                                  <h4 class="fl-heading">
-                                    <span class="fl-heading-text">We value diversity and inclusivity in our workplace and are committed to providing equal opportunities to all employees.</span>
+                                    <span class="fl-heading-text">Since the company was founded nearly 20 years ago, we have always valued diversity and inclusivity in our workplace and are committed to continuing to provide equal opportunities for all employees into the future.</span>
                                  </h4>
                               </div>
                            </div>

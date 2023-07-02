@@ -52,7 +52,7 @@ Route::get('brand/{catId?}', function (Request $request, $catId = 1) {
 Route::get('our-works/{type?}/{brand?}', function (Request $request, $type = 1, $brand = 1) {
     $brands = [];
     $type_char = furniture;
-    $desc = "We specialize in a wide range of furniture works and products, including custom furniture design, manufacturing, and installation for commercial and residential spaces, as well as mass-produced furniture for various industries such as hospitality, education, and healthcare.";
+    $desc = "Since the last few years, we have been committed to specializing in various works and furniture products, including design, development, and installation, both for commercial and residential spaces, as well as various mass-produced furniture for today's various industries such as hospitality, education , and health care.";
     $srcImage = asset('public/images/furniture.jpg');
 
     if($type == 1) {
@@ -61,7 +61,7 @@ Route::get('our-works/{type?}/{brand?}', function (Request $request, $type = 1, 
     else {
         $brands = \App\Models\Category::where('is_equipment', 1)->orderBy('sort', 'asc')->get();
         $type_char = equipment;
-        $desc = "Our expertise in working with metal and plastic materials allows us to create a wide range of products, including automotive accessories, home appliances, healthcare tools, educational teaching aids, and mass production machines for various industries.";
+        $desc = "Since 2006 we have been close with metal and plastic materials, which has allowed us to be creative in making various kinds of products, including accessories for automotive, household, medical devices, as well as educational aids, and special mass-produced machines for various industries.";
         $srcImage = asset('public/images/equipment.jpg');
     }
 

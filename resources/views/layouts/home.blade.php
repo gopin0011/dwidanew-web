@@ -266,7 +266,7 @@
                      <a href="#" onclick="javascript:window.location.href='{{ route('app.about') }}';">About</a>
                   </li>
                   <li>
-                     <a href="#" onclick="javascript:window.location.href='{{ route('app.factory') }}';">Factory</a>
+                     <a href="#" onclick="javascript:window.location.href='{{ route('app.factory') }}';">Our Factory</a>
                   </li>
                   <li>
                      <a href="#" onclick="javascript:window.location.href='{{ route('app.career') }}';">Career</a>
@@ -345,7 +345,7 @@
                                  </ul> -->
                               </li>
                               <li>
-                                 <a href='#' onclick="javascript:window.location.href='{{ route('app.factory') }}';">FACTORY</a>
+                                 <a href='#' onclick="javascript:window.location.href='{{ route('app.factory') }}';">OUR FACTORY</a>
                                  <!-- <ul>
                                     <li>
                                        <a href='/en/corporate/who-we-are/'>Who we are</a>
@@ -457,12 +457,12 @@
                                  <div class="row">
                                     <div class="col-12 HpSlider-contentCol" data-scroll data-scroll-offset="0, 30%" data-scroll-repeat="true">
                                        <h1>
-                                          <div class="js-splitLines SplitLines" style="font-family: 'BlissBucket'">SOLUTION<br />
-                                          OF IMPROVEMENT 
+                                          <div class="js-splitLines SplitLines" style="font-family: 'BlissBucket'">SOLUTIONS<br />
+                                          FOR BETTER LIFE
                                           </div>
                                        </h1>
                                        <div class="Prose">
-                                          <p>We believe that continuous improvement is key to achieving this goal, and we offer a range of solutions to help our clients improve their manufacturing processes and products.</p>
+                                          <p>We believe that continuous improvement is an important key to achieving goals so that life can be even better, that's why we at Dwida Manufaktur offer a variety of the right solutions and are even better at helping the needs of clients who are also diverse. The process of finding the solutions our clients want has been in our DNA for decades.</p>
                                           <!-- <p><a class="Button Button--arrow" href="/en/manifest/">Discover Nobili</a></p> -->
                                        </div>
                                     </div>
@@ -503,12 +503,12 @@
                                  <div class="row">
                                     <div class="col-12 HpSlider-contentCol" data-scroll data-scroll-offset="0, 30%" data-scroll-repeat="true">
                                        <h1>
-                                          <div class="js-splitLines SplitLines" style="font-family: 'BlissBucket'">QUALITY<br />
-                                          COME FIRST
+                                          <div class="js-splitLines SplitLines" style="font-family: 'BlissBucket'">QUALITY ALWAYS<br />
+                                          NUMBER ONE
                                           </div>
                                        </h1>
                                        <div class="Prose">
-                                          <p>We have implemented rigorous quality control measures throughout our manufacturing process to ensure that our products meet the highest standards of quality and safety.</p>
+                                          <p>For decades, we have implemented a series of steps in quality control and strict processes during manufacturing production, so in other words, we ensure that the products we produce meet the highest quality and safety standards.</p>
                                           <!-- <p><a class="Button Button--arrow" href="/en/products/shower/wellbox/">DISCOVER WELLBOX</a></p> -->
                                        </div>
                                     </div>
@@ -526,12 +526,12 @@
                                  <div class="row">
                                     <div class="col-12 HpSlider-contentCol" data-scroll data-scroll-offset="0, 30%" data-scroll-repeat="true">
                                        <h1>
-                                          <div class="js-splitLines SplitLines" style="font-family: 'BlissBucket'">CREATION WITH <br />
+                                          <div class="js-splitLines SplitLines" style="font-family: 'BlissBucket'">CREATING <br />
                                           INNOVATION
                                           </div>
                                        </h1>
                                        <div class="Prose">
-                                          <p>We are constantly exploring new ideas and technologies to create innovative products that meet the changing needs of our clients.</p>
+                                          <p>We continue to explore innovation and creation, including equipping it with new technology so that even innovative products can meet the needs of our clients.</p>
                                           <!-- <p><a class="Button Button--arrow" href="/en/products/shower/wellbox/">DISCOVER LAVANTE</a></p> -->
                                        </div>
                                     </div>

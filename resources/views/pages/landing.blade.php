@@ -514,7 +514,7 @@ section.faq {
           <i></i>
           <h3>Vision</h3>
           <div class="content-wrapper" style="display: none;">
-          <div class="col-md-6 col-sm-12"><p>Become a strong and sustainable international manufacturing company.</p></div>
+          <div class="col-md-6 col-sm-12"><p>We want to be one of the Indonesian companies in the manufacturing sector with strong and sustainable international quality.</p></div>
           <div class="col-md-6 col-sm-12"><img src="{{asset('public/images/02_.jpg')}}"></div>
           </div>
         </li>
@@ -523,9 +523,7 @@ section.faq {
           <i></i>
           <h3>Mission</h3>
           <div class="content-wrapper" style="display: none;">
-          <div class="col-md-6 col-sm-12"><p>- Implementing standardized management systems in company operations.<br>
-          - Applying the latest technology and innovation development in each process line.<br>
-        - Developing competent and skilled Human Resources.</p></div>
+          <div class="col-md-6 col-sm-12"><p>We have implemented a standard management system in strong company operations in every line of work process since our inception, not forgetting that we also apply today's technological developments and innovations to answer the challenges of the times. Not to forget, we also always develop competent and skilled Human Resources (HR).</p></div>
           <div class="col-md-6 col-sm-12"><img src="{{asset('public/images/04_.jpg')}}"></div>
           </div>
         </li>

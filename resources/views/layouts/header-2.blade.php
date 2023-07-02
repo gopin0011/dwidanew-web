@@ -8,7 +8,7 @@
     <ul>
       <li><a href="{{route('app.home')}}">Home</a></li>
       <li><a href="{{route('app.about')}}">About</a></li>
-      <li><a href="{{route('app.factory')}}">Factory</a></li>
+      <li><a href="{{route('app.factory')}}">Our Factory</a></li>
       <li><a href="{{route('app.career')}}">Career</a></li>
     </ul>
   </nav>

@@ -1219,7 +1219,13 @@
                                                     <div class="fl-module fl-module-rich-text fl-node-5f90a02030ffd" data-node="5f90a02030ffd">
                                                     <div class="fl-module-content fl-node-content">
                                                         <div class="fl-rich-text">
-                                                            <p>Dwida Manufacture is a manufacturing company based in Bogor, Indonesia, established in 2006. We began our journey as a distributor of educational teaching aids, and have since expanded our business to include the production of our own products. In 2018, we ventured into the custom furniture industry, and now specialize in working with wood, metal, and plastic materials.</p>
+                                                            <p>Founded in 2006, Dwida Manufacture is a manufacturing company based in Bogor, Indonesia. We have started our journey as a distributor of educational aids since decades ago and over time, our business has now entered the production and creation stage.<br></p>
+                                                            <p>In 2018 we committed to the custom furniture industry, and after several years, we are now proud to specialize in creating with wood, metal, and plastic as well. <br></p>
+                                                            <p>At Dwida Manufaktur, we are not only committed to delivering high quality products, but also meeting international standards. Our dedication to quality is reflected in our certifications, which already include ISO 9001, 14001, 45001, 27001, Indonesian National Standard (SNI), and also Indonesian Timber Legality Verification. <br></p>
+                                                            <p>Our state-of-the-art manufacturing facilities featuring constantly updated machines and employing the latest high technology allow us to produce consistent, well planned and high quality products.<br></p>
+                                                            <p>In the human resources sector, we are highly adaptive, competent and skilled, our workers undergo careful and professional training to ensure that they are equipped with the necessary skills when creatively meeting the diverse needs of clients.<br></p>
+                                                            <p>Our vision is to become a strong and sustainable international manufacturing company by emphasizing excellent after-sales service and product creation. Do you need special furniture or other special products? we have the obligation and the resources to meet those needs.
+                                                            </p>
                                                         </div>
                                                     </div>
                                                     </div>

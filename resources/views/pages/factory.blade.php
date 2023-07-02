@@ -1239,7 +1239,7 @@
                     <div class="fl-module fl-module-heading fl-node-602ef686c49f4" data-node="602ef686c49f4">
                         <div class="fl-module-content fl-node-content">
                             <h4 class="fl-heading">
-                                <span class="fl-heading-text">Our factory is equipped with the latest technology and machinery, and we have a team of skilled professionals who are dedicated to ensuring that our products meet the highest standards of quality and safety.</span>
+                                <span class="fl-heading-text">Our conscript factory in Bogor-West Java is equipped with the latest technology and machinery, and we are proud to have a team of skilled professionals to ensure that our products meet the highest quality and safety standards.</span>
                             </h4>
                         </div>
                     </div>
