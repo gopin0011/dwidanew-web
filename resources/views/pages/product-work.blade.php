@@ -1185,7 +1185,7 @@
   transition: box-shadow .3s;
 }
 
-.product-image img {
+.product-image img.gambar {
   width: 100%;
   height: auto;
   transition: .3s;
@@ -1193,6 +1193,20 @@
 }
 .product-image {
   position: relative;
+}
+.notify-badge {
+    position: absolute;
+    right:10px;
+    bottom:-5px;
+    width: 100px;
+    height: 50px;
+    padding-bottom: 0px;
+    /* background:red; */
+    /* text-align: center; */
+    /* border-radius: 30px 30px 30px 30px; */
+    /* color:white; */
+    /* padding:5px 10px; */
+    /* font-size:20px; */
 }
 .show-bg-2:hover .product-image img {
   /* transform: scale(1.1); */
@@ -1212,6 +1226,7 @@
   text-transform: uppercase;
   font-weight: bold;
   color: #000;
+  width: 70%;
 }
 
 .caption small{
@@ -1492,6 +1507,7 @@
                         <br><small>{{$categoryProduct->name}}</small>
                     </div>
                     </a>
+                    <span class="notify-badge"><a target="_blank" href="{{$categoryProduct->url}}"><img src="{{ asset('public/images/ecatalog.png') }}" alt="" style="border-radius: 30px 30px 30px 30px;"></a></span>
                 </div>
                 </div>
                 <!-- Tambahkan gambar lainnya sesuai kebutuhan -->

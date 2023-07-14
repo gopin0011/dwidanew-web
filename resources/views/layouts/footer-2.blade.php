@@ -13,7 +13,7 @@ Kab. Bogor 16340 Indonesia</small>
             <small>info@dwidajayatama.com</small></div>
         <div class="col-md-2"><b>CONTACT US</b>
             <br>
-            <small>(0251) 861 8889</small></div>
+            <small>+62 251 861 8889</small></div>
         <div class="col-md-3 partof"><b>PART OF</b>
             <br>
             <img class="footer-logo-2" src="{{asset('public/images/logo/djt_group.png')}}"></div>

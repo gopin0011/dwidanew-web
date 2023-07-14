@@ -1221,7 +1221,7 @@
                                                         <div class="fl-rich-text">
                                                             <p>Founded in 2006, Dwida Manufacture is a manufacturing company based in Bogor, Indonesia. We have started our journey as a distributor of educational aids since decades ago and over time, our business has now entered the production and creation stage.<br></p>
                                                             <p>In 2018 we committed to the custom furniture industry, and after several years, we are now proud to specialize in creating with wood, metal, and plastic as well. <br></p>
-                                                            <p>At Dwida Manufaktur, we are not only committed to delivering high quality products, but also meeting international standards. Our dedication to quality is reflected in our certifications, which already include ISO 9001, 14001, 45001, 27001, Indonesian National Standard (SNI), and also Indonesian Timber Legality Verification. <br></p>
+                                                            <p>At Dwida Manufacture, we are not only committed to delivering high quality products, but also meeting international standards. Our dedication to quality is reflected in our certifications, which already include ISO 9001, 14001, 45001, 27001, Indonesian National Standard (SNI), and also Indonesian Timber Legality Verification. <br></p>
                                                             <p>Our state-of-the-art manufacturing facilities featuring constantly updated machines and employing the latest high technology allow us to produce consistent, well planned and high quality products.<br></p>
                                                             <p>In the human resources sector, we are highly adaptive, competent and skilled, our workers undergo careful and professional training to ensure that they are equipped with the necessary skills when creatively meeting the diverse needs of clients.<br></p>
                                                             <p>Our vision is to become a strong and sustainable international manufacturing company by emphasizing excellent after-sales service and product creation. Do you need special furniture or other special products? we have the obligation and the resources to meet those needs.
@@ -1368,7 +1368,7 @@
                                         <div class="fl-module fl-module-rich-text fl-node-5f90a4220124b" data-node="5f90a4220124b">
                                             <div class="fl-module-content fl-node-content">
                                                 <div class="fl-rich-text">
-                                                    <p>Our products engineered and produced in Jakarta, together with our network of suppliers, we deliver precise Indonesia Made Solutions, which guarantee your vehicles perform perfectly, both now and in the future.</p>
+                                                    <p>Our products engineered and produced in Indonesia, together with our network of suppliers, we deliver precise Indonesia Made Solutions, which guarantee your vehicles perform perfectly, both now and in the future.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -1652,7 +1652,7 @@
                                         <div class="fl-module fl-module-heading fl-node-5e1e2df5c9342" data-node="5e1e2df5c9342">
                                             <div class="fl-module-content fl-node-content">
                                                 <h3 class="fl-heading">
-                                                    <span class="fl-heading-text">CREATING & MAKING<br>BEST QUALITY OF PRODUCTS</span>
+                                                    <span class="fl-heading-text">CREATING & MAKING<br>THE BEST QUALITY OF PRODUCTS</span>
                                                 </h3>
                                             </div>
                                         </div>

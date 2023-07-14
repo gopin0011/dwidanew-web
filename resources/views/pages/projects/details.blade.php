@@ -1451,7 +1451,7 @@
                     <div class="fl-module fl-module-heading fl-node-602ef686c49f4" data-node="602ef686c49f4">
                         <div class="fl-module-content fl-node-content">
                             <h4 class="fl-heading">
-                                <span class="fl-heading-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span>
+                                <span class="fl-heading-text">Since the last few years, we have been committed to specializing in various works and furniture products, including design, development, and installation, both for commercial and residential spaces, as well as various mass-produced furniture for today's various industries such as hospitality, education , and health care.</span>
                             </h4>
                         </div>
                     </div>
