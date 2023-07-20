@@ -5,11 +5,11 @@
       <meta http-equiv="X-UA-Compatible" content="IE=Edge">
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover">
       <meta name="format-detection" content="telephone=no">
-      <title>Dwida Jaya Tama - One Stop Education Solution</title>
-      <link rel="canonical" href="https://www.nobili.it/">
-      <meta property="og:title" content="Nobili Rubinetterie">
+      <title>Dwida Jaya Tama - Dwida Manufacture</title>
+      <link rel="canonical" href="https://www.dwidajayatama.com/">
+      <meta property="og:title" content="Dwida Jaya Tama">
       <meta property="og:type" content="website">
-      <meta property="og:url" content="https://www.nobili.it/">
+      <meta property="og:url" content="https://www.dwidajayatama.com/">
       <meta name="twitter:card" content="summary">
       <script type="application/ld+json">
          {
@@ -20,20 +20,20 @@
              "@type": "ListItem",
              "position": 1,
              "name": "Home",
-             "item": "https://www.nobili.it/"
+             "item": "https://www.dwidajayatama.com/"
            }
            ]
          }
       </script>
       <meta name="generator" content="ProcessWire">
-      <link rel="alternate" href="https://www.nobili.it/" hreflang="en">
-      <link rel="alternate" href="https://www.nobili.it/" hreflang="x-default">
-      <link rel="alternate" href="https://www.nobili.it/it/" hreflang="it">
-      <link rel="alternate" href="https://www.nobili.it/fr/" hreflang="fr">
-      <link rel="alternate" href="https://www.nobili.it/es/" hreflang="es">
-      <link rel="alternate" href="https://www.nobili.it/de/" hreflang="de">
-      <link rel="alternate" href="https://www.nobili.it/ru/" hreflang="ru">
-      <link rel="alternate" href="https://www.nobili.it/nl/" hreflang="nl">
+      <link rel="alternate" href="https://www.dwidajayatama.com/" hreflang="en">
+      <link rel="alternate" href="https://www.dwidajayatama.com/" hreflang="x-default">
+      <link rel="alternate" href="https://www.dwidajayatama.com/it/" hreflang="it">
+      <link rel="alternate" href="https://www.dwidajayatama.com/fr/" hreflang="fr">
+      <link rel="alternate" href="https://www.dwidajayatama.com/es/" hreflang="es">
+      <link rel="alternate" href="https://www.dwidajayatama.com/de/" hreflang="de">
+      <link rel="alternate" href="https://www.dwidajayatama.com/ru/" hreflang="ru">
+      <link rel="alternate" href="https://www.dwidajayatama.com/nl/" hreflang="nl">
       <link rel="preconnect" href="https://www.google-analytics.com">
       <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=2">
       <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=2">

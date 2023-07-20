@@ -38,10 +38,10 @@
                                                                alt=""
                                                                width=18
                                                                height=12
-                                                               data-lazy-src="https://bluebotics.com/wp-content/uploads/flags/united-states.png" />
+                                                               data-lazy-src="https://dwidajayatama.com/wp-content/uploads/flags/united-states.png" />
                                                             <noscript><img width="18" height="12"
                                                                class="wpml-ls-flag"
-                                                               src="https://bluebotics.com/wp-content/uploads/flags/united-states.png"
+                                                               src="https://dwidajayatama.com/wp-content/uploads/flags/united-states.png"
                                                                alt=""
                                                                width=18
                                                                height=12
@@ -50,17 +50,17 @@
                                                          </a>
                                                          <ul class="wpml-ls-sub-menu">
                                                             <li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-de">
-                                                               <a href="https://bluebotics.com/de/" class="wpml-ls-link">
+                                                               <a href="https://dwidajayatama.com/de/" class="wpml-ls-link">
                                                                   <img width="18" height="12"
                                                                      class="wpml-ls-flag"
                                                                      src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E"
                                                                      alt=""
                                                                      width=18
                                                                      height=12
-                                                                     data-lazy-src="https://bluebotics.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png" />
+                                                                     data-lazy-src="https://dwidajayatama.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png" />
                                                                   <noscript><img width="18" height="12"
                                                                      class="wpml-ls-flag"
-                                                                     src="https://bluebotics.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png"
+                                                                     src="https://dwidajayatama.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png"
                                                                      alt=""
                                                                      width=18
                                                                      height=12
@@ -69,17 +69,17 @@
                                                                </a>
                                                             </li>
                                                             <li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-fr">
-                                                               <a href="https://bluebotics.com/fr/" class="wpml-ls-link">
+                                                               <a href="https://dwidajayatama.com/fr/" class="wpml-ls-link">
                                                                   <img width="18" height="12"
                                                                      class="wpml-ls-flag"
                                                                      src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E"
                                                                      alt=""
                                                                      width=18
                                                                      height=12
-                                                                     data-lazy-src="https://bluebotics.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png" />
+                                                                     data-lazy-src="https://dwidajayatama.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png" />
                                                                   <noscript><img width="18" height="12"
                                                                      class="wpml-ls-flag"
-                                                                     src="https://bluebotics.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png"
+                                                                     src="https://dwidajayatama.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png"
                                                                      alt=""
                                                                      width=18
                                                                      height=12
@@ -88,17 +88,17 @@
                                                                </a>
                                                             </li>
                                                             <li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-it">
-                                                               <a href="https://bluebotics.com/it/" class="wpml-ls-link">
+                                                               <a href="https://dwidajayatama.com/it/" class="wpml-ls-link">
                                                                   <img width="18" height="12"
                                                                      class="wpml-ls-flag"
                                                                      src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E"
                                                                      alt=""
                                                                      width=18
                                                                      height=12
-                                                                     data-lazy-src="https://bluebotics.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png" />
+                                                                     data-lazy-src="https://dwidajayatama.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png" />
                                                                   <noscript><img width="18" height="12"
                                                                      class="wpml-ls-flag"
-                                                                     src="https://bluebotics.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png"
+                                                                     src="https://dwidajayatama.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png"
                                                                      alt=""
                                                                      width=18
                                                                      height=12
@@ -107,17 +107,17 @@
                                                                </a>
                                                             </li>
                                                             <li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-zh-hans wpml-ls-last-item">
-                                                               <a href="https://bluebotics.com/zh-hans/" class="wpml-ls-link">
+                                                               <a href="https://dwidajayatama.com/zh-hans/" class="wpml-ls-link">
                                                                   <img width="18" height="12"
                                                                      class="wpml-ls-flag"
                                                                      src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E"
                                                                      alt=""
                                                                      width=18
                                                                      height=12
-                                                                     data-lazy-src="https://bluebotics.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/zh-hans.png" />
+                                                                     data-lazy-src="https://dwidajayatama.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/zh-hans.png" />
                                                                   <noscript><img width="18" height="12"
                                                                      class="wpml-ls-flag"
-                                                                     src="https://bluebotics.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/zh-hans.png"
+                                                                     src="https://dwidajayatama.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/zh-hans.png"
                                                                      alt=""
                                                                      width=18
                                                                      height=12
@@ -156,34 +156,34 @@
                                                    <li id="menu-item-861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style">
                                                       <div class="uabb-has-submenu-container"><a href="{{route('app.home')}}"><span class="menu-item-text">HOME<span class="uabb-menu-toggle"></span></span></a></div>
                                                       <ul class="sub-menu">
-                                                         <li id="menu-item-867" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/autonomous-navigation-technology/"><span class="menu-item-text">ABOUT ANT</span></a></li>
-                                                         <li id="menu-item-862" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/autonomous-navigation-technology/ant-lite-plus/"><span class="menu-item-text">ANT LITE<sup>+</sup></span></a></li>
-                                                         <li id="menu-item-1171" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/autonomous-navigation-technology/ant-localization-plus/"><span class="menu-item-text">ANT LOCALIZATION<sup>+</sup></span></a></li>
-                                                         <li id="menu-item-865" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/autonomous-navigation-technology/ant-localization/"><span class="menu-item-text">ANT LOCALIZATION</span></a></li>
-                                                         <li id="menu-item-863" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/autonomous-navigation-technology/ant-lab-configuration-software/"><span class="menu-item-text">ANT LAB</span></a></li>
-                                                         <li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/autonomous-navigation-technology/ant-server-fleet-software/"><span class="menu-item-text">ANT SERVER</span></a></li>
+                                                         <li id="menu-item-867" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/autonomous-navigation-technology/"><span class="menu-item-text">ABOUT ANT</span></a></li>
+                                                         <li id="menu-item-862" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/autonomous-navigation-technology/ant-lite-plus/"><span class="menu-item-text">ANT LITE<sup>+</sup></span></a></li>
+                                                         <li id="menu-item-1171" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/autonomous-navigation-technology/ant-localization-plus/"><span class="menu-item-text">ANT LOCALIZATION<sup>+</sup></span></a></li>
+                                                         <li id="menu-item-865" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/autonomous-navigation-technology/ant-localization/"><span class="menu-item-text">ANT LOCALIZATION</span></a></li>
+                                                         <li id="menu-item-863" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/autonomous-navigation-technology/ant-lab-configuration-software/"><span class="menu-item-text">ANT LAB</span></a></li>
+                                                         <li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/autonomous-navigation-technology/ant-server-fleet-software/"><span class="menu-item-text">ANT SERVER</span></a></li>
                                                       </ul>
                                                    </li>
                                                    <li id="menu-item-868" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style">
-                                                      <div class="uabb-has-submenu-container"><a href="https://bluebotics.com/engineering-services/"><span class="menu-item-text">ENGINEERING<span class="uabb-menu-toggle"></span></span></a></div>
+                                                      <div class="uabb-has-submenu-container"><a href="https://dwidajayatama.com/engineering-services/"><span class="menu-item-text">ENGINEERING<span class="uabb-menu-toggle"></span></span></a></div>
                                                       <ul class="sub-menu">
-                                                         <li id="menu-item-1264" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/engineering-services/"><span class="menu-item-text">Engineering services</span></a></li>
-                                                         <li id="menu-item-870" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/engineering-services/mini/"><span class="menu-item-text">mini<span class="trademark">TM</span></span></a></li>
-                                                         <li id="menu-item-869" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/engineering-services/mini-lite/"><span class="menu-item-text">mini<span class="trademark">TM</span> lite</span></a></li>
-                                                         <li id="menu-item-4329" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/mini-uvc-disinfection-robot/"><span class="menu-item-text">mini<span class="trademark">TM</span> UVC</span></a></li>
+                                                         <li id="menu-item-1264" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/engineering-services/"><span class="menu-item-text">Engineering services</span></a></li>
+                                                         <li id="menu-item-870" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/engineering-services/mini/"><span class="menu-item-text">mini<span class="trademark">TM</span></span></a></li>
+                                                         <li id="menu-item-869" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/engineering-services/mini-lite/"><span class="menu-item-text">mini<span class="trademark">TM</span> lite</span></a></li>
+                                                         <li id="menu-item-4329" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/mini-uvc-disinfection-robot/"><span class="menu-item-text">mini<span class="trademark">TM</span> UVC</span></a></li>
                                                       </ul>
                                                    </li>
                                                    <li id="menu-item-872" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="{{route('app.factory')}}"><span class="menu-item-text">REFERENCES</span></a></li>
                                                    <li id="menu-item-1184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style">
-                                                      <div class="uabb-has-submenu-container"><a href="https://bluebotics.com/about/"><span class="menu-item-text">COMPANY<span class="uabb-menu-toggle"></span></span></a></div>
+                                                      <div class="uabb-has-submenu-container"><a href="https://dwidajayatama.com/about/"><span class="menu-item-text">COMPANY<span class="uabb-menu-toggle"></span></span></a></div>
                                                       <ul class="sub-menu">
-                                                         <li id="menu-item-15282" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/about/"><span class="menu-item-text">About BlueBotics</span></a></li>
-                                                         <li id="menu-item-15283" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/category/news/"><span class="menu-item-text">News</span></a></li>
-                                                         <li id="menu-item-15284" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/bluebotics-events/"><span class="menu-item-text">Events</span></a></li>
-                                                         <li id="menu-item-15285" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/blog/"><span class="menu-item-text">Blog</span></a></li>
+                                                         <li id="menu-item-15282" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/about/"><span class="menu-item-text">About BlueBotics</span></a></li>
+                                                         <li id="menu-item-15283" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/category/news/"><span class="menu-item-text">News</span></a></li>
+                                                         <li id="menu-item-15284" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/bluebotics-events/"><span class="menu-item-text">Events</span></a></li>
+                                                         <li id="menu-item-15285" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/blog/"><span class="menu-item-text">Blog</span></a></li>
                                                       </ul>
                                                    </li>
-                                                   <li id="menu-item-4358" class="menu-button menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/contact/"><span class="menu-item-text">GET IN TOUCH</span></a></li>
+                                                   <li id="menu-item-4358" class="menu-button menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/contact/"><span class="menu-item-text">GET IN TOUCH</span></a></li>
                                                 </ul>
                                              </div>
                                              <div class="uabb-creative-menu-mobile-toggle-container">
@@ -204,36 +204,36 @@
                                                    <div class="uabb-menu-close-btn">×</div>
                                                    <ul id="menu-main-menu-mobile-1" class="menu uabb-creative-menu-horizontal uabb-toggle-none">
                                                       <li id="menu-item-861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style">
-                                                         <div class="uabb-has-submenu-container"><a href="https://bluebotics.com/autonomous-navigation-technology/"><span class="menu-item-text">NAVIGATION<span class="uabb-menu-toggle"></span></span></a></div>
+                                                         <div class="uabb-has-submenu-container"><a href="https://dwidajayatama.com/autonomous-navigation-technology/"><span class="menu-item-text">NAVIGATION<span class="uabb-menu-toggle"></span></span></a></div>
                                                          <ul class="sub-menu">
-                                                            <li id="menu-item-867" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/autonomous-navigation-technology/"><span class="menu-item-text">ABOUT ANT</span></a></li>
-                                                            <li id="menu-item-862" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/autonomous-navigation-technology/ant-lite-plus/"><span class="menu-item-text">ANT LITE<sup>+</sup></span></a></li>
-                                                            <li id="menu-item-1171" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/autonomous-navigation-technology/ant-localization-plus/"><span class="menu-item-text">ANT LOCALIZATION<sup>+</sup></span></a></li>
-                                                            <li id="menu-item-865" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/autonomous-navigation-technology/ant-localization/"><span class="menu-item-text">ANT LOCALIZATION</span></a></li>
-                                                            <li id="menu-item-863" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/autonomous-navigation-technology/ant-lab-configuration-software/"><span class="menu-item-text">ANT LAB</span></a></li>
-                                                            <li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/autonomous-navigation-technology/ant-server-fleet-software/"><span class="menu-item-text">ANT SERVER</span></a></li>
+                                                            <li id="menu-item-867" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/autonomous-navigation-technology/"><span class="menu-item-text">ABOUT ANT</span></a></li>
+                                                            <li id="menu-item-862" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/autonomous-navigation-technology/ant-lite-plus/"><span class="menu-item-text">ANT LITE<sup>+</sup></span></a></li>
+                                                            <li id="menu-item-1171" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/autonomous-navigation-technology/ant-localization-plus/"><span class="menu-item-text">ANT LOCALIZATION<sup>+</sup></span></a></li>
+                                                            <li id="menu-item-865" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/autonomous-navigation-technology/ant-localization/"><span class="menu-item-text">ANT LOCALIZATION</span></a></li>
+                                                            <li id="menu-item-863" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/autonomous-navigation-technology/ant-lab-configuration-software/"><span class="menu-item-text">ANT LAB</span></a></li>
+                                                            <li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/autonomous-navigation-technology/ant-server-fleet-software/"><span class="menu-item-text">ANT SERVER</span></a></li>
                                                          </ul>
                                                       </li>
                                                       <li id="menu-item-868" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style">
-                                                         <div class="uabb-has-submenu-container"><a href="https://bluebotics.com/engineering-services/"><span class="menu-item-text">ENGINEERING<span class="uabb-menu-toggle"></span></span></a></div>
+                                                         <div class="uabb-has-submenu-container"><a href="https://dwidajayatama.com/engineering-services/"><span class="menu-item-text">ENGINEERING<span class="uabb-menu-toggle"></span></span></a></div>
                                                          <ul class="sub-menu">
-                                                            <li id="menu-item-1264" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/engineering-services/"><span class="menu-item-text">Engineering services</span></a></li>
-                                                            <li id="menu-item-870" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/engineering-services/mini/"><span class="menu-item-text">mini<span class="trademark">TM</span></span></a></li>
-                                                            <li id="menu-item-869" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/engineering-services/mini-lite/"><span class="menu-item-text">mini<span class="trademark">TM</span> lite</span></a></li>
-                                                            <li id="menu-item-4329" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/mini-uvc-disinfection-robot/"><span class="menu-item-text">mini<span class="trademark">TM</span> UVC</span></a></li>
+                                                            <li id="menu-item-1264" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/engineering-services/"><span class="menu-item-text">Engineering services</span></a></li>
+                                                            <li id="menu-item-870" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/engineering-services/mini/"><span class="menu-item-text">mini<span class="trademark">TM</span></span></a></li>
+                                                            <li id="menu-item-869" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/engineering-services/mini-lite/"><span class="menu-item-text">mini<span class="trademark">TM</span> lite</span></a></li>
+                                                            <li id="menu-item-4329" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/mini-uvc-disinfection-robot/"><span class="menu-item-text">mini<span class="trademark">TM</span> UVC</span></a></li>
                                                          </ul>
                                                       </li>
                                                       <li id="menu-item-872" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="{{route('app.factory')}}"><span class="menu-item-text">REFERENCES</span></a></li>
                                                       <li id="menu-item-1184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uabb-has-submenu uabb-creative-menu uabb-cm-style">
-                                                         <div class="uabb-has-submenu-container"><a href="https://bluebotics.com/about/"><span class="menu-item-text">COMPANY<span class="uabb-menu-toggle"></span></span></a></div>
+                                                         <div class="uabb-has-submenu-container"><a href="https://dwidajayatama.com/about/"><span class="menu-item-text">COMPANY<span class="uabb-menu-toggle"></span></span></a></div>
                                                          <ul class="sub-menu">
-                                                            <li id="menu-item-15282" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/about/"><span class="menu-item-text">About BlueBotics</span></a></li>
-                                                            <li id="menu-item-15283" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/category/news/"><span class="menu-item-text">News</span></a></li>
-                                                            <li id="menu-item-15284" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/bluebotics-events/"><span class="menu-item-text">Events</span></a></li>
-                                                            <li id="menu-item-15285" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/blog/"><span class="menu-item-text">Blog</span></a></li>
+                                                            <li id="menu-item-15282" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/about/"><span class="menu-item-text">About BlueBotics</span></a></li>
+                                                            <li id="menu-item-15283" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/category/news/"><span class="menu-item-text">News</span></a></li>
+                                                            <li id="menu-item-15284" class="menu-item menu-item-type-custom menu-item-object-custom uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/bluebotics-events/"><span class="menu-item-text">Events</span></a></li>
+                                                            <li id="menu-item-15285" class="menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/blog/"><span class="menu-item-text">Blog</span></a></li>
                                                          </ul>
                                                       </li>
-                                                      <li id="menu-item-4358" class="menu-button menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://bluebotics.com/contact/"><span class="menu-item-text">GET IN TOUCH</span></a></li>
+                                                      <li id="menu-item-4358" class="menu-button menu-item menu-item-type-post_type menu-item-object-page uabb-creative-menu uabb-cm-style"><a href="https://dwidajayatama.com/contact/"><span class="menu-item-text">GET IN TOUCH</span></a></li>
                                                    </ul>
                                                 </div>
                                              </div>
@@ -287,7 +287,7 @@
                                              <li class="mega-menu-saved-row">
                                                 <a  target="_self" class="mega-menu-saved-row-a" href="{{route('app.about')}}">ABOUT <i class=""></i></a>
                                                 <!-- <div class="mega-menu-saved-row-container" >
-                                                   <link data-minify="1" rel='stylesheet' id='fl-builder-layout-18054-css' href='https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/bb-plugin/cache/18054-layout-partial.css?ver=1681229321' media='all' />
+                                                   <link data-minify="1" rel='stylesheet' id='fl-builder-layout-18054-css' href='https://dwidajayatama.com/wp-content/cache/min/1/wp-content/uploads/bb-plugin/cache/18054-layout-partial.css?ver=1681229321' media='all' />
                                                    <div class="fl-builder-content fl-builder-content-18054 fl-builder-template fl-builder-row-template fl-builder-global-templates-locked" data-post-id="18054">
                                                       <div class="fl-row fl-row-fixed-width fl-row-bg-color fl-node-bory61ndju5t" data-node="bory61ndju5t">
                                                          <div class="fl-row-content-wrap">
@@ -305,9 +305,9 @@
                                                                                        <div class="uabb-module-content uabb-imgicon-wrap">
                                                                                           <div class="uabb-image uabb-image-crop-simple" itemscope itemtype="https://schema.org/ImageObject">
                                                                                              <div class="uabb-image-content">
-                                                                                                <img width="500" height="500"  decoding="async"  class="uabb-photo-img wp-image-10510 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" alt="BlueBotics Engineering Services." title="" itemprop="image" data-lazy-src="https://bluebotics.com/wp-content/uploads/2021/02/Engineering-Services.svg"/>
+                                                                                                <img width="500" height="500"  decoding="async"  class="uabb-photo-img wp-image-10510 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" alt="BlueBotics Engineering Services." title="" itemprop="image" data-lazy-src="https://dwidajayatama.com/wp-content/uploads/2021/02/Engineering-Services.svg"/>
                                                                                                 <noscript>
-                                                                                                   <img width="500" height="500"  decoding="async"  class="uabb-photo-img wp-image-10510 size-thumbnail" src="https://bluebotics.com/wp-content/uploads/2021/02/Engineering-Services.svg" alt="BlueBotics Engineering Services." title="" itemprop="image"/>
+                                                                                                   <img width="500" height="500"  decoding="async"  class="uabb-photo-img wp-image-10510 size-thumbnail" src="https://dwidajayatama.com/wp-content/uploads/2021/02/Engineering-Services.svg" alt="BlueBotics Engineering Services." title="" itemprop="image"/>
                                                                                                 </noscript>
                                                                                              </div>
                                                                                           </div>
@@ -333,8 +333,8 @@
                                                                                           <div class="uabb-image
                                                                                              uabb-image-crop-simple		" itemscope itemtype="https://schema.org/ImageObject">
                                                                                              <div class="uabb-image-content">
-                                                                                                <img width="150" height="150"  decoding="async"  class="uabb-photo-img wp-image-10515 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" alt="BlueBotics mini lite mobile robot." title="" itemprop="image" data-lazy-src="https://bluebotics.com/wp-content/uploads/2021/02/miniTM-lite.svg"/>
-                                                                                                <noscript><img width="150" height="150"  decoding="async"  class="uabb-photo-img wp-image-10515 size-thumbnail" src="https://bluebotics.com/wp-content/uploads/2021/02/miniTM-lite.svg" alt="BlueBotics mini lite mobile robot." title="" itemprop="image"/></noscript>
+                                                                                                <img width="150" height="150"  decoding="async"  class="uabb-photo-img wp-image-10515 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" alt="BlueBotics mini lite mobile robot." title="" itemprop="image" data-lazy-src="https://dwidajayatama.com/wp-content/uploads/2021/02/miniTM-lite.svg"/>
+                                                                                                <noscript><img width="150" height="150"  decoding="async"  class="uabb-photo-img wp-image-10515 size-thumbnail" src="https://dwidajayatama.com/wp-content/uploads/2021/02/miniTM-lite.svg" alt="BlueBotics mini lite mobile robot." title="" itemprop="image"/></noscript>
                                                                                              </div>
                                                                                           </div>
                                                                                        </div>
@@ -358,8 +358,8 @@
                                                                                           <div class="uabb-image
                                                                                              uabb-image-crop-simple		" itemscope itemtype="https://schema.org/ImageObject">
                                                                                              <div class="uabb-image-content">
-                                                                                                <img width="150" height="150"  decoding="async"  class="uabb-photo-img wp-image-10520 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" alt="BlueBotics mini mobile robot." title="" itemprop="image" data-lazy-src="https://bluebotics.com/wp-content/uploads/2021/02/miniTM.svg"/>
-                                                                                                <noscript><img width="150" height="150"  decoding="async"  class="uabb-photo-img wp-image-10520 size-thumbnail" src="https://bluebotics.com/wp-content/uploads/2021/02/miniTM.svg" alt="BlueBotics mini mobile robot." title="" itemprop="image"/></noscript>
+                                                                                                <img width="150" height="150"  decoding="async"  class="uabb-photo-img wp-image-10520 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" alt="BlueBotics mini mobile robot." title="" itemprop="image" data-lazy-src="https://dwidajayatama.com/wp-content/uploads/2021/02/miniTM.svg"/>
+                                                                                                <noscript><img width="150" height="150"  decoding="async"  class="uabb-photo-img wp-image-10520 size-thumbnail" src="https://dwidajayatama.com/wp-content/uploads/2021/02/miniTM.svg" alt="BlueBotics mini mobile robot." title="" itemprop="image"/></noscript>
                                                                                              </div>
                                                                                           </div>
                                                                                        </div>
@@ -383,8 +383,8 @@
                                                                                           <div class="uabb-image
                                                                                              uabb-image-crop-simple		" itemscope itemtype="https://schema.org/ImageObject">
                                                                                              <div class="uabb-image-content">
-                                                                                                <img width="500" height="500"  decoding="async"  class="uabb-photo-img wp-image-10526 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" alt="BlueBotics mini UVC." title="" itemprop="image" data-lazy-src="https://bluebotics.com/wp-content/uploads/2021/02/miniTM-UVC.svg"/>
-                                                                                                <noscript><img width="500" height="500"  decoding="async"  class="uabb-photo-img wp-image-10526 size-thumbnail" src="https://bluebotics.com/wp-content/uploads/2021/02/miniTM-UVC.svg" alt="BlueBotics mini UVC." title="" itemprop="image"/></noscript>
+                                                                                                <img width="500" height="500"  decoding="async"  class="uabb-photo-img wp-image-10526 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" alt="BlueBotics mini UVC." title="" itemprop="image" data-lazy-src="https://dwidajayatama.com/wp-content/uploads/2021/02/miniTM-UVC.svg"/>
+                                                                                                <noscript><img width="500" height="500"  decoding="async"  class="uabb-photo-img wp-image-10526 size-thumbnail" src="https://dwidajayatama.com/wp-content/uploads/2021/02/miniTM-UVC.svg" alt="BlueBotics mini UVC." title="" itemprop="image"/></noscript>
                                                                                              </div>
                                                                                           </div>
                                                                                        </div>
@@ -407,7 +407,7 @@
                                              <!-- <li class="mega-menu-saved-row">
                                                 <a  target="_self" class="mega-menu-saved-row-a" href="{{route('app.product', ['catId' => 1])}}">PRODUCT <i class=""></i></a> -->
                                                 <!-- <div class="mega-menu-saved-row-container" >
-                                                   <link data-minify="1" rel='stylesheet' id='fl-builder-layout-18057-css' href='https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/bb-plugin/cache/18057-layout-partial.css?ver=1681229321' media='all' />
+                                                   <link data-minify="1" rel='stylesheet' id='fl-builder-layout-18057-css' href='https://dwidajayatama.com/wp-content/cache/min/1/wp-content/uploads/bb-plugin/cache/18057-layout-partial.css?ver=1681229321' media='all' />
                                                    <div class="fl-builder-content fl-builder-content-18057 fl-builder-template fl-builder-row-template fl-builder-global-templates-locked" data-post-id="18057">
                                                       <div class="fl-row fl-row-fixed-width fl-row-bg-color fl-node-esivfkr274tu" data-node="esivfkr274tu">
                                                          <div class="fl-row-content-wrap">
@@ -426,8 +426,8 @@
                                                                                           <div class="uabb-image
                                                                                              uabb-image-crop-simple		" itemscope itemtype="https://schema.org/ImageObject">
                                                                                              <div class="uabb-image-content">
-                                                                                                <img width="500" height="500"  decoding="async"  class="uabb-photo-img wp-image-14597 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" alt="About BllueBotics." title="" itemprop="image" data-lazy-src="https://bluebotics.com/wp-content/uploads/2021/09/Icon-Company-AboutUs.svg"/>
-                                                                                                <noscript><img width="500" height="500"  decoding="async"  class="uabb-photo-img wp-image-14597 size-thumbnail" src="https://bluebotics.com/wp-content/uploads/2021/09/Icon-Company-AboutUs.svg" alt="About BllueBotics." title="" itemprop="image"/></noscript>
+                                                                                                <img width="500" height="500"  decoding="async"  class="uabb-photo-img wp-image-14597 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" alt="About BllueBotics." title="" itemprop="image" data-lazy-src="https://dwidajayatama.com/wp-content/uploads/2021/09/Icon-Company-AboutUs.svg"/>
+                                                                                                <noscript><img width="500" height="500"  decoding="async"  class="uabb-photo-img wp-image-14597 size-thumbnail" src="https://dwidajayatama.com/wp-content/uploads/2021/09/Icon-Company-AboutUs.svg" alt="About BllueBotics." title="" itemprop="image"/></noscript>
                                                                                              </div>
                                                                                           </div>
                                                                                        </div>
@@ -451,8 +451,8 @@
                                                                                           <div class="uabb-image
                                                                                              uabb-image-crop-simple		" itemscope itemtype="https://schema.org/ImageObject">
                                                                                              <div class="uabb-image-content">
-                                                                                                <img width="500" height="500"  decoding="async"  class="uabb-photo-img wp-image-14602 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" alt="BlueBotics News." title="" itemprop="image" data-lazy-src="https://bluebotics.com/wp-content/uploads/2021/09/Icon-Company-News.svg"/>
-                                                                                                <noscript><img width="500" height="500"  decoding="async"  class="uabb-photo-img wp-image-14602 size-thumbnail" src="https://bluebotics.com/wp-content/uploads/2021/09/Icon-Company-News.svg" alt="BlueBotics News." title="" itemprop="image"/></noscript>
+                                                                                                <img width="500" height="500"  decoding="async"  class="uabb-photo-img wp-image-14602 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" alt="BlueBotics News." title="" itemprop="image" data-lazy-src="https://dwidajayatama.com/wp-content/uploads/2021/09/Icon-Company-News.svg"/>
+                                                                                                <noscript><img width="500" height="500"  decoding="async"  class="uabb-photo-img wp-image-14602 size-thumbnail" src="https://dwidajayatama.com/wp-content/uploads/2021/09/Icon-Company-News.svg" alt="BlueBotics News." title="" itemprop="image"/></noscript>
                                                                                              </div>
                                                                                           </div>
                                                                                        </div>
@@ -476,8 +476,8 @@
                                                                                           <div class="uabb-image
                                                                                              uabb-image-crop-simple		" itemscope itemtype="https://schema.org/ImageObject">
                                                                                              <div class="uabb-image-content">
-                                                                                                <img width="500" height="500"  decoding="async"  class="uabb-photo-img wp-image-14607 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" alt="BlueBotics events." title="" itemprop="image" data-lazy-src="https://bluebotics.com/wp-content/uploads/2021/09/Icon-Company-Event.svg"/>
-                                                                                                <noscript><img width="500" height="500"  decoding="async"  class="uabb-photo-img wp-image-14607 size-thumbnail" src="https://bluebotics.com/wp-content/uploads/2021/09/Icon-Company-Event.svg" alt="BlueBotics events." title="" itemprop="image"/></noscript>
+                                                                                                <img width="500" height="500"  decoding="async"  class="uabb-photo-img wp-image-14607 size-thumbnail" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E" alt="BlueBotics events." title="" itemprop="image" data-lazy-src="https://dwidajayatama.com/wp-content/uploads/2021/09/Icon-Company-Event.svg"/>
+                                                                                                <noscript><img width="500" height="500"  decoding="async"  class="uabb-photo-img wp-image-14607 size-thumbnail" src="https://dwidajayatama.com/wp-content/uploads/2021/09/Icon-Company-Event.svg" alt="BlueBotics events." title="" itemprop="image"/></noscript>
                                                                                              </div>
                                                                                           </div>
                                                                                        </div>
@@ -546,10 +546,10 @@
                                                                alt=""
                                                                width=18
                                                                height=12
-                                                               data-lazy-src="https://bluebotics.com/wp-content/uploads/flags/united-states.png" />
+                                                               data-lazy-src="https://dwidajayatama.com/wp-content/uploads/flags/united-states.png" />
                                                             <noscript><img width="18" height="12"
                                                                class="wpml-ls-flag"
-                                                               src="https://bluebotics.com/wp-content/uploads/flags/united-states.png"
+                                                               src="https://dwidajayatama.com/wp-content/uploads/flags/united-states.png"
                                                                alt=""
                                                                width=18
                                                                height=12
@@ -558,17 +558,17 @@
                                                          </a>
                                                          <!-- <ul class="wpml-ls-sub-menu">
                                                             <li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-de">
-                                                               <a href="https://bluebotics.com/de/" class="wpml-ls-link">
+                                                               <a href="https://dwidajayatama.com/de/" class="wpml-ls-link">
                                                                   <img width="18" height="12"
                                                                      class="wpml-ls-flag"
                                                                      src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E"
                                                                      alt=""
                                                                      width=18
                                                                      height=12
-                                                                     data-lazy-src="https://bluebotics.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png" />
+                                                                     data-lazy-src="https://dwidajayatama.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png" />
                                                                   <noscript><img width="18" height="12"
                                                                      class="wpml-ls-flag"
-                                                                     src="https://bluebotics.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png"
+                                                                     src="https://dwidajayatama.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png"
                                                                      alt=""
                                                                      width=18
                                                                      height=12
@@ -577,17 +577,17 @@
                                                                </a>
                                                             </li>
                                                             <li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-fr">
-                                                               <a href="https://bluebotics.com/fr/" class="wpml-ls-link">
+                                                               <a href="https://dwidajayatama.com/fr/" class="wpml-ls-link">
                                                                   <img width="18" height="12"
                                                                      class="wpml-ls-flag"
                                                                      src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E"
                                                                      alt=""
                                                                      width=18
                                                                      height=12
-                                                                     data-lazy-src="https://bluebotics.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png" />
+                                                                     data-lazy-src="https://dwidajayatama.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png" />
                                                                   <noscript><img width="18" height="12"
                                                                      class="wpml-ls-flag"
-                                                                     src="https://bluebotics.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png"
+                                                                     src="https://dwidajayatama.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png"
                                                                      alt=""
                                                                      width=18
                                                                      height=12
@@ -596,17 +596,17 @@
                                                                </a>
                                                             </li>
                                                             <li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-it">
-                                                               <a href="https://bluebotics.com/it/" class="wpml-ls-link">
+                                                               <a href="https://dwidajayatama.com/it/" class="wpml-ls-link">
                                                                   <img width="18" height="12"
                                                                      class="wpml-ls-flag"
                                                                      src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E"
                                                                      alt=""
                                                                      width=18
                                                                      height=12
-                                                                     data-lazy-src="https://bluebotics.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png" />
+                                                                     data-lazy-src="https://dwidajayatama.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png" />
                                                                   <noscript><img width="18" height="12"
                                                                      class="wpml-ls-flag"
-                                                                     src="https://bluebotics.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png"
+                                                                     src="https://dwidajayatama.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png"
                                                                      alt=""
                                                                      width=18
                                                                      height=12
@@ -615,17 +615,17 @@
                                                                </a>
                                                             </li>
                                                             <li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-zh-hans wpml-ls-last-item">
-                                                               <a href="https://bluebotics.com/zh-hans/" class="wpml-ls-link">
+                                                               <a href="https://dwidajayatama.com/zh-hans/" class="wpml-ls-link">
                                                                   <img width="18" height="12"
                                                                      class="wpml-ls-flag"
                                                                      src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E"
                                                                      alt=""
                                                                      width=18
                                                                      height=12
-                                                                     data-lazy-src="https://bluebotics.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/zh-hans.png" />
+                                                                     data-lazy-src="https://dwidajayatama.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/zh-hans.png" />
                                                                   <noscript><img width="18" height="12"
                                                                      class="wpml-ls-flag"
-                                                                     src="https://bluebotics.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/zh-hans.png"
+                                                                     src="https://dwidajayatama.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/zh-hans.png"
                                                                      alt=""
                                                                      width=18
                                                                      height=12

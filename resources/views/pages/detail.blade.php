@@ -1177,8 +1177,8 @@
       <noscript>
          <style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style>
       </noscript>
-      <link data-minify="1" rel="stylesheet" href="https://bluebotics.com/wp-content/cache/min/1/jem7gzh.css?ver=1681229321">
-      <link data-minify="1" href="https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/omgf/omgf-stylesheet-75/omgf-stylesheet-75.css?ver=1681229321" rel="stylesheet">
+      <link data-minify="1" rel="stylesheet" href="https://dwidajayatama.com/wp-content/cache/min/1/jem7gzh.css?ver=1681229321">
+      <link data-minify="1" href="https://dwidajayatama.com/wp-content/cache/min/1/wp-content/uploads/omgf/omgf-stylesheet-75/omgf-stylesheet-75.css?ver=1681229321" rel="stylesheet">
          <link href="{{ asset('public/assets/css/lightslider.min.css') }}" rel="stylesheet">
          <link href="{{ asset('public/assets/css/owl.carousel.min.css') }}" rel="stylesheet">         
 @endsection
@@ -1301,43 +1301,43 @@
 
 
 @section('js')
-      <link rel='stylesheet' id='gravity_forms_theme_reset-css' href='https://bluebotics.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-reset.min.css?ver=2.7.4' media='all' />
-      <link rel='stylesheet' id='gravity_forms_theme_foundation-css' href='https://bluebotics.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-foundation.min.css?ver=2.7.4' media='all' />
-      <link data-minify="1" rel='stylesheet' id='gravity_forms_theme_framework-css' href='https://bluebotics.com/wp-content/cache/min/1/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-framework.min.css?ver=1681229321' media='all' />
-      <link rel='stylesheet' id='gravity_forms_orbital_theme-css' href='https://bluebotics.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-orbital-theme.min.css?ver=2.7.4' media='all' />
-      <link rel='stylesheet' id='gforms_reset_css-css' href='https://bluebotics.com/wp-content/plugins/gravityforms/legacy/css/formreset.min.css?ver=2.7.4' media='all' />
-      <link rel='stylesheet' id='gforms_formsmain_css-css' href='https://bluebotics.com/wp-content/plugins/gravityforms/legacy/css/formsmain.min.css?ver=2.7.4' media='all' />
-      <link rel='stylesheet' id='gforms_ready_class_css-css' href='https://bluebotics.com/wp-content/plugins/gravityforms/legacy/css/readyclass.min.css?ver=2.7.4' media='all' />
-      <link rel='stylesheet' id='gforms_browsers_css-css' href='https://bluebotics.com/wp-content/plugins/gravityforms/legacy/css/browsers.min.css?ver=2.7.4' media='all' />
+      <link rel='stylesheet' id='gravity_forms_theme_reset-css' href='https://dwidajayatama.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-reset.min.css?ver=2.7.4' media='all' />
+      <link rel='stylesheet' id='gravity_forms_theme_foundation-css' href='https://dwidajayatama.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-foundation.min.css?ver=2.7.4' media='all' />
+      <link data-minify="1" rel='stylesheet' id='gravity_forms_theme_framework-css' href='https://dwidajayatama.com/wp-content/cache/min/1/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-framework.min.css?ver=1681229321' media='all' />
+      <link rel='stylesheet' id='gravity_forms_orbital_theme-css' href='https://dwidajayatama.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-orbital-theme.min.css?ver=2.7.4' media='all' />
+      <link rel='stylesheet' id='gforms_reset_css-css' href='https://dwidajayatama.com/wp-content/plugins/gravityforms/legacy/css/formreset.min.css?ver=2.7.4' media='all' />
+      <link rel='stylesheet' id='gforms_formsmain_css-css' href='https://dwidajayatama.com/wp-content/plugins/gravityforms/legacy/css/formsmain.min.css?ver=2.7.4' media='all' />
+      <link rel='stylesheet' id='gforms_ready_class_css-css' href='https://dwidajayatama.com/wp-content/plugins/gravityforms/legacy/css/readyclass.min.css?ver=2.7.4' media='all' />
+      <link rel='stylesheet' id='gforms_browsers_css-css' href='https://dwidajayatama.com/wp-content/plugins/gravityforms/legacy/css/browsers.min.css?ver=2.7.4' media='all' />
       <script id='labb-frontend-scripts-js-extra'>
          var labb_ajax_object = {"ajax_url":"https:\/\/bluebotics.com\/wp-admin\/admin-ajax.php","block_nonce":"6ae54de05f","gallery_nonce":"3970c1d6d4"};
          var labb_settings = {"custom_css":""};
       </script>
-      <script src='https://bluebotics.com/wp-content/plugins/addons-for-beaver-builder-premium/assets/js/labb-frontend.min.js?ver=3.1' id='labb-frontend-scripts-js' defer></script>
-      <script src='https://bluebotics.com/wp-content/plugins/bb-plugin/js/jquery.waypoints.min.js?ver=2.6.3.2' id='jquery-waypoints-js' defer></script>
-      <script src='https://bluebotics.com/wp-content/plugins/bb-plugin/js/jquery.easing.min.js?ver=1.4' id='jquery-easing-js' defer></script>
-      <script src='https://bluebotics.com/wp-content/plugins/bb-plugin/js/jquery.fitvids.min.js?ver=1.2' id='jquery-fitvids-js' defer></script>
-      <!-- <script src='https://bluebotics.com/wp-content/plugins/bb-plugin/js/jquery.bxslider.min.js?ver=2.6.3.2' id='jquery-bxslider-js' defer></script> -->
-      <script src='https://bluebotics.com/wp-content/plugins/bbpowerpack/assets/js/owl.carousel.min.js?ver=2.30.0' id='pp-owl-carousel-js' defer></script>
-      <script data-minify="1" src='https://bluebotics.com/wp-content/cache/min/1/wp-content/plugins/bb-ultimate-addon/modules/modal-popup/js/js_cookie.js?ver=1681229321' id='uabbpopup-cookies-js' defer></script>
-      <script data-minify="1" src='https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/bb-plugin/cache/22-layout.js?ver=1681229321' id='fl-builder-layout-22-js' defer></script>
-      <script src='https://bluebotics.com/wp-content/plugins/bb-plugin/js/jquery.ba-throttle-debounce.min.js?ver=2.6.3.2' id='jquery-throttle-js' defer></script>
-      <!-- <script data-minify="1" src='https://bluebotics.com/wp-content/cache/min/1/wp-content/uploads/bb-plugin/cache/aaf90966d04a02c0d21d7b4cd687fd39-layout-bundle.js?ver=1681229322' id='fl-builder-layout-bundle-aaf90966d04a02c0d21d7b4cd687fd39-js' defer></script> -->
-      <script src='https://bluebotics.com/wp-content/plugins/bb-plugin/js/jquery.magnificpopup.min.js?ver=2.6.3.2' id='jquery-magnificpopup-js' defer></script>
+      <script src='https://dwidajayatama.com/wp-content/plugins/addons-for-beaver-builder-premium/assets/js/labb-frontend.min.js?ver=3.1' id='labb-frontend-scripts-js' defer></script>
+      <script src='https://dwidajayatama.com/wp-content/plugins/bb-plugin/js/jquery.waypoints.min.js?ver=2.6.3.2' id='jquery-waypoints-js' defer></script>
+      <script src='https://dwidajayatama.com/wp-content/plugins/bb-plugin/js/jquery.easing.min.js?ver=1.4' id='jquery-easing-js' defer></script>
+      <script src='https://dwidajayatama.com/wp-content/plugins/bb-plugin/js/jquery.fitvids.min.js?ver=1.2' id='jquery-fitvids-js' defer></script>
+      <!-- <script src='https://dwidajayatama.com/wp-content/plugins/bb-plugin/js/jquery.bxslider.min.js?ver=2.6.3.2' id='jquery-bxslider-js' defer></script> -->
+      <script src='https://dwidajayatama.com/wp-content/plugins/bbpowerpack/assets/js/owl.carousel.min.js?ver=2.30.0' id='pp-owl-carousel-js' defer></script>
+      <script data-minify="1" src='https://dwidajayatama.com/wp-content/cache/min/1/wp-content/plugins/bb-ultimate-addon/modules/modal-popup/js/js_cookie.js?ver=1681229321' id='uabbpopup-cookies-js' defer></script>
+      <script data-minify="1" src='https://dwidajayatama.com/wp-content/cache/min/1/wp-content/uploads/bb-plugin/cache/22-layout.js?ver=1681229321' id='fl-builder-layout-22-js' defer></script>
+      <script src='https://dwidajayatama.com/wp-content/plugins/bb-plugin/js/jquery.ba-throttle-debounce.min.js?ver=2.6.3.2' id='jquery-throttle-js' defer></script>
+      <!-- <script data-minify="1" src='https://dwidajayatama.com/wp-content/cache/min/1/wp-content/uploads/bb-plugin/cache/aaf90966d04a02c0d21d7b4cd687fd39-layout-bundle.js?ver=1681229322' id='fl-builder-layout-bundle-aaf90966d04a02c0d21d7b4cd687fd39-js' defer></script> -->
+      <script src='https://dwidajayatama.com/wp-content/plugins/bb-plugin/js/jquery.magnificpopup.min.js?ver=2.6.3.2' id='jquery-magnificpopup-js' defer></script>
       <script id='fl-automator-js-extra'>
          var themeopts = {"medium_breakpoint":"992","mobile_breakpoint":"768","scrollTopPosition":"800"};
       </script>
-      <script src='https://bluebotics.com/wp-content/themes/bb-theme/js/theme.min.js?ver=1681736396' id='fl-automator-js' defer></script>
-      <script src='https://bluebotics.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js' defer></script>
-      <script src='https://bluebotics.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
-      <script src='https://bluebotics.com/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca' id='wp-dom-ready-js' defer></script>
-      <script src='https://bluebotics.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
-      <script src='https://bluebotics.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+      <script src='https://dwidajayatama.com/wp-content/themes/bb-theme/js/theme.min.js?ver=1681736396' id='fl-automator-js' defer></script>
+      <script src='https://dwidajayatama.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js' defer></script>
+      <script src='https://dwidajayatama.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+      <script src='https://dwidajayatama.com/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca' id='wp-dom-ready-js' defer></script>
+      <script src='https://dwidajayatama.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
+      <script src='https://dwidajayatama.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
       <script id='wp-i18n-js-after'>
          wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
       </script>
-      <script src='https://bluebotics.com/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664' id='wp-a11y-js' defer></script>
-      <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.7.4' id='gform_json-js'></script>
+      <script src='https://dwidajayatama.com/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664' id='wp-a11y-js' defer></script>
+      <script defer='defer' src='https://dwidajayatama.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.7.4' id='gform_json-js'></script>
       <script id='gform_gravityforms-js-extra'>
          var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
          var gf_legacy_multi = [];
@@ -1345,14 +1345,14 @@
          var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/bluebotics.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/bluebotics.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"669a140de0ea8af6b0e28af143bedc1d","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
       </script>
       <script id='gform_gravityforms-js-before'></script>
-      <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.7.4' id='gform_gravityforms-js'></script>
-      <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.7.4' id='gform_placeholder-js'></script>
-      <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=e53fa1c181b98fcc24f245ddeff3f288' id='gform_gravityforms_utils-js'></script>
-      <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=8d27ab6b5f180424b8c35a8bd6cf265b' id='gform_gravityforms_theme_vendors-js'></script>
+      <script defer='defer' src='https://dwidajayatama.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.7.4' id='gform_gravityforms-js'></script>
+      <script defer='defer' src='https://dwidajayatama.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.7.4' id='gform_placeholder-js'></script>
+      <script defer='defer' src='https://dwidajayatama.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=e53fa1c181b98fcc24f245ddeff3f288' id='gform_gravityforms_utils-js'></script>
+      <script defer='defer' src='https://dwidajayatama.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=8d27ab6b5f180424b8c35a8bd6cf265b' id='gform_gravityforms_theme_vendors-js'></script>
       <script id='gform_gravityforms_theme-js-extra'>
          var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"669a140de0ea8af6b0e28af143bedc1d"}}},"hmr_dev":"","public_path":"https:\/\/bluebotics.com\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/"};
       </script>
-      <script defer='defer' src='https://bluebotics.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=9c9598c0c1b63e5624987254d79ea8ef' id='gform_gravityforms_theme-js'></script>
+      <script defer='defer' src='https://dwidajayatama.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=9c9598c0c1b63e5624987254d79ea8ef' id='gform_gravityforms_theme-js'></script>
       <script>window.addEventListener('DOMContentLoaded', function() {
          gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 31) {if(typeof Placeholders != 'undefined'){
                                  Placeholders.enable();
@@ -1367,7 +1367,7 @@
          if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
          images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
          if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)
-      </script><script data-no-minify="1" async src="https://bluebotics.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script>window.addEventListener('DOMContentLoaded', function() {!function(name,definition){if(typeof module!='undefined'&&module.exports)module.exports=definition()
+      </script><script data-no-minify="1" async src="https://dwidajayatama.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script>window.addEventListener('DOMContentLoaded', function() {!function(name,definition){if(typeof module!='undefined'&&module.exports)module.exports=definition()
          else if(typeof define=='function'&&define.amd)define(name,definition)
          else this[name]=definition()}('bowser',function(){var t=true
          function detect(ua){function getFirstMatch(regex){var match=ua.match(regex);return(match&&match.length>1&&match[1])||'';}

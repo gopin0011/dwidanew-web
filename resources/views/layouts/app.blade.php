@@ -8,47 +8,47 @@
          var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}});
       </script>
       <link rel="profile" href="https://gmpg.org/xfn/11" />
-      <link rel="alternate" hreflang="en" href="https://bluebotics.com" />
-      <link rel="alternate" hreflang="de" href="https://bluebotics.com/de/" />
-      <link rel="alternate" hreflang="fr" href="https://bluebotics.com/fr/" />
-      <link rel="alternate" hreflang="it" href="https://bluebotics.com/it/" />
-      <link rel="alternate" hreflang="cn" href="https://bluebotics.com/zh-hans/" />
-      <link rel="alternate" hreflang="x-default" href="https://bluebotics.com" />
+      <link rel="alternate" hreflang="en" href="https://dwidajayatama.com" />
+      <link rel="alternate" hreflang="de" href="https://dwidajayatama.com/de/" />
+      <link rel="alternate" hreflang="fr" href="https://dwidajayatama.com/fr/" />
+      <link rel="alternate" hreflang="it" href="https://dwidajayatama.com/it/" />
+      <link rel="alternate" hreflang="cn" href="https://dwidajayatama.com/zh-hans/" />
+      <link rel="alternate" hreflang="x-default" href="https://dwidajayatama.com" />
       <!-- Search Engine Optimization by Rank Math - https://s.rankmath.com/home -->
-      <title>Dwida Jaya Tama - One Stop Education Solution</title>
+      <title>Dwida Jaya Tama - Dwida Manufacture</title>
       <meta name="description" content="At BlueBotics we provide the autonomous navigation technology and expert support companies need to bring their AGV, automated forklift or mobile robot successfully to market."/>
       <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
-      <link rel="canonical" href="https://bluebotics.com/" />
+      <link rel="canonical" href="https://dwidajayatama.com/" />
       <meta property="og:locale" content="en_US" />
       <meta property="og:type" content="website" />
-      <meta property="og:title" content="Dwida Jaya Tama - One Stop Education Solution" />
+      <meta property="og:title" content="Dwida Jaya Tama - Dwida Manufacture" />
       <meta property="og:description" content="At BlueBotics we provide the autonomous navigation technology and expert support companies need to bring their AGV, automated forklift or mobile robot successfully to market." />
-      <meta property="og:url" content="https://bluebotics.com/" />
-      <meta property="og:site_name" content="BlueBotics" />
+      <meta property="og:url" content="https://dwidajayatama.com/" />
+      <meta property="og:site_name" content="DJT" />
       <meta property="og:updated_time" content="2023-02-27T22:31:35+01:00" />
-      <meta property="og:image" content="https://bluebotics.com/wp-content/uploads/2021/01/BlueBotics-Thumbnail-MainImage.jpg" />
-      <meta property="og:image:secure_url" content="https://bluebotics.com/wp-content/uploads/2021/01/BlueBotics-Thumbnail-MainImage.jpg" />
+      <meta property="og:image" content="https://dwidajayatama.com/wp-content/uploads/2021/01/BlueBotics-Thumbnail-MainImage.jpg" />
+      <meta property="og:image:secure_url" content="https://dwidajayatama.com/wp-content/uploads/2021/01/BlueBotics-Thumbnail-MainImage.jpg" />
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="630" />
-      <meta property="og:image:alt" content="BlueBotics" />
+      <meta property="og:image:alt" content="DJT" />
       <meta property="og:image:type" content="image/jpeg" />
       <meta property="article:published_time" content="2019-04-29T20:55:38+02:00" />
       <meta property="article:modified_time" content="2023-02-27T22:31:35+01:00" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:title" content="Dwida Jaya Tama - One Stop Education Solution" />
+      <meta name="twitter:title" content="Dwida Jaya Tama - Dwida Manufacture" />
       <meta name="twitter:description" content="At BlueBotics we provide the autonomous navigation technology and expert support companies need to bring their AGV, automated forklift or mobile robot successfully to market." />
-      <meta name="twitter:image" content="https://bluebotics.com/wp-content/uploads/2021/01/BlueBotics-Thumbnail-MainImage.jpg" />
+      <meta name="twitter:image" content="https://dwidajayatama.com/wp-content/uploads/2021/01/BlueBotics-Thumbnail-MainImage.jpg" />
       <meta name="twitter:label1" content="Written by" />
       <meta name="twitter:data1" content="Matt Wade" />
       <meta name="twitter:label2" content="Time to read" />
       <meta name="twitter:data2" content="3 minutes" />
-      <!-- <script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://bluebotics.com/#organization","name":"Bluebotics","url":"https://bluebotics.com"},{"@type":"WebSite","@id":"https://bluebotics.com/#website","url":"https://bluebotics.com","name":"Bluebotics","publisher":{"@id":"https://bluebotics.com/#organization"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://bluebotics.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"{{asset('images/equipment_blue.png')}}","url":"{{asset('images/equipment_blue.png')}}","width":"200","height":"200","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://bluebotics.com/#webpage","url":"https://bluebotics.com/","name":"Dwida Jaya Tama - One Stop Education Solution","datePublished":"2019-04-29T20:55:38+02:00","dateModified":"2023-02-27T22:31:35+01:00","about":{"@id":"https://bluebotics.com/#organization"},"isPartOf":{"@id":"https://bluebotics.com/#website"},"primaryImageOfPage":{"@id":"{{asset('images/equipment_blue.png')}}"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://bluebotics.com/author/mattwade/","name":"Matt Wade","url":"https://bluebotics.com/author/mattwade/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/9589f1ae152cce1c87534973fa4ccd98?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/9589f1ae152cce1c87534973fa4ccd98?s=96&amp;d=mm&amp;r=g","caption":"Matt Wade","inLanguage":"en-US"},"worksFor":{"@id":"https://bluebotics.com/#organization"}},{"@type":"Article","headline":"Dwida Jaya Tama - One Stop Education Solution","keywords":"autonomous navigation","datePublished":"2019-04-29T20:55:38+02:00","dateModified":"2023-02-27T22:31:35+01:00","author":{"@id":"https://bluebotics.com/author/mattwade/","name":"Matt Wade"},"publisher":{"@id":"https://bluebotics.com/#organization"},"description":"At BlueBotics we provide the autonomous navigation technology and expert support companies need to bring their AGV, automated forklift or mobile robot successfully to market.","name":"Dwida Jaya Tama - One Stop Education Solution","@id":"https://bluebotics.com/#richSnippet","isPartOf":{"@id":"https://bluebotics.com/#webpage"},"image":{"@id":"{{asset('images/equipment_blue.png')}}"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://bluebotics.com/#webpage"}}]}</script> -->
+      <!-- <script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://dwidajayatama.com/#organization","name":"DJT","url":"https://dwidajayatama.com"},{"@type":"WebSite","@id":"https://dwidajayatama.com/#website","url":"https://dwidajayatama.com","name":"DJT","publisher":{"@id":"https://dwidajayatama.com/#organization"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://dwidajayatama.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"{{asset('images/equipment_blue.png')}}","url":"{{asset('images/equipment_blue.png')}}","width":"200","height":"200","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://dwidajayatama.com/#webpage","url":"https://dwidajayatama.com/","name":"Dwida Jaya Tama - Dwida Manufacture","datePublished":"2019-04-29T20:55:38+02:00","dateModified":"2023-02-27T22:31:35+01:00","about":{"@id":"https://dwidajayatama.com/#organization"},"isPartOf":{"@id":"https://dwidajayatama.com/#website"},"primaryImageOfPage":{"@id":"{{asset('images/equipment_blue.png')}}"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://dwidajayatama.com/author/mattwade/","name":"Matt Wade","url":"https://dwidajayatama.com/author/mattwade/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/9589f1ae152cce1c87534973fa4ccd98?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/9589f1ae152cce1c87534973fa4ccd98?s=96&amp;d=mm&amp;r=g","caption":"Matt Wade","inLanguage":"en-US"},"worksFor":{"@id":"https://dwidajayatama.com/#organization"}},{"@type":"Article","headline":"Dwida Jaya Tama - Dwida Manufacture","keywords":"autonomous navigation","datePublished":"2019-04-29T20:55:38+02:00","dateModified":"2023-02-27T22:31:35+01:00","author":{"@id":"https://dwidajayatama.com/author/mattwade/","name":"Matt Wade"},"publisher":{"@id":"https://dwidajayatama.com/#organization"},"description":"At BlueBotics we provide the autonomous navigation technology and expert support companies need to bring their AGV, automated forklift or mobile robot successfully to market.","name":"Dwida Jaya Tama - Dwida Manufacture","@id":"https://dwidajayatama.com/#richSnippet","isPartOf":{"@id":"https://dwidajayatama.com/#webpage"},"image":{"@id":"{{asset('images/equipment_blue.png')}}"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://dwidajayatama.com/#webpage"}}]}</script> -->
       <!-- /Rank Math WordPress SEO plugin -->
-      <link rel="alternate" type="application/rss+xml" title="BlueBotics &raquo; Feed" href="https://bluebotics.com/feed/" />
-      <link rel="alternate" type="application/rss+xml" title="BlueBotics &raquo; Comments Feed" href="https://bluebotics.com/comments/feed/" />
-      <link rel="preload" href="https://bluebotics.com/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
-      <link rel="preload" href="https://bluebotics.com/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous">
-      <link rel="preload" href="https://bluebotics.com/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+      <link rel="alternate" type="application/rss+xml" title="BlueBotics &raquo; Feed" href="https://dwidajayatama.com/feed/" />
+      <link rel="alternate" type="application/rss+xml" title="BlueBotics &raquo; Comments Feed" href="https://dwidajayatama.com/comments/feed/" />
+      <link rel="preload" href="https://dwidajayatama.com/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+      <link rel="preload" href="https://dwidajayatama.com/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+      <link rel="preload" href="https://dwidajayatama.com/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
       <style>
          img.wp-smiley,
          img.emoji {
@@ -105,12 +105,12 @@
       <script id='cookie-law-info-js-extra'>
          var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"1","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
          var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#61a229","button_1_button_hover":"#4e8221","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#3566bb","button_3_button_hover":"#2a5296","button_3_link_colour":"#fff","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#333333","button_4_as_button":"","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#333333","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"This website uses cookies","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
-         // var log_object = {"ajax_url":"https:\/\/bluebotics.com\/wp-admin\/admin-ajax.php"};
+         // var log_object = {"ajax_url":"https:\/\/dwidajayatama.com\/wp-admin\/admin-ajax.php"};
          var log_object = {"ajax_url":""};
       </script>
       <script data-minify="1" src="{{asset('public/assets/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js?ver=1681229321')}}" id='cookie-law-info-js' defer></script>
       <script src="{{asset('public/assets/templates/language-switchers/legacy-dropdown/script.min.js?ver=1')}}" id='wpml-legacy-dropdown-0-js' defer></script>
-      <link rel='shortlink' href='https://bluebotics.com/' />
+      <link rel='shortlink' href='https://dwidajayatama.com/' />
       
       @yield('css')
       <style>
