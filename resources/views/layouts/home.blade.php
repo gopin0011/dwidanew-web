@@ -508,7 +508,7 @@
                                           </div>
                                        </h1>
                                        <div class="Prose">
-                                          <p>For decades, we have implemented a series of steps in quality control and strict processes during manufacturing production, so in other words, we ensure that the products we produce meet the highest quality and safety standards.</p>
+                                          <p>For decades, we have implemented rigorous quality control measures, including full process controls during production, so in other words, we want to ensure that the products we make meet the highest quality and safety standards.</p>
                                           <!-- <p><a class="Button Button--arrow" href="/en/products/shower/wellbox/">DISCOVER WELLBOX</a></p> -->
                                        </div>
                                     </div>
