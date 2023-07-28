@@ -206,6 +206,8 @@ nav ul li a:hover {
 
          </style>
       <link href="{{ asset('public/css/footer.css') }}" rel="stylesheet">
+      <link href="{{ asset('public/css/language.css') }}" rel="stylesheet">
+
       <meta name="google-site-verification" content="r9X5Ibonx4yAmjtW_se3fFmkubCREcA7sVpkJPDSPxo" />
    </head>
    <body class="home page-template-default page page-id-22 fl-builder fl-theme-builder-header fl-theme-builder-header-home-header fl-theme-builder-footer fl-theme-builder-footer-footer fl-framework-base fl-preset-default fl-full-width fl-search-active" itemscope="itemscope" itemtype="https://schema.org/WebPage">

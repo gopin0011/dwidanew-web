@@ -9,10 +9,20 @@ use Illuminate\Routing\Controller as BaseController;
 use Symfony\Component\HttpClient\HttpClient;
 use Symfony\Component\DomCrawler\Crawler;
 use Goutte\Client;
+use Illuminate\Http\Request;
 
 class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
+
+    public function someMethod(Request $request)
+    {
+        // Mendapatkan nilai preferensi bahasa dari sesi atau permintaan (misalnya: 'en', 'in', 'es', dll.)
+        $preferredLanguage = $request->session()->get('activeLang', 'en'); // Default to English if not set
+    
+        // Mengatur bahasa aplikasi berdasarkan preferensi pengguna
+        app()->setLocale($preferredLanguage);
+    }
 
     public function scrap()
     {

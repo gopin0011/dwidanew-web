@@ -27,5 +27,6 @@ mix.js('resources/js/app.js', 'public/js')
     .sass('resources/sass/base-min.scss', 'public/css')
     .sass('resources/sass/skin.scss', 'public/css')
     .sass('resources/sass/22-layout.scss', 'public/css')
-    .sass('resources/sass/home.scss', 'public/css');
+    .sass('resources/sass/home.scss', 'public/css')
+    .sass('resources/sass/language.scss', 'public/css');
     

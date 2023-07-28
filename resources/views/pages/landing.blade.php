@@ -427,17 +427,15 @@ section.faq {
 
 @section('contents')
 
+
 <div class="uabb-js-breakpoint" style="display: none;"></div>
 <div class="uabb-js-breakpoint" style="display: none;"></div>
 
 <div class="container-fluid">
     <div class="col-md-10 col-md-offset-1">
         <div class="col-md-6">
-            <h3 style="color: #000; margin-bottom: 35px;font-family: 'BlissBucket';">OUR <br>COMPANY</h3>
-        <p style="font-size: 15.06px;">Dwida Manufacture is a manufacturing company based in Bogor, Indonesia, established in 2006. We began our journey as a distributor of educational teaching aids, and have since expanded our business to include the production of our own products. In 2018, we ventured into the custom furniture industry, and now specialize in working with wood, metal, and plastic materials.</p>
-        <p style="font-size: 15.06px;">At Dwida Manufacture, we are committed to delivering high-quality products that meet international standards. Our dedication to quality is reflected in our certifications, which include ISO 9001, 14001, 45001, 27001, Indonesian Standards National, and Indonesian Timber Legality Verification.</p>
-        <p style="font-size: 15.06px;">Our state-of-the-art facilities feature updated and high-tech machines, allowing us to produce consistent, well-planned, and high-quality products. We take pride in our highly adaptive, competent, and skilled human resources, who undergo careful and professional training to ensure that they are equipped with the necessary skills to meet our clients' needs.</p>
-        <p style="font-size: 15.06px;">Our vision is to become a strong and sustainable international manufacturing company, and we are committed to achieving this by providing our clients with exceptional products and services. Whether you require custom furniture or other specialized products, we have the expertise and resources to meet your needs.</p>
+            <h3 style="color: #000; margin-bottom: 35px;font-family: 'BlissBucket';">{!! __('messages.landing.our_company.header') !!}</h3>
+            {!! __('messages.landing.our_company.content') !!}
         </div>
         <div class="col-md-6">
         <div class="image-wrapper">
@@ -512,18 +510,18 @@ section.faq {
         <li class="head">
           <input type="checkbox" checked>
           <i></i>
-          <h3>Vision</h3>
+          <h3>{{ __('messages.landing.vision.header') }}</h3>
           <div class="content-wrapper" style="display: none;">
-          <div class="col-md-6 col-sm-12"><p>We want to be the best company in Indonesia for manufacturing that has strong and sustainable international quality.</p></div>
+          <div class="col-md-6 col-sm-12"><p>{{ __('messages.landing.vision.content') }}</p></div>
           <div class="col-md-6 col-sm-12"><img src="{{asset('public/images/02_.jpg')}}"></div>
           </div>
         </li>
         <li class="head">
           <input type="checkbox" checked>
           <i></i>
-          <h3>Mission</h3>
+          <h3>{{ __('messages.landing.mission.header') }}</h3>
           <div class="content-wrapper" style="display: none;">
-          <div class="col-md-6 col-sm-12"><p>We have implemented a standard management system in every operation, including in every work process line since our company's established. In addition, we also apply current technological developments and innovations to answer the challenges of the times. Not to forget, we also always develop competent and skilled Human Resources (HR).</p></div>
+          <div class="col-md-6 col-sm-12"><p>{{ __('messages.landing.mission.content') }}</p></div>
           <div class="col-md-6 col-sm-12"><img src="{{asset('public/images/04_.jpg')}}"></div>
           </div>
         </li>
@@ -534,11 +532,11 @@ section.faq {
 
 <div class="container-fluid" style="margin-top: 75px;">
     <div class="col-md-10 col-md-offset-1">
-        <h3 style="color: #000;font-family: 'BlissBucket';">OUR WORKS</h3>
+        <h3 style="color: #000;font-family: 'BlissBucket';">{{ __('messages.landing.our_works.header') }}</h3>
         
         <div class="row" style="margin-top: 30px;">
           <div class="col-md-4 col-sm-12 our-work" id="column1a">
-            <h3 class="container-fluid" style="color: #000; font-family: 'BlissBucket';">FURNITURE AND <br>INTERIOR</h3>
+            <h3 class="container-fluid" style="color: #000; font-family: 'BlissBucket';">{!! __('messages.landing.our_works.furniture.home') !!}</h3>
           </div>
           <div class="col-md-8 col-sm-12" id="column2a">
             <div class="show-bg-2">
@@ -552,7 +550,7 @@ section.faq {
         
         <div class="row" style="margin-top: 30px;">
           <div class="col-md-4 col-sm-12 our-work" id="column1b">
-            <h3 class="container-fluid" style="color: #000; font-family: 'BlissBucket';">EQUIPMENT</h3>
+            <h3 class="container-fluid" style="color: #000; font-family: 'BlissBucket';">{!!__('messages.landing.our_works.equipment.home')!!}</h3>
           </div>
           <div class="col-md-8 col-sm-12" id="column2b">
             <div class="show-bg-2">

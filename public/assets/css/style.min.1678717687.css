@@ -14594,7 +14594,7 @@ html:not(.is-mobile) a:hover .SearchResultsContents-title span {
   width: 100%;
   top: 0;
   left: 0;
-  z-index: 1040;
+  z-index: 5;
 }
 .SiteHeader-bar:before,
 .SiteHeader-submenu-container:before {

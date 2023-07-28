@@ -1,0 +1,13 @@
+ul.language-switcher {
+    padding: 0;
+    margin: 5px 0;
+}
+
+ul.language-switcher li {
+    display:inline;
+}
+
+
+ul.language-switcher img {
+    width: 40px;
+}

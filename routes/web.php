@@ -14,12 +14,16 @@ use Illuminate\Http\Request;
 |
 */
 
-define('furniture', 'FURNITURE AND INTERIOR');
-define('equipment', 'EQUIPMENTS');
+define('furniture', trans('messages.landing.our_works.furniture.home')); 
+define('equipment', trans('messages.landing.our_works.equipment.home'));
 
-Route::get('/', function () {
-    return view('layouts.home');
-})->name('app.home');
+// $langprefix = "/";
+// // dd(activelang());
+// if (activelang() == "EN") {
+//     $langprefix = "/en/";
+// }
+
+Route::get('/', [\App\Http\Controllers\HomeController::class, 'index'])->name('app.home');
 
 Route::get('/home-old', function () {
     return view('pages.home');
@@ -51,8 +55,9 @@ Route::get('brand/{catId?}', function (Request $request, $catId = 1) {
 
 Route::get('our-works/{type?}/{brand?}', function (Request $request, $type = 1, $brand = 1) {
     $brands = [];
-    $type_char = furniture;
-    $desc = "Since the last few years, we have been committed to specializing in various works and furniture products, including design, development, and installation, both for commercial and residential spaces, as well as various mass-produced furniture for today's various industries such as hospitality, education , and health care.";
+    $type_char = trans('messages.landing.our_works.furniture.home');
+    
+    $desc = trans('messages.landing.our_works.furniture.desc'); //"Since the last few years, we have been committed to specializing in various works and furniture products, including design, development, and installation, both for commercial and residential spaces, as well as various mass-produced furniture for today's various industries such as hospitality, education , and health care.";
     $srcImage = asset('public/images/furniture.jpg');
 
     if($type == 1) {
@@ -60,8 +65,8 @@ Route::get('our-works/{type?}/{brand?}', function (Request $request, $type = 1, 
     }
     else {
         $brands = \App\Models\Category::where('is_equipment', 1)->orderBy('sort', 'asc')->get();
-        $type_char = equipment;
-        $desc = "Since 2006 we have been close with metal and plastic materials, which has allowed us to be creative in making various kinds of products, including accessories for automotive, household, medical devices, as well as educational aids, and special mass-produced machines for various industries.";
+        $type_char = trans('messages.landing.our_works.equipment.home');
+        $desc = trans('messages.landing.our_works.equipment.desc'); //"Since 2006 we have been close with metal and plastic materials, which has allowed us to be creative in making various kinds of products, including accessories for automotive, household, medical devices, as well as educational aids, and special mass-produced machines for various industries.";
         $srcImage = asset('public/images/equipment.jpg');
     }
 
