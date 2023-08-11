@@ -1,5 +1,5 @@
 <p style="margin: 20px 0 0 0;">
-<b>LANGUAGES</b>
+<b>{{ __('messages.footer.languages') }}</b>
 </p>
 
 <ul class="language-switcher">

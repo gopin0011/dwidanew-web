@@ -97,5 +97,12 @@ return [
     'projects' => [
         'header' => 'Projek',
         'desc' => 'Sejak beberapa tahun terakhir, kami berkomitmen untuk mengambil spesialisasi dalam berbagai pekerjaan dan produk furnitur, termasuk di dalamnya desain, pengembangan, dan pemasangan, baik untuk ruang komersial dan residensial, serta bermacam furnitur yang diproduksi secara massal untuk berbagai industri masa kini seperti perhotelan, pendidikan, dan perawatan kesehatan.',
+    ],
+    'footer' => [
+        'find_us' => 'TEMUKAN KAMI',
+        'email_us' => 'EMAIL KAMI',
+        'contact_us' => 'HUBUNGI KAMI',
+        'part_of' => 'BAGIAN DARI',
+        'languages' => 'BAHASA',
     ]
 ];

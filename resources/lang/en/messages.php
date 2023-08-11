@@ -97,6 +97,12 @@ return [
     'projects' => [
         'header' => 'Projects',
         'desc' => 'Since the last few years, we have been committed to specializing in various works and furniture products, including design, development, and installation, both for commercial and residential spaces, as well as various mass-produced furniture for today\'s various industries such as hospitality, education , and health care.',
+    ],
+    'footer' => [
+        'find_us' => 'FIND US',
+        'email_us' => 'EMAIL US',
+        'contact_us' => 'CONTACT US',
+        'part_of' => 'PART OF',
+        'languages' => 'LANGUAGES',
     ]
-
 ];
