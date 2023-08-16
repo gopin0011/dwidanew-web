@@ -1402,6 +1402,24 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
                     <div class="portfolio-warp">
                         <div class="portfolio-img">
+                            <a href="{{asset('public/images/factory/fac_19.jpg')}}" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
+                                <img src="{{asset('public/images/factory/fac_19.jpg')}}" alt="">
+                            </a>  
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="portfolio-warp">
+                        <div class="portfolio-img">
+                            <a href="{{asset('public/images/factory/fac_20.jpg')}}" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
+                                <img src="{{asset('public/images/factory/fac_20.jpg')}}" alt="">
+                            </a>  
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="portfolio-warp">
+                        <div class="portfolio-img">
                             <a href="{{asset('public/images/factory/fac_17.jpg')}}" class="lightbox-cats" data-effect="mfp-zoom-in" title="">
                                 <img src="{{asset('public/images/factory/fac_17.jpg')}}" alt="">
                             </a>  
