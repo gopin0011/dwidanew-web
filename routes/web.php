@@ -14,8 +14,8 @@ use Illuminate\Http\Request;
 |
 */
 
-define('furniture', trans('messages.landing.our_works.furniture.home')); 
-define('equipment', trans('messages.landing.our_works.equipment.home'));
+// define('furniture', trans('messages.landing.our_works.furniture.home')); 
+// define('equipment', trans('messages.landing.our_works.equipment.home'));
 
 // $langprefix = "/";
 // // dd(activelang());
